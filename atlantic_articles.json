@@ -1,5 +1,21 @@
 [
   {
+    "title": "A Perfect Show That Doesn’t Make Sense",
+    "url": "https://www.theatlantic.com/newsletters/2026/05/perfect-show-george-will-soundcloud/687275/",
+    "description": "Culture and entertainment recommendations includingOne Piece, writing by George Will, and more",
+    "author": "Michael Scherer",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/RoPcRIHmBbHozuUdsUinocodM2s=/450x0:3150x1800/210x140/media/newsletters/2026/05/2RF8X4Y/original.jpg"
+  },
+  {
+    "title": "The Unfilmable Author Everyone Should Read This Summer",
+    "url": "https://www.theatlantic.com/ideas/2026/05/author-terry-pratchett-film/687253/",
+    "description": "Terry Pratchett, one of the funniest English writers, is in danger of being lost to history.",
+    "author": "Helen Lewis",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/CwHgd-jFzeIkph-poYFUA1odYN4=/315x0:3690x2250/210x140/media/img/mt/2026/05/2026_05_24_The_Unfilmable_Author_Everyone_Should_Read_This_Summer_Helen_Lewis/original.jpg"
+  },
+  {
     "title": "AI-Writing Scandals Are Getting Very Confusing",
     "url": "https://www.theatlantic.com/technology/2026/05/ai-writing-scandal-future-of-truth-book/687290/",
     "description": "What counts as an acceptable use of AI has never been fuzzier.",
@@ -142,21 +158,5 @@
     "author": "Shirley Li",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/JxCrPA2WGr-weDqrd2oyzJkO8o0=/155x0:1842x1125/210x140/media/img/mt/2026/05/2025_5_19_The_Sheep_Detectives/original.jpg"
-  },
-  {
-    "title": "The Surprising Lesson of theGrantaControversy",
-    "url": "https://www.theatlantic.com/newsletters/2026/05/books-briefing-surprising-lesson-granta-controversy-ai/687277/",
-    "description": "Literary organizations might need to get more familiar with AI if they want to protect against its encroachment.",
-    "author": "Boris Kachka",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Pgvk-4lwRlDUoCjEhU4jIrg4wAY=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_22_books_briefing_granta_and_AI/original.jpg"
-  },
-  {
-    "title": "How Dropout Cracked Internet Comedy",
-    "url": "https://www.theatlantic.com/podcasts/2026/05/how-dropout-cracked-internet-comedy/687264/",
-    "description": "Sam Reich on building “better internet” and not “worse Netflix”",
-    "author": "Charlie Warzel",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/HUrWsqjBOY3ZEDQo6qWNUYlfGoE=/155x0:1842x1125/210x140/media/img/mt/2026/05/GB_Ollie_260522/original.jpg"
   }
 ]
