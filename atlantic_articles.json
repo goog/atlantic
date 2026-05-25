@@ -1,5 +1,21 @@
 [
   {
+    "title": "Pope Leo’s Unsettling Vision of the AI Future",
+    "url": "https://www.theatlantic.com/ideas/2026/05/pope-leo-ai-encyclical-magnifica-humanitas/687294/",
+    "description": "His new encyclical,Magnifica Humanitas, seeks to counterbalance alarm with hope but lands firmly on one side.",
+    "author": "Francis X. Rocca",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/N2ijqciT36T4ZEdbM-9FLgxA9-U=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_21_Pope_Leo_AI/original.jpg"
+  },
+  {
+    "title": "The Burden They Carry",
+    "url": "https://www.theatlantic.com/books/2026/05/poem-william-mcraven-the-burden-they-carry/687224/",
+    "description": "",
+    "author": "William H. McRaven",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/oiBm3fjB8tyIgm_4OxSP3A86_VA=/160x0:3535x2250/210x140/media/img/mt/2026/05/2026_05_19_Poem_The_Burden_They_Carry_Admiral_William_McRaven/original.jpg"
+  },
+  {
     "title": "The U.S. Brain Surgeon Volunteering at Ukraine’s Most Frantic Hospital",
     "url": "https://www.theatlantic.com/international/2026/05/ukraine-russia-war-hospital-surgery/687274/",
     "description": "Rocco Armonda is treating far more brutal injuries than he did in Iraq.",
@@ -16,7 +32,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/MzwSfpndSjKaXH6zXnVIfFv2SdA=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_5_22_The_Magician_of_the_Kremlin/original.jpg"
   },
   {
-    "title": "I Now Believe Our National Debt Is a Problem",
+    "title": "Our National Debt Is a Problem",
     "url": "https://www.theatlantic.com/ideas/2026/05/national-debt-problem/687257/",
     "description": "If you’re not worried about this country’s fiscal outlook, you’re not paying attention.",
     "author": "Jared Bernstein",
@@ -142,21 +158,5 @@
     "author": "Tyler Austin Harper",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/6nw1of2_xgHmDHypKTFOuoG8XZg=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_5_22_MillerLite/original.gif"
-  },
-  {
-    "title": "The Absurd Misunderstanding Fueling the Debate OverThe Odyssey",
-    "url": "https://www.theatlantic.com/ideas/2026/05/the-odyssey-musk-nolan-nyongo/687288/",
-    "description": "Elon Musk’s outrage at Christopher Nolan says more about today’s myopic notion of identity than it does about classical antiquity.",
-    "author": "Thomas Chatterton Williams",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/yEOFp3pIgLMvGNrILfGsJF0hCGw=/155x0:1842x1125/210x140/media/img/mt/2026/05/Casting/original.png"
-  },
-  {
-    "title": "There’s Never Been a Better Time to Study Computer Science",
-    "url": "https://www.theatlantic.com/technology/2026/05/computer-science-major-coding-ai/687279/",
-    "description": "Even as AI progresses, coders aren’t doomed.",
-    "author": "Lila Shroff",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/VI5mB1Wr-MQyew5qkatHuV420PM=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_18_Shroff_Computer_science_final/original.png"
   }
 ]
