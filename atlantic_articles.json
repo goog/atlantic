@@ -1,5 +1,37 @@
 [
   {
+    "title": "The U.S. Brain Surgeon Volunteering at Ukraine’s Most Frantic Hospital",
+    "url": "https://www.theatlantic.com/international/2026/05/ukraine-russia-war-hospital-surgery/687274/",
+    "description": "Rocco Armonda is treating far more brutal injuries than he did in Iraq.",
+    "author": "Martha Raddatz",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/kbqYVOkBH0w-YZ3tzU5PKhbkqJE=/227x0:2657x1620/210x140/media/img/mt/2026/05/2026_05_20_raddatz_excerpt_horizontal/original.jpg"
+  },
+  {
+    "title": "The Magician of the Kremlin",
+    "url": "https://www.theatlantic.com/international/2026/05/russia-putin-kirill-dmitriev/687283/",
+    "description": "Kirill Dmitriev will do anything to stay close to power.",
+    "author": "Robert F. Worth",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/MzwSfpndSjKaXH6zXnVIfFv2SdA=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_5_22_The_Magician_of_the_Kremlin/original.jpg"
+  },
+  {
+    "title": "I Now Believe Our National Debt Is a Problem",
+    "url": "https://www.theatlantic.com/ideas/2026/05/national-debt-problem/687257/",
+    "description": "If you’re not worried about this country’s fiscal outlook, you’re not paying attention.",
+    "author": "Jared Bernstein",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/MyzmoNgS5SPD7CHRvsk6lzg7lRs=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_20_Bernstein_fiscal_responsibility_final/original.png"
+  },
+  {
+    "title": "What Happened to Rudy Giuliani?",
+    "url": "https://www.theatlantic.com/ideas/2026/05/rudy-giuliani-trump-new-york/687204/",
+    "description": "No man should be judged entirely on their last act.",
+    "author": "John Avlon",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/cieAShfDzTWlaWpa1jtShjur87o=/315x0:3690x2250/210x140/media/img/mt/2026/05/2026_05_24_The_Operatic_Arc_of_Rudy_Giuliani/original.jpg"
+  },
+  {
     "title": "Trump’s War Is Staggering to an Incoherent Defeat",
     "url": "https://www.theatlantic.com/ideas/2026/05/trump-iran-war/687292/",
     "description": "Even the president’s supporters are alarmed.",
@@ -126,37 +158,5 @@
     "author": "Lila Shroff",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/VI5mB1Wr-MQyew5qkatHuV420PM=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_18_Shroff_Computer_science_final/original.png"
-  },
-  {
-    "title": "Barney Frank Was Like No One Else",
-    "url": "https://www.theatlantic.com/ideas/2026/05/barney-frank-obituary-democrats/687285/",
-    "description": "He was the smartest man in the room, a rare attribute for a member of modern-day Congress.",
-    "author": "Robert G. Kaiser",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/FHcbBf8nkeiGoL7v-DGnatRBGPo=/129x0:3506x2251/210x140/media/img/mt/2026/05/2026_05_23_Barney_Frank/original.jpg"
-  },
-  {
-    "title": "College Should Be Way More Fun",
-    "url": "https://www.theatlantic.com/ideas/2026/05/college-should-be-way-more-fun/687272/",
-    "description": "I’m not talking about keg stands. I’m talking about the joyous mysteries of intellectual life.",
-    "author": "Michael A. Elliott",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/jSPavPWB9dW_mfq8DN9ZPY63HZk=/155x0:1842x1125/210x140/media/img/mt/2026/05/rd3_j_FInal-1/original.png"
-  },
-  {
-    "title": "Why College Students Are Booing AI",
-    "url": "https://www.theatlantic.com/ideas/2026/05/ai-graduation-speeches-booing/687266/",
-    "description": "",
-    "author": "Ian Bogost",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/8AcxJnFr2qTgEUAxj3n5L-IYQ2k=/41x0:1119x719/210x140/media/img/mt/2026/05/CollegeBoos2/original.gif"
-  },
-  {
-    "title": "Why Would Europeans Believe Trump Now?",
-    "url": "https://www.theatlantic.com/national-security/2026/05/europe-nato-troops-germany-poland-trump/687284/",
-    "description": "The administration keeps changing its mind on troop deployments.",
-    "author": "Nancy A. Youssef,Isaac Stanley-Becker,andSimon Shuster",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/KIQF_Danl5-gfL3vzEdoIJuVn18=/465x0:3840x2250/210x140/media/img/mt/2026/05/2026_05_23_Europe_Did_What_Trump_Wanted_on_Defense_and_Is_Now_Paying_the_Price_of_U.S._Withdrawal_Anyway_1/original.jpg"
   }
 ]
