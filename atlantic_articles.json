@@ -1,5 +1,53 @@
 [
   {
+    "title": "Welcome to the Injection Age",
+    "url": "https://www.theatlantic.com/health/2026/05/injection-age/687293/",
+    "description": "Americans’ enthusiasm for sticking themselves with needles has never been higher.",
+    "author": "Daniel Engber",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/_X_EBg1ZewZSnDeNuExHHnr7lBs=/227x0:2657x1620/210x140/media/img/mt/2026/05/2026_05_21_Injectables/original.jpg"
+  },
+  {
+    "title": "The Phrase I Texted My Kids 133 Times",
+    "url": "https://www.theatlantic.com/family/2026/05/text-message-children-archive/687235/",
+    "description": "And all the things it didn’t say",
+    "author": "Russell Shaw",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/1GEXF-Nb6onoGo3r62_9qIK-7qM=/21x371:1123x1106/210x140/media/img/mt/2026/05/2026_05_Shaw_TextMessageArchive-2/original.jpg"
+  },
+  {
+    "title": "Where Are America’s Ambassadors?",
+    "url": "https://www.theatlantic.com/ideas/2026/05/american-ambassadors-trump-vacancies/687286/",
+    "description": "Around the world, more than 100 of the country’s ambassadorships are unfilled—a sign of the Trump administration’s opinions about the value of diplomacy.",
+    "author": "Tom Nichols",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/BlgnYWIkAKsyN32lrgTATTgQ2wM=/309x0:3615x2204/210x140/media/img/mt/2026/05/2026_05_25_Trumps_Ambassadors_Problem_Runs_Deep_Tom_Nichols/original.jpg"
+  },
+  {
+    "title": "The Great Depopulation",
+    "url": "https://www.theatlantic.com/ideas/2026/05/global-birthrate-decline/687297/",
+    "description": "Why is the birth rate declining in every country on Earth?",
+    "author": "Derek Thompson",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Si51elhG4msMn5Bqv8l1b2CI9Bw=/315x0:3690x2250/210x140/media/img/mt/2026/05/2026_Why_Is_the_Birthrate_Collapsing_Everywhere_At_Once_Derek_Thompson/original.jpg"
+  },
+  {
+    "title": "The Antitrust Theory of Everything",
+    "url": "https://www.theatlantic.com/ideas/2026/05/antitrust-theory-barry-lynn/687287/",
+    "description": "Democrats are in thrall to the idea that corporate consolidation is America’s biggest, and maybe only, problem.",
+    "author": "Jonathan Chait",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/feEdjshczNOQBO58Y4aGxxhxYxQ=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_18_Barry_Lynn/original.jpg"
+  },
+  {
+    "title": "The Night My Marriage Fell Apart",
+    "url": "https://www.theatlantic.com/family/2026/05/divorce-soccer-infidelity-chris-jones/687232/",
+    "description": "In the span of about 20 minutes, I lost my wife, my best friend, and my grip on life. Finding it again took a lot longer.",
+    "author": "Chris Jones",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/evUEa3ai95gek9M0mXEnD1GgIhY=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_15_the_night_my_marriage_fell_apart_h/original.jpg"
+  },
+  {
     "title": "The Olympics These Were Not",
     "url": "https://www.theatlantic.com/culture/2026/05/enhanced-games-sports-doping/687296/",
     "description": "Athletes at the Enhanced Games were bigger—but not exactly better.",
@@ -110,53 +158,5 @@
     "author": "Michael Scherer",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/RoPcRIHmBbHozuUdsUinocodM2s=/450x0:3150x1800/210x140/media/newsletters/2026/05/2RF8X4Y/original.jpg"
-  },
-  {
-    "title": "I Am Begging You to Read Terry Pratchett",
-    "url": "https://www.theatlantic.com/ideas/2026/05/author-terry-pratchett-film/687253/",
-    "description": "One of England’s funniest writers is in danger of being lost to history.",
-    "author": "Helen Lewis",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/CwHgd-jFzeIkph-poYFUA1odYN4=/315x0:3690x2250/210x140/media/img/mt/2026/05/2026_05_24_The_Unfilmable_Author_Everyone_Should_Read_This_Summer_Helen_Lewis/original.jpg"
-  },
-  {
-    "title": "AI-Writing Scandals Are Getting Very Confusing",
-    "url": "https://www.theatlantic.com/technology/2026/05/ai-writing-scandal-future-of-truth-book/687290/",
-    "description": "What counts as an acceptable use of AI has never been fuzzier.",
-    "author": "Will Oremus",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/AJRwRMdzkhBeQjvC6LnjEX5P-0M=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_22_writingAI_mpg/original.jpg"
-  },
-  {
-    "title": "Hegseth’s Leadership of the U.S. Military",
-    "url": "https://www.theatlantic.com/national/2026/05/hegseths-washington-week/687289/",
-    "description": "Panelists joined to discuss how the defense secretary may be reshaping the Pentagon, and more.",
-    "author": "The Editors",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/932HqyEmDlMSaRJQcpshc8kjC30=/166x0:2431x1510/210x140/media/img/mt/2026/05/Screenshot_2026_05_23_at_10.31.43AM/original.png"
-  },
-  {
-    "title": "Putin Can No Longer Hide His Catastrophe",
-    "url": "https://www.theatlantic.com/ideas/2026/05/putin-lost-control-russia/687269/",
-    "description": "The Russian dictator has lost control of the narrative.",
-    "author": "Phillips Payson O’Brien",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/9knQHYAGuZkYDELJ6LpZzuU6ukQ=/315x0:3690x2250/210x140/media/img/mt/2026/05/2026_05_24_When_Putin_Can_No_Longer_Protect_Moscow_Phillips_OBrien/original.jpg"
-  },
-  {
-    "title": "The Meanest Tradition in Entertainment",
-    "url": "https://www.theatlantic.com/culture/2026/05/comedy-roasts-kevin-hart/687268/",
-    "description": "Celebrity roasts have become crueler in their style of comedy, and almost unwatchable.",
-    "author": "Vikram Murthi",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/eZzQXBlF8Kjthtw_ecAtM14poPQ=/155x0:1842x1125/210x140/media/img/mt/2026/05/MeanRoasts/original.png"
-  },
-  {
-    "title": "Don’t Put Too Much Pressure on Your Summer Vacation",
-    "url": "https://www.theatlantic.com/newsletters/2026/05/summer-vacation-family-travel-pressure/687267/",
-    "description": "There is no single right way to enjoy a family trip—but there can be a lot of expectations.",
-    "author": "Rafaela Jinich",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/CVTnAO7JERqXRiwtKnkSoif9ioM=/322x215:7478x4986/210x140/media/img/mt/2026/05/GettyImages_1219764525-1/original.jpg"
   }
 ]
