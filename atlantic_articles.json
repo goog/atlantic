@@ -1,8 +1,16 @@
 [
   {
-    "title": "Welcome to the Injection Age",
+    "title": "The Advice I Hope You’ll Never Need",
+    "url": "https://www.theatlantic.com/ideas/2026/05/i-survived-two-school-shootings/687295/",
+    "description": "I survived two school shootings. This is what I learned.",
+    "author": "Zoe Weissman",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/rIEPZr2uljnMtn_g0VZzGIPCD_A=/227x0:2657x1620/210x140/media/img/mt/2026/05/2026_05_22_Gunviolence_horizontal2/original.jpg"
+  },
+  {
+    "title": "Americans Have Entered the Age of the Needle",
     "url": "https://www.theatlantic.com/health/2026/05/injection-age/687293/",
-    "description": "Americans’ enthusiasm for sticking themselves with needles has never been higher.",
+    "description": "Americans’ enthusiasm for injection has never been higher.",
     "author": "Daniel Engber",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/_X_EBg1ZewZSnDeNuExHHnr7lBs=/227x0:2657x1620/210x140/media/img/mt/2026/05/2026_05_21_Injectables/original.jpg"
@@ -16,9 +24,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/1GEXF-Nb6onoGo3r62_9qIK-7qM=/21x371:1123x1106/210x140/media/img/mt/2026/05/2026_05_Shaw_TextMessageArchive-2/original.jpg"
   },
   {
-    "title": "Where Are America’s Ambassadors?",
+    "title": "Trump’s Missing Ambassadors Are a Sign of a Deeper Problem",
     "url": "https://www.theatlantic.com/ideas/2026/05/american-ambassadors-trump-vacancies/687286/",
-    "description": "Around the world, more than 100 of the country’s ambassadorships are unfilled—a sign of the Trump administration’s opinions about the value of diplomacy.",
+    "description": "Around the world, more than 100 of the country’s ambassadorships are unfilled.",
     "author": "Tom Nichols",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/BlgnYWIkAKsyN32lrgTATTgQ2wM=/309x0:3615x2204/210x140/media/img/mt/2026/05/2026_05_25_Trumps_Ambassadors_Problem_Runs_Deep_Tom_Nichols/original.jpg"
@@ -32,7 +40,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/Si51elhG4msMn5Bqv8l1b2CI9Bw=/315x0:3690x2250/210x140/media/img/mt/2026/05/2026_Why_Is_the_Birthrate_Collapsing_Everywhere_At_Once_Derek_Thompson/original.jpg"
   },
   {
-    "title": "The Antitrust Theory of Everything",
+    "title": "A Sweeping Theory of Everything Is Revolutionizing the Democratic Party",
     "url": "https://www.theatlantic.com/ideas/2026/05/antitrust-theory-barry-lynn/687287/",
     "description": "Democrats are in thrall to the idea that corporate consolidation is America’s biggest, and maybe only, problem.",
     "author": "Jonathan Chait",
@@ -150,13 +158,5 @@
     "author": "Annie Lowrey",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/cSm8AzOWkNFD2K8hT9sbIhNtkZQ=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_22_money_mpg/original.jpg"
-  },
-  {
-    "title": "A Perfect Show That Doesn’t Make Sense",
-    "url": "https://www.theatlantic.com/newsletters/2026/05/perfect-show-george-will-soundcloud/687275/",
-    "description": "Culture and entertainment recommendations includingOne Piece, writing by George Will, and more",
-    "author": "Michael Scherer",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/RoPcRIHmBbHozuUdsUinocodM2s=/450x0:3150x1800/210x140/media/newsletters/2026/05/2RF8X4Y/original.jpg"
   }
 ]
