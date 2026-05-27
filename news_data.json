@@ -4,7 +4,7 @@
     "url": "https://www.newscientist.com/article/2527971-weird-and-wonderful-sea-pen-found-on-mystery-ridge/",
     "description": "An ongoing census of sea life in the South Atlantic has identified over 1000 new creatures, including a new species of sea pen",
     "author": "Michael Dalton",
-    "category": "News",
+    "category": "Life",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/05/26143422/SEI_298163827.jpg"
   },
   {
@@ -12,7 +12,7 @@
     "url": "https://www.newscientist.com/article/2527673-space-storms-could-switch-train-signals-and-cause-serious-accidents/",
     "description": "Critical safety equipment in many train systems is vulnerable to disruption by space weather, which could lead to fatal accidents",
     "author": "Michael Le Page",
-    "category": "News",
+    "category": "Space",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/05/26142228/SEI_299019751.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "url": "https://www.newscientist.com/article/2527886-earliest-use-of-anaesthetics-uncovered-in-chinese-doctors-tomb/",
     "description": "Residues on medical equipment reveal that physicians in China over 600 years ago used aconitine, a highly toxic plant chemical, to alleviate pain during surgical procedures",
     "author": "James Woodford",
-    "category": "News",
+    "category": "Humans",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/05/26111603/SEI_299002550.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "url": "https://www.newscientist.com/article/2527583-attack-on-irans-oil-released-as-much-pollution-as-a-volcano/",
     "description": "Airstrikes on Tehran earlier this year emitted a plume containing almost 30,000 tonnes of sulphur dioxide that reached Asian countries",
     "author": "Alec Luhn",
-    "category": "News",
+    "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/05/22115111/SEI_298351478.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://www.newscientist.com/article/2527768-mars-astronauts-may-do-laundry-by-blasting-clothes-with-a-plasma-beam/",
     "description": "There is currently no good way for astronauts in space to do laundry, but researchers may have finally come up with one: a bright purple jet of microbe-killing plasma",
     "author": "Leah Crane",
-    "category": "News",
+    "category": "Space",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/05/22191957/SEI_298492705.jpg"
   },
   {
@@ -44,7 +44,7 @@
     "url": "https://www.newscientist.com/article/2527597-mercury-may-have-gained-all-of-its-unexpected-water-in-a-single-day/",
     "description": "Despite being the closest planet to the sun, Mercury has thick deposits of ice at its poles, and now we may understand the events that formed them over just one Mercurian day",
     "author": "Leah Crane",
-    "category": "News",
+    "category": "Space",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/05/22135052/SEI_298452760.jpg"
   }
 ]
