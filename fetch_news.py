@@ -115,20 +115,18 @@ def fetch_article_details(url, page):
             if author_text and len(author_text) < 50:
                 author = clean_author(author_text)
 
-        # 获取分类
+        # 获取分类 — 导航栏高亮链接
+        # <a class="SubjectNavigation__ListItemLink SubjectNavigation__ListItemLink--Active" href="/subject/humans/">Humans</a>
         category = ''
-        category_elem = soup.find(['a', 'span'], class_=re.compile(r'category|section|tag', re.I))
-        if category_elem:
-            category = category_elem.get_text(strip=True)
-            if category == 'News':
-                category = ''
-
-        if not category:
-            category_meta = soup.find('meta', property='article:section')
-            if category_meta and category_meta.get('content'):
-                category = category_meta.get('content')
-                if category == 'News':
-                    category = ''
+        active_link = soup.find('a', class_='SubjectNavigation__ListItemLink--Active')
+        if active_link:
+            category = active_link.get_text(strip=True)
+        # fallback: 从 href="/subject/<slug>/" 提取
+        if not category and active_link:
+            href = active_link.get('href', '')
+            m = re.search(r'/subject/([^/]+)/', href)
+            if m:
+                category = m.group(1).replace('-', ' ').title()
 
         # 获取封面图片URL
         image_url = ''
