@@ -26,7 +26,9 @@ jobs:
           playwright install-deps chromium
 
       - name: Run crawler
-        run: python scrape_atlantic.py
+        run: |
+          python scrape_atlantic.py
+          python fetch_news.py
 
       - name: Commit files
         run: |
