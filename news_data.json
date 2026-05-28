@@ -1,5 +1,21 @@
 [
   {
+    "title": "Start-ups are racing to revolutionise mathematics with AI",
+    "url": "https://www.newscientist.com/article/2528160-start-ups-are-racing-to-revolutionise-mathematics-with-ai/",
+    "description": "AI start-ups with hundreds of millions of dollars in funding are hiring mathematicians and building AI systems that they hope will not only solve mathematics, but also build more intelligent AI",
+    "author": "Alex Wilkins",
+    "category": "Mathematics",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/27163853/SEI_299120930.jpg"
+  },
+  {
+    "title": "3D-printed lymph nodes could widen access to CAR T-cell therapy",
+    "url": "https://www.newscientist.com/article/2528140-3d-printed-lymph-nodes-could-widen-access-to-car-t-cell-therapy/",
+    "description": "The cost of CAR T-cell therapy means that the highly effective cancer treatment is unavailable in many parts of the world. But a new way of making these cells could dramatically drive down the cost",
+    "author": "Carissa Wong",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/27153610/SEI_297289456.jpg"
+  },
+  {
     "title": "Millions of planets might form around supermassive black holes",
     "url": "https://www.newscientist.com/article/2528091-millions-of-planets-might-form-around-supermassive-black-holes/",
     "description": "Massive amounts of dust swirl around active nuclei at the centres of galaxies, and these discs could give rise to vast numbers of rocky planets, some even the size of stars",
@@ -30,21 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "Physics",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/05/26123220/SEI_299000143.jpg"
-  },
-  {
-    "title": "We may finally know why gold stays so shiny",
-    "url": "https://www.newscientist.com/article/2527765-we-may-finally-know-why-gold-stays-so-shiny/",
-    "description": "Gold is chemically inert and so doesn't tarnish, but exactly why had been a mystery",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "Physics",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/26130051/SEI_298501441.jpg"
-  },
-  {
-    "title": "Weird and wonderful sea pen found on Mystery Ridge",
-    "url": "https://www.newscientist.com/article/2527971-weird-and-wonderful-sea-pen-found-on-mystery-ridge/",
-    "description": "An ongoing census of sea life in the South Atlantic has identified over 1000 new creatures, including a new species of sea pen",
-    "author": "Michael Dalton",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/26143422/SEI_298163827.jpg"
   }
 ]
