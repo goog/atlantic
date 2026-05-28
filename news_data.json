@@ -1,5 +1,13 @@
 [
   {
+    "title": "Millions of planets might form around supermassive black holes",
+    "url": "https://www.newscientist.com/article/2528091-millions-of-planets-might-form-around-supermassive-black-holes/",
+    "description": "Massive amounts of dust swirl around active nuclei at the centres of galaxies, and these discs could give rise to vast numbers of rocky planets, some even the size of stars",
+    "author": "Jonathan O’Callaghan",
+    "category": "Space",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/27134502/SEI_299114154.jpg"
+  },
+  {
     "title": "Wealthy people with environmental ideals are the biggest emitters",
     "url": "https://www.newscientist.com/article/2527775-wealthy-people-with-environmental-ideals-are-the-biggest-emitters/",
     "description": "Among people of high socioeconomic status, love for nature corresponds with a bigger environmental footprint – and there's an obvious reason why",
@@ -38,13 +46,5 @@
     "author": "Michael Dalton",
     "category": "Life",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/05/26143422/SEI_298163827.jpg"
-  },
-  {
-    "title": "Space storms could switch train signals and cause serious accidents",
-    "url": "https://www.newscientist.com/article/2527673-space-storms-could-switch-train-signals-and-cause-serious-accidents/",
-    "description": "Critical safety equipment in many train systems is vulnerable to disruption by space weather, which could lead to fatal accidents",
-    "author": "Michael Le Page",
-    "category": "Space",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/26142228/SEI_299019751.jpg"
   }
 ]
