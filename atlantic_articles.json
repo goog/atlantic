@@ -1,8 +1,32 @@
 [
   {
-    "title": "That’s No Way to Run a Railroad",
+    "title": "Words of War",
+    "url": "https://www.theatlantic.com/ideas/2026/05/words-war/687343/",
+    "description": "Four terms that are proving unhelpful in understanding the war with Iran",
+    "author": "Eliot A. Cohen",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/yziSDX5eldq3tGQg8waCE7WmSdQ=/227x0:2657x1620/210x140/media/img/mt/2026/05/2026_05_28_Words_of_War/original.jpg"
+  },
+  {
+    "title": "The TACO Equilibrium",
+    "url": "https://www.theatlantic.com/economy/2026/05/oil-prices-iran-trump/687344/",
+    "description": "Oil markets expect Donald Trump to end the Iran war imminently. That might be why he doesn’t.",
+    "author": "Rogé Karma",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/-RyKW96mH0csea8WRImJwZ4nXrI=/473x0:5536x3375/210x140/media/img/mt/2026/05/2026_05_24_TACO/original.jpg"
+  },
+  {
+    "title": "The King of Queens",
+    "url": "https://www.theatlantic.com/politics/2026/05/donald-trump-gay-icon/687332/",
+    "description": "President Trump loves “handsome” men, especially the muscular ones.",
+    "author": "Ashley Parker",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/43SSyY9XmCD-Bdc5psP66WjP5SA=/155x0:1842x1125/210x140/media/img/mt/2026/05/DonaldTrumpsGaySoul/original.png"
+  },
+  {
+    "title": "The Blue-State Delusion Over Unions",
     "url": "https://www.theatlantic.com/ideas/2026/05/public-sector-unions-lirr-strike/687337/",
-    "description": "Reformed collective-bargaining laws would bring what unions want into better alignment with the public interest.",
+    "description": "They don’t always work in the public interest.",
     "author": "Nicholas Bagley",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/15JiYtNUbPYmYn58RYlaORg2JdM=/208x0:1895x1125/210x140/media/img/mt/2026/05/2026_05_22_Thats_No_Way_to_Run_a_Railroad/original.jpg"
@@ -134,29 +158,5 @@
     "author": "Gal Beckerman",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/YhDZm6SVFh1wngm9it9nk_F0LQ0=/315x0:3690x2250/210x140/media/img/mt/2026/05/2026_05_27_The_Pope_May_Be_Our_Leading_Humanist_Gal_Beckerman/original.jpg"
-  },
-  {
-    "title": "Why Iran’s Leaders Think They’ve Won",
-    "url": "https://www.theatlantic.com/international/2026/05/why-irans-leaders-think-theyve-won/687325/",
-    "description": "An interim deal promises to meet a lot of Iranian demands, but it won’t solve the problems of peace.",
-    "author": "Arash Azizi",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/AAI4Wak60U7yEcIWXok5KcdZ91U=/316x0:3689x2249/210x140/media/img/mt/2026/05/2026_05_26_Iran_Deal/original.jpg"
-  },
-  {
-    "title": "Read These Books by the Time You Graduate",
-    "url": "https://www.theatlantic.com/books/2026/05/seven-books-graduate-young-adult-recommendations/687321/",
-    "description": "“Figuring things out” is a lifelong endeavor, but these titles offer inspiration for young adults finding their way.",
-    "author": "Anna Holmes",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/1e1o9-u4Rog1jbUy3fhK0-dsEeM=/227x0:2657x1620/210x140/media/img/mt/2026/05/2026_05_22_GraduationBooks/original.jpg"
-  },
-  {
-    "title": "The Gas-Tax Reckoning",
-    "url": "https://www.theatlantic.com/ideas/2026/05/gas-tax-reckoning/687299/",
-    "description": "Pausing it would be a lose-lose proposition.",
-    "author": "Henry Grabar",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/0c23qEGF_7135cXqJGuWp6yBRh4=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_22_the_gas_tax_reckoning/original.jpg"
   }
 ]

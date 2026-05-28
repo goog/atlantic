@@ -1,5 +1,13 @@
 [
   {
+    "title": "Mathematical AI helps researchers crack 50-year-old problem",
+    "url": "https://www.newscientist.com/article/2528290-mathematical-ai-helps-researchers-crack-50-year-old-problem/",
+    "description": "After an AI from OpenAI found a trick to solve an 80-year-old conjecture from Paul Erdős, mathematicians have borrowed the same technique to solve another important problem",
+    "author": "Alex Wilkins",
+    "category": "Mathematics",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/28142543/SEI_299236955.jpg"
+  },
+  {
     "title": "Start-ups are racing to revolutionise mathematics with AI",
     "url": "https://www.newscientist.com/article/2528160-start-ups-are-racing-to-revolutionise-mathematics-with-ai/",
     "description": "AI start-ups with hundreds of millions of dollars in funding are hiring mathematicians and building AI systems that they hope will not only solve mathematics, but also build more intelligent AI",
@@ -38,13 +46,5 @@
     "author": "Alex Wilkins",
     "category": "Space",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/05/27125546/SEI_299107874.jpg"
-  },
-  {
-    "title": "First quantum grandfather clock could probe where gravity comes from",
-    "url": "https://www.newscientist.com/article/2527807-first-quantum-grandfather-clock-could-probe-where-gravity-comes-from/",
-    "description": "Researchers have designed a quantum version of a pendulum clock. It could shed light on timekeeping in the quantum realm",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "Physics",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/26123220/SEI_299000143.jpg"
   }
 ]
