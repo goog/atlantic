@@ -1,5 +1,13 @@
 [
   {
+    "title": "Pancreatic cancer halted by virus injection in three patients",
+    "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+    "description": "A cancer-killing virus has stopped pancreatic tumours from growing and spreading in three people in an initial safety trial, raising hopes that it may help to beat the deadly condition",
+    "author": "Alice Klein",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/28111438/SEI_299218241.jpg"
+  },
+  {
     "title": "Glaciers in the 'roof of the world' have suddenly started melting",
     "url": "https://www.newscientist.com/article/2528327-glaciers-in-the-roof-of-the-world-have-suddenly-started-melting/",
     "description": "Until recently, the Pamir mountains in central Asia have bucked the global melting trend, but in 2025, the region’s glaciers experienced a massive loss of ice due to extreme heat",
@@ -38,13 +46,5 @@
     "author": "Jonathan O’Callaghan",
     "category": "Space",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/05/27134502/SEI_299114154.jpg"
-  },
-  {
-    "title": "Wealthy people with environmental ideals are the biggest emitters",
-    "url": "https://www.newscientist.com/article/2527775-wealthy-people-with-environmental-ideals-are-the-biggest-emitters/",
-    "description": "Among people of high socioeconomic status, love for nature corresponds with a bigger environmental footprint – and there's an obvious reason why",
-    "author": "Alec Luhn",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/26155111/SEI_299015134.jpg"
   }
 ]
