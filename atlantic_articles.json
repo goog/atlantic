@@ -1,5 +1,21 @@
 [
   {
+    "title": "A Book I Wish I’d Read at 22",
+    "url": "https://www.theatlantic.com/newsletters/2026/05/the-books-briefing-graduate-book-recommendations/687356/",
+    "description": "I’m not alone in feeling regret over not having found the right book at just the right time.",
+    "author": "Emma Sarappo",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/ROkzcPi2WLMT5wMrzLM7ZRkBEcw=/156x0:1843x1125/210x140/media/newsletters/2026/05/2026_05_28_Books/original.jpg"
+  },
+  {
+    "title": "Photos of the Week: Memorial Day, Spelling Bee, Cheese Rolling",
+    "url": "https://www.theatlantic.com/photography/2026/05/photos-week-memorial-day-spelling-bee-cheese-rolling/687341/",
+    "description": "The annual Black Cowboy Festival in South Carolina, a springtime heat wave across western Europe, ballroom dancing in England, a gothic festival in Germany, and much more",
+    "author": "Alan Taylor",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/y4J6y7YfspVLRIX8yZW8p99qD38=/57x154:3043x2145/210x140/media/img/mt/2026/05/a01_G_2277736573-1/original.jpg"
+  },
+  {
     "title": "Becoming a Perfect Wife, by Any Means Necessary",
     "url": "https://www.theatlantic.com/culture/2026/05/the-testaments-hulu-tradwives/687354/",
     "description": "The Testaments, Hulu’s sequel toThe Handmaid’s Tale,is more than a little skeptical about hyper-domesticity.",
@@ -8,7 +24,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/yhWEwcQPT2P7MVhCh-bwwi_McIg=/312x0:3692x2253/210x140/media/img/mt/2026/05/2026_04_23_The_Testaments_Offers_a_Tradwife_Curriculum_1/original.jpg"
   },
   {
-    "title": "When the President Takes a Cut",
+    "title": "Trump Takes His Cut",
     "url": "https://www.theatlantic.com/ideas/2026/05/trump-stakes-business-effect/687346/",
     "description": "Federal stakes in public companies may enrich the government, but they are bad for America.",
     "author": "James Surowiecki",
@@ -16,9 +32,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/JBTUdCbm7gdofDCClcrAfK_hBw4=/315x0:3690x2250/210x140/media/img/mt/2026/05/2026_05_28_What_Does_it_Mean_For_a_Business_When_the_President_Takes_a_Cut_James_Surowiecki/original.jpg"
   },
   {
-    "title": "The Biggest Tell That Something Was Written By AI",
+    "title": "The Biggest Tell That Something Was Written by AI",
     "url": "https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/",
-    "description": "Looks closely and you’ll see that everything is equally off.",
+    "description": "Look closely and you’ll see that every part of the text is not quite right.",
     "author": "Eve Fairbanks",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/nYQkk9vcokn-0Z2aqRBvtj24u3Y=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_28_Fairbanks_written_by_AI_final/original.gif"
@@ -142,21 +158,5 @@
     "author": "Elaine Godfrey",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/TCZNXgV3CxWHM60QtGlaPWZ0DXY=/315x0:3690x2250/210x140/media/img/mt/2026/05/2026_05_27_The_Texas_Senate_Race_is_a_Caricature_of_Both_Parties_Elaine_Godfrey/original.jpg"
-  },
-  {
-    "title": "No Way to Make a Deal",
-    "url": "https://www.theatlantic.com/national-security/2026/05/trump-iran-deal-frustrated/687331/",
-    "description": "The agreement that Trump wants to strike with Iran keeps eluding him.",
-    "author": "Jonathan LemireandNancy A. Youssef",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/G2yxF8GUsioZ4Hy0GxErUAbT28w=/650x0:7616x4644/210x140/media/img/mt/2026/05/2026_05_27_No_Way_To_Make_A_Deal/original.jpg"
-  },
-  {
-    "title": "America Is Missing Out on the Ultimate Mosquito Weapon",
-    "url": "https://www.theatlantic.com/technology/2026/05/mosquito-lasers-china/687330/",
-    "description": "",
-    "author": "Ross Andersen",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/U1FUkeg6Qk1URHBqoW33-P7oJBM=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_26_Anderson_Mosquito_final/original.jpg"
   }
 ]
