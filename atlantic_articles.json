@@ -1,5 +1,37 @@
 [
   {
+    "title": "The Apple Car Is Finally Here",
+    "url": "https://www.theatlantic.com/ideas/2026/05/electric-ferrari-luce/687367/",
+    "description": "",
+    "author": "Ian Bogost",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/ASCef6wkwwMsL-AwddSH2p7s1Bw=/227x0:2657x1620/210x140/media/img/mt/2026/05/2026_05_29_The_640000_Ferrari_EV_Is_Good/original.jpg"
+  },
+  {
+    "title": "The Hypocrisy of the Democrats Who Defend Graham Platner",
+    "url": "https://www.theatlantic.com/ideas/2026/05/democrats-graham-platner-tattoo/687364/",
+    "description": "They wouldn’t be so accepting of his Nazi tattoo if he were a Republican.",
+    "author": "Mike Nelson",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/fPhtOfeV0wYqF4WQqhN9xjyCAhM=/473x0:5536x3375/210x140/media/img/mt/2026/05/2026_05_28_Graham_Platners_Tattoo/original.jpg"
+  },
+  {
+    "title": "Why Everyone Hates AI Data Centers",
+    "url": "https://www.theatlantic.com/podcasts/2026/05/why-everyone-hates-ai-data-centers/687355/",
+    "description": "The left-right coalition forming against AI",
+    "author": "Charlie Warzel",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/7UH52VejkQGP9ckaBjAttdWVvG0=/155x0:1842x1125/210x140/media/img/mt/2026/05/GB_Ollie_260529/original.jpg"
+  },
+  {
+    "title": "AI Slop Is Coming for Your Playlists",
+    "url": "https://www.theatlantic.com/newsletters/2026/05/ai-slop-music/687359/",
+    "description": "Is that song stuck in your head actually AI?",
+    "author": "Will Gottsegen",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/esRPoc5w7LRjFasRMngZq-Lbdbw=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_21_AI_music_mpg/original.jpg"
+  },
+  {
     "title": "A Book I Wish I’d Read at 22",
     "url": "https://www.theatlantic.com/newsletters/2026/05/the-books-briefing-graduate-book-recommendations/687356/",
     "description": "I’m not alone in feeling regret over not having found the right book at just the right time.",
@@ -126,37 +158,5 @@
     "author": "Toluse Olorunnipa",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/n3hyMS6ZAUCg3sEXAFAp0DszQS8=/316x0:3689x2249/210x140/media/img/mt/2026/05/2026_05_27_Jill_Biden/original.jpg"
-  },
-  {
-    "title": "HowHacksRedefined Greatness",
-    "url": "https://www.theatlantic.com/culture/2026/05/hacks-final-season-greatness/687334/",
-    "description": "Over five seasons, the HBO comedy has explored what it means to succeed creatively.",
-    "author": "Sophie Gilbert",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/DyF7OlFNS2kKw16-hRl1DASGCMo=/213x0:2643x1620/210x140/media/img/mt/2026/05/2026_05_27_Hacks_2/original.jpg"
-  },
-  {
-    "title": "Today’sAtlanticTrivia: Scientific Misconceptions",
-    "url": "https://www.theatlantic.com/trivia/2026/05/28-processed-food-medical-diagnosis/686873/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Drew Goins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/KGg3FNstFMHKxH3WY7EOIEsol6Y=/152x0:1772x1080/210x140/media/img/mt/2026/04/trivia_yellow/original.jpg"
-  },
-  {
-    "title": "The Lag Between an Iran Deal and Lower Oil Prices",
-    "url": "https://www.theatlantic.com/newsletters/2026/05/iran-oil-prices-hormuz-deal/687338/",
-    "description": "The flow of oil through the Strait of Hormuz will take time to return to normal.",
-    "author": "Will Gottsegen",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/SjWhcgKInAvPVMaAuf_BuS0JSb4=/313x0:3688x2250/210x140/media/newsletters/2026/05/2026_0527_The_Daily_Oil_Wont_Be_Back_To_Normal_Anytime_Soon/original.jpg"
-  },
-  {
-    "title": "‘We Have Not Seen Ugly Yet’",
-    "url": "https://www.theatlantic.com/politics/2026/05/talarico-texas-paxton-john-cornyn/687335/",
-    "description": "Paxton versus Talarico is already awful.",
-    "author": "Elaine Godfrey",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/TCZNXgV3CxWHM60QtGlaPWZ0DXY=/315x0:3690x2250/210x140/media/img/mt/2026/05/2026_05_27_The_Texas_Senate_Race_is_a_Caricature_of_Both_Parties_Elaine_Godfrey/original.jpg"
   }
 ]
