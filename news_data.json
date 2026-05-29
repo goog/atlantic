@@ -1,5 +1,13 @@
 [
   {
+    "title": "Glaciers in the 'roof of the world' have suddenly started melting",
+    "url": "https://www.newscientist.com/article/2528327-glaciers-in-the-roof-of-the-world-have-suddenly-started-melting/",
+    "description": "Until recently, the Pamir mountains in central Asia have bucked the global melting trend, but in 2025, the region’s glaciers experienced a massive loss of ice due to extreme heat",
+    "author": "James Woodford",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/28143745/SEI_299229850.jpg"
+  },
+  {
     "title": "Mathematical AI helps researchers crack 50-year-old problem",
     "url": "https://www.newscientist.com/article/2528290-mathematical-ai-helps-researchers-crack-50-year-old-problem/",
     "description": "After an AI from OpenAI found a trick to solve an 80-year-old conjecture from Paul Erdős, mathematicians have borrowed the same technique to solve another important problem",
@@ -38,13 +46,5 @@
     "author": "Alec Luhn",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/05/26155111/SEI_299015134.jpg"
-  },
-  {
-    "title": "NASA plans a base on the moon spanning hundreds of square kilometres",
-    "url": "https://www.newscientist.com/article/2528075-nasa-plans-a-base-on-the-moon-spanning-hundreds-of-square-kilometres/",
-    "description": "Three missions slated to launch this year will begin to search the lunar surface for a suitable base location",
-    "author": "Alex Wilkins",
-    "category": "Space",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/27125546/SEI_299107874.jpg"
   }
 ]
