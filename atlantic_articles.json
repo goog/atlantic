@@ -1,5 +1,13 @@
 [
   {
+    "title": "The Trump Administration Is Done With Social Science",
+    "url": "https://www.theatlantic.com/science/2026/05/social-sciences-nsf/687380/",
+    "description": "The National Science Foundation division that covers social, behavioral, and economic sciences is in the crosshairs.",
+    "author": "Hana Kiros",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/4cLVZhe9hoQLY2wz8kPDfsi_5yw=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_26_Kiros_NSF_final/original.png"
+  },
+  {
     "title": "The Pope’s Admirers Are Missing Something",
     "url": "https://www.theatlantic.com/ideas/2026/05/pope-leo-ai-big-tech/687375/",
     "description": "Leo’s new encyclical challenges much more than Big Tech.",
@@ -8,7 +16,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/IFA7DJzygih9LsNTWt20FmVYS9k=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_26_Pope_Leo_Is_Challenging_Much_More_Than_Big_Tech/original.jpg"
   },
   {
-    "title": "A Surprising Spin On the World War II Drama",
+    "title": "A Surprising Spin on the World War II Drama",
     "url": "https://www.theatlantic.com/culture/2026/05/pressure-movie-review-andrew-scott-brendan-fraser/687366/",
     "description": "The new filmPressureoffers a freshly suspenseful take on D-Day.",
     "author": "David Sims",
@@ -18,7 +26,7 @@
   {
     "title": "America Has a Pangram Problem",
     "url": "https://www.theatlantic.com/technology/2026/05/pangram-ai-detection-accuracy/687381/",
-    "description": "AI-detection tools are getting better. But they are still aren’t good enough.",
+    "description": "AI-detection tools are getting better. But they still aren’t good enough.",
     "author": "Matteo Wong",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/IIU6C4vPVnbPV-2gF_iqsDkmymg=/155x0:1842x1125/210x140/media/img/mt/2026/05/AIWRITING/original.gif"
@@ -150,13 +158,5 @@
     "author": "Rafaela Jinich",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/nQJyzQbSC8iQFFFNR09ihiIhYVY=/156x0:1843x1125/210x140/media/newsletters/2026/05/2026_05_28_Colombia/original.jpg"
-  },
-  {
-    "title": "The U.S. Is Winging This Ebola Outbreak",
-    "url": "https://www.theatlantic.com/health/2026/05/us-who-ebola/687347/",
-    "description": "By responding to this outbreak independently, the U.S. is showing the limits of that approach.",
-    "author": "Katherine J. Wu",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/KFqhvjUcvMb9qfBnj3NgRcVihdg=/315x0:3690x2250/210x140/media/img/mt/2026/05/2026_05_28_The_US_Is_Proving_the_Case_for_the_WHO_Katie_Wu/original.jpg"
   }
 ]
