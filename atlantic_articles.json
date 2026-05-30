@@ -1,8 +1,32 @@
 [
   {
-    "title": "A Crisis of Agency",
+    "title": "The Pope’s Admirers Are Missing Something",
+    "url": "https://www.theatlantic.com/ideas/2026/05/pope-leo-ai-big-tech/687375/",
+    "description": "Leo’s new encyclical challenges much more than Big Tech.",
+    "author": "Randy Boyagoda",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/IFA7DJzygih9LsNTWt20FmVYS9k=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_26_Pope_Leo_Is_Challenging_Much_More_Than_Big_Tech/original.jpg"
+  },
+  {
+    "title": "A Surprising Spin On the World War II Drama",
+    "url": "https://www.theatlantic.com/culture/2026/05/pressure-movie-review-andrew-scott-brendan-fraser/687366/",
+    "description": "The new filmPressureoffers a freshly suspenseful take on D-Day.",
+    "author": "David Sims",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/qYN2qgczkTbnOElvDbVd9_jCLUA=/418x0:4967x3033/210x140/media/img/mt/2026/05/2026_05_28_Pressure_Film_TK/original.jpg"
+  },
+  {
+    "title": "America Has a Pangram Problem",
+    "url": "https://www.theatlantic.com/technology/2026/05/pangram-ai-detection-accuracy/687381/",
+    "description": "AI-detection tools are getting better. But they are still aren’t good enough.",
+    "author": "Matteo Wong",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/IIU6C4vPVnbPV-2gF_iqsDkmymg=/155x0:1842x1125/210x140/media/img/mt/2026/05/AIWRITING/original.gif"
+  },
+  {
+    "title": "The Feeling of Control Slipping Away",
     "url": "https://www.theatlantic.com/technology/2026/05/ai-agents-agency-crisis-humanity/687379/",
-    "description": "The feeling of losing control to AI is real.",
+    "description": "AI is causing a crisis of agency.",
     "author": "Charlie Warzel",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/KATk_LL7WUDG7rpiZNhLjuX4alc=/152x0:1772x1080/210x140/media/img/mt/2026/05/202_05_28_AgencyCrisis/original.gif"
@@ -134,29 +158,5 @@
     "author": "Katherine J. Wu",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/KFqhvjUcvMb9qfBnj3NgRcVihdg=/315x0:3690x2250/210x140/media/img/mt/2026/05/2026_05_28_The_US_Is_Proving_the_Case_for_the_WHO_Katie_Wu/original.jpg"
-  },
-  {
-    "title": "Words of War",
-    "url": "https://www.theatlantic.com/ideas/2026/05/words-war/687343/",
-    "description": "Four terms that are proving unhelpful in understanding the war with Iran",
-    "author": "Eliot A. Cohen",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/yziSDX5eldq3tGQg8waCE7WmSdQ=/227x0:2657x1620/210x140/media/img/mt/2026/05/2026_05_28_Words_of_War/original.jpg"
-  },
-  {
-    "title": "The TACO Equilibrium",
-    "url": "https://www.theatlantic.com/economy/2026/05/oil-prices-iran-trump/687344/",
-    "description": "Oil markets expect Donald Trump to end the Iran war imminently. That might be why he doesn’t.",
-    "author": "Rogé Karma",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/-RyKW96mH0csea8WRImJwZ4nXrI=/473x0:5536x3375/210x140/media/img/mt/2026/05/2026_05_24_TACO/original.jpg"
-  },
-  {
-    "title": "The King of Queens",
-    "url": "https://www.theatlantic.com/politics/2026/05/donald-trump-gay-icon/687332/",
-    "description": "President Trump loves “handsome” men, especially the muscular ones.",
-    "author": "Ashley Parker",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/43SSyY9XmCD-Bdc5psP66WjP5SA=/155x0:1842x1125/210x140/media/img/mt/2026/05/DonaldTrumpsGaySoul/original.png"
   }
 ]
