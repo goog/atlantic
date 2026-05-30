@@ -1,5 +1,13 @@
 [
   {
+    "title": "A Crisis of Agency",
+    "url": "https://www.theatlantic.com/technology/2026/05/ai-agents-agency-crisis-humanity/687379/",
+    "description": "The feeling of losing control to AI is real.",
+    "author": "Charlie Warzel",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/KATk_LL7WUDG7rpiZNhLjuX4alc=/152x0:1772x1080/210x140/media/img/mt/2026/05/202_05_28_AgencyCrisis/original.gif"
+  },
+  {
     "title": "The Kennedy Center Enters the Unknown",
     "url": "https://www.theatlantic.com/culture/2026/05/kennedy-center-trump-ruling/687370/",
     "description": "It may or may not close. Trump says he’ll abandon it. And the fight isn’t over.",
@@ -150,13 +158,5 @@
     "author": "Ashley Parker",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/43SSyY9XmCD-Bdc5psP66WjP5SA=/155x0:1842x1125/210x140/media/img/mt/2026/05/DonaldTrumpsGaySoul/original.png"
-  },
-  {
-    "title": "The Blue-State Delusion Over Unions",
-    "url": "https://www.theatlantic.com/ideas/2026/05/public-sector-unions-lirr-strike/687337/",
-    "description": "They don’t always work in the public interest.",
-    "author": "Nicholas Bagley",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/15JiYtNUbPYmYn58RYlaORg2JdM=/208x0:1895x1125/210x140/media/img/mt/2026/05/2026_05_22_Thats_No_Way_to_Run_a_Railroad/original.jpg"
   }
 ]
