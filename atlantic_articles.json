@@ -1,5 +1,21 @@
 [
   {
+    "title": "Memories of Green",
+    "url": "https://www.theatlantic.com/books/2026/05/poem-adam-harris-memories-of-green/687365/",
+    "description": "",
+    "author": "Adam Harris",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/dwyTntgKxr2i23gKB52-urhj6mk=/68x1122:3692x3538/210x140/media/img/mt/2026/05/2026_05_29_Poem_Memories_in_Green-1/original.jpg"
+  },
+  {
+    "title": "The Race That Changed the Country",
+    "url": "https://www.theatlantic.com/ideas/2026/05/race-guggenheim-cup-cars/687352/",
+    "description": "At the dawn of the automobile age, four teams set out to test the limits of their machines—and of human endurance.",
+    "author": "Eric Moskowitz",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/OIlR57XRuanWgSP_xn_vU1Lp0Kg=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_27_The_Race_That_Changed_the_Country/original.jpg"
+  },
+  {
     "title": "Trump’s 250th Celebration Is a Fiasco",
     "url": "https://www.theatlantic.com/politics/2026/05/trump-250-truth/687384/",
     "description": "The president has turned a solemn occasion into a Day of Trump.",
@@ -142,21 +158,5 @@
     "author": "Charlie Warzel",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/7UH52VejkQGP9ckaBjAttdWVvG0=/155x0:1842x1125/210x140/media/img/mt/2026/05/GB_Ollie_260529/original.jpg"
-  },
-  {
-    "title": "AI Slop Is Coming for Your Playlists",
-    "url": "https://www.theatlantic.com/newsletters/2026/05/ai-slop-music/687359/",
-    "description": "Is that song stuck in your head actually AI?",
-    "author": "Will Gottsegen",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/esRPoc5w7LRjFasRMngZq-Lbdbw=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_21_AI_music_mpg/original.jpg"
-  },
-  {
-    "title": "A Book I Wish I’d Read at 22",
-    "url": "https://www.theatlantic.com/newsletters/2026/05/the-books-briefing-graduate-book-recommendations/687356/",
-    "description": "I’m not alone in feeling regret over not having found the right book at just the right time.",
-    "author": "Emma Sarappo",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/ROkzcPi2WLMT5wMrzLM7ZRkBEcw=/156x0:1843x1125/210x140/media/newsletters/2026/05/2026_05_28_Books/original.jpg"
   }
 ]
