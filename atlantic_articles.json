@@ -1,8 +1,24 @@
 [
   {
-    "title": "The Scariest Monster on Broadway",
+    "title": "L.A.’s Lose-Lose-Lose Primary",
+    "url": "https://www.theatlantic.com/politics/2026/05/los-angeles-election-mayor/687372/",
+    "description": "The mayoral race is a staging ground for three of the most unfortunate tendencies in American politics.",
+    "author": "Marc Novicoff",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/s_sJ9KFWWYgtimWcXjVwdPtXFrk=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_29_LA_mayor/original.jpg"
+  },
+  {
+    "title": "Fold Laundry With Me!",
+    "url": "https://www.theatlantic.com/family/2026/05/invite-people-over/687363/",
+    "description": "The case for a lower-stakes social life.",
+    "author": "Julie Beck",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/OJvzgWAdfSEgocN2KRuw-0Luue8=/393x0:4611x2812/210x140/media/img/mt/2026/05/2026_05_14_Have_People_Over/original.jpg"
+  },
+  {
+    "title": "The Monster That Doesn’t Announce Itself",
     "url": "https://www.theatlantic.com/ideas/2026/05/roald-dahl-play-giant-antisemitism/687373/",
-    "description": "A new play about Roald Dahl and his anti-Jewish prejudice captures uncomfortable truths.",
+    "description": "A new Broadway play about Roald Dahl and his prejudice captures uncomfortable truths.",
     "author": "Yair Rosenberg",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/uZQPjdAdoda48soL8G-p75Hu_Kc=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_28_What_the_Roald_Dahl_play_reveals_about_bigotry/original.jpg"
@@ -142,21 +158,5 @@
     "author": "Alan Taylor",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/y4J6y7YfspVLRIX8yZW8p99qD38=/57x154:3043x2145/210x140/media/img/mt/2026/05/a01_G_2277736573-1/original.jpg"
-  },
-  {
-    "title": "Becoming a Perfect Wife, by Any Means Necessary",
-    "url": "https://www.theatlantic.com/culture/2026/05/the-testaments-hulu-tradwives/687354/",
-    "description": "The Testaments, Hulu’s sequel toThe Handmaid’s Tale,is more than a little skeptical about hyper-domesticity.",
-    "author": "Laura Bradley",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/yhWEwcQPT2P7MVhCh-bwwi_McIg=/312x0:3692x2253/210x140/media/img/mt/2026/05/2026_04_23_The_Testaments_Offers_a_Tradwife_Curriculum_1/original.jpg"
-  },
-  {
-    "title": "Trump Takes His Cut",
-    "url": "https://www.theatlantic.com/ideas/2026/05/trump-stakes-business-effect/687346/",
-    "description": "Federal stakes in public companies may enrich the government, but they are bad for America.",
-    "author": "James Surowiecki",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/JBTUdCbm7gdofDCClcrAfK_hBw4=/315x0:3690x2250/210x140/media/img/mt/2026/05/2026_05_28_What_Does_it_Mean_For_a_Business_When_the_President_Takes_a_Cut_James_Surowiecki/original.jpg"
   }
 ]
