@@ -1,5 +1,13 @@
 [
   {
+    "title": "Huge study of Alzheimer’s genetics identifies new drug targets",
+    "url": "https://www.newscientist.com/article/2528511-huge-study-of-alzheimers-genetics-identifies-new-drug-targets/",
+    "description": "Almost 50 more genes have been flagged as being linked to Alzheimer’s, along with changes in activity in crucial cells that disappear as dementia progresses",
+    "author": "Chris Simms",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/29140603/SEI_299257556.jpg"
+  },
+  {
     "title": "Geoengineering can thicken Arctic sea ice, but for how long?",
     "url": "https://www.newscientist.com/article/2528409-geoengineering-can-thicken-arctic-sea-ice-but-for-how-long/",
     "description": "Two companies are aiming to preserve Arctic ice by pumping water onto the sheet and letting it freeze, but only one of the trials found that this delayed melting in the summer",
@@ -38,13 +46,5 @@
     "author": "Carissa Wong",
     "category": "Mind",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/05/28154509/SEI_299244391.jpg"
-  },
-  {
-    "title": "Mirror life: Scientists clash over threat of lab-engineered bacteria",
-    "url": "https://www.newscientist.com/article/2528281-mirror-life-scientists-clash-over-threat-of-lab-engineered-bacteria/",
-    "description": "Bacteria created using mirror images of natural biomolecules would pose a grave threat to life on Earth, some researchers warn, but a new study suggests they would struggle to survive in the wild",
-    "author": "James Woodford",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/28114121/SEI_299010726.jpg"
   }
 ]
