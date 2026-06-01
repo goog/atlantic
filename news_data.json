@@ -1,5 +1,13 @@
 [
   {
+    "title": "Geoengineering can thicken Arctic sea ice, but for how long?",
+    "url": "https://www.newscientist.com/article/2528409-geoengineering-can-thicken-arctic-sea-ice-but-for-how-long/",
+    "description": "Two companies are aiming to preserve Arctic ice by pumping water onto the sheet and letting it freeze, but only one of the trials found that this delayed melting in the summer",
+    "author": "Alec Luhn",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/29141211/SEI_299340801.jpg"
+  },
+  {
     "title": "Photons behave very strangely if you try to cut them",
     "url": "https://www.newscientist.com/article/2528339-photons-behave-very-strangely-if-you-try-to-cut-them/",
     "description": "Particles of light cannot be divided into smaller particles, but if you try to snip off the end of one, instead of shortening it multiplies",
@@ -38,13 +46,5 @@
     "author": "James Woodford",
     "category": "Life",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/05/28114121/SEI_299010726.jpg"
-  },
-  {
-    "title": "Pancreatic cancer halted by virus injection in three patients",
-    "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-    "description": "A cancer-killing virus has stopped pancreatic tumours from growing and spreading in three people in an initial safety trial, raising hopes that it may help to beat the deadly condition",
-    "author": "Alice Klein",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/28111438/SEI_299218241.jpg"
   }
 ]
