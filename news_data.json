@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hidden store of manganese may have helped Earth get its oxygen",
+    "url": "https://www.newscientist.com/article/2528586-hidden-store-of-manganese-may-have-helped-earth-get-its-oxygen/",
+    "description": "Computer simulations have uncovered a new manganese compound that could exist deep in Earth’s mantle and may be connected to the process that gave our atmosphere oxygen",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "Earth",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/02105411/SEI_299703108.jpg"
+  },
+  {
     "title": "'Transformative' pancreatic cancer drug doubles survival time",
     "url": "https://www.newscientist.com/article/2528738-transformative-pancreatic-cancer-drug-doubles-survival-time/",
     "description": "People with advanced pancreatic cancer taking an experimental daily pill lived nearly twice as long as those receiving chemotherapy infusions",
@@ -38,13 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "Physics",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/05/29150334/SEI_299246320.jpg"
-  },
-  {
-    "title": "Aim high but don't shoot for the moon, mathematicians advise",
-    "url": "https://www.newscientist.com/article/2528468-aim-high-but-dont-shoot-for-the-moon-mathematicians-advise/",
-    "description": "According to a mathematical model of how people weigh up different outcomes, the optimal strategy is to be ambitious, but not overly so",
-    "author": "Alex Wilkins",
-    "category": "Mathematics",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/29151601/SEI_299360591.jpg"
   }
 ]
