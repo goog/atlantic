@@ -1,5 +1,69 @@
 [
   {
+    "title": "What Dogs See",
+    "url": "https://www.theatlantic.com/magazine/2026/07/the-dogs-gaze-thomas-w-laqueur/687312/",
+    "description": "To understand a painting, look for the canine.",
+    "author": "Judith Shulevitz",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/M6QOVjDPgWLNNhRVL7v1K4zDedE=/29x637:1557x1656/210x140/media/img/2026/05/04045/original.jpg"
+  },
+  {
+    "title": "The Art of the Joyful Tearjerker",
+    "url": "https://www.theatlantic.com/books/2026/06/maggie-ofarrell-novel-land-joyful-tearjerker-book-review/687360/",
+    "description": "A new novel by theHamnetauthor Maggie O’Farrell showcases her genius for infusing painful stories with flashes of pure bliss.",
+    "author": "Hillary Kelly",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/zL7Y-V6l7wg5UxAtsjkxRUesKBA=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_1_Joyful_Tears/original.jpg"
+  },
+  {
+    "title": "The Strange Appeal of the Solitude Influencer",
+    "url": "https://www.theatlantic.com/family/2026/06/solitude-influencer-loneliness/687391/",
+    "description": "Some of them say they have no friends—and they love it.",
+    "author": "Faith Hill",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/xnXWPau4WfgjInMNstMNg7I2EqQ=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_05_20_The_Strange_Appeal_of_the_Solitude_Influencer_01/original.jpg"
+  },
+  {
+    "title": "There Is Already a Word for the Deep Moral Failures of AI",
+    "url": "https://www.theatlantic.com/culture/2026/06/pope-leo-ai-christian/687388/",
+    "description": "",
+    "author": "Tyler Austin Harper",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/mEn6hN2ko6yqNtHwP0YBwGcDkbg=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_05_27_AI_religion_mpg/original.jpg"
+  },
+  {
+    "title": "Democrats Must Learn to Talk Sports",
+    "url": "https://www.theatlantic.com/ideas/2026/06/democrats-sports-hot-takes/687397/",
+    "description": "Politicians need as much attention as possible, as frequently as possible, while seeming as relatable as possible. A cheat code exists to hit all three objectives.",
+    "author": "Nathaniel Frum",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/QN-8k1itG2VkJddfS04jLdlnaPw=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_6_1_Democrats_Sports/original.jpg"
+  },
+  {
+    "title": "How Much of Data-Center Activism Is Really AI Slop?",
+    "url": "https://www.theatlantic.com/technology/2026/06/data-centers-activism-ai-slop/687396/",
+    "description": "Anti-AI sentiment is genuine, but its online expression looks stranger and stranger.",
+    "author": "Kaitlyn Tiffany",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/N9P_pvEVAoj7Itw3uaHgMVEKFVw=/82x0:924x561/210x140/media/img/mt/2026/06/2026_06_01_Tiffany_Ai_slop_about_ai_final/original.gif"
+  },
+  {
+    "title": "How Raphael Made It All Look So Easy",
+    "url": "https://www.theatlantic.com/culture/2026/06/raphael-exhibition-met-sketches-art/687342/",
+    "description": "A Met exhibition devoted to the Renaissance painter shows the artist letting loose.",
+    "author": "Susan Tallman",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/sTcymqJqZmGGjAxP_5XHMoGy6Xc=/181x444:4112x3064/210x140/media/img/mt/2026/05/2026_05_28_Raphael_Met_lede/original.jpg"
+  },
+  {
+    "title": "AtlanticTrivia: Opera and the Atmosphere",
+    "url": "https://www.theatlantic.com/trivia/2026/06/02-opera-wagner-geoengineering-atmosphere/686899/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/dsbmkrZxERG2K3qwJJ15O1WYzdg=/148x0:1770x1081/210x140/media/img/mt/2026/04/trivia_purple-3/original.png"
+  },
+  {
     "title": "All These Defeats Are Ruining Trump’s Birthday",
     "url": "https://www.theatlantic.com/ideas/2026/06/defeats-trumps-birthday/687393/",
     "description": "The end of Trump’s “anti-weaponization” fund is the latest in a series of setbacks.",
@@ -94,69 +158,5 @@
     "author": "Drew Goins",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/ZHw_1YQI8Yc7A_WrvsWaVx4eKHs=/152x0:1772x1080/210x140/media/img/mt/2026/04/trivia_green-3/original.png"
-  },
-  {
-    "title": "D.C. Progressives’ Great Socialist Hope",
-    "url": "https://www.theatlantic.com/ideas/2026/06/dc-mayor-socialist-election/687348/",
-    "description": "The bitter contest for Washington’s mayor has replicated the Democrats’ central ideological struggle.",
-    "author": "Idrees Kahloon",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/2awF05CLZBLULug8295Xfflnpps=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_28_DC_mpg_2/original.jpg"
-  },
-  {
-    "title": "Memories of Green",
-    "url": "https://www.theatlantic.com/books/2026/05/poem-adam-harris-memories-of-green/687365/",
-    "description": "",
-    "author": "Adam Harris",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/dwyTntgKxr2i23gKB52-urhj6mk=/68x1122:3692x3538/210x140/media/img/mt/2026/05/2026_05_29_Poem_Memories_in_Green-1/original.jpg"
-  },
-  {
-    "title": "The Race That Put Ford on the Map",
-    "url": "https://www.theatlantic.com/ideas/2026/05/race-guggenheim-cup-cars/687352/",
-    "description": "At the dawn of the automobile age, four teams set out to test the limits of their machines—and of human endurance.",
-    "author": "Eric Moskowitz",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/OIlR57XRuanWgSP_xn_vU1Lp0Kg=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_27_The_Race_That_Changed_the_Country/original.jpg"
-  },
-  {
-    "title": "Trump’s 250th Celebration Is a Fiasco",
-    "url": "https://www.theatlantic.com/politics/2026/05/trump-250-truth/687384/",
-    "description": "The president has turned a solemn occasion into a Day of Trump.",
-    "author": "David Frum",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/6Z-4T9TOjNciSzOCaP3Nwu743xc=/296x0:3471x2117/210x140/media/img/mt/2026/05/2026_05_31_America250/original.jpg"
-  },
-  {
-    "title": "L.A.’s Lose-Lose-Lose Primary",
-    "url": "https://www.theatlantic.com/politics/2026/05/los-angeles-election-mayor/687372/",
-    "description": "The mayoral race is a staging ground for three of the most unfortunate tendencies in American politics.",
-    "author": "Marc Novicoff",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/s_sJ9KFWWYgtimWcXjVwdPtXFrk=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_29_LA_mayor/original.jpg"
-  },
-  {
-    "title": "Fold Laundry With Me!",
-    "url": "https://www.theatlantic.com/family/2026/05/invite-people-over/687363/",
-    "description": "The case for a lower-stakes social life",
-    "author": "Julie Beck",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/OJvzgWAdfSEgocN2KRuw-0Luue8=/393x0:4611x2812/210x140/media/img/mt/2026/05/2026_05_14_Have_People_Over/original.jpg"
-  },
-  {
-    "title": "The Monster That Doesn’t Announce Itself",
-    "url": "https://www.theatlantic.com/ideas/2026/05/roald-dahl-play-giant-antisemitism/687373/",
-    "description": "A new Broadway play about Roald Dahl and his prejudice captures uncomfortable truths.",
-    "author": "Yair Rosenberg",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/uZQPjdAdoda48soL8G-p75Hu_Kc=/155x0:1842x1125/210x140/media/img/mt/2026/05/2026_05_28_What_the_Roald_Dahl_play_reveals_about_bigotry/original.jpg"
-  },
-  {
-    "title": "Seven Books You’ll Never Outgrow",
-    "url": "https://www.theatlantic.com/newsletters/2026/05/seven-books-youll-never-outgrow/687362/",
-    "description": "Some stories are worth revisiting at every stage of life.",
-    "author": "Rafaela Jinich",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/_trIMQw-IMeDrZRgMUhhLO0dHNo=/122x63:6595x4378/210x140/media/newsletters/2026/05/GettyImages_1211524167/original.jpg"
   }
 ]
