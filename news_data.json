@@ -1,5 +1,37 @@
 [
   {
+    "title": "The looming El Niño could be bad – but much worse is to come",
+    "url": "https://www.newscientist.com/article/2529026-the-looming-el-nino-could-be-bad-but-much-worse-is-to-come/",
+    "description": "Global warming will amplify the impacts of El Niño events, and could also make them much stronger and more far-reaching",
+    "author": "Michael Le Page",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/03153330/SEI_299943104.jpg"
+  },
+  {
+    "title": "Earth has a mysterious triple symmetry that may influence its climate",
+    "url": "https://www.newscientist.com/article/2528962-earth-has-a-mysterious-triple-symmetry-that-may-influence-its-climate/",
+    "description": "A circle running along the 27° east and 153° west meridians divides the globe into two halves with equal reflectivity – and this may have implications for solar geoengineering schemes",
+    "author": "James Woodford",
+    "category": "Earth",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/02164436/SEI_299801856.jpg"
+  },
+  {
+    "title": "Ditch the niceties in AI prompts to save energy use, say researchers",
+    "url": "https://www.newscientist.com/article/2529017-ditch-the-niceties-in-ai-prompts-to-save-energy-use-say-researchers/",
+    "description": "A UN report warns of the rapid growth in AI energy consumption, but suggests users can improve efficiency by making prompts more concise",
+    "author": "Luke Taylor",
+    "category": "Technology",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/03143630/SEI_299915375.jpg"
+  },
+  {
+    "title": "Atom-based quantum computers are catching up in the race to usefulness",
+    "url": "https://www.newscientist.com/article/2528922-atom-based-quantum-computers-are-catching-up-in-the-race-to-usefulness/",
+    "description": "A quantum computer made from extremely cold atoms can correct its own errors during long computations, an important prerequisite for becoming truly useful",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "Technology",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/03104937/SEI_299914822.jpg"
+  },
+  {
     "title": "Keto diet shows real promise for anorexia recovery",
     "url": "https://www.newscientist.com/article/2528945-keto-diet-shows-real-promise-for-anorexia-recovery/",
     "description": "Restricting carbohydrates may sound like an unlikely approach to treating anorexia, but following a ketogenic diet was linked to recovery in 3 in 4 people with the eating disorder in a small trial",
@@ -14,37 +46,5 @@
     "author": "Chris Simms",
     "category": "Humans",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/02143855/SEI_299821272.jpg"
-  },
-  {
-    "title": "Hidden store of manganese may have helped Earth get its oxygen",
-    "url": "https://www.newscientist.com/article/2528586-hidden-store-of-manganese-may-have-helped-earth-get-its-oxygen/",
-    "description": "Computer simulations have uncovered a new manganese compound that could exist deep in Earth’s mantle and may be connected to the process that gave our atmosphere oxygen",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "Earth",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/02105411/SEI_299703108.jpg"
-  },
-  {
-    "title": "'Transformative' pancreatic cancer drug doubles survival time",
-    "url": "https://www.newscientist.com/article/2528738-transformative-pancreatic-cancer-drug-doubles-survival-time/",
-    "description": "People with advanced pancreatic cancer taking an experimental daily pill lived nearly twice as long as those receiving chemotherapy infusions",
-    "author": "Carissa Wong",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/01165715/SEI_299732646.jpg"
-  },
-  {
-    "title": "How human error became a weapon against large language models",
-    "url": "https://www.newscientist.com/article/2528529-how-human-error-became-a-weapon-against-large-language-models/",
-    "description": "Alan Turing proposed a test for machine intelligence: could a computer convince a human it was human? We have begun conducting the same test on ourselves, writes Max Moser",
-    "author": "Max Moser",
-    "category": "Technology",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/01095249/SEI_299704165.jpg"
-  },
-  {
-    "title": "Huge study of Alzheimer’s genetics identifies new drug targets",
-    "url": "https://www.newscientist.com/article/2528511-huge-study-of-alzheimers-genetics-identifies-new-drug-targets/",
-    "description": "Almost 50 more genes have been flagged as being linked to Alzheimer’s, along with changes in activity in crucial cells that disappear as dementia progresses",
-    "author": "Chris Simms",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/29140603/SEI_299257556.jpg"
   }
 ]
