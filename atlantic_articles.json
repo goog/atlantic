@@ -1,14 +1,30 @@
 [
   {
+    "title": "A Gift From the Basketball Gods",
+    "url": "https://www.theatlantic.com/ideas/2026/06/knicks-spurs-nba-finals-brunson/687421/",
+    "description": "The Knicks represent the best of New York sports.",
+    "author": "Michael Powell",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/QST3qw_BjBPH3yyk570Vi__OMXc=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_04_A_Gift_From_the_Basketball_Gods_Michael_Powell/original.jpg"
+  },
+  {
+    "title": "Someone Finally Wants to Hire Philosophers",
+    "url": "https://www.theatlantic.com/technology/2026/06/ai-companies-hiring-philosophers/687417/",
+    "description": "Silicon Valley is turning to ethicists to shape the future of AI.",
+    "author": "Lila Shroff",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/vMCKJ_EBZ6oYcLC8PWb7fxrQ6cU=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_01_Shroff_Ai_Philosophy_final/original.jpg"
+  },
+  {
     "title": "Canned Cocktails Will Smash You to the Ground",
     "url": "https://www.theatlantic.com/health/2026/06/canned-cocktail-cutwater-white-claw-alcohol/687387/",
-    "description": "Binge drinking has never been easier.",
+    "description": "Americans may be drinking less. But a lot of them are getting drunk faster.",
     "author": "Nicholas Florko",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/qzC_ojh-QZYy3SJ8J6YXJ5V0jzs=/134x0:1822x1125/210x140/media/img/mt/2026/06/LaurenRoche_Atlantic_horizontal_1/original.jpg"
   },
   {
-    "title": "Photos: A Graduation, A Celebration, And Self-Deportation",
+    "title": "Photos: A Family’s Final Trip Before the Father’s Self-Deportation",
     "url": "https://www.theatlantic.com/photography/2026/06/photos-graduation-celebration-and-self-deportation-honduras/687414/",
     "description": "John Moore, a photojournalist with Getty Images, recently traveled with Marvin Suazo and his family on a final trip before a painful separation, when Suazo self-deported to Honduras. The family fled H",
     "author": "Alan Taylor",
@@ -142,21 +158,5 @@
     "author": "Alan Lightman",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/umZiukH5kFzdd1-6KInCadXUh8I=/128x1028:3067x2987/210x140/media/img/mt/2026/05/2026_06_LightmanPerspective/original.jpg"
-  },
-  {
-    "title": "Trump’s Strange Choice for Director of National Intelligence",
-    "url": "https://www.theatlantic.com/ideas/2026/06/bill-pulte-hayek/687399/",
-    "description": "The president’s selection of Bill Pulte is both baffling and predictable.",
-    "author": "David Frum",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/_2_3UQdFj_1EOLZsuEvl9LC4K6Q=/560x0:6566x4004/210x140/media/img/mt/2026/06/2026_06_02_Bill_Pulte/original.jpg"
-  },
-  {
-    "title": "Where Dogs Go On With Their Doggy Life",
-    "url": "https://www.theatlantic.com/magazine/2026/07/the-dogs-gaze-thomas-w-laqueur/687312/",
-    "description": "Why are there so many canines in fine art?",
-    "author": "Judith Shulevitz",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/M6QOVjDPgWLNNhRVL7v1K4zDedE=/29x637:1557x1656/210x140/media/img/2026/05/04045/original.jpg"
   }
 ]
