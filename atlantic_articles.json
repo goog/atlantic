@@ -1,5 +1,21 @@
 [
   {
+    "title": "We’re About to Hear a Lot More About Iowa",
+    "url": "https://www.theatlantic.com/politics/2026/06/iowa-results-turek-hinson-sand/687422/",
+    "description": "The state will have its first competitive races in years.",
+    "author": "Elaine Godfrey",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/F7D_Pe4vufrwnuo3nhJkIm5U0rk=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_03_Iowa_Senate_Primary_Elaine_Godfrey/original.jpg"
+  },
+  {
+    "title": "What Trump’s New Plan for the 250th Reveals",
+    "url": "https://www.theatlantic.com/newsletters/2026/06/trump-art-america-250-concert/687424/",
+    "description": "To Trump, art and politics are interchangeable.",
+    "author": "Will Gottsegen",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/YYoXOaTbkiKEYwzO-N-xnECb81k=/226x0:2656x1620/210x140/media/newsletters/2026/06/2026_06_03_The_Daily_A_MAGA_Rally_is_Not_a_Concert/original.jpg"
+  },
+  {
     "title": "A Gift From the Basketball Gods",
     "url": "https://www.theatlantic.com/ideas/2026/06/knicks-spurs-nba-finals-brunson/687421/",
     "description": "The Knicks represent the best of New York sports.",
@@ -72,7 +88,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/SGG4VtEUbQeky3e7WMZ7PcmYftw=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_05_08_china_mpg/original.jpg"
   },
   {
-    "title": "Donald Trump’s Superficiality Is Bone Deep",
+    "title": "Donald Trump’s Superficiality Is Bone-Deep",
     "url": "https://www.theatlantic.com/ideas/2026/06/trump-superficiality/687413/",
     "description": "For the shallowest man ever to occupy the presidency, surface appeal is a guiding principle.",
     "author": "Jonathan Chait",
@@ -83,7 +99,7 @@
     "title": "Trump Dreads an Iran Deal Worse Than Obama’s",
     "url": "https://www.theatlantic.com/national-security/2026/06/iran-war-may-be-headed-long-term-limbo/687407/",
     "description": "Talks have stalled in part because the president keeps aiming for a grand finale.",
-    "author": "Vivian Salama,Jonathan Lemire,andNancy A. Youssef",
+    "author": "Vivian Salama,Jonathan Lemire,  andNancy A. Youssef",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/3DG7oQugUPIoi4Gq7UfPB5Odt04=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_02_Forget_the_Forever_Wars._We_May_Be_in_Forever_Limbo_Vivian_Salama_Jonathan_Lemire_Nancy_Youssef/original.jpg"
   },
@@ -142,21 +158,5 @@
     "author": "David A. Graham",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/lwjaR1F1jIWVOE02xA7enb2lo2A=/583x0:6889x4204/210x140/media/newsletters/2026/06/2026_06_02_The_Daily_Bill_Pulte/original.jpg"
-  },
-  {
-    "title": "AI Has Ruined the Job Market",
-    "url": "https://www.theatlantic.com/ideas/2026/06/ai-job-market-hiring/687403/",
-    "description": "Maybe flawed people were better than brute algorithms.",
-    "author": "Annie Lowrey",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/lQthY6RuRPfoyeL_rGiRRHVECr4=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_6_2_AI/original.jpg"
-  },
-  {
-    "title": "The Ordinary Miracle of Existing",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/the-ordinary-miracle-of-existing/687351/",
-    "description": "Being alive at all is the most extraordinary stroke of good luck any of us will ever experience.",
-    "author": "Alan Lightman",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/umZiukH5kFzdd1-6KInCadXUh8I=/128x1028:3067x2987/210x140/media/img/mt/2026/05/2026_06_LightmanPerspective/original.jpg"
   }
 ]
