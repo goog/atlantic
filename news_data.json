@@ -1,5 +1,13 @@
 [
   {
+    "title": "Ötzi's frozen remains may harbour metabolically active microbes",
+    "url": "https://www.newscientist.com/article/2528789-otzis-frozen-remains-may-harbour-metabolically-active-microbes/",
+    "description": "Researchers studying a 5300-year-old mummified man have identified bacteria that lived in his gut when he was alive, as well as cold-tolerant fungi that colonised his body after death",
+    "author": "Chris Simms",
+    "category": "Humans",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/02143855/SEI_299821272.jpg"
+  },
+  {
     "title": "Hidden store of manganese may have helped Earth get its oxygen",
     "url": "https://www.newscientist.com/article/2528586-hidden-store-of-manganese-may-have-helped-earth-get-its-oxygen/",
     "description": "Computer simulations have uncovered a new manganese compound that could exist deep in Earth’s mantle and may be connected to the process that gave our atmosphere oxygen",
@@ -38,13 +46,5 @@
     "author": "Alec Luhn",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/05/29141211/SEI_299340801.jpg"
-  },
-  {
-    "title": "Photons behave very strangely if you try to cut them",
-    "url": "https://www.newscientist.com/article/2528339-photons-behave-very-strangely-if-you-try-to-cut-them/",
-    "description": "Particles of light cannot be divided into smaller particles, but if you try to snip off the end of one, instead of shortening it multiplies",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "Physics",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/05/29150334/SEI_299246320.jpg"
   }
 ]
