@@ -1,8 +1,24 @@
 [
   {
-    "title": "Men in Cages",
+    "title": "The Iran Problem Trump Can’t Defer",
+    "url": "https://www.theatlantic.com/international/2026/06/iran-war-israel-trump/687420/",
+    "description": "A good-enough settlement for the United States may not satisfy its Israeli partners.",
+    "author": "Thomas Wright",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/CFO_P31vymEO0rp_PnZvwYowIxg=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_04_Iran_War_is_Not_Over_Thomas_Wright/original.jpg"
+  },
+  {
+    "title": "Maine Has a Graham Platner Problem",
+    "url": "https://www.theatlantic.com/politics/2026/06/platner-sexting-scandal-maine/687425/",
+    "description": "Are we really going to do this again?",
+    "author": "Shannon A. Mullen",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/et2E_B1_54fanlr3PlxPvhBG6-k=/552x0:6465x3942/210x140/media/img/mt/2026/06/2026_06_04_The_Graham_Platner_Problem/original.jpg"
+  },
+  {
+    "title": "The Alligator Alcatraz Boondoggle",
     "url": "https://www.theatlantic.com/ideas/2026/06/alligator-alcatraz-desantis-florida-immigration/687415/",
-    "description": "The immigrant-detention facility Alligator Alcatraz, which may soon be shut down, has been a cruel and costly publicity stunt.",
+    "description": "The immigrant-detention facility, which may soon be shut down, has been a cruel and costly publicity stunt.",
     "author": "Eric Schlosser",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/D12jaPQ8ehpGHRo76oZBh3c2KzY=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_05_31_AlligatorAlcatraz/original.jpg"
@@ -24,7 +40,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/A2Tl-nDRKPFS9Szckj4GbylLxOY=/130x0:3505x2250/210x140/media/img/mt/2026/06/Radio_Atlantic_Horizontal/original.png"
   },
   {
-    "title": "The Author Is No Longer Your Friend",
+    "title": "Why Reading Is Now Restless",
     "url": "https://www.theatlantic.com/ideas/2026/06/ai-writing-reading-nazir/687419/",
     "description": "AI has already changed writing. Now the technology is changing what it means to read.",
     "author": "Walt Hunter",
@@ -142,21 +158,5 @@
     "author": "Jonathan Chait",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/vB2b-UrpGuGvrQQXaiaNDK6O2a8=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_03_Hed_Donald_Trumps_Superficiality_Is_Bone_Deep_Jonathan_Chait/original.jpg"
-  },
-  {
-    "title": "Trump Dreads an Iran Deal Worse Than Obama’s",
-    "url": "https://www.theatlantic.com/national-security/2026/06/iran-war-may-be-headed-long-term-limbo/687407/",
-    "description": "Talks have stalled in part because the president keeps aiming for a grand finale.",
-    "author": "Vivian Salama,Jonathan Lemire,andNancy A. Youssef",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/3DG7oQugUPIoi4Gq7UfPB5Odt04=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_02_Forget_the_Forever_Wars._We_May_Be_in_Forever_Limbo_Vivian_Salama_Jonathan_Lemire_Nancy_Youssef/original.jpg"
-  },
-  {
-    "title": "The Arch Is Atrocious",
-    "url": "https://www.theatlantic.com/culture/2026/06/trump-arch-atrocity/687402/",
-    "description": "Trump’s colossal monument would mar Washington’s skyline and disrupt one of its most sacred spaces.",
-    "author": "Sebastian Smee",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Z-58IijbS7VPHYTzrFXZgPwd9pc=/276x102:1755x1088/210x140/media/img/mt/2026/06/2026_06_03_Arch_horizontal-1/original.gif"
   }
 ]

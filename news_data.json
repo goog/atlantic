@@ -1,5 +1,21 @@
 [
   {
+    "title": "Becoming a parent may make you love your partner less",
+    "url": "https://www.newscientist.com/article/2529220-becoming-a-parent-may-make-you-love-your-partner-less/",
+    "description": "Parents report loving their partners less within the first year of having a child, but that doesn't mean the feeling is permanent or inevitable",
+    "author": "Carissa Wong",
+    "category": "Mind",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/04144516/SEI_299940390.jpg"
+  },
+  {
+    "title": "Mysterious ‘cold blob’ in the Atlantic suggests the AMOC is weakening",
+    "url": "https://www.newscientist.com/article/2529078-mysterious-cold-blob-in-the-atlantic-suggests-the-amoc-is-weakening/",
+    "description": "A patch of ocean south-east of Greenland is the only place on Earth that is cooling, and it could be a sign that the warm water \"conveyor belt\" in the Atlantic is slowing down",
+    "author": "Alec Luhn",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/04104247/SEI_299957227.jpg"
+  },
+  {
     "title": "Stonehenge's altar stone probably wasn't transported by a glacier",
     "url": "https://www.newscientist.com/article/2529005-stonehenges-altar-stone-probably-wasnt-transported-by-a-glacier/",
     "description": "A glacier could have carried the giant sandstone at the centre of Stonehenge southwards from north-east Scotland, but this scenario appears unlikely",
@@ -30,21 +46,5 @@
     "author": "Luke Taylor",
     "category": "Technology",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/03143630/SEI_299915375.jpg"
-  },
-  {
-    "title": "Atom-based quantum computers are catching up in the race to usefulness",
-    "url": "https://www.newscientist.com/article/2528922-atom-based-quantum-computers-are-catching-up-in-the-race-to-usefulness/",
-    "description": "A quantum computer made from extremely cold atoms can correct its own errors during long computations, an important prerequisite for becoming truly useful",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "Technology",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/03104937/SEI_299914822.jpg"
-  },
-  {
-    "title": "Keto diet shows real promise for anorexia recovery",
-    "url": "https://www.newscientist.com/article/2528945-keto-diet-shows-real-promise-for-anorexia-recovery/",
-    "description": "Restricting carbohydrates may sound like an unlikely approach to treating anorexia, but following a ketogenic diet was linked to recovery in nearly 75 per cent of people with the eating disorder in a small trial",
-    "author": "Caroline Williams",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/03105849/SEI_299913248.jpg"
   }
 ]
