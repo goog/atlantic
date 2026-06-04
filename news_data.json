@@ -1,8 +1,16 @@
 [
   {
+    "title": "Stonehenge's altar stone probably wasn't transported by a glacier",
+    "url": "https://www.newscientist.com/article/2529005-stonehenges-altar-stone-probably-wasnt-transported-by-a-glacier/",
+    "description": "A glacier could have carried the giant sandstone at the centre of Stonehenge southwards from north-east Scotland, but this scenario appears unlikely",
+    "author": "James Woodford",
+    "category": "Humans",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/03134939/SEI_299914194.jpg"
+  },
+  {
     "title": "The looming El Niño could be bad – but much worse is to come",
     "url": "https://www.newscientist.com/article/2529026-the-looming-el-nino-could-be-bad-but-much-worse-is-to-come/",
-    "description": "Global warming will amplify the impacts of El Niño events, and could also make them much stronger and more far-reaching",
+    "description": "Global warming will amplify the impacts of El Ni&ntilde;o events, and could also make them much stronger and more far-reaching",
     "author": "Michael Le Page",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/03153330/SEI_299943104.jpg"
@@ -34,17 +42,9 @@
   {
     "title": "Keto diet shows real promise for anorexia recovery",
     "url": "https://www.newscientist.com/article/2528945-keto-diet-shows-real-promise-for-anorexia-recovery/",
-    "description": "Restricting carbohydrates may sound like an unlikely approach to treating anorexia, but following a ketogenic diet was linked to recovery in 3 in 4 people with the eating disorder in a small trial",
+    "description": "Restricting carbohydrates may sound like an unlikely approach to treating anorexia, but following a ketogenic diet was linked to recovery in nearly 75 per cent of people with the eating disorder in a small trial",
     "author": "Caroline Williams",
     "category": "Health",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/03105849/SEI_299913248.jpg"
-  },
-  {
-    "title": "Ötzi's frozen remains may harbour metabolically active microbes",
-    "url": "https://www.newscientist.com/article/2528789-otzis-frozen-remains-may-harbour-metabolically-active-microbes/",
-    "description": "Researchers studying a 5300-year-old mummified man have identified bacteria that lived in his gut when he was alive, as well as cold-tolerant fungi that colonised his body after death",
-    "author": "Chris Simms",
-    "category": "Humans",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/02143855/SEI_299821272.jpg"
   }
 ]
