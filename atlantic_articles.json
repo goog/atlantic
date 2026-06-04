@@ -1,5 +1,53 @@
 [
   {
+    "title": "Men in Cages",
+    "url": "https://www.theatlantic.com/ideas/2026/06/alligator-alcatraz-desantis-florida-immigration/687415/",
+    "description": "The immigrant-detention facility Alligator Alcatraz, which may soon be shut down, has been a cruel and costly publicity stunt.",
+    "author": "Eric Schlosser",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/D12jaPQ8ehpGHRo76oZBh3c2KzY=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_05_31_AlligatorAlcatraz/original.jpg"
+  },
+  {
+    "title": "How to Save Marriage",
+    "url": "https://www.theatlantic.com/magazine/2026/07/for-better-and-worse-stephanie-coontz/687310/",
+    "description": "To find a future for the institution, we need to accurately account for its wildly varying past.",
+    "author": "Honor Jones",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/3w_6iXL06iqG0Lupwre0gC1h8J0=/180x0:2118x1292/210x140/media/img/2026/05/CC_Jones_Marriage_crop_02_1/original.jpg"
+  },
+  {
+    "title": "Is the GOP Starting to Defy Trump?",
+    "url": "https://www.theatlantic.com/podcasts/2026/06/indiana-trump-republicans/687423/",
+    "description": "Republicans aren’t automatically falling in line anymore.",
+    "author": "Hanna Rosin",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/A2Tl-nDRKPFS9Szckj4GbylLxOY=/130x0:3505x2250/210x140/media/img/mt/2026/06/Radio_Atlantic_Horizontal/original.png"
+  },
+  {
+    "title": "The Author Is No Longer Your Friend",
+    "url": "https://www.theatlantic.com/ideas/2026/06/ai-writing-reading-nazir/687419/",
+    "description": "AI has already changed writing. Now the technology is changing what it means to read.",
+    "author": "Walt Hunter",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/XxS9aE9AweIqWrXyrA_u0GaFkDU=/130x0:3505x2250/210x140/media/img/mt/2026/06/2026_06_07_The_Death_of_the_Reader_Walt_Hunter/original.jpg"
+  },
+  {
+    "title": "What to Read to Really Understand Music",
+    "url": "https://www.theatlantic.com/books/2026/06/music-book-recommendations/687412/",
+    "description": "These memoirs, primers, and histories make up a captivating syllabus that will help explain what you hear.",
+    "author": "Juliet Izon",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/1MdtlpNts5vjOS0LVY49Y4LKnmg=/155x0:1842x1125/210x140/media/img/mt/2026/06/ATLANTIC_COLOUR/original.gif"
+  },
+  {
+    "title": "AtlanticTrivia: High-Flying Women",
+    "url": "https://www.theatlantic.com/trivia/2026/06/04-airforce-world-war-ii-booksellers-coldplunge-wellness/687008/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/uGdCntthfYJviZ24nAHVyJY1xMw=/148x0:1770x1081/210x140/media/img/mt/2026/04/trivia_peach-3/original.png"
+  },
+  {
     "title": "We’re About to Hear a Lot More About Iowa",
     "url": "https://www.theatlantic.com/politics/2026/06/iowa-results-turek-hinson-sand/687422/",
     "description": "The state will have its first competitive races in years.",
@@ -110,53 +158,5 @@
     "author": "Sebastian Smee",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/Z-58IijbS7VPHYTzrFXZgPwd9pc=/276x102:1755x1088/210x140/media/img/mt/2026/06/2026_06_03_Arch_horizontal-1/original.gif"
-  },
-  {
-    "title": "Another Chance for Trump to Cash Out",
-    "url": "https://www.theatlantic.com/ideas/2026/06/trump-presidential-library-presidential-records/687390/",
-    "description": "The president’s battle over presidential records is more serious than it looks.",
-    "author": "David Frum",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/xjuabFbmkVg4DuJDvTR7kLUiM74=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_01_Trump_records/original.jpg"
-  },
-  {
-    "title": "AtlanticTrivia: Infrastructure",
-    "url": "https://www.theatlantic.com/trivia/2026/06/03-florida-housing-la-mancha-bart/687007/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Drew Goins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/LQ8I9hjDkoeS4aPj-LglYEOui8w=/152x0:1772x1080/210x140/media/img/mt/2026/04/trivia_yellow-3/original.jpg"
-  },
-  {
-    "title": "The Left Needs to Rediscover Its Patriotism",
-    "url": "https://www.theatlantic.com/ideas/2026/06/left-patriotism-liberals-socialism/687398/",
-    "description": "A left that rejects a hopeful, empathetic love of the United States can never win the country to its side.",
-    "author": "Michael Kazin",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/-uh9GCYFK6mW91Wjbta852VpmKM=/224x155:5376x3590/210x140/media/img/mt/2026/06/PAR439174/original.jpg"
-  },
-  {
-    "title": "The President Keeps Contradicting Himself on AI",
-    "url": "https://www.theatlantic.com/technology/2026/06/trump-ai-executive-order/687410/",
-    "description": "Donald Trump’s new AI order is a lot of nothing.",
-    "author": "Lila ShroffandMatteo Wong",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/iPEGid_WwqgyzFbQhyIjBl7UIfE=/336x0:3927x2394/210x140/media/img/mt/2026/06/2026_06_02_The_Trump_Administration_Cant_Make_Up_Its_Mind_on_AI_Lila_Shroff/original.jpg"
-  },
-  {
-    "title": "What Trump Wants From Bill Pulte",
-    "url": "https://www.theatlantic.com/national-security/2026/06/director-national-vengeance/687408/",
-    "description": "The director of the Federal Housing Finance Agency has no experience in national security but can be counted on to go after the president’s enemies.",
-    "author": "Shane Harris",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/bzO9qK_nVd6hDx53h0ud5ZtvCXU=/185x0:2615x1620/210x140/media/img/mt/2026/06/2026_06_02_Just_When_Intelligence_Officers_Didnt_Think_It_Could_Get_Any_Worse/original.jpg"
-  },
-  {
-    "title": "One Reason Trump Might Have Chosen His New Intelligence Chief",
-    "url": "https://www.theatlantic.com/newsletters/2026/06/trump-bill-plute-experience-new-intelligence-chief/687409/",
-    "description": "Bill Pulte has no national-security experience, but he does have one qualification that might appeal to the president.",
-    "author": "David A. Graham",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/lwjaR1F1jIWVOE02xA7enb2lo2A=/583x0:6889x4204/210x140/media/newsletters/2026/06/2026_06_02_The_Daily_Bill_Pulte/original.jpg"
   }
 ]
