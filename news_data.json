@@ -1,8 +1,16 @@
 [
   {
+    "title": "Are we getting to the point where it's safe to gene-edit babies?",
+    "url": "https://www.newscientist.com/article/2529355-are-we-getting-to-the-point-where-its-safe-to-gene-edit-babies/",
+    "description": "A team in the US has reported promising results after using an improved form of CRISPR to gene-edit human embryos, but a major issue remains unsolved",
+    "author": "Michael Le Page",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/05183609/SEI_300162347.jpg"
+  },
+  {
     "title": "Cuts to US ocean programme will hinder monitoring of El Niño and AMOC",
     "url": "https://www.newscientist.com/article/2529420-cuts-to-us-ocean-programme-will-hinder-monitoring-of-el-nino-and-amoc/",
-    "description": "Scientists warn that the Trump administration's push to dismantle a vital network of ocean sensing instruments will stymie crucial weather and climate monitoring in the Pacific and Atlantic",
+    "description": "Scientists warn that the Trump administration's push to dismantle a vital network of ocean-sensing instruments will stymie crucial weather and climate monitoring in the Pacific and Atlantic",
     "author": "Alec Luhn",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/05165403/SEI_300174813.jpg"
@@ -38,13 +46,5 @@
     "author": "Alec Luhn",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/04104247/SEI_299957227.jpg"
-  },
-  {
-    "title": "Stonehenge's altar stone probably wasn't transported by a glacier",
-    "url": "https://www.newscientist.com/article/2529005-stonehenges-altar-stone-probably-wasnt-transported-by-a-glacier/",
-    "description": "A glacier could have carried the giant sandstone at the centre of Stonehenge southwards from north-east Scotland, but this scenario appears unlikely",
-    "author": "James Woodford",
-    "category": "Humans",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/03134939/SEI_299914194.jpg"
   }
 ]
