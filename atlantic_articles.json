@@ -1,8 +1,16 @@
 [
   {
-    "title": "Has Graham Platner Changed Enough?",
+    "title": "Don’t Worry! That Was Almost Certainly the Last Graham Platner Scandal!",
+    "url": "https://www.theatlantic.com/newsletters/2026/06/graham-platner-scandals/687440/",
+    "description": "A very not-panicked note from the Platner campaign",
+    "author": "Alexandra Petri",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/YH2I7SuVW5VEGFB1tWo4d7XC4-U=/237x0:2767x1687/210x140/media/img/mt/2026/06/06_04_PetriPlatner/original.jpg"
+  },
+  {
+    "title": "Yet More Damning Revelations About Graham Platner",
     "url": "https://www.theatlantic.com/ideas/2026/06/graham-platner-maine-populism-elections/687429/",
-    "description": "Yet more damning revelations threaten to sink his Senate campaign.",
+    "description": "Voters may be questioning the Senate candidate’s claims that he is a changed man.",
     "author": "Elizabeth Bruenig",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/yLQj50PgVmwldaIlsdcSVX1OkmE=/155x0:1842x1125/210x140/media/img/mt/2026/06/graham/original.jpg"
@@ -14,6 +22,14 @@
     "author": "David A. Graham",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/C5hIwMWfy4P7K4_EOgyy9Zuc5kg=/313x0:3688x2250/210x140/media/newsletters/2026/06/2026_06_04_The_Daily_Trumps_Pirates_of_the_Caribbeanand_the_Persian_Gulf/original.jpg"
+  },
+  {
+    "title": "The World Cup of Ugh",
+    "url": "https://www.theatlantic.com/politics/2026/06/world-cup-fifa-trump/687428/",
+    "description": "",
+    "author": "Jonathan Lemire",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/uOPYZHM8HXgcTe4luaC-WS86VmI=/413x0:4908x2997/210x140/media/img/mt/2026/06/2026_06_04_The_World_Cup_of_Ugh/original.jpg"
   },
   {
     "title": "California Democrats’ Pyrrhic Victory",
@@ -34,7 +50,7 @@
   {
     "title": "What It Would Take to Finally Slay the Gerrymander",
     "url": "https://www.theatlantic.com/newsletters/2026/06/gerrymandering-american-history-victims/687434/",
-    "description": "Political skullduggery is as old as the Republic.",
+    "description": "Political skullduggery is as old as the republic.",
     "author": "Jake Lundberg",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/zHdblXFypsCin_I85hH91blzNCA=/156x0:1843x1125/210x140/media/newsletters/2026/06/2026_06_04_Gerrymandering/original.jpg"
@@ -142,21 +158,5 @@
     "author": "Nicholas Florko",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/qzC_ojh-QZYy3SJ8J6YXJ5V0jzs=/134x0:1822x1125/210x140/media/img/mt/2026/06/LaurenRoche_Atlantic_horizontal_1/original.jpg"
-  },
-  {
-    "title": "Photos: A Family’s Final Trip Before the Father’s Self-Deportation",
-    "url": "https://www.theatlantic.com/photography/2026/06/photos-graduation-celebration-and-self-deportation-honduras/687414/",
-    "description": "John Moore, a photojournalist with Getty Images, recently traveled with Marvin Suazo and his family on a final trip before a painful separation, when Suazo self-deported to Honduras. The family fled H",
-    "author": "Alan Taylor",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/XSfJg5z9KXzwMxu4P98wjSuNSio=/58x27:3136x2079/210x140/media/img/mt/2026/06/a01_G_2279428361/original.jpg"
-  },
-  {
-    "title": "How to Save the Supreme Court From Itself",
-    "url": "https://www.theatlantic.com/podcasts/2026/06/david-frum-show-kate-shaw-supreme-court-reform/687411/",
-    "description": "Kate Shaw on reforming the U.S. Supreme Court. Plus: extremism in the Democratic Party, and the history of the wordgraduate.",
-    "author": "David Frum",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/zhKkP-mqRfNDJUIXvCiJ9yTKb8M=/152x0:1772x1080/210x140/media/img/mt/2026/06/2026_6_2_Kate_Shaw_The_David_Frum_Podcast-3/original.jpg"
   }
 ]
