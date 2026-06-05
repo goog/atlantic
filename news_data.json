@@ -1,5 +1,29 @@
 [
   {
+    "title": "Cuts to US ocean programme will hinder monitoring of El Niño and AMOC",
+    "url": "https://www.newscientist.com/article/2529420-cuts-to-us-ocean-programme-will-hinder-monitoring-of-el-nino-and-amoc/",
+    "description": "Scientists warn that the Trump Administration's push to dismantle a vital network of ocean sensing instruments will stymie crucial weather and climate monitoring in the Pacific and Atlantic",
+    "author": "Alec Luhn",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/05165403/SEI_300174813.jpg"
+  },
+  {
+    "title": "Flood of AI 'garbage' is pushing open-source developers to the limit",
+    "url": "https://www.newscientist.com/article/2527761-flood-of-ai-garbage-is-pushing-open-source-developers-to-the-limit/",
+    "description": "The modern world depends on open-source software maintained by volunteers, but the added demands of checking and fixing AI-written submissions are causing some to burn out and quit",
+    "author": "Matthew Sparkes",
+    "category": "Technology",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/05121629/SEI_300074837.jpg"
+  },
+  {
+    "title": "A chromosome from a frozen rat has been resurrected inside mice",
+    "url": "https://www.newscientist.com/article/2529279-a-chromosome-from-a-frozen-rat-has-been-resurrected-inside-mice/",
+    "description": "Mice that contain cells with an added rat chromosome have been created by scientists. The next step is to try this with frozen elephant tissue – and if that works, the team will try it with frozen mammoths",
+    "author": "Michael Le Page",
+    "category": "Life",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/05113609/SEI_300078448.jpg"
+  },
+  {
     "title": "Becoming a parent may make you love your partner less",
     "url": "https://www.newscientist.com/article/2529220-becoming-a-parent-may-make-you-love-your-partner-less/",
     "description": "Parents report loving their partners less within the first year of having a child, but that doesn't mean the feeling is permanent or inevitable",
@@ -22,29 +46,5 @@
     "author": "James Woodford",
     "category": "Humans",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/03134939/SEI_299914194.jpg"
-  },
-  {
-    "title": "The looming El Niño could be bad – but much worse is to come",
-    "url": "https://www.newscientist.com/article/2529026-the-looming-el-nino-could-be-bad-but-much-worse-is-to-come/",
-    "description": "Global warming will amplify the impacts of El Niño events, and could also make them much stronger and more far-reaching",
-    "author": "Michael Le Page",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/03153330/SEI_299943104.jpg"
-  },
-  {
-    "title": "Earth has a mysterious triple symmetry that may influence its climate",
-    "url": "https://www.newscientist.com/article/2528962-earth-has-a-mysterious-triple-symmetry-that-may-influence-its-climate/",
-    "description": "A circle running along the 27° east and 153° west meridians divides the globe into two halves with equal reflectivity – and this may have implications for solar geoengineering schemes",
-    "author": "James Woodford",
-    "category": "Earth",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/02164436/SEI_299801856.jpg"
-  },
-  {
-    "title": "Ditch the niceties in AI prompts to save energy use, say researchers",
-    "url": "https://www.newscientist.com/article/2529017-ditch-the-niceties-in-ai-prompts-to-save-energy-use-say-researchers/",
-    "description": "A UN report warns of the rapid growth in AI energy consumption, but suggests users can improve efficiency by making prompts more concise",
-    "author": "Luke Taylor",
-    "category": "Technology",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/03143630/SEI_299915375.jpg"
   }
 ]
