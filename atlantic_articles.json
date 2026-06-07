@@ -1,6 +1,22 @@
 [
   {
-    "title": "When Fighting Trump Isn’t Enough to Win Another Term",
+    "title": "The Absurd World Cup",
+    "url": "https://www.theatlantic.com/culture/2026/06/gianni-infantino-trump-fifa-world-cup/687465/",
+    "description": "FIFA’s president calls football a great unifier, but is it a match for the chaos of 2026t?",
+    "author": "Chris Jones",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/LDFd0pYkRw7IOLjiR4SIu3tYqfg=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_04_Fifa/original.jpg"
+  },
+  {
+    "title": "The Road Wound Upward",
+    "url": "https://www.theatlantic.com/magazine/2026/07/karl-kirchwey-the-road-wound-upward/687309/",
+    "description": "",
+    "author": "Karl Kirchwey",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/kPYY6xVf96TkrvkQ0F0b75RYzg0=/45x239:2417x1820/210x140/media/img/2026/06/0726_Poem_Hart/original.jpg"
+  },
+  {
+    "title": "The Liberal District That Could Oust a Trump-Defying Democrat",
     "url": "https://www.theatlantic.com/politics/2026/06/goldman-lander-primary-mamdani-democrats/687447/",
     "description": "A New York City congressional race shows the fractures on the left.",
     "author": "Russell Berman",
@@ -8,9 +24,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/F_E7ilrOlFe_XtUzGTVVvqS6aXM=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_06_NY_Dem_mpg/original.jpg"
   },
   {
-    "title": "The Flu-Vaccine Routine Is Breaking",
+    "title": "Flu Vaccines Should Not Be This Hard",
     "url": "https://www.theatlantic.com/health/2026/06/flu-vaccine-acip/687466/",
-    "description": "Normally, the CDC's vaccine advisors weigh in on flu vaccines in June. This year, the panel is in disarray.",
+    "description": "Normally, the CDC’s vaccine advisors weigh in on flu vaccines in June. This year, the panel is in disarray.",
     "author": "Katherine J. Wu",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/zT8sij4Dkudcd2UDQ_85sN7gLko=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_04_vaccine_mpg/original.jpg"
@@ -142,21 +158,5 @@
     "author": "David Sims",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/46OOItrzimtc9Fq1HSg1XFKWLRM=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_04_NateBargatze/original.jpg"
-  },
-  {
-    "title": "What Dogs See That We Can’t",
-    "url": "https://www.theatlantic.com/newsletters/2026/06/what-i-learned-from-my-dog/687437/",
-    "description": "Consciousness separates us from machines. Need convincing? Just take a good look at a faithful canine.",
-    "author": "Boris Kachka",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/6z9TdZXV6nV3PpBAGjoQXr--ZGg=/487x0:5677x3460/210x140/media/img/mt/2026/06/2026_06_04_Books_Briefing_What_dogs_See_That_We_Dont/original.jpg"
-  },
-  {
-    "title": "The Republicans Who Impugn Talarico’s Manhood",
-    "url": "https://www.theatlantic.com/ideas/2026/06/james-talarico-senate-paxton/687436/",
-    "description": "Attacks on the Democratic Senate candidate in Texas show the GOP’s narrow, anxious definition of masculinity.",
-    "author": "Helen Lewis",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/k2_Ed30vIUvngLT4FtJGEF3mycM=/357x0:2787x1620/210x140/media/img/mt/2026/06/2026_06_04_Texas_Republicans_Paint_Talarico_as_Unmanly/original.jpg"
   }
 ]
