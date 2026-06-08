@@ -1,5 +1,21 @@
 [
   {
+    "title": "Unpicking endometriosis reveals how it affects more than the pelvis",
+    "url": "https://www.newscientist.com/article/2529403-unpicking-endometriosis-reveals-how-it-affects-more-than-the-pelvis/",
+    "description": "Endometriosis is usually thought of as a gynaecological condition, but a huge study shows it has links with cholesterol levels, inflammation and an altered microbiome",
+    "author": "Helen Thomson",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/08102659/SEI_300193685.jpg"
+  },
+  {
+    "title": "You could get some of the benefits of sleep without having to nod off",
+    "url": "https://www.newscientist.com/article/2529507-you-could-get-some-of-the-benefits-of-sleep-without-having-to-nod-off/",
+    "description": "Mice seemed to reap some of the benefits of sleep by having their brain activity stimulated while they were awake, and the researchers plan to test the approach on people",
+    "author": "Tosin Thompson",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/08112905/SEI_300611374.jpg"
+  },
+  {
     "title": "Are we getting to the point where it's safe to gene-edit babies?",
     "url": "https://www.newscientist.com/article/2529355-are-we-getting-to-the-point-where-its-safe-to-gene-edit-babies/",
     "description": "A team in the US has reported promising results after using an improved form of CRISPR to gene-edit human embryos, but a major issue remains unsolved",
@@ -26,25 +42,9 @@
   {
     "title": "A chromosome from a frozen rat has been resurrected inside mice",
     "url": "https://www.newscientist.com/article/2529279-a-chromosome-from-a-frozen-rat-has-been-resurrected-inside-mice/",
-    "description": "Mice that contain cells with an added rat chromosome have been created by scientists. The next step is to try this with frozen elephant tissue – and if that works, the team will try it with frozen mammoths",
+    "description": "Mice that contain cells with an added rat chromosome have been created by scientists. The next step is to try this with frozen elephant tissue &ndash; and if that works, the team will try it with frozen mammoths",
     "author": "Michael Le Page",
     "category": "Life",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/05113609/SEI_300078448.jpg"
-  },
-  {
-    "title": "Becoming a parent may make you love your partner less",
-    "url": "https://www.newscientist.com/article/2529220-becoming-a-parent-may-make-you-love-your-partner-less/",
-    "description": "Parents report loving their partners less within the first year of having a child, but that doesn't mean the feeling is permanent or inevitable",
-    "author": "Carissa Wong",
-    "category": "Mind",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/04144516/SEI_299940390.jpg"
-  },
-  {
-    "title": "Mysterious ‘cold blob’ in the Atlantic suggests the AMOC is weakening",
-    "url": "https://www.newscientist.com/article/2529078-mysterious-cold-blob-in-the-atlantic-suggests-the-amoc-is-weakening/",
-    "description": "A patch of ocean south-east of Greenland is the only place on Earth that is cooling, and it could be a sign that the warm water \"conveyor belt\" in the Atlantic is slowing down",
-    "author": "Alec Luhn",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/04104247/SEI_299957227.jpg"
   }
 ]
