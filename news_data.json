@@ -1,5 +1,21 @@
 [
   {
+    "title": "Can Apple and Google stop children from sharing explicit images?",
+    "url": "https://www.newscientist.com/article/2529562-can-apple-and-google-stop-children-from-sharing-explicit-images/",
+    "description": "UK Prime Minister Keir Starmer has warned tech firms, including Apple and Google, that they must voluntarily implement tools to stop children sharing explicit images, but experts warn this is easier said than done",
+    "author": "Chris Stokel-Walker",
+    "category": "Technology",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/08165437/SEI_300641453.jpg"
+  },
+  {
+    "title": "Half the world's reservoirs could be clogged up with dirt by 2060",
+    "url": "https://www.newscientist.com/article/2529526-half-the-worlds-reservoirs-could-be-clogged-up-with-dirt-by-2060/",
+    "description": "Each decade the world is losing over 7 per cent of its freshwater storage capacity to sediment build-up, according to an analysis of over half a million reservoirs",
+    "author": "James Woodford",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/08124717/SEI_300622845.jpg"
+  },
+  {
     "title": "Unpicking endometriosis reveals how it affects more than the pelvis",
     "url": "https://www.newscientist.com/article/2529403-unpicking-endometriosis-reveals-how-it-affects-more-than-the-pelvis/",
     "description": "Endometriosis is usually thought of as a gynaecological condition, but a huge study shows it has links with cholesterol levels, inflammation and an altered microbiome",
@@ -30,21 +46,5 @@
     "author": "Alec Luhn",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/05165403/SEI_300174813.jpg"
-  },
-  {
-    "title": "Flood of AI 'garbage' is pushing open-source developers to the limit",
-    "url": "https://www.newscientist.com/article/2527761-flood-of-ai-garbage-is-pushing-open-source-developers-to-the-limit/",
-    "description": "The modern world depends on open-source software maintained by volunteers, but the added demands of checking and fixing AI-written submissions are causing some to burn out and quit",
-    "author": "Matthew Sparkes",
-    "category": "Technology",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/05121629/SEI_300074837.jpg"
-  },
-  {
-    "title": "A chromosome from a frozen rat has been resurrected inside mice",
-    "url": "https://www.newscientist.com/article/2529279-a-chromosome-from-a-frozen-rat-has-been-resurrected-inside-mice/",
-    "description": "Mice that contain cells with an added rat chromosome have been created by scientists. The next step is to try this with frozen elephant tissue &ndash; and if that works, the team will try it with frozen mammoths",
-    "author": "Michael Le Page",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/05113609/SEI_300078448.jpg"
   }
 ]
