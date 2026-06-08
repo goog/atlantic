@@ -1,5 +1,13 @@
 [
   {
+    "title": "Wildlife thrives in solar farm built on restored peatland",
+    "url": "https://www.newscientist.com/article/2529590-wildlife-thrives-in-solar-farm-built-on-restored-peatland/",
+    "description": "A diverse range of bird species has been recorded at a solar park on rewetted peatland in Germany, suggesting that combining energy generation with habitat restoration could benefit biodiversity, the climate and the economy",
+    "author": "Alec Luhn",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/08164415/SEI_300616366.jpg"
+  },
+  {
     "title": "Can Apple and Google stop children from sharing explicit images?",
     "url": "https://www.newscientist.com/article/2529562-can-apple-and-google-stop-children-from-sharing-explicit-images/",
     "description": "UK Prime Minister Keir Starmer has warned tech firms, including Apple and Google, that they must voluntarily implement tools to stop children sharing explicit images, but experts warn this is easier said than done",
@@ -38,13 +46,5 @@
     "author": "Michael Le Page",
     "category": "Health",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/05183609/SEI_300162347.jpg"
-  },
-  {
-    "title": "Cuts to US ocean programme will hinder monitoring of El Niño and AMOC",
-    "url": "https://www.newscientist.com/article/2529420-cuts-to-us-ocean-programme-will-hinder-monitoring-of-el-nino-and-amoc/",
-    "description": "Scientists warn that the Trump administration's push to dismantle a vital network of ocean-sensing instruments will stymie crucial weather and climate monitoring in the Pacific and Atlantic",
-    "author": "Alec Luhn",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/05165403/SEI_300174813.jpg"
   }
 ]
