@@ -1,5 +1,29 @@
 [
   {
+    "title": "AtlanticTrivia: Don’t Throw in the Towel",
+    "url": "https://www.theatlantic.com/trivia/2026/06/09-trump-ufc-fight-white-house-martial-arts/687484/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Tom Nichols",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/G-NLEueLVoWWNx2fqCOWB8OTWjo=/152x0:1772x1080/210x140/media/img/mt/2026/06/trivia_yellow-1/original.jpg"
+  },
+  {
+    "title": "Driving in America Is Headlight Hell",
+    "url": "https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/",
+    "description": "Car bulbs don’t have to be this blinding.",
+    "author": "Andrew Moseman",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/EbBmur0h-rvG0vx07sAxWVWMpjc=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_03_Moseman_Car_headlights_final/original.jpg"
+  },
+  {
+    "title": "The Revolutionary Gordon Wood",
+    "url": "https://www.theatlantic.com/ideas/2026/06/revolutionary-gordon-wood-historian/687487/",
+    "description": "The historian who recovered the radicalism of the American founding died on Sunday.",
+    "author": "Craig Bruce Smith",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/R-dX9XiAcMJ1KCTuJcgUU8rEkxA=/340x0:3988x2432/210x140/media/img/mt/2026/06/2026_06_08_Gordon_Wood_1/original.jpg"
+  },
+  {
     "title": "Obama’s and Trump’s Presidential Centers Have One Thing in Common",
     "url": "https://www.theatlantic.com/culture/2026/06/obama-center-history/687453/",
     "description": "The new Obama Presidential Center, in Chicago, is inspiring—but departs from other presidential libraries in a crucial, and risky, way.",
@@ -134,29 +158,5 @@
     "author": "Jeffrey Goldberg",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/-mRG_FOGh_2jVSplly88bPCVpjE=/44x0:2357x1542/210x140/media/img/2026/06/Feb1862Issue_1/original.png"
-  },
-  {
-    "title": "How America Gave Up on Its Own History",
-    "url": "https://www.theatlantic.com/magazine/2026/07/american-history-common-narrative/687301/",
-    "description": "Unable to agree on how to interpret the American story, the country’s schools, universities, and political institutions have stopped trying to tell it at all.",
-    "author": "Yoni Appelbaum",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/7504XFA_a5v0H8ZUFiXkIX71tbc=/234x141:5468x3630/210x140/media/img/2026/05/Atlantic_History_Final_02_notext/original.jpg"
-  },
-  {
-    "title": "The Absurd World Cup",
-    "url": "https://www.theatlantic.com/culture/2026/06/gianni-infantino-trump-fifa-world-cup/687465/",
-    "description": "FIFA’s president calls football a great unifier, but is it a match for the chaos of 2026?",
-    "author": "Chris Jones",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/LDFd0pYkRw7IOLjiR4SIu3tYqfg=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_04_Fifa/original.jpg"
-  },
-  {
-    "title": "The Road Wound Upward",
-    "url": "https://www.theatlantic.com/magazine/2026/07/karl-kirchwey-the-road-wound-upward/687309/",
-    "description": "",
-    "author": "Karl Kirchwey",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/kPYY6xVf96TkrvkQ0F0b75RYzg0=/45x239:2417x1820/210x140/media/img/2026/06/0726_Poem_Hart/original.jpg"
   }
 ]
