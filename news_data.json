@@ -1,5 +1,21 @@
 [
   {
+    "title": "Dinosaur-killing asteroid impact site stayed hot for millions of years",
+    "url": "https://www.newscientist.com/article/2529627-dinosaur-killing-asteroid-impact-site-stayed-hot-for-millions-of-years/",
+    "description": "Drill cores at the impact site of the Chicxulub asteroid show evidence that, alongside widespread destruction, the collision created a vast underground ecosystem filled with hot water that sheltered microbial life",
+    "author": "James Woodford",
+    "category": "Earth",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/09090123/SEI_300642408.jpg"
+  },
+  {
+    "title": "Why we should all take quantum physics extremely personally",
+    "url": "https://www.newscientist.com/article/2529183-why-we-should-all-take-quantum-physics-extremely-personally/",
+    "description": "Physics is considered a cold, hard science – but it will transform your life if you view it with a bit more subjectivity, says Karmela Padavic-Callaghan",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "Physics",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/04113938/SEI_299933702.jpg"
+  },
+  {
     "title": "Wildlife thrives in solar farm built on restored peatland",
     "url": "https://www.newscientist.com/article/2529590-wildlife-thrives-in-solar-farm-built-on-restored-peatland/",
     "description": "A diverse range of bird species has been recorded at a solar park on rewetted peatland in Germany, suggesting that combining energy generation with habitat restoration could benefit biodiversity, the climate and the economy",
@@ -30,21 +46,5 @@
     "author": "Helen Thomson",
     "category": "Health",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/08102659/SEI_300193685.jpg"
-  },
-  {
-    "title": "You could get some of the benefits of sleep without having to nod off",
-    "url": "https://www.newscientist.com/article/2529507-you-could-get-some-of-the-benefits-of-sleep-without-having-to-nod-off/",
-    "description": "Mice seemed to reap some of the benefits of sleep by having their brain activity stimulated while they were awake, and the researchers plan to test the approach on people",
-    "author": "Tosin Thompson",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/08112905/SEI_300611374.jpg"
-  },
-  {
-    "title": "Are we getting to the point where it's safe to gene-edit babies?",
-    "url": "https://www.newscientist.com/article/2529355-are-we-getting-to-the-point-where-its-safe-to-gene-edit-babies/",
-    "description": "A team in the US has reported promising results after using an improved form of CRISPR to gene-edit human embryos, but a major issue remains unsolved",
-    "author": "Michael Le Page",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/05183609/SEI_300162347.jpg"
   }
 ]
