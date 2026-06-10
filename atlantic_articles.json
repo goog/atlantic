@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Divided World Cup",
+    "url": "https://www.theatlantic.com/newsletters/2026/06/fifa-world-cup-divided-continent-us-mexico-canada/687505/",
+    "description": "This year’s World Cup was framed as a festival of North American unity. Instead, the tournament is testing how much of that unity remains.",
+    "author": "Rafaela Jinich",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/4SyO1q0mWQDaoAFmBfc-Vfam2nk=/226x0:2656x1620/210x140/media/newsletters/2026/06/2026_06_08_DailyWorldCup/original.jpg"
+  },
+  {
+    "title": "Democrats Are Starting to Worry About California",
+    "url": "https://www.theatlantic.com/politics/2026/06/california-election-2026-governor/687494/",
+    "description": "California’s slow vote-count is spawning conspiracy theories.",
+    "author": "Russell BermanandYvonne Wingett Sanchez",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/9aa9qEYwN30odb1-8HPPEagqRpk=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_08_California_votes/original.jpg"
+  },
+  {
     "title": "AtlanticTrivia: The Worms Are Turning",
     "url": "https://www.theatlantic.com/trivia/2026/06/10-screwworm-texas-cows-beef-agriculture-secretary/687499/",
     "description": "Test your knowledge—and read our stories for a little extra help.",
@@ -142,21 +158,5 @@
     "author": "Craig Bruce Smith",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/R-dX9XiAcMJ1KCTuJcgUU8rEkxA=/340x0:3988x2432/210x140/media/img/mt/2026/06/2026_06_08_Gordon_Wood_1/original.jpg"
-  },
-  {
-    "title": "Obama’s and Trump’s Presidential Centers Have One Thing in Common",
-    "url": "https://www.theatlantic.com/culture/2026/06/obama-center-history/687453/",
-    "description": "The new Obama Presidential Center, in Chicago, is inspiring—but departs from other presidential libraries in a crucial, and risky, way.",
-    "author": "Kelsey Ables",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Wl_AvsvAqLDfXzc4buXxl8MGV1I=/203x182:4838x3272/210x140/media/img/mt/2026/06/Copy_of_260603_ObamaLibrary_4279/original.jpg"
-  },
-  {
-    "title": "An Alien Movie for a Post-Truth Moment",
-    "url": "https://www.theatlantic.com/culture/2026/06/disclosure-day-spielberg-movie-review/687474/",
-    "description": "Steven Spielberg makes a plea for empathy withDisclosure Day.",
-    "author": "David Sims",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/LkJVB5Nl666oh1B6mAxyoCbUYZQ=/179x0:2753x1716/210x140/media/img/mt/2026/06/2026_06_08_Disclosure_Day_TK/original.jpg"
   }
 ]
