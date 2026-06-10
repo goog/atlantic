@@ -1,5 +1,21 @@
 [
   {
+    "title": "AtlanticTrivia: The Worms Are Turning",
+    "url": "https://www.theatlantic.com/trivia/2026/06/10-screwworm-texas-cows-beef-agriculture-secretary/687499/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Tom Nichols",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/2KLBJ7Z2ZruSMA-ZS1uryTWAuXk=/148x0:1770x1081/210x140/media/img/mt/2026/06/trivia_peach-1/original.png"
+  },
+  {
+    "title": "A Crime Doesn’t Make a Child an Adult",
+    "url": "https://www.theatlantic.com/ideas/2026/06/kids-adult-time-counterproductive/687449/",
+    "description": "Harsher penalties for juveniles are counterproductive.",
+    "author": "Elizabeth Bruenig",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/xZvVgsBhVWHIkIy_YP8Wlm8e-wA=/158x0:1845x1125/210x140/media/img/mt/2026/06/2026_05_20_Should_Violent_Kids_do_Adult_Time02/original.jpg"
+  },
+  {
     "title": "Republicans vs. the Fourteenth Amendment",
     "url": "https://www.theatlantic.com/podcasts/2026/06/david-frum-show-david-blight-fourteenth-amendment/687497/",
     "description": "Professor David W. Blight on President Trump’s war on the Fourteenth Amendment. Plus: Brexit at 10 years and1873by Liaquat Ahamed.",
@@ -142,21 +158,5 @@
     "author": "David Sims",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/LkJVB5Nl666oh1B6mAxyoCbUYZQ=/179x0:2753x1716/210x140/media/img/mt/2026/06/2026_06_08_Disclosure_Day_TK/original.jpg"
-  },
-  {
-    "title": "Actually, the SAT Was Necessary After All",
-    "url": "https://www.theatlantic.com/ideas/2026/06/standardized-testing-math-gaps/687481/",
-    "description": "University of California faculty are in open revolt over the lack of standardized test scores.",
-    "author": "Idrees Kahloon",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/z2SGDAoEEzRQnJ8npcAlXueXZ9Q=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_03_UC_math/original.jpg"
-  },
-  {
-    "title": "Why This Summer’s Airfares Are Unaffordable—And Unpredictable",
-    "url": "https://www.theatlantic.com/ideas/2026/06/flight-price-prediction-oil-prices/687479/",
-    "description": "The normal patterns of price changes may no longer hold true.",
-    "author": "Henry Grabar",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/PXMC9cb4FdhpzsyY2rUtLMbgGAo=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_04_Airfare/original.jpg"
   }
 ]
