@@ -1,5 +1,13 @@
 [
   {
+    "title": "Robots are about to overtake armed soldiers as the deciders of war",
+    "url": "https://www.newscientist.com/article/2529267-robots-are-about-to-overtake-armed-soldiers-as-the-deciders-of-war/",
+    "description": "Uncrewed ground vehicles have already been tested for defending the front line by the Ukrainian military. Despite their limitations, these remotely controlled robots could be the deciding factor in many conflicts",
+    "author": "David Hambling",
+    "category": "Technology",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/04163332/SEI_300060576.jpg"
+  },
+  {
     "title": "Iron Age Britons may have removed the brains of the dead",
     "url": "https://www.newscientist.com/article/2529799-iron-age-britons-may-have-removed-the-brains-of-the-dead/",
     "description": "Scrape marks inside a skull and sharpened limb bones in a set of remains found in Scotland may be evidence of unusual Iron Age funerary rituals",
@@ -38,13 +46,5 @@
     "author": "Chris Stokel-Walker",
     "category": "Technology",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/08165437/SEI_300641453.jpg"
-  },
-  {
-    "title": "Half the world's reservoirs could be clogged up with dirt by 2060",
-    "url": "https://www.newscientist.com/article/2529526-half-the-worlds-reservoirs-could-be-clogged-up-with-dirt-by-2060/",
-    "description": "Each decade the world is losing over 7 per cent of its freshwater storage capacity to sediment build-up, according to an analysis of over half a million reservoirs",
-    "author": "James Woodford",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/08124717/SEI_300622845.jpg"
   }
 ]
