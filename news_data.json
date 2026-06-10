@@ -1,5 +1,13 @@
 [
   {
+    "title": "A Waymo nearly hit me, but I'm still optimistic about driverless cars",
+    "url": "https://www.newscientist.com/article/2529338-a-waymo-nearly-hit-me-but-im-still-optimistic-about-driverless-cars/",
+    "description": "A near miss with a Waymo while cycling through London hasn't changed my optimistic stance on driverless cars, but we can't ever let our guard down, says Matthew Sparkes",
+    "author": "Matthew Sparkes",
+    "category": "Technology",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/09170226/SEI_300741524.jpg"
+  },
+  {
     "title": "Robots are about to overtake armed soldiers as the deciders of war",
     "url": "https://www.newscientist.com/article/2529267-robots-are-about-to-overtake-armed-soldiers-as-the-deciders-of-war/",
     "description": "Uncrewed ground vehicles have already been tested for defending the front line by the Ukrainian military. Despite their limitations, these remotely controlled robots could be the deciding factor in many conflicts",
@@ -13,7 +21,7 @@
     "description": "Scrape marks inside a skull and sharpened limb bones in a set of remains found in Scotland may be evidence of unusual Iron Age funerary rituals",
     "author": "Chris Simms",
     "category": "Humans",
-    "image": "https://images.newscientist.com/wp-content/uploads/2024/04/17102106/new-scientist-social-meta-image.png"
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/09170542/SEI_300737718.jpg"
   },
   {
     "title": "Frozen squirrel scat preserves ancient DNA from hundreds of species",
@@ -38,13 +46,5 @@
     "author": "Alec Luhn",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/08164415/SEI_300616366.jpg"
-  },
-  {
-    "title": "Can Apple and Google stop children from sharing explicit images?",
-    "url": "https://www.newscientist.com/article/2529562-can-apple-and-google-stop-children-from-sharing-explicit-images/",
-    "description": "UK Prime Minister Keir Starmer has warned tech firms, including Apple and Google, that they must voluntarily implement tools to stop children sharing explicit images, but experts warn this is easier said than done",
-    "author": "Chris Stokel-Walker",
-    "category": "Technology",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/08165437/SEI_300641453.jpg"
   }
 ]
