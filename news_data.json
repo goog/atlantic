@@ -1,5 +1,21 @@
 [
   {
+    "title": "Wolves seen hunting European bison in rare camera-trap recording",
+    "url": "https://www.newscientist.com/article/2529929-wolves-seen-hunting-european-bison-in-rare-camera-trap-recording/",
+    "description": "Europe’s largest land animal, the bison, is thought to be relatively unthreatened by predators, but footage from Białowieża Primaeval Forest in Poland shows it does face attacks from wolves",
+    "author": "Gennaro Tomma",
+    "category": "Life",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/10141014/SEI_300740774.jpg"
+  },
+  {
+    "title": "Millions of fossil whale bones found in deep-ocean ‘necropolis’",
+    "url": "https://www.newscientist.com/article/2529864-millions-of-fossil-whale-bones-found-in-deep-ocean-necropolis/",
+    "description": "Researchers diving 7 kilometres deep in a crewed submersible have discovered a vast collection of whale bones, including fossils up to 5 million years old and species new to science",
+    "author": "James Woodford",
+    "category": "Life",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/10112743/SEI_300827211.jpg"
+  },
+  {
     "title": "A nuclear war between India and Pakistan could destroy the ozone layer",
     "url": "https://www.newscientist.com/article/2529589-a-nuclear-war-between-india-and-pakistan-could-destroy-the-ozone-layer/",
     "description": "Climate models suggest a small nuclear war in the tropics would do even more damage to the ozone layer than a larger nuclear war in more northerly latitudes, increasing exposure to dangerous ultraviolet radiation all over the world",
@@ -30,21 +46,5 @@
     "author": "David Hambling",
     "category": "Technology",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/04163332/SEI_300060576.jpg"
-  },
-  {
-    "title": "Iron Age Britons may have removed the brains of the dead",
-    "url": "https://www.newscientist.com/article/2529799-iron-age-britons-may-have-removed-the-brains-of-the-dead/",
-    "description": "Scrape marks inside a skull and sharpened limb bones in a set of remains found in Scotland may be evidence of unusual Iron Age funerary rituals",
-    "author": "Chris Simms",
-    "category": "Humans",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/09170542/SEI_300737718.jpg"
-  },
-  {
-    "title": "Frozen squirrel scat preserves ancient DNA from hundreds of species",
-    "url": "https://www.newscientist.com/article/2529635-frozen-squirrel-scat-preserves-ancient-dna-from-hundreds-of-species/",
-    "description": "A complex ecosystem of woolly mammoths, bison, horses and big cats has been elucidated by studying the faeces of small rodents that probably ate the bigger animals",
-    "author": "Chris Simms",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/09093104/SEI_300630476.jpg"
   }
 ]
