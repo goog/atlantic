@@ -1,5 +1,21 @@
 [
   {
+    "title": "A nuclear war between India and Pakistan could destroy the ozone layer",
+    "url": "https://www.newscientist.com/article/2529589-a-nuclear-war-between-india-and-pakistan-could-destroy-the-ozone-layer/",
+    "description": "Climate models suggest a small nuclear war in the tropics would do even more damage to the ozone layer than a larger nuclear war in more northerly latitudes, increasing exposure to dangerous ultraviolet radiation all over the world",
+    "author": "Michael Le Page",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/09104110/SEI_300642957.jpg"
+  },
+  {
+    "title": "Fully autonomous drones have killed human soldiers for the first time",
+    "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/",
+    "description": "A senior figure in the Ukrainian defence industry told New Scientist that a test took place two years ago involving fully autonomous drones set to destroy anything in a given area, with confirmed casualties",
+    "author": "Matthew Sparkes",
+    "category": "Technology",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/10104553/SEI_300076919.jpg"
+  },
+  {
     "title": "A Waymo nearly hit me, but I'm still optimistic about driverless cars",
     "url": "https://www.newscientist.com/article/2529338-a-waymo-nearly-hit-me-but-im-still-optimistic-about-driverless-cars/",
     "description": "A near miss with a Waymo while cycling through London hasn't changed my optimistic stance on driverless cars, but we can't ever let our guard down, says Matthew Sparkes",
@@ -30,21 +46,5 @@
     "author": "Chris Simms",
     "category": "Life",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/09093104/SEI_300630476.jpg"
-  },
-  {
-    "title": "Dinosaur-killing asteroid impact site stayed hot for millions of years",
-    "url": "https://www.newscientist.com/article/2529627-dinosaur-killing-asteroid-impact-site-stayed-hot-for-millions-of-years/",
-    "description": "Drill cores at the impact site of the Chicxulub asteroid show evidence that, alongside widespread destruction, the collision created a vast underground ecosystem filled with hot water that sheltered microbial life",
-    "author": "James Woodford",
-    "category": "Earth",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/09090123/SEI_300642408.jpg"
-  },
-  {
-    "title": "Wildlife thrives in solar farm built on restored peatland",
-    "url": "https://www.newscientist.com/article/2529590-wildlife-thrives-in-solar-farm-built-on-restored-peatland/",
-    "description": "A diverse range of bird species has been recorded at a solar park on rewetted peatland in Germany, suggesting that combining energy generation with habitat restoration could benefit biodiversity, the climate and the economy",
-    "author": "Alec Luhn",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/08164415/SEI_300616366.jpg"
   }
 ]
