@@ -1,5 +1,77 @@
 [
   {
+    "title": "America’s Go-To Climate Scientist",
+    "url": "https://www.theatlantic.com/science/2026/06/climate-weather-scientist-daniel-swain/687457/",
+    "description": "Daniel Swain has become a ubiquitous explainer of America’s extreme weather.",
+    "author": "Jason Dove Mark",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/n0cNLq1tMtcL9wwGauwWU9jZQqc=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_05_Mark_Climate_Scientist_final_horizontal-1/original.jpg"
+  },
+  {
+    "title": "Disneyland With No People",
+    "url": "https://www.theatlantic.com/magazine/2026/07/steve-martin-diane-arbus-disneyland/687319/",
+    "description": "My encounter with a giant of American photography",
+    "author": "Steve Martin",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/f7zL1TZ6kasYZ5uqvsCteLWe-PM=/158x0:1845x1125/210x140/media/img/2026/06/DIS_Viewfinder_ArbusDisney/original.jpg"
+  },
+  {
+    "title": "Hunter Biden’s Life After Shame",
+    "url": "https://www.theatlantic.com/ideas/2026/06/hunter-biden-shameless-media/687502/",
+    "description": "What is the former president’s son hoping to achieve?",
+    "author": "Helen Lewis",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/pivMyu1aTVegUGFA2b2W-RPL2Xk=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_10_Hunter_Biden_and_the_Dems_Politics_of_Redemption/original.jpg"
+  },
+  {
+    "title": "Inside America’s Ugly Birthday Battle",
+    "url": "https://www.theatlantic.com/politics/2026/06/trump-250-great-american-state-fair/687456/",
+    "description": "Trump advisers broke an agreement to fund the bipartisan semiquincentennial celebrations, saying they will not “light taxpayer money on fire.”",
+    "author": "Michael Scherer",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/8D9xsklbH7t12P_ioYZK7I57D7U=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_08_Trumps_Takeover_of_the_Great_American_State_Fair_Michael_Scherer/original.jpg"
+  },
+  {
+    "title": "Fruit Is Too Sweet",
+    "url": "https://www.theatlantic.com/culture/2026/06/fruit-sweet-sumo-cotton-candy-grape/687507/",
+    "description": "It’s like candy now—for better or for worse.",
+    "author": "Ellen Cushing",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/UxtGas33JoO1wjLpT-Y0vPRG55g=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_02_Fruit_candy_1/original.jpg"
+  },
+  {
+    "title": "Trump Isn’t Giving Up on His Slush Fund",
+    "url": "https://www.theatlantic.com/politics/2026/06/trump-anti-weaponization-fund/687500/",
+    "description": "Despite insisting that a $1.776 billion “anti-weaponization” fund has been scrapped, the administration is quietly assuring allies that payout plans remain on track.",
+    "author": "Sarah Fitzpatrick",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/au8YBsuLGs7GwikuIBD8_W5i63s=/421x0:4963x3028/210x140/media/img/mt/2026/06/2026_06_10_Trump_Weaponization_Fund/original.jpg"
+  },
+  {
+    "title": "When Both Parties Try to Out-Macho Each Other",
+    "url": "https://www.theatlantic.com/podcasts/2026/06/masculinity-politics-james-talarico-graham-platner/687498/",
+    "description": "The modern politics of masculinity",
+    "author": "Hanna Rosin",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/crkCHfGb2bbAMYkSDn8lqrdZgXs=/488x0:3863x2250/210x140/media/img/mt/2026/06/Radio_Atlantic_Vertical_Platner/original.jpg"
+  },
+  {
+    "title": "As American as the Forward Pass",
+    "url": "https://www.theatlantic.com/magazine/2026/07/american-sports-culture-origins/687302/",
+    "description": "To understand the history of the nation, look to the history of its sports.",
+    "author": "Sally Jenkins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Gvxtf5FeB8_pPiGSbMlHmt2hmh0=/152x0:1772x1080/210x140/media/img/2026/05/16x9_WEL_Jenkins_1_Opener/original.png"
+  },
+  {
+    "title": "Trump Once Played Soccer",
+    "url": "https://www.theatlantic.com/politics/2026/06/trump-soccer-world-cup-fifa/687450/",
+    "description": "",
+    "author": "Matt Viser",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Hgowl0CJqt_wHZvyLZ6d_P96zqU=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_11_Why_Does_Trump_Like_Soccer_Matt_Viser/original.jpg"
+  },
+  {
     "title": "The Divided World Cup",
     "url": "https://www.theatlantic.com/newsletters/2026/06/fifa-world-cup-divided-continent-us-mexico-canada/687505/",
     "description": "This year’s tournament was framed as a festival of North American unity. Instead, it is testing how much of that unity remains.",
@@ -86,77 +158,5 @@
     "author": "Charlie Warzel",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/lsG7AhP4UPS4pWnbem7LOfuqkrw=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_09_Doge_Bros_Want_Another_Shot/original.jpg"
-  },
-  {
-    "title": "The Crisis Iran’s Leaders Can’t Ignore",
-    "url": "https://www.theatlantic.com/international/2026/06/iran-economy-crisis/687489/",
-    "description": "Two months into the cease-fire, the Iranian economy lies in tatters.",
-    "author": "Arash Azizi",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/-ap5ipx-yTdPfDcPNT7_8ME__eU=/473x0:5536x3375/210x140/media/img/mt/2026/06/2026_06_09_Irans_Economy_is_Bad/original.jpg"
-  },
-  {
-    "title": "Off CampusIs Driving Women Wild. Why?",
-    "url": "https://www.theatlantic.com/culture/2026/06/off-campus-rivals-romantic-heroes/687483/",
-    "description": "The Amazon show dares to dream that romantic love need not be a clash of wills.",
-    "author": "Sophie Gilbert",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/anjAuMTugj3Kboh6LoXzAWehFVk=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_08_Off_Campus/original.jpg"
-  },
-  {
-    "title": "American Christians Face a Choice",
-    "url": "https://www.theatlantic.com/ideas/2026/06/christian-humanism-trump-choice/687475/",
-    "description": "The faithful can still repair the wreckage they have wrought.",
-    "author": "Peter Wehner",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/9cnajDmnsBhuIce7DbNC4VPpsaU=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_07_Christians_Face_a_Choice_Pete_Wehner/original.jpg"
-  },
-  {
-    "title": "How Britain Became as Poor as Mississippi",
-    "url": "https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/",
-    "description": "",
-    "author": "Idrees Kahloon",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/kZBnBvaA1Ajb2aWAIA-mRTzFboo=/38x1170:2005x2481/210x140/media/img/2026/05/BrexitLead_Final/original.jpg"
-  },
-  {
-    "title": "The Screwworm Is Messing With America’s Beef",
-    "url": "https://www.theatlantic.com/newsletters/2026/06/screwworm-parasite-threatening-cows-beef/687492/",
-    "description": "The parasite couldn’t have come back at a worse moment.",
-    "author": "Will Gottsegen",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/-pfu1mi4SUx1QwONa9eQe_xXxjU=/448x0:5292x3229/210x140/media/newsletters/2026/06/2025_06_09_The_Daily_Flesh_Eating_Worm/original.jpg"
-  },
-  {
-    "title": "A Disorienting Weekend With the Women of Turning Point",
-    "url": "https://www.theatlantic.com/politics/2026/06/turning-point-usa-erika-kirk/687486/",
-    "description": "Some sounded vaguely feminist; one doesn’t want women to vote.",
-    "author": "Elaine Godfrey",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/9K4M_t7Aa8X1mOi2nWxOXiJIoLk=/35x82:1412x1000/210x140/media/img/mt/2026/06/2026_06_06_Atlantic_TPUSA_023/original.jpg"
-  },
-  {
-    "title": "AtlanticTrivia: Don’t Throw in the Towel",
-    "url": "https://www.theatlantic.com/trivia/2026/06/09-trump-ufc-fight-white-house-martial-arts/687484/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Tom Nichols",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/G-NLEueLVoWWNx2fqCOWB8OTWjo=/152x0:1772x1080/210x140/media/img/mt/2026/06/trivia_yellow-1/original.jpg"
-  },
-  {
-    "title": "Driving in America Is Headlight Hell",
-    "url": "https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/",
-    "description": "Car bulbs don’t have to be this blinding.",
-    "author": "Andrew Moseman",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/EbBmur0h-rvG0vx07sAxWVWMpjc=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_03_Moseman_Car_headlights_final/original.jpg"
-  },
-  {
-    "title": "The Revolutionary Gordon Wood",
-    "url": "https://www.theatlantic.com/ideas/2026/06/revolutionary-gordon-wood-historian/687487/",
-    "description": "The historian who recovered the radicalism of the American founding died on Sunday.",
-    "author": "Craig Bruce Smith",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/R-dX9XiAcMJ1KCTuJcgUU8rEkxA=/340x0:3988x2432/210x140/media/img/mt/2026/06/2026_06_08_Gordon_Wood_1/original.jpg"
   }
 ]

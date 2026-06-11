@@ -1,5 +1,13 @@
 [
   {
+    "title": "Toy universe shows that time could be a quantum illusion",
+    "url": "https://www.newscientist.com/article/2529957-toy-universe-shows-that-time-could-be-a-quantum-illusion/",
+    "description": "An experiment with a toy universe made up of extremely cold atoms shows how time can emerge from quantum interactions, instead of existing by default",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "Physics",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/10153059/SEI_300727952.jpg"
+  },
+  {
     "title": "Ditching cigarettes for vapes may curb the cancer benefits of quitting",
     "url": "https://www.newscientist.com/article/2529853-ditching-cigarettes-for-vapes-may-curb-the-cancer-benefits-of-quitting/",
     "description": "A study of 4.5 million people suggests that ex-smokers who take up vaping are more at risk of dying from lung cancer than people who quit without the use of e-cigarettes",
@@ -38,13 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "Technology",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/10104553/SEI_300076919.jpg"
-  },
-  {
-    "title": "A Waymo nearly hit me, but I'm still optimistic about driverless cars",
-    "url": "https://www.newscientist.com/article/2529338-a-waymo-nearly-hit-me-but-im-still-optimistic-about-driverless-cars/",
-    "description": "A near miss with a Waymo while cycling through London hasn't changed my optimistic stance on driverless cars, but we can't ever let our guard down, says Matthew Sparkes",
-    "author": "Matthew Sparkes",
-    "category": "Technology",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/09170226/SEI_300741524.jpg"
   }
 ]
