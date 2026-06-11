@@ -1,8 +1,56 @@
 [
   {
-    "title": "America’s Go-To Climate Scientist",
+    "title": "Why60 MinutesShouldn’t Ignore the Accusations of Bias",
+    "url": "https://www.theatlantic.com/ideas/2026/06/60-minutes-scott-pelley-bias-accusations/687520/",
+    "description": "Scott Pelley’s recent interview reveals why the show should take critiques of its work seriously.",
+    "author": "Conor Friedersdorf",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/MSxge7UGzWFTKjLlAF_b-OHSevI=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_10_60Minutes/original.jpg"
+  },
+  {
+    "title": "The Work That Goes Into ‘Effortless’ Style",
+    "url": "https://www.theatlantic.com/books/2026/06/andrew-sean-greers-villa-coco-novel-book-review/687504/",
+    "description": "Andrew Sean Greer’s new novel is deeper than it looks.",
+    "author": "Jacob Brogan",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/beG_1k7BIrCf3k5ZuwrOStCh5TU=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_10_The_Work_That_Goes_into_Effortless_Style_1/original.jpg"
+  },
+  {
+    "title": "Three Ways to Think About AI and Jobs",
+    "url": "https://www.theatlantic.com/economy/2026/06/ai-job-displacement-questions/687503/",
+    "description": "Whether automation will make human workers obsolete depends on more than just how smart the AI is.",
+    "author": "Rogé Karma",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/fNA7jV7Ij2U27J2IEw9Bh2IoZQE=/152x0:1772x1080/210x140/media/img/mt/2026/06/2026_06_10_AI_Jobs/original.gif"
+  },
+  {
+    "title": "Pete Hegseth, Cornball in Chief",
+    "url": "https://www.theatlantic.com/ideas/2026/06/pete-hegseth-corny/687515/",
+    "description": "The secretary of defense is a fountain of corny performances and rhetoric.",
+    "author": "Tom Nichols",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/LJd4OO6VgIF0xD1Cqr1tFXNIG8k=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_10_Pete_Hegseth_Cornball_in_Chief/original.jpg"
+  },
+  {
+    "title": "The ‘Presumption of Regularity’ Is Evaporating",
+    "url": "https://www.theatlantic.com/ideas/2026/06/trump-doj-judges-lawfare/687501/",
+    "description": "Judges have long defaulted to a posture of trust toward the federal government, but under Trump that is changing, and a new set of legal possibilities is emerging.",
+    "author": "Quinta Jurecic",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Cda82qI3jrMxfMzh5MxS8_wfXSU=/236x0:2768x1688/210x140/media/img/mt/2026/06/2026_06_08_New_Law_of_political_Prosecutios/original.jpg"
+  },
+  {
+    "title": "I Trained as a Dancer. Then I Saw the Robots Move.",
+    "url": "https://www.theatlantic.com/culture/2026/06/robot-dance-choreorobotics/687506/",
+    "description": "They were impressive, but could they ever feel human?",
+    "author": "Valerie Trapp",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/QiO4Njvq_tLd8TC9wSUN4IIBWPQ=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_04_29_when_robots_come_for_dance_1/original.jpg"
+  },
+  {
+    "title": "Why the Media Keep Quoting the Same Climate Scientist",
     "url": "https://www.theatlantic.com/science/2026/06/climate-weather-scientist-daniel-swain/687457/",
-    "description": "Daniel Swain has become a ubiquitous explainer of America’s extreme weather.",
+    "description": "Daniel Swain has a knack for breaking down the complexities of climate and weather into precise but accessible ideas.",
     "author": "Jason Dove Mark",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/n0cNLq1tMtcL9wwGauwWU9jZQqc=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_05_Mark_Climate_Scientist_final_horizontal-1/original.jpg"
@@ -26,7 +74,7 @@
   {
     "title": "Inside America’s Ugly Birthday Battle",
     "url": "https://www.theatlantic.com/politics/2026/06/trump-250-great-american-state-fair/687456/",
-    "description": "Trump advisers broke an agreement to fund the bipartisan semiquincentennial celebrations, saying they will not “light taxpayer money on fire.”",
+    "description": "The Trump administration broke an agreement to fund the bipartisan semiquincentennial celebrations, saying they will not “light taxpayer money on fire.”",
     "author": "Michael Scherer",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/8D9xsklbH7t12P_ioYZK7I57D7U=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_08_Trumps_Takeover_of_the_Great_American_State_Fair_Michael_Scherer/original.jpg"
@@ -96,9 +144,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/2KLBJ7Z2ZruSMA-ZS1uryTWAuXk=/148x0:1770x1081/210x140/media/img/mt/2026/06/trivia_peach-1/original.png"
   },
   {
-    "title": "A Crime Doesn’t Make a Child an Adult",
+    "title": "The One Area Where a 14-Year-Old Is an Adult",
     "url": "https://www.theatlantic.com/ideas/2026/06/kids-adult-time-counterproductive/687449/",
-    "description": "Harsher penalties for juveniles are counterproductive.",
+    "description": "Lawmakers are finding catharsis in sending children to prison.",
     "author": "Elizabeth Bruenig",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/xZvVgsBhVWHIkIy_YP8Wlm8e-wA=/158x0:1845x1125/210x140/media/img/mt/2026/06/2026_05_20_Should_Violent_Kids_do_Adult_Time02/original.jpg"
@@ -110,53 +158,5 @@
     "author": "David Frum",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/nzmZB2f2ECEtCs1HHqNUMgoygc4=/152x0:1772x1080/210x140/media/img/mt/2026/06/2026_6_9_David_Blight_The_David_Frum_Podcast/original.jpg"
-  },
-  {
-    "title": "Photos From Around the North Pacific",
-    "url": "https://www.theatlantic.com/photography/2026/06/photos-around-north-pacific/687490/",
-    "description": "A collection of images of the varied shorelines, communities, and wildlife found along the Temperate Northern Pacific region stretching from North America to Japan",
-    "author": "Alan Taylor",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/b0eo2L_d3rN82OcKllQYjZZz6i4=/91x0:4909x3212/210x140/media/img/mt/2026/06/a01_G_1068332512/original.jpg"
-  },
-  {
-    "title": "What Is the Democrats’ Answer to ‘America First’?",
-    "url": "https://www.theatlantic.com/national-security/2026/06/democrats-foreign-policy/687470/",
-    "description": "The party wants to do things differently than Trump and better than Biden.",
-    "author": "Missy Ryan",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/HHBXPU75dH25r2z5NA9FqTJKjXs=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_08_What_Does_a_Democratic_Party_Foreign_Policy_Look_Like/original.jpg"
-  },
-  {
-    "title": "The President’s Arsenal of Insults Has a Telling New Entry",
-    "url": "https://www.theatlantic.com/culture/2026/06/trump-kristen-welker-nbc-interview-meltdown/687496/",
-    "description": "Trump’s already notorious interview with NBC’s Kristen Welker was a rare up-close portrait of a presidential meltdown.",
-    "author": "Megan Garber",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/JtN0uHQxW0vnNcOiDmlTVPBCroc=/305x0:3680x2250/210x140/media/img/mt/2026/06/2026_06_10_Trump_Keeps_Throwing_Tantrums_at_Women_Doing_Journalism_Megan_Garber/original.jpg"
-  },
-  {
-    "title": "American Grass Could Ruin the World Cup",
-    "url": "https://www.theatlantic.com/science/2026/06/world-cup-grass-science-artificial-turf/687491/",
-    "description": "Scientists have spent years studying turf to keep it from spoiling the tournament.",
-    "author": "Hana Kiros",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/zhUjrlOqUOaQmc8biBhZ-rIypvQ=/456x0:4001x2363/210x140/media/img/mt/2026/06/2026_06_08_FIFA_Risky_Bet_on_World_Cup_Grass/original.jpg"
-  },
-  {
-    "title": "Your Search Results Are Getting Sloptimized",
-    "url": "https://www.theatlantic.com/technology/2026/06/google-search-ai-optimization/687495/",
-    "description": "How companies are gaming the chatbot internet",
-    "author": "Will Oremus",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/_sYOENDhWgAIH1J2rWc4UquxaKI=/104x0:1199x730/210x140/media/img/mt/2026/06/2026_06_06_AI_slop2_mpg_1/original.gif"
-  },
-  {
-    "title": "The DOGE Bros Want Another Shot",
-    "url": "https://www.theatlantic.com/technology/2026/06/doge-special-figure-health/687493/",
-    "description": "Two former staffers have created a new, perplexing company.",
-    "author": "Charlie Warzel",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/lsG7AhP4UPS4pWnbem7LOfuqkrw=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_09_Doge_Bros_Want_Another_Shot/original.jpg"
   }
 ]

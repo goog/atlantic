@@ -1,5 +1,37 @@
 [
   {
+    "title": "Global map reveals the vast scale of underground fungal networks",
+    "url": "https://www.newscientist.com/article/2530122-global-map-reveals-the-vast-scale-of-underground-fungal-networks/",
+    "description": "Our soils are teeming with networks of fungi, and we're starting to understand how important they are",
+    "author": "Christa Lesté-Lasserre",
+    "category": "Life",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11153907/SEI_300963170.jpg"
+  },
+  {
+    "title": "Have we finally worked out how Venus flytraps snap shut?",
+    "url": "https://www.newscientist.com/article/2530108-have-we-finally-worked-out-how-venus-flytraps-snap-shut/",
+    "description": "It was widely thought that the movement of water through Venus flytrap cells caused the trap to close, but detailed experiments have led scientists to propose an alternative mechanism",
+    "author": "James Woodford",
+    "category": "Life",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11123153/SEI_300632835.jpg"
+  },
+  {
+    "title": "‘Forgotten’ pollutants cause 15 per cent of global warming",
+    "url": "https://www.newscientist.com/article/2530049-forgotten-pollutants-cause-15-per-cent-of-global-warming/",
+    "description": "So-called indirect greenhouse gases, including carbon monoxide and volatile organic compounds, aren’t covered by climate policies even though they heat the planet",
+    "author": "Alec Luhn",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11150204/SEI_300957138.jpg"
+  },
+  {
+    "title": "El Niño has started and the weather could get weird",
+    "url": "https://www.newscientist.com/article/2530202-el-nino-has-started-and-the-weather-could-get-weird/",
+    "description": "Global weather agencies have declared that El Niño has begun, and models show it is more likely than not to be a \"super\" El Niño. The climate pattern boosts extreme weather around the world, and could lead to record temperatures",
+    "author": "Alec Luhn",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11173611/SEI_300976591.jpg"
+  },
+  {
     "title": "Toy universe shows that time could be a quantum illusion",
     "url": "https://www.newscientist.com/article/2529957-toy-universe-shows-that-time-could-be-a-quantum-illusion/",
     "description": "An experiment with a toy universe made up of extremely cold atoms shows how time can emerge from quantum interactions, instead of existing by default",
@@ -14,37 +46,5 @@
     "author": "James Woodford",
     "category": "Health",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/10114243/SEI_300627388.jpg"
-  },
-  {
-    "title": "Wolves seen hunting European bison in rare camera-trap recording",
-    "url": "https://www.newscientist.com/article/2529929-wolves-seen-hunting-european-bison-in-rare-camera-trap-recording/",
-    "description": "Europe’s largest land animal, the bison, is thought to be relatively unthreatened by predators, but footage from Białowieża Primaeval Forest in Poland shows it does face attacks from wolves",
-    "author": "Gennaro Tomma",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/10141014/SEI_300740774.jpg"
-  },
-  {
-    "title": "Millions of fossil whale bones found in deep-ocean ‘necropolis’",
-    "url": "https://www.newscientist.com/article/2529864-millions-of-fossil-whale-bones-found-in-deep-ocean-necropolis/",
-    "description": "Researchers diving 7 kilometres deep in a crewed submersible have discovered a vast collection of whale bones, including fossils up to 5 million years old and species new to science",
-    "author": "James Woodford",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/10112743/SEI_300827211.jpg"
-  },
-  {
-    "title": "A nuclear war between India and Pakistan could destroy the ozone layer",
-    "url": "https://www.newscientist.com/article/2529589-a-nuclear-war-between-india-and-pakistan-could-destroy-the-ozone-layer/",
-    "description": "Climate models suggest a small nuclear war in the tropics would do even more damage to the ozone layer than a larger nuclear war in more northerly latitudes, increasing exposure to dangerous ultraviolet radiation all over the world",
-    "author": "Michael Le Page",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/09104110/SEI_300642957.jpg"
-  },
-  {
-    "title": "Fully autonomous drones have killed human soldiers for the first time",
-    "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/",
-    "description": "A senior figure in the Ukrainian defence industry told New Scientist that a test took place two years ago involving fully autonomous drones set to destroy anything in a given area, with confirmed casualties",
-    "author": "Matthew Sparkes",
-    "category": "Technology",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/10104553/SEI_300076919.jpg"
   }
 ]
