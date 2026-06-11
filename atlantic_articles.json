@@ -1,8 +1,16 @@
 [
   {
-    "title": "Why60 MinutesShouldn’t Ignore the Accusations of Bias",
+    "title": "AtlanticTrivia: Sweet Tooth for Fruit",
+    "url": "https://www.theatlantic.com/trivia/2026/06/11-fruit-grocery-produce-orange/687522/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Tom Nichols",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/_XIdPR0hKhxYVR79GvSEhcxDBUY=/152x0:1772x1080/210x140/media/img/mt/2026/06/trivia_green-1/original.png"
+  },
+  {
+    "title": "Why60 MinutesShould Take Critiques of Its Work Seriously",
     "url": "https://www.theatlantic.com/ideas/2026/06/60-minutes-scott-pelley-bias-accusations/687520/",
-    "description": "Scott Pelley’s recent interview reveals why the show should take critiques of its work seriously.",
+    "description": "Scott Pelley’s recent interview reveals why the show shouldn’t ignore the accusations of bias.",
     "author": "Conor Friedersdorf",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/MSxge7UGzWFTKjLlAF_b-OHSevI=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_10_60Minutes/original.jpg"
@@ -21,7 +29,7 @@
     "description": "Whether automation will make human workers obsolete depends on more than just how smart the AI is.",
     "author": "Rogé Karma",
     "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/fNA7jV7Ij2U27J2IEw9Bh2IoZQE=/152x0:1772x1080/210x140/media/img/mt/2026/06/2026_06_10_AI_Jobs/original.gif"
+    "image": "https://cdn.theatlantic.com/thumbor/XMYAnYdKr1MN-LY-s1p_JiwUqeg=/128x0:1505x918/210x140/media/img/mt/2026/06/2026_06_10_AI_Jobs_resize-2/original.gif"
   },
   {
     "title": "Pete Hegseth, Cornball in Chief",
@@ -74,7 +82,7 @@
   {
     "title": "Inside America’s Ugly Birthday Battle",
     "url": "https://www.theatlantic.com/politics/2026/06/trump-250-great-american-state-fair/687456/",
-    "description": "The Trump administration broke an agreement to fund the bipartisan semiquincentennial celebrations, saying they will not “light taxpayer money on fire.”",
+    "description": "The Trump administration broke an agreement to fund the bipartisan semiquincentennial celebrations, saying it will not “light taxpayer money on fire.”",
     "author": "Michael Scherer",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/8D9xsklbH7t12P_ioYZK7I57D7U=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_08_Trumps_Takeover_of_the_Great_American_State_Fair_Michael_Scherer/original.jpg"
@@ -150,13 +158,5 @@
     "author": "Elizabeth Bruenig",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/xZvVgsBhVWHIkIy_YP8Wlm8e-wA=/158x0:1845x1125/210x140/media/img/mt/2026/06/2026_05_20_Should_Violent_Kids_do_Adult_Time02/original.jpg"
-  },
-  {
-    "title": "Republicans vs. the Fourteenth Amendment",
-    "url": "https://www.theatlantic.com/podcasts/2026/06/david-frum-show-david-blight-fourteenth-amendment/687497/",
-    "description": "Professor David W. Blight on President Trump’s war on the Fourteenth Amendment. Plus: Brexit at 10 years and1873by Liaquat Ahamed.",
-    "author": "David Frum",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/nzmZB2f2ECEtCs1HHqNUMgoygc4=/152x0:1772x1080/210x140/media/img/mt/2026/06/2026_6_9_David_Blight_The_David_Frum_Podcast/original.jpg"
   }
 ]
