@@ -1,5 +1,13 @@
 [
   {
+    "title": "Ditching cigarettes for vapes may curb the cancer benefits of quitting",
+    "url": "https://www.newscientist.com/article/2529853-ditching-cigarettes-for-vapes-may-curb-the-cancer-benefits-of-quitting/",
+    "description": "A study of 4.5 million people suggests that ex-smokers who take up vaping are more at risk of dying from lung cancer than people who quit without the use of e-cigarettes",
+    "author": "James Woodford",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/10114243/SEI_300627388.jpg"
+  },
+  {
     "title": "Wolves seen hunting European bison in rare camera-trap recording",
     "url": "https://www.newscientist.com/article/2529929-wolves-seen-hunting-european-bison-in-rare-camera-trap-recording/",
     "description": "Europe’s largest land animal, the bison, is thought to be relatively unthreatened by predators, but footage from Białowieża Primaeval Forest in Poland shows it does face attacks from wolves",
@@ -38,13 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "Technology",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/09170226/SEI_300741524.jpg"
-  },
-  {
-    "title": "Robots are about to overtake armed soldiers as the deciders of war",
-    "url": "https://www.newscientist.com/article/2529267-robots-are-about-to-overtake-armed-soldiers-as-the-deciders-of-war/",
-    "description": "Uncrewed ground vehicles have already been tested for defending the front line by the Ukrainian military. Despite their limitations, these remotely controlled robots could be the deciding factor in many conflicts",
-    "author": "David Hambling",
-    "category": "Technology",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/04163332/SEI_300060576.jpg"
   }
 ]
