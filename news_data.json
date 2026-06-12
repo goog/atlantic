@@ -1,5 +1,13 @@
 [
   {
+    "title": "The relationship recession is even bigger for Gen Z than we thought",
+    "url": "https://www.newscientist.com/article/2530237-the-relationship-recession-is-even-bigger-for-gen-z-than-we-thought/",
+    "description": "We know that members of Gen Z are less likely to be in a steady relationship than millennials were at their age, but previous research missed out an important factor that actually widens the relationship recession",
+    "author": "Carissa Wong",
+    "category": "Mind",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/12145601/SEI_300851483.jpg"
+  },
+  {
     "title": "Quantum computer quickly mines cryptocurrency while using less energy",
     "url": "https://www.newscientist.com/article/2529973-quantum-computer-quickly-mines-cryptocurrency-while-using-less-energy/",
     "description": "A superconducting quantum computer is part of a network that is mining an experimental cryptocurrency called Quip, and it is able to do it faster and with better energy efficiency than conventional machines",
@@ -38,13 +46,5 @@
     "author": "Alec Luhn",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11150204/SEI_300957138.jpg"
-  },
-  {
-    "title": "El Niño has started and the weather could get weird",
-    "url": "https://www.newscientist.com/article/2530202-el-nino-has-started-and-the-weather-could-get-weird/",
-    "description": "Global weather agencies have declared that El Niño has begun, and models show it is more likely than not to be a \"super\" El Niño. The climate pattern boosts extreme weather around the world, and could lead to record temperatures",
-    "author": "Alec Luhn",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11173611/SEI_300976591.jpg"
   }
 ]
