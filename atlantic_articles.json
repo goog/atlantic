@@ -1,5 +1,29 @@
 [
   {
+    "title": "The Data-Center Panic Is Overblown",
+    "url": "https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/",
+    "description": "Critics are inflating the costs.",
+    "author": "Elias Wachtel",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/QuPoD7AgktgAyBmQsPq6qhc4lFw=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_05_28_Data_Centers_Are_Fine_Actually/original.jpg"
+  },
+  {
+    "title": "The Boeing 747 Begins Its Final Descent",
+    "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
+    "description": "The jet was perhaps the pinnacle of American engineering excellence. Its retirement signals an end to an era of American culture—and ambition.",
+    "author": "Ian Bogost",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/aIikmCtHu_KnA5yLWdC5L_z8HaE=/270x0:4668x2932/210x140/media/img/2026/06/0726_WEL_Bogost_747_16x9/original.png"
+  },
+  {
+    "title": "Thank You for Your Attention to This Birthday",
+    "url": "https://www.theatlantic.com/politics/2026/06/trump-birthday-age-health/687525/",
+    "description": "President Trump will welcome 80 with bright lights and fighting.",
+    "author": "Jonathan Lemire",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/zBE4bIPG9uo6Jtu7PQ-9_Ah_fys=/378x0:4428x2700/210x140/media/img/mt/2026/06/2026_06_11_Thank_You_For_Your_Attention_to_this_Birthday/original.jpg"
+  },
+  {
     "title": "The Kennedy Center Is a Metaphor for De-Trumpification",
     "url": "https://www.theatlantic.com/newsletters/2026/06/kennedy-center-trump-name-removal/687530/",
     "description": "You can remove Trump’s name but not the damage he’s done.",
@@ -134,29 +158,5 @@
     "author": "Matt Viser",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/Hgowl0CJqt_wHZvyLZ6d_P96zqU=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_11_Why_Does_Trump_Like_Soccer_Matt_Viser/original.jpg"
-  },
-  {
-    "title": "The Divided World Cup",
-    "url": "https://www.theatlantic.com/newsletters/2026/06/fifa-world-cup-divided-continent-us-mexico-canada/687505/",
-    "description": "This year’s tournament was framed as a festival of North American unity. Instead, it is testing how much of that unity remains.",
-    "author": "Rafaela Jinich",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/4SyO1q0mWQDaoAFmBfc-Vfam2nk=/226x0:2656x1620/210x140/media/newsletters/2026/06/2026_06_08_DailyWorldCup/original.jpg"
-  },
-  {
-    "title": "Democrats Are Starting to Worry About California",
-    "url": "https://www.theatlantic.com/politics/2026/06/california-election-2026-governor/687494/",
-    "description": "California’s slow vote-count is spawning conspiracy theories.",
-    "author": "Russell BermanandYvonne Wingett Sanchez",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/9aa9qEYwN30odb1-8HPPEagqRpk=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_08_California_votes/original.jpg"
-  },
-  {
-    "title": "AtlanticTrivia: The Worms Are Turning",
-    "url": "https://www.theatlantic.com/trivia/2026/06/10-screwworm-texas-cows-beef-agriculture-secretary/687499/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Tom Nichols",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/2KLBJ7Z2ZruSMA-ZS1uryTWAuXk=/148x0:1770x1081/210x140/media/img/mt/2026/06/trivia_peach-1/original.png"
   }
 ]

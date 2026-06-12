@@ -1,5 +1,21 @@
 [
   {
+    "title": "Quantum computer quickly mines cryptocurrency while using less energy",
+    "url": "https://www.newscientist.com/article/2529973-quantum-computer-quickly-mines-cryptocurrency-while-using-less-energy/",
+    "description": "A superconducting quantum computer is part of a network that is mining an experimental cryptocurrency called Quip, and it is able to do it faster and with better energy efficiency than conventional machines",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "Technology",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11164406/SEI_300982384.jpg"
+  },
+  {
+    "title": "First working nuclear clock heralds a new era in timekeeping",
+    "url": "https://www.newscientist.com/article/2530094-first-working-nuclear-clock-heralds-a-new-era-in-timekeeping/",
+    "description": "A clock based on radioactive thorium atoms realises a long-held ambition, demonstrating a technology that could eventually beat the accuracy of today’s best atomic clocks",
+    "author": "Alex Wilkins",
+    "category": "Physics",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11121422/SEI_300736260.jpg"
+  },
+  {
     "title": "Global map reveals the vast scale of underground fungal networks",
     "url": "https://www.newscientist.com/article/2530122-global-map-reveals-the-vast-scale-of-underground-fungal-networks/",
     "description": "Our soils are teeming with networks of fungi, and we're starting to understand how important they are",
@@ -30,21 +46,5 @@
     "author": "Alec Luhn",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11173611/SEI_300976591.jpg"
-  },
-  {
-    "title": "Toy universe shows that time could be a quantum illusion",
-    "url": "https://www.newscientist.com/article/2529957-toy-universe-shows-that-time-could-be-a-quantum-illusion/",
-    "description": "An experiment with a toy universe made up of extremely cold atoms shows how time can emerge from quantum interactions, instead of existing by default",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "Physics",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/10153059/SEI_300727952.jpg"
-  },
-  {
-    "title": "Ditching cigarettes for vapes may curb the cancer benefits of quitting",
-    "url": "https://www.newscientist.com/article/2529853-ditching-cigarettes-for-vapes-may-curb-the-cancer-benefits-of-quitting/",
-    "description": "A study of 4.5 million people suggests that ex-smokers who take up vaping are more at risk of dying from lung cancer than people who quit without the use of e-cigarettes",
-    "author": "James Woodford",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/10114243/SEI_300627388.jpg"
   }
 ]
