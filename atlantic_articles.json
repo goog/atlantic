@@ -1,5 +1,45 @@
 [
   {
+    "title": "A Canvas as Big as the Country",
+    "url": "https://www.theatlantic.com/magazine/2026/07/frederic-church-landscapes/687313/",
+    "description": "Don’t ask what Frederic Church’s massive, immersive landscapes mean. Just look.",
+    "author": "Susan Tallman",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/eLDqWABxGMZj44zPhVHklgbb9PQ=/320x0:3469x2099/210x140/media/img/2026/05/DT78/original.jpg"
+  },
+  {
+    "title": "The David Hockney Painting That Makes You Look, and Then Look Again",
+    "url": "https://www.theatlantic.com/culture/2026/06/david-hockney-a-bigger-splash-reality-technology/687544/",
+    "description": "The tireless artist, who died this week, understood how to slow down time.",
+    "author": "Kelsey Ables",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/SF3IJW7wyIXFxWY9IZez2xmn6Zk=/309x0:3686x2251/210x140/media/img/mt/2026/06/2026_06_12_The_Hockney_Painting_That_Captured_the_Uncanniness_of_Reality_Kelsey_Ables/original.jpg"
+  },
+  {
+    "title": "Why Calls to ‘Save Democracy’ Don’t Work",
+    "url": "https://www.theatlantic.com/ideas/2026/06/democracy-government-trump-maga/687535/",
+    "description": "Trump voters don’t care to defend institutions that they see as illegitimate.",
+    "author": "Katy OsbornandScott Warren",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/tuD7WIpWsY-oMznX3AVWBVbxiSc=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_05_20_Trump_Supporters_Arent_Abandoning_Democracy_2/original.jpg"
+  },
+  {
+    "title": "The Encounter",
+    "url": "https://www.theatlantic.com/books/2026/06/aamina-ahmad-the-encounter/687527/",
+    "description": "",
+    "author": "Aamina Ahmad",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/yKiaiZMUKl-yah_GHc-oGZx6-FU=/155x1228:3595x3521/210x140/media/img/mt/2026/06/06_13_FictionEncounter/original.jpg"
+  },
+  {
+    "title": "The Beauty of Doing Nothing Together",
+    "url": "https://www.theatlantic.com/newsletters/2026/06/low-stakes-social-life/687523/",
+    "description": "There’s something reassuring about being with people when nobody is trying especially hard.",
+    "author": "Rafaela Jinich",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/RjLt36LGdw1WCU5z4tL1EKPgG20=/142x248:3356x2391/210x140/media/img/mt/2026/06/GettyImages_104404371/original.jpg"
+  },
+  {
     "title": "The Emperor Has No Ludus Magnus",
     "url": "https://www.theatlantic.com/ideas/2026/06/trump-gladiator-fight-ufc/687531/",
     "description": "The most notable thing about President Trump’s South Lawn fight is its curious lack of ambition.",
@@ -32,9 +72,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/mukW3niYAAJ_mc3PrGKQ9wL24Ks=/148x0:1770x1081/210x140/media/img/mt/2026/06/trivia_purple-1/original.png"
   },
   {
-    "title": "Olivia Rodrigo Has No Chill",
+    "title": "Don’t Even Try to Play This Album in the Background",
     "url": "https://www.theatlantic.com/culture/2026/06/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-review/687534/",
-    "description": "The pop star’s biggest asset is her ferocity—and her new record doubles down on those big, messy feelings.",
+    "description": "Olivia Rodrigo’s biggest asset is her ferocity—and her new record doubles down on those big, messy feelings.",
     "author": "Spencer Kornhaber",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/nGm5VNqbagU8suo6pFaL57pxkbc=/309x0:3686x2251/210x140/media/img/mt/2026/06/2026_06_12_A_Pop_Star_Unafraid_to_Get_Intense_Spencer_Kornhaber/original.jpg"
@@ -118,45 +158,5 @@
     "author": "Ian Bogost",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/aIikmCtHu_KnA5yLWdC5L_z8HaE=/270x0:4668x2932/210x140/media/img/2026/06/0726_WEL_Bogost_747_16x9/original.png"
-  },
-  {
-    "title": "The Kennedy Center, Minus Trump",
-    "url": "https://www.theatlantic.com/culture/2026/06/kennedy-center-signage/687539/",
-    "description": "After a judge said the president’s name had to go, crowds braced for a cathartic moment.",
-    "author": "Janay Kingsberry",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/aW0C59-MB8iiOyuA-vdcKsFZQDc=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_12_The_Kennedy_Center_Minus_Trump_Janay_Kingsberry/original.jpg"
-  },
-  {
-    "title": "Thank You for Your Attention to This Birthday",
-    "url": "https://www.theatlantic.com/politics/2026/06/trump-birthday-age-health/687525/",
-    "description": "President Trump will welcome 80 with bright lights and fighting.",
-    "author": "Jonathan Lemire",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/zBE4bIPG9uo6Jtu7PQ-9_Ah_fys=/378x0:4428x2700/210x140/media/img/mt/2026/06/2026_06_11_Thank_You_For_Your_Attention_to_this_Birthday/original.jpg"
-  },
-  {
-    "title": "The Kennedy Center Is a Metaphor for De-Trumpification",
-    "url": "https://www.theatlantic.com/newsletters/2026/06/kennedy-center-trump-name-removal/687530/",
-    "description": "You can remove Trump’s name but not the damage he’s done.",
-    "author": "David A. Graham",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/cLxnHQz1hV7vUCLxcVLhq0T-w5c=/226x0:2656x1620/210x140/media/newsletters/2026/06/2026_06_11_daily_kennedy_center/original.jpg"
-  },
-  {
-    "title": "AtlanticTrivia: Sweet Tooth for Fruit",
-    "url": "https://www.theatlantic.com/trivia/2026/06/11-fruit-grocery-produce-orange/687522/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Tom Nichols",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/_XIdPR0hKhxYVR79GvSEhcxDBUY=/152x0:1772x1080/210x140/media/img/mt/2026/06/trivia_green-1/original.png"
-  },
-  {
-    "title": "Why60 MinutesShould Take Critiques of Its Work Seriously",
-    "url": "https://www.theatlantic.com/ideas/2026/06/60-minutes-scott-pelley-bias-accusations/687520/",
-    "description": "Scott Pelley’s recent interview reveals why the show shouldn’t ignore the accusations of bias.",
-    "author": "Conor Friedersdorf",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/MSxge7UGzWFTKjLlAF_b-OHSevI=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_10_60Minutes/original.jpg"
   }
 ]
