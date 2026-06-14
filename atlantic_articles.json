@@ -24,9 +24,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/oBs2rE7lu51loQjHqolpoBX8yEo=/313x0:3688x2250/210x140/media/newsletters/2026/06/2026_06_14_The_Daily_Stath_Lets_Flats/original.jpg"
   },
   {
-    "title": "Listening to All the Music AI Is Trained on Would Take Decades",
+    "title": "The Millions of Songs Mashed Into AI-Generated Music",
     "url": "https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/",
-    "description": "We obtained four datasets that reveal an astonishing number of songs.",
+    "description": "Explore the astonishing amount of music available to AI developers.",
     "author": "Alex Reisner",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/MfZCq9goQ5AoSQgbatzG4dJ7zrM=/117x0:1383x844/210x140/media/img/mt/2026/06/2026_05_28_AI_Music_mpg2/original.gif"
@@ -112,6 +112,38 @@
     "image": "https://cdn.theatlantic.com/thumbor/mukW3niYAAJ_mc3PrGKQ9wL24Ks=/148x0:1770x1081/210x140/media/img/mt/2026/06/trivia_purple-1/original.png"
   },
   {
+    "title": "AI Watchdog: Spotify Tracks Dataset",
+    "url": "https://www.theatlantic.com/technology/2026/06/dataset-spotify-tracks/687510/",
+    "description": "",
+    "author": "",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/VR6kUj8PXiuHvefgjKI2f8SEWuw=/155x0:1842x1125/210x140/media/img/mt/2026/06/AI_Watchdog_Dataset_Article_Art-2/original.jpg"
+  },
+  {
+    "title": "AI Watchdog: Sleeping-DISCO-9M",
+    "url": "https://www.theatlantic.com/technology/2026/06/dataset-sleeping-disco-9m/687509/",
+    "description": "",
+    "author": "",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/wmCq_LFAZ2pHZRaxY7CEorKsrWE=/155x0:1842x1125/210x140/media/img/mt/2026/06/AI_Watchdog_Dataset_Article_Art-1/original.jpg"
+  },
+  {
+    "title": "AI Watchdog: LAION-DISCO-12M",
+    "url": "https://www.theatlantic.com/technology/2026/06/dataset-laion-disco-12m/687508/",
+    "description": "",
+    "author": "",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/UIBZ1h6GAyn5yDBvAxbN3p2_kDY=/155x0:1842x1125/210x140/media/img/mt/2026/06/AI_Watchdog_Dataset_Article_Art/original.jpg"
+  },
+  {
+    "title": "AI Watchdog: Free Music Archive Dataset",
+    "url": "https://www.theatlantic.com/technology/2026/06/dataset-free-music-archive/687336/",
+    "description": "",
+    "author": "",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/k28Sqy5O-K8PMXuL0YtQ0KLUj0M=/155x0:1842x1125/210x140/media/img/mt/2026/05/AI_Watchdog_Dataset_Article_Art-3/original.jpg"
+  },
+  {
     "title": "Don’t Even Try to Play This Album in the Background",
     "url": "https://www.theatlantic.com/culture/2026/06/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-review/687534/",
     "description": "Olivia Rodrigo’s biggest asset is her ferocity—and her new record doubles down on those big, messy feelings.",
@@ -126,37 +158,5 @@
     "author": "Emma Sarappo",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/m5d8zy9oVwO4GfmGO8FY7USlZoU=/313x0:3688x2250/210x140/media/newsletters/2026/06/Books_Briefing_What_Aliens_Teach_Us_About_Humans_Emma_Sarappo/original.jpg"
-  },
-  {
-    "title": "Jomboy on Robot Umpires and the Future of Baseball",
-    "url": "https://www.theatlantic.com/podcasts/2026/06/jomboy-on-robot-umpires-and-the-future-of-baseball/687532/",
-    "description": "How MLB turned balls and strikes into a spectacle",
-    "author": "Charlie Warzel",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/B-DXeIiHy2k878_3Tty5eU8v4Sk=/145x0:1832x1125/210x140/media/img/mt/2026/06/GB_Ollie_260612/original.jpg"
-  },
-  {
-    "title": "Six Books That Take You to Space",
-    "url": "https://www.theatlantic.com/books/2026/06/alien-book-sci-fi-recommendations/687185/",
-    "description": "You won’t even have to leave your couch.",
-    "author": "Alexandra Oliva",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/YsvgqSKCTkQRlBOVAC2W2gfEKCs=/78x0:923x563/210x140/media/img/mt/2026/05/Animation_The_Atlantic_A_Final_HP/original.gif"
-  },
-  {
-    "title": "The Women Who Don’t Own Clothes",
-    "url": "https://www.theatlantic.com/ideas/2026/06/clothing-rental-sustainability-nuuly-shopping/687526/",
-    "description": "The rental service Nuuly is taking over America’s closets.",
-    "author": "Annie Joy Williams",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/xunVoMBM_6e-uI1_8c-hbyai1k4=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_11_Nuuly/original.jpg"
-  },
-  {
-    "title": "Photos of the Week: Basilica Blessing, Tree Tunnel, Parrot Prediction",
-    "url": "https://www.theatlantic.com/photography/2026/06/photos-of-the-week-basilica-blessing-tree-tunnel-parrot-prediction/687524/",
-    "description": "Scenes from the French Open in Paris; a pro-wrestling match at a public library in California; celebrations in Brazil for the start of the 2026 FIFA World Cup; a congressional baseball game in Washing",
-    "author": "Alan Taylor",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/b0sGsgPgPEW90gP8RqP7sywtZws=/55x21:2946x1948/210x140/media/img/mt/2026/06/a01_AP26160084718410/original.jpg"
   }
 ]
