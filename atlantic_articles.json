@@ -1,5 +1,21 @@
 [
   {
+    "title": "An Underrated Sitcom That’s a Fire Hose of Funny",
+    "url": "https://www.theatlantic.com/newsletters/2026/06/search-party-john-early-solitaire-culture-entretainment-recs/687538/",
+    "description": "Culture and entertainment recommendations includingStath Lets Flats, zombie films, a vintage Paddington Bear, and more",
+    "author": "Rosie Hughes",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/oBs2rE7lu51loQjHqolpoBX8yEo=/313x0:3688x2250/210x140/media/newsletters/2026/06/2026_06_14_The_Daily_Stath_Lets_Flats/original.jpg"
+  },
+  {
+    "title": "Listening to All the Music AI Is Trained on Would Take Decades",
+    "url": "https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/",
+    "description": "We obtained four datasets that reveal an astonishing number of songs.",
+    "author": "Alex Reisner",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/MfZCq9goQ5AoSQgbatzG4dJ7zrM=/117x0:1383x844/210x140/media/img/mt/2026/06/2026_05_28_AI_Music_mpg2/original.gif"
+  },
+  {
     "title": "American Democracy, 250 Years Later",
     "url": "https://www.theatlantic.com/national/2026/06/america-250-washington-week/687545/",
     "description": "Panelists joined a special edition ofWashington Week With The Atlanticto discuss the state of democracy 250 years after the Declaration of Independence.",
@@ -142,21 +158,5 @@
     "author": "Caity Weaver",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/4oSIcX0TLLP5F488-ymheOpd-ws=/208x37:1713x1040/210x140/media/img/2026/06/1_Opener_16x9_Weaver_Thrifting/original.png"
-  },
-  {
-    "title": "Americans Are Already Paying Dearly for the National Debt",
-    "url": "https://www.theatlantic.com/ideas/2026/06/national-debt-affordability-legislation/687517/",
-    "description": "A spendthrift government is raising borrowing costs for everyone.",
-    "author": "Martha Gimbel",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/1n1DJGDqVLEKUfzYhFdZby-Ev6M=/160x0:1847x1125/210x140/media/img/mt/2026/06/2026_06_01_Deficit/original.jpg"
-  },
-  {
-    "title": "The Data-Center Panic Is Overblown",
-    "url": "https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/",
-    "description": "Critics are inflating the costs.",
-    "author": "Elias Wachtel",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/QuPoD7AgktgAyBmQsPq6qhc4lFw=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_05_28_Data_Centers_Are_Fine_Actually/original.jpg"
   }
 ]
