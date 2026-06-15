@@ -1,5 +1,21 @@
 [
   {
+    "title": "And Now a Few Words From Our Former Presidents on UFC 250",
+    "url": "https://www.theatlantic.com/newsletters/2026/06/and-now-few-words-our-former-presidents-ufc-250/687548/",
+    "description": "What would Thomas Jefferson say?",
+    "author": "Alexandra Petri",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/0nZ5CU0WyFUgRna5dGjE737Gnuk=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_13_UFCPresidents/original.jpg"
+  },
+  {
+    "title": "Trump Celebrates While America Capitulates",
+    "url": "https://www.theatlantic.com/ideas/2026/06/trump-iran-deal/687547/",
+    "description": "The peace deal with Tehran is an Iranian victory.",
+    "author": "Tom Nichols",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/RGibB79jOPTLzhPVlhG1QjM4VUA=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_14_Trump_Celebrates_an_American_Surrender/original.jpg"
+  },
+  {
     "title": "Photos: Knicks Fans Celebrate Their NBA Championship",
     "url": "https://www.theatlantic.com/photography/2026/06/photos-knicks-fans-celebrate-their-nba-championship/687546/",
     "description": "Yesterday, the New York Knicks won their first NBA Championship since 1973, defeating the San Antonio Spurs in Game 5. Fans across New York City held watch parties at their homes, at bars, and in the ",
@@ -142,21 +158,5 @@
     "author": "",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/wmCq_LFAZ2pHZRaxY7CEorKsrWE=/155x0:1842x1125/210x140/media/img/mt/2026/06/AI_Watchdog_Dataset_Article_Art-1/original.jpg"
-  },
-  {
-    "title": "AI Watchdog: LAION-DISCO-12M",
-    "url": "https://www.theatlantic.com/technology/2026/06/dataset-laion-disco-12m/687508/",
-    "description": "",
-    "author": "",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/UIBZ1h6GAyn5yDBvAxbN3p2_kDY=/155x0:1842x1125/210x140/media/img/mt/2026/06/AI_Watchdog_Dataset_Article_Art/original.jpg"
-  },
-  {
-    "title": "AI Watchdog: Free Music Archive Dataset",
-    "url": "https://www.theatlantic.com/technology/2026/06/dataset-free-music-archive/687336/",
-    "description": "",
-    "author": "",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/k28Sqy5O-K8PMXuL0YtQ0KLUj0M=/155x0:1842x1125/210x140/media/img/mt/2026/05/AI_Watchdog_Dataset_Article_Art-3/original.jpg"
   }
 ]
