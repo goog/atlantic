@@ -1,5 +1,37 @@
 [
   {
+    "title": "Sperm have been made magnetic to allow IVF inside the body",
+    "url": "https://www.newscientist.com/article/2530334-sperm-have-been-made-magnetic-to-allow-ivf-inside-the-body/",
+    "description": "IVF could be done inside the body using sperm that have been magnetised, allowing them to be directed to an egg while getting around the need for invasive egg retrievals and embryo transfers",
+    "author": "Alice Klein",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/15114732/SEI_301508107.jpg"
+  },
+  {
+    "title": "The social media ban is an experiment – here’s how it will be studied",
+    "url": "https://www.newscientist.com/article/2530341-the-social-media-ban-is-an-experiment-heres-how-it-will-be-studied/",
+    "description": "Scientists have long grappled with how to measure the effect of social media on children. Now, the UK government has announced a total ban for everyone under 16, and researchers are rushing to design rigorous studies before it comes into effect",
+    "author": "Matthew Sparkes",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/15143250/SEI_301523787.jpg"
+  },
+  {
+    "title": "Inside the start-up aiming for a giant leap in robot intelligence",
+    "url": "https://www.newscientist.com/article/2530349-inside-the-start-up-aiming-for-a-giant-leap-in-robot-intelligence/",
+    "description": "Physical Intelligence is drawing on the broad knowledge of large language models to help robots understand instructions and learn to carry out any task independently",
+    "author": "Alex Wilkins",
+    "category": "Technology",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/15103718/SEI_301109304.jpg"
+  },
+  {
+    "title": "Are useful and error-free quantum computers only two years away?",
+    "url": "https://www.newscientist.com/article/2530326-are-useful-and-error-free-quantum-computers-only-two-years-away/",
+    "description": "Quantum computing firm QuEra says it plans to make a fault-tolerant quantum computer and offer it to users through the cloud in 2028, which will require a real leap in engineering",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "Technology",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/15110211/SEI_301507625.jpg"
+  },
+  {
     "title": "The relationship recession is even bigger for Gen Z than we thought",
     "url": "https://www.newscientist.com/article/2530237-the-relationship-recession-is-even-bigger-for-gen-z-than-we-thought/",
     "description": "We know that members of Gen Z are less likely to be in a steady relationship than millennials were at their age, but previous research missed out an important factor that actually widens the relationship recession",
@@ -14,37 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "Technology",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11164406/SEI_300982384.jpg"
-  },
-  {
-    "title": "First working nuclear clock heralds a new era in timekeeping",
-    "url": "https://www.newscientist.com/article/2530094-first-working-nuclear-clock-heralds-a-new-era-in-timekeeping/",
-    "description": "A clock based on radioactive thorium atoms realises a long-held ambition, demonstrating a technology that could eventually beat the accuracy of today’s best atomic clocks",
-    "author": "Alex Wilkins",
-    "category": "Physics",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11121422/SEI_300736260.jpg"
-  },
-  {
-    "title": "Global map reveals the vast scale of underground fungal networks",
-    "url": "https://www.newscientist.com/article/2530122-global-map-reveals-the-vast-scale-of-underground-fungal-networks/",
-    "description": "Our soils are teeming with networks of fungi, and we're starting to understand how important they are",
-    "author": "Christa Lesté-Lasserre",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11153907/SEI_300963170.jpg"
-  },
-  {
-    "title": "Have we finally worked out how Venus flytraps snap shut?",
-    "url": "https://www.newscientist.com/article/2530108-have-we-finally-worked-out-how-venus-flytraps-snap-shut/",
-    "description": "It was widely thought that the movement of water through Venus flytrap cells caused the trap to close, but detailed experiments have led scientists to propose an alternative mechanism",
-    "author": "James Woodford",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11123153/SEI_300632835.jpg"
-  },
-  {
-    "title": "‘Forgotten’ pollutants cause 15 per cent of global warming",
-    "url": "https://www.newscientist.com/article/2530049-forgotten-pollutants-cause-15-per-cent-of-global-warming/",
-    "description": "So-called indirect greenhouse gases, including carbon monoxide and volatile organic compounds, aren’t covered by climate policies even though they heat the planet",
-    "author": "Alec Luhn",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/11150204/SEI_300957138.jpg"
   }
 ]
