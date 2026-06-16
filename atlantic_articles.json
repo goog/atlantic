@@ -1,5 +1,29 @@
 [
   {
+    "title": "The Doha Connection",
+    "url": "https://www.theatlantic.com/national-security/2026/06/trump-qatar-friendship-iran-deal/687563/",
+    "description": "Trump’s off-ramp from war with Iran runs through Qatar.",
+    "author": "Shane Harris",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/q0NgYjQFNxfxAhw5g1Bl0Qtgyl0=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_16_How_Qatar_Won_the_War/original.jpg"
+  },
+  {
+    "title": "Oil Prices Might Not Go Back to Normal Anytime Soon",
+    "url": "https://www.theatlantic.com/economy/2026/06/trump-iran-deal-oil/687564/",
+    "description": "There’s a big difference between reopening the Strait of Hormuz on paper and actually resuming the flow of oil through it.",
+    "author": "Rogé Karma",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/-aC3r3H-1LcSGkOADXg_cK5Bg9Y=/117x0:1383x844/210x140/media/img/mt/2026/06/2026_06_16_Where_is_the_Oil_moshed_06_16_11_43_41_197/original.jpg"
+  },
+  {
+    "title": "Assume You Will Be Hacked",
+    "url": "https://www.theatlantic.com/technology/2026/06/ai-hacking-cybersecurity-banks/687562/",
+    "description": "AI is enabling a deluge of cyberattacks the likes of which we’ve never seen before.",
+    "author": "Matteo Wong",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/noQ814CZd80aQTv9KK3Lil1CUxo=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_13_Hacking/original.jpg"
+  },
+  {
     "title": "Why July 4 Turned Into a Trump Rally",
     "url": "https://www.theatlantic.com/ideas/2026/06/july-4-trump-rally-250/687560/",
     "description": "The president has never accepted that the head of state and the leader of the Republican Party are separate roles.",
@@ -134,29 +158,5 @@
     "author": "Drew Goins",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/oV6SZi59HcX50B6otVb7593CVuE=/152x0:1772x1080/210x140/media/img/mt/2026/06/trivia_yellow/original.jpg"
-  },
-  {
-    "title": "My Descent Into Mah-Jongg",
-    "url": "https://www.theatlantic.com/politics/2026/06/mahjong-set-tiles-popularity/687482/",
-    "description": "The game seems to be everywhere, all at once.",
-    "author": "Ashley Parker",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/MggtWs57oxMs33XVoXkEG3Yd0aA=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_07_Mahjong/original.jpg"
-  },
-  {
-    "title": "And Now a Few Words From Our Former Presidents on UFC 250",
-    "url": "https://www.theatlantic.com/newsletters/2026/06/and-now-few-words-our-former-presidents-ufc-250/687548/",
-    "description": "What would Thomas Jefferson say?",
-    "author": "Alexandra Petri",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/0nZ5CU0WyFUgRna5dGjE737Gnuk=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_13_UFCPresidents/original.jpg"
-  },
-  {
-    "title": "Trump Celebrates While America Capitulates",
-    "url": "https://www.theatlantic.com/ideas/2026/06/trump-iran-deal/687547/",
-    "description": "The peace deal with Tehran is an Iranian victory.",
-    "author": "Tom Nichols",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/RGibB79jOPTLzhPVlhG1QjM4VUA=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_14_Trump_Celebrates_an_American_Surrender/original.jpg"
   }
 ]
