@@ -1,8 +1,32 @@
 [
   {
-    "title": "The Marshmallow Test Is Bunk",
+    "title": "Why July 4 Turned Into a Trump Rally",
+    "url": "https://www.theatlantic.com/ideas/2026/06/july-4-trump-rally-250/687560/",
+    "description": "The president has never accepted that the head of state and the leader of the Republican Party are separate roles.",
+    "author": "Jonathan Chait",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/W7snGE4t8GIUURmQbzuS6SVwgo8=/430x0:5047x3078/210x140/media/img/mt/2026/06/2026_06_16_America_250_Becomes_Trump_6_swap/original.jpg"
+  },
+  {
+    "title": "The Butterfly Longevity Diet",
+    "url": "https://www.theatlantic.com/science/2026/06/butterflies-longevity/687556/",
+    "description": "Researchers aren’t sure why Heliconius butterflies live so long, but pollen may be part of the answer.",
+    "author": "Katherine J. Wu",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/lD3H8SzqYNZYgjNPPMg03PvzMiE=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_15_What_Does_Longevity_Mean_to_a_Butterfly/original.jpg"
+  },
+  {
+    "title": "The Betrayal of the Iranian People",
+    "url": "https://www.theatlantic.com/international/2026/06/iran-war-humanitarian-crisis/687559/",
+    "description": "The world has not reckoned with the violence visited on Iranians in 2026.",
+    "author": "Laura Secor",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/tFLtH5FCDrxc3jGbFoAcpenaffk=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_14_There_Is_No_Relief_for_the_Iranian_Regimes_Victims/original.jpg"
+  },
+  {
+    "title": "The Cult of Delayed Gratification Is a Lie",
     "url": "https://www.theatlantic.com/ideas/2026/06/instant-gratification-psychology-economy/687550/",
-    "description": "Psychologists and economists have spent decades demoting gratification to a sin. They were wrong.",
+    "description": "The sensory enchantment of everyday life can upend the bland monotony of our overly optimized, anodyne world.",
     "author": "Ian Bogost",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/wSeupV7Dmxs-ZHSHfFsu35iwH9w=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_15_the_marshmallow_test_is_bunk/original.jpg"
@@ -35,7 +59,7 @@
     "title": "The U.S. Had No Choice but Diplomacy—Yet Again",
     "url": "https://www.theatlantic.com/national-security/2026/06/memorandum-understanding-deal-might-happen/687554/",
     "description": "The new pact between the U.S. and Iran seeks to rewind the clock to the day before the war. ​​​​​​",
-    "author": "Nancy A. Youssef,Russell Berman,  andVivian Salama",
+    "author": "Nancy A. Youssef,Russell Berman,andVivian Salama",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/vKD8-iyfc7izVdoAqpxZw6l1thY=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_15_What_the_Hawks_Think_About_the_Iran_Memorandum_of_Understanding/original.jpg"
   },
@@ -134,29 +158,5 @@
     "author": "Tom Nichols",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/RGibB79jOPTLzhPVlhG1QjM4VUA=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_14_Trump_Celebrates_an_American_Surrender/original.jpg"
-  },
-  {
-    "title": "Photos: Knicks Fans Celebrate Their NBA Championship",
-    "url": "https://www.theatlantic.com/photography/2026/06/photos-knicks-fans-celebrate-their-nba-championship/687546/",
-    "description": "Yesterday, the New York Knicks won their first NBA Championship since 1973, defeating the San Antonio Spurs in Game 5. Fans across New York City held watch parties at their homes, at bars, and in the ",
-    "author": "Alan Taylor",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Ip14hOjeME_5QsyDBLzLDMmV764=/115x153:6177x4194/210x140/media/img/mt/2026/06/a01_G_2280850666/original.jpg"
-  },
-  {
-    "title": "A Room Is Like a Mind, but Whose?",
-    "url": "https://www.theatlantic.com/culture/2026/06/poem-rae-armantrout-a-room/687516/",
-    "description": "",
-    "author": "Rae Armantrout",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/V6cAfOPpftQF11aKv7O5z6UZvzc=/54x380:1156x1115/210x140/media/img/mt/2026/06/2026_06_11_Poem_A_Room_is_A_Mind_but_Whose/original.jpg"
-  },
-  {
-    "title": "The ‘Broken Veteran’ Excuse",
-    "url": "https://www.theatlantic.com/ideas/2026/06/graham-platner-veteran-defense/687542/",
-    "description": "Graham Platner’s defenders are playing into a dangerous stereotype about Americans who have fought in war.",
-    "author": "Mike Nelson",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/tNqdbFed3r1JmE4jOPxNwJiqYF4=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_12_The_Problem_With_the_But_Hes_a_Veteran_Defense_of_Graham_Platner_Mike_Nelson/original.jpg"
   }
 ]
