@@ -1,9 +1,41 @@
 [
   {
+    "title": "The Marshmallow Test Is Bunk",
+    "url": "https://www.theatlantic.com/ideas/2026/06/instant-gratification-psychology-economy/687550/",
+    "description": "Psychologists and economists have spent decades demoting gratification to a sin. They were wrong.",
+    "author": "Ian Bogost",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/wSeupV7Dmxs-ZHSHfFsu35iwH9w=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_15_the_marshmallow_test_is_bunk/original.jpg"
+  },
+  {
+    "title": "AtlanticTrivia: Patriotic Music",
+    "url": "https://www.theatlantic.com/trivia/2026/06/16-america-250-labor-unions-poetry/687401/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/9mTKCyRwldHa_xy1tySpLEArBcg=/148x0:1770x1081/210x140/media/img/mt/2026/06/trivia_peach/original.png"
+  },
+  {
+    "title": "The Humanities Were Never Neutral",
+    "url": "https://www.theatlantic.com/magazine/2026/07/the-commons/687316/",
+    "description": "Readers respond to our March 2026 issue.",
+    "author": "",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/-VxMeq-9FbR5CZQPugqAjhaXioI=/55x535:2946x2462/210x140/media/img/2026/06/0726_Commons/original.png"
+  },
+  {
+    "title": "Finally, an Action Movie About Washington’s French and Indian War Years",
+    "url": "https://www.theatlantic.com/magazine/2026/07/young-washington-biopic/687308/",
+    "description": "Young Washington gives us pre-Revolutionary George, bristling with awkwardness and ambition.",
+    "author": "James Parker",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/R77-FTGMHPcPSJXVQueTt9JgdDU=/155x0:1842x1125/210x140/media/img/2026/06/YoungWashington_16x9/original.jpg"
+  },
+  {
     "title": "The U.S. Had No Choice but Diplomacy—Yet Again",
     "url": "https://www.theatlantic.com/national-security/2026/06/memorandum-understanding-deal-might-happen/687554/",
     "description": "The new pact between the U.S. and Iran seeks to rewind the clock to the day before the war. ​​​​​​",
-    "author": "Nancy A. Youssef,Russell Berman,andVivian Salama",
+    "author": "Nancy A. Youssef,Russell Berman,  andVivian Salama",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/vKD8-iyfc7izVdoAqpxZw6l1thY=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_15_What_the_Hawks_Think_About_the_Iran_Memorandum_of_Understanding/original.jpg"
   },
@@ -126,37 +158,5 @@
     "author": "Mike Nelson",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/tNqdbFed3r1JmE4jOPxNwJiqYF4=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_12_The_Problem_With_the_But_Hes_a_Veteran_Defense_of_Graham_Platner_Mike_Nelson/original.jpg"
-  },
-  {
-    "title": "So Much for Leaving Abortion Up to the States",
-    "url": "https://www.theatlantic.com/ideas/2026/06/mifepristone-abortion-pill-access-impossible/687519/",
-    "description": "Louisiana’s case against the FDA is not just about one drug.",
-    "author": "Adam Serwer",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/nA1KwIdNzFPx-J87PN7UfAodzUI=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_10_Abortion_Drugs_and_States_Rights/original.jpg"
-  },
-  {
-    "title": "An Underrated Sitcom That’s a Fire Hose of Funny",
-    "url": "https://www.theatlantic.com/newsletters/2026/06/search-party-john-early-solitaire-culture-entretainment-recs/687538/",
-    "description": "Culture and entertainment recommendations includingStath Lets Flats, zombie films, a vintage Paddington Bear, and more",
-    "author": "Rosie Hughes",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/oBs2rE7lu51loQjHqolpoBX8yEo=/313x0:3688x2250/210x140/media/newsletters/2026/06/2026_06_14_The_Daily_Stath_Lets_Flats/original.jpg"
-  },
-  {
-    "title": "The Millions of Songs Mashed Into AI-Generated Music",
-    "url": "https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/",
-    "description": "Explore the astonishing amount of music available to AI developers.",
-    "author": "Alex Reisner",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/MfZCq9goQ5AoSQgbatzG4dJ7zrM=/117x0:1383x844/210x140/media/img/mt/2026/06/2026_05_28_AI_Music_mpg2/original.gif"
-  },
-  {
-    "title": "American Democracy, 250 Years Later",
-    "url": "https://www.theatlantic.com/national/2026/06/america-250-washington-week/687545/",
-    "description": "Panelists joined a special edition ofWashington Week With The Atlanticto discuss the state of democracy 250 years after the Declaration of Independence.",
-    "author": "The Editors",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/M3IEwdVaPdgXoagZeGrWP2KfHfI=/157x0:2341x1456/210x140/media/img/mt/2026/06/Screenshot_2026_06_13_at_12.26.40PM/original.png"
   }
 ]
