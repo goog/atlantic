@@ -1,5 +1,13 @@
 [
   {
+    "title": "Autism and ADHD are on the rise due to widening diagnostic criteria",
+    "url": "https://www.newscientist.com/article/2530700-autism-and-adhd-are-on-the-rise-due-to-widening-diagnostic-criteria/",
+    "description": "A study of 140,000 people suggests that a broadening of the diagnostic criteria for autism and ADHD explains the sharp rise in diagnoses, but that doesn't mean too many people are being told they are autistic or have ADHD",
+    "author": "Caroline Williams",
+    "category": "Mind",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17120556/SEI_301655040.jpg"
+  },
+  {
     "title": "Walking shark found in Papua New Guinea is new to science",
     "url": "https://www.newscientist.com/article/2530536-walking-shark-found-in-papua-new-guinea-is-new-to-science/",
     "description": "Hemiscyllium dudgeonae is the tenth recorded species of walking shark, which use their pectoral fins to move across reef flats, and its limited range means it may be at high risk of extinction",
@@ -38,13 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "Health",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/15143250/SEI_301523787.jpg"
-  },
-  {
-    "title": "Inside the start-up aiming for a giant leap in robot intelligence",
-    "url": "https://www.newscientist.com/article/2530349-inside-the-start-up-aiming-for-a-giant-leap-in-robot-intelligence/",
-    "description": "Physical Intelligence is drawing on the broad knowledge of large language models to help robots understand instructions and learn to carry out any task independently",
-    "author": "Alex Wilkins",
-    "category": "Technology",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/15103718/SEI_301109304.jpg"
   }
 ]
