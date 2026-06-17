@@ -1,5 +1,21 @@
 [
   {
+    "title": "Ancient monument may have been an early Stonehenge prototype",
+    "url": "https://www.newscientist.com/article/2530818-ancient-monument-may-have-been-an-early-stonehenge-prototype/",
+    "description": "Archaeologists have discovered traces of a wooden structure built 5000 years ago, 5 kilometres from Stonehenge, which appears to have been an even older monument for marking the summer solstice",
+    "author": "Michael Marshall",
+    "category": "Humans",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17155023/SEI_301789845.jpg"
+  },
+  {
+    "title": "No young women have died of cervical cancer in England for years",
+    "url": "https://www.newscientist.com/article/2530733-no-young-women-have-died-of-cervical-cancer-in-england-for-years/",
+    "description": "We already know the vaccine against human papillomavirus, or HPV, greatly reduces infections and cases of cervical cancer, and now we have the first evidence it prevents deaths too",
+    "author": "Michael Le Page",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17170243/SEI_301798894.jpg"
+  },
+  {
     "title": "Chilling the body with drugs could limit brain damage from stroke",
     "url": "https://www.newscientist.com/article/2530657-chilling-the-body-with-drugs-could-limit-brain-damage-from-stroke/",
     "description": "Putting brain cells into a hibernation-like state via drugs that cool down core body temperature may help to preserve them following a stroke",
@@ -30,21 +46,5 @@
     "author": "Caroline Williams",
     "category": "Mind",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17120556/SEI_301655040.jpg"
-  },
-  {
-    "title": "Walking shark found in Papua New Guinea is new to science",
-    "url": "https://www.newscientist.com/article/2530536-walking-shark-found-in-papua-new-guinea-is-new-to-science/",
-    "description": "Hemiscyllium dudgeonae is the tenth recorded species of walking shark, which use their pectoral fins to move across reef flats, and its limited range means it may be at high risk of extinction",
-    "author": "James Woodford",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/16113031/SEI_301624717.jpg"
-  },
-  {
-    "title": "Autism may have two distinct subtypes that vary by brain activity",
-    "url": "https://www.newscientist.com/article/2530459-autism-may-have-two-distinct-subtypes-that-vary-by-brain-activity/",
-    "description": "Evidence is mounting that there are distinct subtypes of autism, and now, scientists have found that the condition can vary according to the strength of people's brain connections",
-    "author": "Michael Marshall",
-    "category": "Mind",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/16101225/SEI_301530524.jpg"
   }
 ]
