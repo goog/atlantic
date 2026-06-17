@@ -1,5 +1,13 @@
 [
   {
+    "title": "Chilling the body with drugs could limit brain damage from stroke",
+    "url": "https://www.newscientist.com/article/2530657-chilling-the-body-with-drugs-could-limit-brain-damage-from-stroke/",
+    "description": "Putting brain cells into a hibernation-like state via drugs that cool down core body temperature may help to preserve them following a stroke",
+    "author": "Alice Klein",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17140720/SEI_301771301.jpg"
+  },
+  {
     "title": "Oldest known plague outbreak killed hunter-gatherer children",
     "url": "https://www.newscientist.com/article/2530606-oldest-known-plague-outbreak-killed-hunter-gatherer-children/",
     "description": "DNA evidence shows that plague bacteria devastated a community in Siberia more than 5000 years ago, challenging the idea that there were no major disease outbreaks before the advent of farming and large settlements",
@@ -38,13 +46,5 @@
     "author": "Michael Marshall",
     "category": "Mind",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/16101225/SEI_301530524.jpg"
-  },
-  {
-    "title": "Arctic Ocean reaches tipping point that could be dire for marine life",
-    "url": "https://www.newscientist.com/article/2530469-arctic-ocean-reaches-tipping-point-that-could-be-dire-for-marine-life/",
-    "description": "Disappearing sea ice is letting more sunlight in the Arctic Ocean and boosting phytoplankton growth, but this has depleted a crucial nutrient, which could severely affect animals higher up the food chain",
-    "author": "Alec Luhn",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/15164400/SEI_301542089.jpg"
   }
 ]
