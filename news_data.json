@@ -1,5 +1,21 @@
 [
   {
+    "title": "Oldest known plague outbreak killed hunter-gatherer children",
+    "url": "https://www.newscientist.com/article/2530606-oldest-known-plague-outbreak-killed-hunter-gatherer-children/",
+    "description": "DNA evidence shows that plague bacteria devastated a community in Siberia more than 5000 years ago, challenging the idea that there were no major disease outbreaks before the advent of farming and large settlements",
+    "author": "Michael Le Page",
+    "category": "Humans",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/16161704/SEI_301633280.jpg"
+  },
+  {
+    "title": "Pigeons lock their eyes in place when they are flying",
+    "url": "https://www.newscientist.com/article/2530749-pigeons-lock-their-eyes-in-place-when-they-are-flying/",
+    "description": "Bird-mounted headsets and backpacks have revealed the surprising things pigeons do with their eyes when on the wing",
+    "author": "Chris Simms",
+    "category": "Life",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17130415/SEI_301768044.jpg"
+  },
+  {
     "title": "Autism and ADHD are on the rise due to widening diagnostic criteria",
     "url": "https://www.newscientist.com/article/2530700-autism-and-adhd-are-on-the-rise-due-to-widening-diagnostic-criteria/",
     "description": "A study of 140,000 people suggests that a broadening of the diagnostic criteria for autism and ADHD explains the sharp rise in diagnoses, but that doesn't mean too many people are being told they are autistic or have ADHD",
@@ -30,21 +46,5 @@
     "author": "Alec Luhn",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/15164400/SEI_301542089.jpg"
-  },
-  {
-    "title": "Sperm have been made magnetic to allow IVF inside the body",
-    "url": "https://www.newscientist.com/article/2530334-sperm-have-been-made-magnetic-to-allow-ivf-inside-the-body/",
-    "description": "IVF could be done inside the body using a revolutionary technique that reduces the invasiveness of the traditional fertility treatment",
-    "author": "Alice Klein",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/15114732/SEI_301508107.jpg"
-  },
-  {
-    "title": "The social media ban is an experiment – here’s how it will be studied",
-    "url": "https://www.newscientist.com/article/2530341-the-social-media-ban-is-an-experiment-heres-how-it-will-be-studied/",
-    "description": "Scientists have long grappled with how to measure the effect of social media on children. Now, the UK government has announced a total ban for everyone under 16, and researchers are rushing to design rigorous studies before it comes into effect",
-    "author": "Matthew Sparkes",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/15143250/SEI_301523787.jpg"
   }
 ]
