@@ -1,5 +1,13 @@
 [
   {
+    "title": "Trump in Defeat",
+    "url": "https://www.theatlantic.com/national-security/2026/06/trump-defeat-iran-war/687566/",
+    "description": "The president went to war triumphant and will likely leave greatly weakened.",
+    "author": "Jonathan Lemire",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/DVPM9N0gtv3_8EKMmLFbayl-6Dg=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_16_Trumps_Defeat/original.jpg"
+  },
+  {
     "title": "Trump Does Not Understand the War He Lost",
     "url": "https://www.theatlantic.com/newsletters/2026/06/trump-g7-comments-misunderstsand-middle-east/687569/",
     "description": "The president’s comments at the G7 summit revealed that he doesn’t understand the war he started—or the words that come out of his own mouth.",
@@ -91,7 +99,7 @@
     "title": "The U.S. Had No Choice but Diplomacy—Yet Again",
     "url": "https://www.theatlantic.com/national-security/2026/06/memorandum-understanding-deal-might-happen/687554/",
     "description": "The new pact between the U.S. and Iran seeks to rewind the clock to the day before the war. ​​​​​​",
-    "author": "Nancy A. Youssef,Russell Berman,andVivian Salama",
+    "author": "Nancy A. Youssef,Russell Berman,  andVivian Salama",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/vKD8-iyfc7izVdoAqpxZw6l1thY=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_15_What_the_Hawks_Think_About_the_Iran_Memorandum_of_Understanding/original.jpg"
   },
@@ -150,13 +158,5 @@
     "author": "John Swansburg",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/--MnEb9NbarM-jM9vt7rqWsVRys=/37x555:2003x1866/210x140/media/img/2026/05/Swans_Procession/original.jpg"
-  },
-  {
-    "title": "Why AI Is Incorrigibly Didactic",
-    "url": "https://www.theatlantic.com/ideas/2026/06/ai-writing-style-literature/687536/",
-    "description": "The rise of machine writing is a great opportunity for literature.",
-    "author": "Adam Kirsch",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/q5z-6e6s-fsCwRsFHSHG5X_fvI8=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_12_AILit/original.gif"
   }
 ]
