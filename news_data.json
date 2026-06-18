@@ -1,5 +1,29 @@
 [
   {
+    "title": "Remarkable fossils rewrite the story of how animals conquered the land",
+    "url": "https://www.newscientist.com/article/2531039-remarkable-fossils-rewrite-the-story-of-how-animals-conquered-the-land/",
+    "description": "Palaeontologists have found new evidence that the early ancestors of amphibians, reptiles and mammals did not have a larval stage with external gills like modern frogs or salamanders",
+    "author": "James Woodford",
+    "category": "Life",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/18142307/SEI_301903197.jpg"
+  },
+  {
+    "title": "Waves reflecting off Earth's core shifted Japan after 2011 earthquake",
+    "url": "https://www.newscientist.com/article/2531001-waves-reflecting-off-earths-core-shifted-japan-after-2011-earthquake/",
+    "description": "An extremely unusual tectonic movement took place 15 minutes after the Tohoku earthquake in 2011, causing almost the whole of Japan to move 5 millimetres to the east",
+    "author": "James Woodford",
+    "category": "Earth",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/18134353/SEI_301924247.jpg"
+  },
+  {
+    "title": "Why El Niño’s impacts on the UK are hard to predict",
+    "url": "https://www.newscientist.com/article/2530878-why-el-ninos-impacts-on-the-uk-are-hard-to-predict/",
+    "description": "A planet-warming El Niño climate phase has begun, but while the phenomenon can influence Europe's weather through long-distance atmospheric teleconnections, the effects are often uncertain",
+    "author": "Alec Luhn",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/18155536/SEI_301916749.jpg"
+  },
+  {
     "title": "Complex life on Earth may last 500 million years longer than expected",
     "url": "https://www.newscientist.com/article/2530639-complex-life-on-earth-may-last-500-million-years-longer-than-expected/",
     "description": "As the sun expands over the coming billions of years, Earth will become inhospitable to any life more complex than a microbe – but that might take longer than we thought",
@@ -22,29 +46,5 @@
     "author": "Michael Le Page",
     "category": "Health",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17170243/SEI_301798894.jpg"
-  },
-  {
-    "title": "Chilling the body with drugs could limit brain damage from stroke",
-    "url": "https://www.newscientist.com/article/2530657-chilling-the-body-with-drugs-could-limit-brain-damage-from-stroke/",
-    "description": "Putting brain cells into a hibernation-like state via drugs that cool down core body temperature may help to preserve them following a stroke",
-    "author": "Alice Klein",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17140720/SEI_301771301.jpg"
-  },
-  {
-    "title": "Oldest known plague outbreak killed hunter-gatherer children",
-    "url": "https://www.newscientist.com/article/2530606-oldest-known-plague-outbreak-killed-hunter-gatherer-children/",
-    "description": "DNA evidence shows that plague bacteria devastated a community in Siberia more than 5000 years ago, challenging the idea that there were no major disease outbreaks before the advent of farming and large settlements",
-    "author": "Michael Le Page",
-    "category": "Humans",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/16161704/SEI_301633280.jpg"
-  },
-  {
-    "title": "Pigeons lock their eyes in place when they are flying",
-    "url": "https://www.newscientist.com/article/2530749-pigeons-lock-their-eyes-in-place-when-they-are-flying/",
-    "description": "Bird-mounted headsets and backpacks have revealed the surprising things pigeons do with their eyes when on the wing",
-    "author": "Chris Simms",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17130415/SEI_301768044.jpg"
   }
 ]
