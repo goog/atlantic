@@ -1,15 +1,23 @@
 [
   {
-    "title": "Ancient monument may have been an early Stonehenge prototype",
-    "url": "https://www.newscientist.com/article/2530818-ancient-monument-may-have-been-an-early-stonehenge-prototype/",
+    "title": "Complex life on Earth may last 500 million years longer than expected",
+    "url": "https://www.newscientist.com/article/2530639-complex-life-on-earth-may-last-500-million-years-longer-than-expected/",
+    "description": "As the sun expands over the coming billions of years, Earth will become inhospitable to any life more complex than a microbe – but that might take longer than we thought",
+    "author": "Leah Crane",
+    "category": "Life",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17162633/SEI_301787640.jpg"
+  },
+  {
+    "title": "Ancient monument marked summer solstice centuries before Stonehenge",
+    "url": "https://www.newscientist.com/article/2530818-ancient-monument-marked-summer-solstice-centuries-before-stonehenge/",
     "description": "Archaeologists have discovered traces of a wooden structure built 5000 years ago, 5 kilometres from Stonehenge, which appears to have been an even older monument for marking the summer solstice",
     "author": "Michael Marshall",
     "category": "Humans",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17155023/SEI_301789845.jpg"
   },
   {
-    "title": "No young women have died of cervical cancer in England for years",
-    "url": "https://www.newscientist.com/article/2530733-no-young-women-have-died-of-cervical-cancer-in-england-for-years/",
+    "title": "Cervical cancer deaths have plummeted thanks to HPV vaccine",
+    "url": "https://www.newscientist.com/article/2530733-cervical-cancer-deaths-have-plummeted-thanks-to-hpv-vaccine/",
     "description": "We already know the vaccine against human papillomavirus, or HPV, greatly reduces infections and cases of cervical cancer, and now we have the first evidence it prevents deaths too",
     "author": "Michael Le Page",
     "category": "Health",
@@ -38,13 +46,5 @@
     "author": "Chris Simms",
     "category": "Life",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17130415/SEI_301768044.jpg"
-  },
-  {
-    "title": "Autism and ADHD are on the rise due to widening diagnostic criteria",
-    "url": "https://www.newscientist.com/article/2530700-autism-and-adhd-are-on-the-rise-due-to-widening-diagnostic-criteria/",
-    "description": "A study of 140,000 people suggests that a broadening of the diagnostic criteria for autism and ADHD explains the sharp rise in diagnoses, but that doesn't mean too many people are being told they are autistic or have ADHD",
-    "author": "Caroline Williams",
-    "category": "Mind",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17120556/SEI_301655040.jpg"
   }
 ]

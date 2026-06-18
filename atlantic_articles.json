@@ -1,5 +1,21 @@
 [
   {
+    "title": "A Close-Up Look at the Waste of Modern Life",
+    "url": "https://www.theatlantic.com/books/2026/06/trash-simon-pare-poupart-memoir-book-review/687579/",
+    "description": "A new memoir by a Montreal garbageman shows the actual work of cleaning up the world’s junk.",
+    "author": "Lily Meyer",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Xwcic_c4Ras0MgeH_GMr1bRgwoQ=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_12_A_Garbagemans_Memoir-2/original.jpg"
+  },
+  {
+    "title": "AtlanticTrivia: RIP 747",
+    "url": "https://www.theatlantic.com/trivia/2026/06/18-boeing-747-retirement/687557/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/IxlWlUlEhWZ6NulzjQwaxibkJdY=/148x0:1770x1081/210x140/media/img/mt/2026/06/trivia_purple-2/original.png"
+  },
+  {
     "title": "What Did You Expect?",
     "url": "https://www.theatlantic.com/ideas/2026/06/trump-iran-war-reversals/687590/",
     "description": "Perhaps this was always how Trump’s ill-conceived war was destined to end.",
@@ -8,7 +24,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/-jRdcm8bxD9h0lumPQ6ytwWroH4=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_18_What_Did_Anyone_Expect_Dan_Shapiro/original.jpg"
   },
   {
-    "title": "A Robin Hood You May Not Want to Root for",
+    "title": "A Robin Hood You May Not Want to Root For",
     "url": "https://www.theatlantic.com/culture/2026/06/death-of-robin-hood-movie-review-hugh-jackman/687587/",
     "description": "A mournful new film reimagines the classic do-gooder as an antihero.",
     "author": "David Sims",
@@ -142,21 +158,5 @@
     "author": "Tom Nichols",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/opo4SRJejSw8fGv6okPL1tp9sIY=/226x0:2656x1620/210x140/media/newsletters/2026/06/2026_06_16_The_Daily_Trumps_G7_Comments_on_the_Middle_East-1/original.jpg"
-  },
-  {
-    "title": "The Doha Connection",
-    "url": "https://www.theatlantic.com/national-security/2026/06/trump-qatar-friendship-iran-deal/687563/",
-    "description": "Trump’s off-ramp from war with Iran runs through Qatar.",
-    "author": "Shane Harris",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/q0NgYjQFNxfxAhw5g1Bl0Qtgyl0=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_16_How_Qatar_Won_the_War/original.jpg"
-  },
-  {
-    "title": "Oil Prices Might Not Go Back to Normal Anytime Soon",
-    "url": "https://www.theatlantic.com/economy/2026/06/trump-iran-deal-oil/687564/",
-    "description": "There’s a big difference between reopening the Strait of Hormuz on paper and actually resuming the flow of oil through it.",
-    "author": "Rogé Karma",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/-aC3r3H-1LcSGkOADXg_cK5Bg9Y=/117x0:1383x844/210x140/media/img/mt/2026/06/2026_06_16_Where_is_the_Oil_moshed_06_16_11_43_41_197/original.jpg"
   }
 ]
