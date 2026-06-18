@@ -1,5 +1,21 @@
 [
   {
+    "title": "‘You Slap Me in the Face, I’ll Slap You Right Back’",
+    "url": "https://www.theatlantic.com/podcasts/2026/06/nancy-pelosi-democrats-midterms/687575/",
+    "description": "Nancy Pelosi on gerrymandering, the midterms, and her 39 years in Congress",
+    "author": "Kevin Townsend",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/zDJaadimK-Tg65FTu2IGFviA_wc=/435x0:3810x2250/210x140/media/img/mt/2026/06/Radio_Atlantic_Vertical_Pelosi/original.jpg"
+  },
+  {
+    "title": "The Religion That’s Very Ready for Aliens",
+    "url": "https://www.theatlantic.com/culture/2026/06/disclosure-day-aliens-catholicism/687580/",
+    "description": "Disclosure Daytreats extraterrestrial life as a challenge to faith. It’s not.",
+    "author": "Luis Parrales",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/b5d3YU83FMyU6l7B5i09QafDsLY=/219x0:2783x1709/210x140/media/img/mt/2026/06/2026_06_17_Disclosure_Day_Review_TK/original.jpg"
+  },
+  {
     "title": "A Close-Up Look at the Waste of Modern Life",
     "url": "https://www.theatlantic.com/books/2026/06/trash-simon-pare-poupart-memoir-book-review/687579/",
     "description": "A new memoir by a Montreal garbageman shows the actual work of cleaning up the world’s junk.",
@@ -142,21 +158,5 @@
     "author": "Drew Goins",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/MVremp4xhirU2ytSEqyytyzI0Qg=/152x0:1772x1080/210x140/media/img/mt/2026/06/trivia_green/original.png"
-  },
-  {
-    "title": "Trump in Defeat",
-    "url": "https://www.theatlantic.com/national-security/2026/06/trump-defeat-iran-war/687566/",
-    "description": "The president went to war triumphant and will likely leave greatly weakened.",
-    "author": "Jonathan Lemire",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/DVPM9N0gtv3_8EKMmLFbayl-6Dg=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_16_Trumps_Defeat/original.jpg"
-  },
-  {
-    "title": "Trump Does Not Understand the War He Lost",
-    "url": "https://www.theatlantic.com/newsletters/2026/06/trump-g7-comments-misunderstsand-middle-east/687569/",
-    "description": "The president’s comments at the G7 summit revealed that he doesn’t understand the war he started—or the words that come out of his own mouth.",
-    "author": "Tom Nichols",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/opo4SRJejSw8fGv6okPL1tp9sIY=/226x0:2656x1620/210x140/media/newsletters/2026/06/2026_06_16_The_Daily_Trumps_G7_Comments_on_the_Middle_East-1/original.jpg"
   }
 ]
