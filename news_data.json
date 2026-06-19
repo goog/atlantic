@@ -1,5 +1,29 @@
 [
   {
+    "title": "Faecal transplant makes the brains of old mice act young again",
+    "url": "https://www.newscientist.com/article/2531241-faecal-transplant-makes-the-brains-of-old-mice-act-young-again/",
+    "description": "Older mice that received a faecal microbiome transplant from younger animals went on to have improved brain plasticity, which meant their brains could overcome a neurological condition that is typically successfully treated only in childhood",
+    "author": "Chris Simms",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/19174058/SEI_302089664.jpg"
+  },
+  {
+    "title": "We've found a mysterious substance on Titan and Pluto",
+    "url": "https://www.newscientist.com/article/2531107-weve-found-a-mysterious-substance-on-titan-and-pluto/",
+    "description": "Something is absorbing light on the surfaces of Pluto and Saturn’s moon Titan, and figuring out what it is could be crucial to understanding Titan’s complex chemistry",
+    "author": "Leah Crane",
+    "category": "Space",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/19145041/SEI_302060273.jpg"
+  },
+  {
+    "title": "Most portable air conditioners suck – but there's an easy fix",
+    "url": "https://www.newscientist.com/article/2530899-most-portable-air-conditioners-suck-but-theres-an-easy-fix/",
+    "description": "Efficiency ratings on portable air conditioners don’t give consumers the full picture, and one type of aircon unit is so inefficient that it should be banned, says Michael Le Page",
+    "author": "Michael Le Page",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/19122000/SEI_301922545.jpg"
+  },
+  {
     "title": "Gas from Uranus reveals it has an icy centre",
     "url": "https://www.newscientist.com/article/2531117-gas-from-uranus-reveals-it-has-an-icy-centre/",
     "description": "Carbon monoxide in Uranus's deep atmosphere indicates that the planet contains more ice than rock, suggesting it formed more like Neptune than we thought",
@@ -22,29 +46,5 @@
     "author": "James Woodford",
     "category": "Earth",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/18134353/SEI_301924247.jpg"
-  },
-  {
-    "title": "Why El Niño’s impacts on the UK are hard to predict",
-    "url": "https://www.newscientist.com/article/2530878-why-el-ninos-impacts-on-the-uk-are-hard-to-predict/",
-    "description": "A planet-warming El Niño climate phase has begun, but while the phenomenon can influence Europe's weather through long-distance atmospheric teleconnections, the effects are often uncertain",
-    "author": "Alec Luhn",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/18155536/SEI_301916749.jpg"
-  },
-  {
-    "title": "Complex life on Earth may last 500 million years longer than expected",
-    "url": "https://www.newscientist.com/article/2530639-complex-life-on-earth-may-last-500-million-years-longer-than-expected/",
-    "description": "As the sun expands over the coming billions of years, Earth will become inhospitable to any life more complex than a microbe – but that might take longer than we thought",
-    "author": "Leah Crane",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17162633/SEI_301787640.jpg"
-  },
-  {
-    "title": "Ancient monument marked summer solstice centuries before Stonehenge",
-    "url": "https://www.newscientist.com/article/2530818-ancient-monument-marked-summer-solstice-centuries-before-stonehenge/",
-    "description": "Archaeologists have discovered traces of a wooden structure built 5000 years ago, 5 kilometres from Stonehenge, which appears to have been an even older monument for marking the summer solstice",
-    "author": "Michael Marshall",
-    "category": "Humans",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/17155023/SEI_301789845.jpg"
   }
 ]
