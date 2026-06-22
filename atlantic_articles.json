@@ -1,5 +1,37 @@
 [
   {
+    "title": "California, Seen Through the Lens of George Rose",
+    "url": "https://www.theatlantic.com/photography/2026/06/california-seen-through-lens-george-rose/687657/",
+    "description": "George Rose, an editorial contributing photographer with Getty, has been making remarkable images of California’s people and landscapes for decades. Collected here is some of Rose’s recent photography",
+    "author": "Alan Taylor",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/BeZSKaXhDfXcJVhwLpu6yhCZpag=/72x436:3906x2992/210x140/media/img/mt/2026/06/a01_G_2207986216-1/original.jpg"
+  },
+  {
+    "title": "The Man Who Couldn’t Do It",
+    "url": "https://www.theatlantic.com/ideas/2026/06/keir-starmer-british-prime-minister-turnover/687658/",
+    "description": "Keir Starmer joins the growing list of prime ministers who failed to address the country’s troubles.",
+    "author": "Helen Lewis",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Gk_bBUsLoxguW_xnALlWu-ohg7w=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_22_Starmers_Folly_and_Britains/original.jpg"
+  },
+  {
+    "title": "What Happened to Tony Carruthers Is Horrifying",
+    "url": "https://www.theatlantic.com/ideas/2026/06/lethal-injection-execution-tennessee-tony-carruthers/687639/",
+    "description": "Lethal injection was meant to be humane. The reality is bloody and brutal.",
+    "author": "Elizabeth Bruenig",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/7LzUrmHra4f7vYTVrApV9iAfKhc=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_18_Tony_Carruthers/original.jpg"
+  },
+  {
+    "title": "What Will Happen to Birthright Citizenship?",
+    "url": "https://www.theatlantic.com/podcasts/2026/06/what-will-happen-to-birthright-citizenship/687623/",
+    "description": "The Supreme Court considers the Fourteenth Amendment.",
+    "author": "Adam Harris",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/cVVIF3NKHam3MJRjgxs3HeZdrI8=/460x0:3835x2250/210x140/media/img/mt/2026/06/Radio_Atlantic_Vertical_TK-1/original.jpg"
+  },
+  {
     "title": "The Hot New Place for Singles",
     "url": "https://www.theatlantic.com/family/2026/06/substack-newsletters-matchmakers-dating/687648/",
     "description": "Newsletter writers are playing cupid with their like-minded readers.",
@@ -126,37 +158,5 @@
     "author": "Geraldo L. Cadava",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/L4t8VE2JkQoDPcKKGAamlpBC_nA=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_18_The_Tohono_Oodham_Border_Wall/original.jpg"
-  },
-  {
-    "title": "The Myth of SpaceX",
-    "url": "https://www.theatlantic.com/technology/2026/06/spacex-starlink-ipo-elon-musk-trillionaire/687651/",
-    "description": "The company has mutated into something that defies both comparison and logic.",
-    "author": "Charlie Warzel",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/r4Bnf0ujaU8Usa0anEGD7_e9zcM=/295x0:3458x2109/210x140/media/img/mt/2026/06/2026_06_18_The_Seven_Headed_Hydra_at_the_End_of_Finance_Charlie_Warzel/original.jpg"
-  },
-  {
-    "title": "Trump’s Second Gamble on Iran",
-    "url": "https://www.theatlantic.com/ideas/2026/06/trumps-second-gamble-on-iran/687650/",
-    "description": "If the regime can’t be dislodged by force, maybe it can be bribed.",
-    "author": "Karim Sadjadpour",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/5R-tVyzNsnMY1MgHAYcV7Ws-TUc=/264x0:3100x1891/210x140/media/img/mt/2026/06/2026_06_19_Iran_Deal_or_no_Deal/original.jpg"
-  },
-  {
-    "title": "Iran Got a Great Deal That It Could Still Squander",
-    "url": "https://www.theatlantic.com/international/2026/06/iran-got-great-deal-it-could-still-squander/687647/",
-    "description": "For some forces in Iran, no agreement is a good agreement with the United States.",
-    "author": "Arash Azizi",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/JTLJkQPyWsz65s3fq_6-VoSGdpM=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_19_Iran_Politics_Azizi/original.jpg"
-  },
-  {
-    "title": "Science Has a Name for What’s Plaguing the Reflecting Pool",
-    "url": "https://www.theatlantic.com/politics/2026/06/reflecting-pool-algae-scientific-testing-trump/687649/",
-    "description": "Testing reveals that efforts to suppress one algal bloom seem to be fueling another.",
-    "author": "Matt Viser",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/-riv26s-ziczTx2deCr-AaEI_QQ=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_19_Algae_Reflecting_Pool_3/original.jpg"
   }
 ]
