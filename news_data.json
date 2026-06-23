@@ -1,5 +1,13 @@
 [
   {
+    "title": "Unapproved gene therapy for boosting longevity is set to go on sale",
+    "url": "https://www.newscientist.com/article/2530933-unapproved-gene-therapy-for-boosting-longevity-is-set-to-go-on-sale/",
+    "description": "A gene therapy that instructs cells to produce more of an anti-ageing protein called klotho is about to be offered by a US company at overseas clinics to bypass FDA rules",
+    "author": "Alice Klein",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23114215/SEI_301931303.jpg"
+  },
+  {
     "title": "Woman with Alzheimer's starts conversing again after taking psilocybin",
     "url": "https://www.newscientist.com/article/2531319-woman-with-alzheimers-starts-conversing-again-after-taking-psilocybin/",
     "description": "A woman with severe Alzheimer's disease who hadn't spoken more than monosyllables in years began initiating conversation after a single dose of psilocybin",
@@ -38,13 +46,5 @@
     "author": "Chris Simms",
     "category": "Health",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/19174058/SEI_302089664.jpg"
-  },
-  {
-    "title": "We've found a mysterious substance on Titan and Pluto",
-    "url": "https://www.newscientist.com/article/2531107-weve-found-a-mysterious-substance-on-titan-and-pluto/",
-    "description": "Something is absorbing light on the surfaces of Pluto and Saturn’s moon Titan, and figuring out what it is could be crucial to understanding Titan’s complex chemistry",
-    "author": "Leah Crane",
-    "category": "Space",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/19145041/SEI_302060273.jpg"
   }
 ]
