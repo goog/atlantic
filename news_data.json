@@ -1,5 +1,13 @@
 [
   {
+    "title": "You should turn off fans when it's too hot – but how hot is too hot?",
+    "url": "https://www.newscientist.com/article/2531606-you-should-turn-off-fans-when-its-too-hot-but-how-hot-is-too-hot/",
+    "description": "Fans can make you hotter rather than cooler, but the temperature at which you should turn them off depends on several factors, including your age and the humidity level",
+    "author": "Michael Le Page",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23172651/SEI_302557223.jpg"
+  },
+  {
     "title": "Elite Maya people had teeth placed in a cave far from their tombs",
     "url": "https://www.newscientist.com/article/2531564-elite-maya-people-had-teeth-placed-in-a-cave-far-from-their-tombs/",
     "description": "A cave in Belize contains teeth from dozens of important Maya people buried elsewhere, which may attest to a ritual intended to ensure their passage to the underworld",
@@ -38,13 +46,5 @@
     "author": "James Woodford",
     "category": "Life",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/22114606/SEI_302071022.jpg"
-  },
-  {
-    "title": "A promising natural technique to remove CO2 could backfire",
-    "url": "https://www.newscientist.com/article/2531254-a-promising-natural-technique-to-remove-co2-could-backfire/",
-    "description": "Several start-ups have tried to grow seaweed to remove atmospheric CO2, but this could affect the levels of nutrients in the ocean and hamper other CO2-sucking processes",
-    "author": "Alec Luhn",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/22141535/SEI_302426865.jpg"
   }
 ]

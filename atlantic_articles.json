@@ -1,5 +1,21 @@
 [
   {
+    "title": "America Isn’t Sweating Climate Change",
+    "url": "https://www.theatlantic.com/science/2026/06/climate-ambivalence/687673/",
+    "description": "However worried Americans should be, we’re not that concerned.",
+    "author": "Joshua Partlow",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/nc1zAAR9iWD8qk0Cf7BU8qwXEno=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_18_ClimateSilence/original.jpg"
+  },
+  {
+    "title": "America Desperately Needs More Sterile Screwworms",
+    "url": "https://www.theatlantic.com/science/2026/06/screwworm-problem-worse/687668/",
+    "description": "Ranchers are waiting for hundreds of millions of sterile flies to be produced, or for a technological breakthrough.",
+    "author": "Sarah Zhang",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/3bXdRpB0SWOxme4FZNLX1dRzf-s=/366x0:4362x2664/210x140/media/img/mt/2026/06/2026_06_22_Screwworm_Lede/original.jpg"
+  },
+  {
     "title": "Americans Are in Denial About Elder Care",
     "url": "https://www.theatlantic.com/family/2026/06/elder-care-kin-delusion/687666/",
     "description": "Many assume that if they can afford paid help in older age, they won’t need to rely on kin. They’re wrong.",
@@ -142,21 +158,5 @@
     "author": "Alan Taylor",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/wm33QeNzaGtJuBtZxQYnHp7LQvg=/70x1:3738x2447/210x140/media/img/mt/2026/06/a01_RC2DVLA42LKJ/original.jpg"
-  },
-  {
-    "title": "I’d Rather Risk Cancer Than See AI Move This Fast",
-    "url": "https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/",
-    "description": "I’d benefit if AI cured cancer. And I still want AI progress to slow down.",
-    "author": "Emma Pierson",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/9Iy2WNu2iu4QSSWNbn141H8Hqic=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_17_Curing_Cancer_With_AI_Isnt_Worth_It/original.jpg"
-  },
-  {
-    "title": "J. D. Vance’s AI Doctrine",
-    "url": "https://www.theatlantic.com/national-security/2026/06/what-does-jd-vance-think-ai/687591/",
-    "description": "The vice president is making a case that is part Silicon Valley, part MAGA.",
-    "author": "Vivian Salama",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/fsRVKhjZe1RxTYc3yR8kk6KWVLM=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_08_Vance_AI/original.jpg"
   }
 ]
