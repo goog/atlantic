@@ -1,5 +1,13 @@
 [
   {
+    "title": "Huge crater in Australia may be the oldest impact structure on Earth",
+    "url": "https://www.newscientist.com/article/2531525-huge-crater-in-australia-may-be-the-oldest-impact-structure-on-earth/",
+    "description": "A study claims that the North Pole Dome crater in Western Australia was caused by an asteroid strike 3 billion years ago, but other researchers dispute the proposed age",
+    "author": "James Woodford",
+    "category": "Earth",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23114346/SEI_302410418.jpg"
+  },
+  {
     "title": "You should turn off fans when it's too hot – but how hot is too hot?",
     "url": "https://www.newscientist.com/article/2531606-you-should-turn-off-fans-when-its-too-hot-but-how-hot-is-too-hot/",
     "description": "Fans can make you hotter rather than cooler, but the temperature at which you should turn them off depends on several factors, including your age and the humidity level",
@@ -38,13 +46,5 @@
     "author": "Mattha Busby",
     "category": "Health",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/22162617/SEI_302413725.jpg"
-  },
-  {
-    "title": "New-to-science spider builds trap that flings ants into the air",
-    "url": "https://www.newscientist.com/article/2531317-new-to-science-spider-builds-trap-that-flings-ants-into-the-air/",
-    "description": "A spider living in the rainforests of Queensland, Australia, builds a snare trap reminiscent of a Roman-era ballista weapon that it uses to catapult green tree ants into a web 30 centimetres above",
-    "author": "James Woodford",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/22114606/SEI_302071022.jpg"
   }
 ]

@@ -1,8 +1,16 @@
 [
   {
+    "title": "America’s Greatest Food Export",
+    "url": "https://www.theatlantic.com/culture/2026/06/ranch-dressing-america-world-cup/687671/",
+    "description": "Ranch dressing has become, deservedly or not, a face of the nation during the World Cup.",
+    "author": "Ellen Cushing",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/VBFMk1q2DhxRTcZEVCsI_N24WPM=/82x0:924x561/210x140/media/img/mt/2026/06/2026_06_22_Cushing_Ranch_final_1/original.gif"
+  },
+  {
     "title": "Is It Warm Out There?",
     "url": "https://www.theatlantic.com/science/2026/06/climate-ambivalence/687673/",
-    "description": "",
+    "description": "The planet is getting hotter. But America’s conversation about it has chilled.",
     "author": "Joshua Partlow",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/nc1zAAR9iWD8qk0Cf7BU8qwXEno=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_18_ClimateSilence/original.jpg"
@@ -101,7 +109,7 @@
     "description": "The Supreme Court considers the Fourteenth Amendment.",
     "author": "Adam Harris",
     "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/cVVIF3NKHam3MJRjgxs3HeZdrI8=/460x0:3835x2250/210x140/media/img/mt/2026/06/Radio_Atlantic_Vertical_TK-1/original.jpg"
+    "image": "https://cdn.theatlantic.com/thumbor/U2ABQbBQDzwzPp4815M5wS9MEmY=/315x0:3690x2250/210x140/media/img/mt/2026/06/Radio_Atlantic_Vertical_TK-1/original.jpg"
   },
   {
     "title": "The Hot New Place for Singles",
@@ -150,13 +158,5 @@
     "author": "Ayesha Asad",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/aEcFFZBiSQS003pBIO5Jqn9Hryc=/293x0:2898x1737/210x140/media/img/mt/2026/06/2026_06_18_Poem_Imperfect_Ghazal/original.jpg"
-  },
-  {
-    "title": "Photos: A Bear-Emergency-Response Drill in Japan",
-    "url": "https://www.theatlantic.com/photography/2026/06/photos-bear-emergency-response-drill-japan/687655/",
-    "description": "With a recent increase in bear sightings and incidents in rural Japan, local communities are taking steps to prepare for such encounters. In the small city of Yaita, officials and residents worked tog",
-    "author": "Alan Taylor",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/wm33QeNzaGtJuBtZxQYnHp7LQvg=/70x1:3738x2447/210x140/media/img/mt/2026/06/a01_RC2DVLA42LKJ/original.jpg"
   }
 ]
