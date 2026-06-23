@@ -1,5 +1,21 @@
 [
   {
+    "title": "Elite Maya people had teeth placed in a cave far from their tombs",
+    "url": "https://www.newscientist.com/article/2531564-elite-maya-people-had-teeth-placed-in-a-cave-far-from-their-tombs/",
+    "description": "A cave in Belize contains teeth from dozens of important Maya people buried elsewhere, which may attest to a ritual intended to ensure their passage to the underworld",
+    "author": "Chris Simms",
+    "category": "Humans",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23141912/SEI_302535800.jpg"
+  },
+  {
+    "title": "X's secretive plans to deliver cargo to Earth from space",
+    "url": "https://www.newscientist.com/article/2531559-spacexs-secretive-plans-to-deliver-cargo-to-earth-from-space/",
+    "description": "Not much is known about Starfall, SpaceX's new delivery system, but an assessment published in May revealed its intended purpose",
+    "author": "Alex Wilkins",
+    "category": "Space",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23163514/SEI_302542725.jpg"
+  },
+  {
     "title": "Unapproved gene therapy for boosting longevity is set to go on sale",
     "url": "https://www.newscientist.com/article/2530933-unapproved-gene-therapy-for-boosting-longevity-is-set-to-go-on-sale/",
     "description": "A gene therapy that instructs cells to produce more of an anti-ageing protein called klotho is about to be offered by a US company at overseas clinics to bypass FDA rules",
@@ -30,21 +46,5 @@
     "author": "Alec Luhn",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/22141535/SEI_302426865.jpg"
-  },
-  {
-    "title": "People training new AI models admit they just get chatbots to do it",
-    "url": "https://www.newscientist.com/article/2531050-people-training-new-ai-models-admit-they-just-get-chatbots-to-do-it/",
-    "description": "The next generation of AI models are meant to be trained by people paid to have conversations with them, but several of these workers have admitted to New Scientist that they simply get chatbots to do it instead. This \"AI inbreeding\" may reduce the power and usefulness of future models, warn experts",
-    "author": "Matthew Sparkes",
-    "category": "Technology",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/19153618/SEI_302080413.jpg"
-  },
-  {
-    "title": "Faecal transplant makes the brains of old mice act young again",
-    "url": "https://www.newscientist.com/article/2531241-faecal-transplant-makes-the-brains-of-old-mice-act-young-again/",
-    "description": "Older mice that received a faecal microbiome transplant from younger animals went on to have improved brain plasticity, which suggests their brains could overcome a neurological condition that is typically successfully treated only in childhood",
-    "author": "Chris Simms",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/19174058/SEI_302089664.jpg"
   }
 ]
