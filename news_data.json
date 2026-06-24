@@ -1,5 +1,21 @@
 [
   {
+    "title": "Possible signs of ancient life on Mars are rich in complex carbon",
+    "url": "https://www.newscientist.com/article/2531752-possible-signs-of-ancient-life-on-mars-are-rich-in-complex-carbon/",
+    "description": "An instrument on the Perseverance rover has identified large, complex carbon compounds alongside unusual patterns on the surface of rocks that resemble traces of microbial activity",
+    "author": "Alex Wilkins",
+    "category": "Space",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24172007/SEI_302707163.jpg"
+  },
+  {
+    "title": "A note from the anniversary editor",
+    "url": "https://www.newscientist.com/article/2531539-a-note-from-the-anniversary-editor/",
+    "description": "Send us your memories of New Scientist for our 70th anniversary issue",
+    "author": "Sam Wong",
+    "category": "News",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23125046/SEI_302072062.jpg"
+  },
+  {
     "title": "All known Homo naledi skeletons seem to be female",
     "url": "https://www.newscientist.com/article/2531654-all-known-homo-naledi-skeletons-seem-to-be-female/",
     "description": "An analysis of tooth proteins suggests all 23 Homo naledi individuals found in the Rising Star cave in South Africa were female, which strengthens the case that they were placed there deliberately",
@@ -30,21 +46,5 @@
     "author": "Leah Crane",
     "category": "Space",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24101320/SEI_302520049.jpg"
-  },
-  {
-    "title": "Huge crater in Australia may be the oldest impact structure on Earth",
-    "url": "https://www.newscientist.com/article/2531525-huge-crater-in-australia-may-be-the-oldest-impact-structure-on-earth/",
-    "description": "A study claims that the North Pole Dome crater in Western Australia was caused by an asteroid strike 3 billion years ago, but other researchers dispute the proposed age",
-    "author": "James Woodford",
-    "category": "Earth",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23114346/SEI_302410418.jpg"
-  },
-  {
-    "title": "You should turn off fans when it's too hot – but how hot is too hot?",
-    "url": "https://www.newscientist.com/article/2531606-you-should-turn-off-fans-when-its-too-hot-but-how-hot-is-too-hot/",
-    "description": "Fans can make you hotter rather than cooler, but the temperature at which you should turn them off depends on several factors, including your age and the humidity level",
-    "author": "Michael Le Page",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23172651/SEI_302557223.jpg"
   }
 ]
