@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hidden black hole could explain mystery at the heart of our galaxy",
+    "url": "https://www.newscientist.com/article/2531455-hidden-black-hole-could-explain-mystery-at-the-heart-of-our-galaxy/",
+    "description": "The area surrounding our galaxy’s central supermassive black hole contains three strangely different populations of stars – but one hidden black hole could explain all of them",
+    "author": "Leah Crane",
+    "category": "Space",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24101320/SEI_302520049.jpg"
+  },
+  {
     "title": "Huge crater in Australia may be the oldest impact structure on Earth",
     "url": "https://www.newscientist.com/article/2531525-huge-crater-in-australia-may-be-the-oldest-impact-structure-on-earth/",
     "description": "A study claims that the North Pole Dome crater in Western Australia was caused by an asteroid strike 3 billion years ago, but other researchers dispute the proposed age",
@@ -38,13 +46,5 @@
     "author": "Alice Klein",
     "category": "Health",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23114215/SEI_301931303.jpg"
-  },
-  {
-    "title": "Woman with Alzheimer's starts conversing again after taking psilocybin",
-    "url": "https://www.newscientist.com/article/2531319-woman-with-alzheimers-starts-conversing-again-after-taking-psilocybin/",
-    "description": "A woman with severe Alzheimer's disease who hadn't spoken more than monosyllables in years began initiating conversation after a single dose of psilocybin",
-    "author": "Mattha Busby",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/22162617/SEI_302413725.jpg"
   }
 ]
