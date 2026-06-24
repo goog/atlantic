@@ -1,5 +1,13 @@
 [
   {
+    "title": "Fluctuating oestrogen levels may alter how drugs enter women's brains",
+    "url": "https://www.newscientist.com/article/2531651-fluctuating-oestrogen-levels-may-alter-how-drugs-enter-womens-brains/",
+    "description": "Oestrogen levels fluctuate throughout a woman's menstrual cycle, which may impact how efficiently a drug that targets the brain can reach its destination",
+    "author": "Starre Vartan",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24111525/SEI_302421424.jpg"
+  },
+  {
     "title": "Hidden black hole could explain mystery at the heart of our galaxy",
     "url": "https://www.newscientist.com/article/2531455-hidden-black-hole-could-explain-mystery-at-the-heart-of-our-galaxy/",
     "description": "The area surrounding our galaxy’s central supermassive black hole contains three strangely different populations of stars – but one hidden black hole could explain all of them",
@@ -38,13 +46,5 @@
     "author": "Alex Wilkins",
     "category": "Space",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23163514/SEI_302542725.jpg"
-  },
-  {
-    "title": "Unapproved gene therapy for boosting longevity is set to go on sale",
-    "url": "https://www.newscientist.com/article/2530933-unapproved-gene-therapy-for-boosting-longevity-is-set-to-go-on-sale/",
-    "description": "A gene therapy that instructs cells to produce more of an anti-ageing protein called klotho is about to be offered by a US company at overseas clinics to bypass FDA rules",
-    "author": "Alice Klein",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23114215/SEI_301931303.jpg"
   }
 ]

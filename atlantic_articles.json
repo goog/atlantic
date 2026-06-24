@@ -1,8 +1,40 @@
 [
   {
-    "title": "Andy Burnham Has Three Years to Fix Britain",
+    "title": "Guiding Red",
+    "url": "https://www.theatlantic.com/books/2026/06/poem-victoria-chang-guiding-red/687620/",
+    "description": "",
+    "author": "Victoria Chang",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/ARhoYgTtwu0nHuyTCzbIXrYchNM=/103x850:2219x2261/210x140/media/img/mt/2026/06/2026_06_17_Guiding_red/original.jpg"
+  },
+  {
+    "title": "The Reflecting Pool Water’s Fine",
+    "url": "https://www.theatlantic.com/ideas/2026/06/reflecting-pool-green-algae-trump/687672/",
+    "description": "",
+    "author": "Jonathan Chait",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/l5lG3dKClU9iLRcOrKsPfPQk1BM=/603x0:7063x4307/210x140/media/img/mt/2026/06/2026_06_23_The_Reflecting_Pool_Waters_Fine/original.jpg"
+  },
+  {
+    "title": "Would Claude Refuse an Illegal Military Order?",
+    "url": "https://www.theatlantic.com/national-security/2026/06/claude-anthropic-ai-warfare-orders/687581/",
+    "description": "The AI chatbot told me that it has misgivings about its role in modern warfare.",
+    "author": "Shane Harris",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Hizic_zfe5ux8BrozLP6gy_sxnA=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_13_ClaudeMilitaryOrders/original.jpg"
+  },
+  {
+    "title": "AtlanticTrivia: Wine",
+    "url": "https://www.theatlantic.com/trivia/2026/06/24-spain-california-france-wines-genesis-bible/687055/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/iN6mxJ7-h2PGe6xGUVPLJIswd2A=/148x0:1769x1081/210x140/media/img/mt/2026/05/trivia_purple/original.png"
+  },
+  {
+    "title": "Burnham Is Britain’s Last Chance Before Farage",
     "url": "https://www.theatlantic.com/ideas/2026/06/burnham-uk-reform-manchesterism/687674/",
-    "description": "Can a former mayor show that the establishment can still govern?",
+    "description": "If he becomes prime minister, he has three years to fix the country.",
     "author": "Idrees Kahloon",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/HlFnbAxM5qnub45RfOKZbWGAc7E=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_24_Andy_Burnham_and_the_Future_of_Britain_Idrees_Kahloon/original.jpg"
@@ -126,37 +158,5 @@
     "author": "Helen Lewis",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/Gk_bBUsLoxguW_xnALlWu-ohg7w=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_22_Starmers_Folly_and_Britains/original.jpg"
-  },
-  {
-    "title": "What Happened to Tony Carruthers Is Horrifying",
-    "url": "https://www.theatlantic.com/ideas/2026/06/lethal-injection-execution-tennessee-tony-carruthers/687639/",
-    "description": "Lethal injection was meant to be humane. The reality is bloody and brutal.",
-    "author": "Elizabeth Bruenig",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/7LzUrmHra4f7vYTVrApV9iAfKhc=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_18_Tony_Carruthers/original.jpg"
-  },
-  {
-    "title": "What Will Happen to Birthright Citizenship?",
-    "url": "https://www.theatlantic.com/podcasts/2026/06/what-will-happen-to-birthright-citizenship/687623/",
-    "description": "The Supreme Court considers the Fourteenth Amendment.",
-    "author": "Adam Harris",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/U2ABQbBQDzwzPp4815M5wS9MEmY=/315x0:3690x2250/210x140/media/img/mt/2026/06/Radio_Atlantic_Vertical_TK-1/original.jpg"
-  },
-  {
-    "title": "The Hot New Place for Singles",
-    "url": "https://www.theatlantic.com/family/2026/06/substack-newsletters-matchmakers-dating/687648/",
-    "description": "Newsletter writers are playing cupid with their like-minded readers.",
-    "author": "Anna Holmes",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/K9m6S4UZjJl-LuZ7M4ccb5ytAzk=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_12_Newsletter_matchmaking/original.jpg"
-  },
-  {
-    "title": "The Election System Wasn’t Built for This",
-    "url": "https://www.theatlantic.com/politics/2026/06/arizona-maricopa-county-election-heap/687601/",
-    "description": "The fight playing out in Maricopa County could be a harbinger of things to come.",
-    "author": "Yvonne Wingett Sanchez",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/SAYBQy5D0Qwnf92TDvmDcX-Fdx8=/159x0:1845x1124/210x140/media/img/mt/2026/06/2026_06_18_Maricopa/original.gif"
   }
 ]
