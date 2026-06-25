@@ -1,5 +1,29 @@
 [
   {
+    "title": "Record-breaking IBM chip uses trick to cram in 100 billion transistors",
+    "url": "https://www.newscientist.com/article/2530687-record-breaking-ibm-chip-uses-trick-to-cram-in-100-billion-transistors/",
+    "description": "IBM's latest chip packs in twice as many transistors as the current state-of-the-art chip by adding a second layer of silicon circuitry",
+    "author": "Matthew Sparkes",
+    "category": "Technology",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24114809/SEI_302531697.jpg"
+  },
+  {
+    "title": "Bacteria-killing viruses redirect vaccine immunity to destroy cancer",
+    "url": "https://www.newscientist.com/article/2531700-bacteria-killing-viruses-redirect-vaccine-immunity-to-destroy-cancer/",
+    "description": "Phages, viruses that infect bacteria, could be genetically manipulated to destroy cancerous cells using the immunity we have acquired from vaccines",
+    "author": "Tom Bawden",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25101433/SEI_302699536.jpg"
+  },
+  {
+    "title": "Lost books by ancient philosophers recovered from 'unreadable' scrolls",
+    "url": "https://www.newscientist.com/article/2531697-lost-books-by-ancient-philosophers-recovered-from-unreadable-scrolls/",
+    "description": "Scrolls from the Roman library of Herculaneum that were carbonised by a volcanic eruption have been read in their entirety for the first time, thanks to scans and AI software",
+    "author": "Hayley Bennett",
+    "category": "Humans",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24163447/SEI_302694864.jpg"
+  },
+  {
     "title": "Possible signs of ancient life on Mars are rich in complex carbon",
     "url": "https://www.newscientist.com/article/2531752-possible-signs-of-ancient-life-on-mars-are-rich-in-complex-carbon/",
     "description": "An instrument on the Perseverance rover has identified large, complex carbon compounds alongside unusual patterns on the surface of rocks that resemble traces of microbial activity",
@@ -22,29 +46,5 @@
     "author": "Colin Barras",
     "category": "Humans",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24133510/SEI_302689512.jpg"
-  },
-  {
-    "title": "Some of the last Neanderthals were surprisingly genetically diverse",
-    "url": "https://www.newscientist.com/article/2531732-some-of-the-last-neanderthals-were-surprisingly-genetically-diverse/",
-    "description": "Genetic analysis of Neanderthals in north-western Europe reveals that this population was surprisingly genetically diverse, hinting that inbreeding didn’t lead to the species' demise",
-    "author": "Chris Simms",
-    "category": "Humans",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24145305/SEI_302691252.jpg"
-  },
-  {
-    "title": "Fluctuating oestrogen levels may alter how drugs enter women's brains",
-    "url": "https://www.newscientist.com/article/2531651-fluctuating-oestrogen-levels-may-alter-how-drugs-enter-womens-brains/",
-    "description": "Oestrogen levels fluctuate throughout a woman's menstrual cycle, which may impact how efficiently a drug that targets the brain can reach its destination",
-    "author": "Starre Vartan",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24111525/SEI_302421424.jpg"
-  },
-  {
-    "title": "Hidden black hole could explain mystery at the heart of our galaxy",
-    "url": "https://www.newscientist.com/article/2531455-hidden-black-hole-could-explain-mystery-at-the-heart-of-our-galaxy/",
-    "description": "The area surrounding our galaxy’s central supermassive black hole contains three strangely different populations of stars – but one hidden black hole could explain all of them",
-    "author": "Leah Crane",
-    "category": "Space",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24101320/SEI_302520049.jpg"
   }
 ]
