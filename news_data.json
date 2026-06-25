@@ -1,5 +1,13 @@
 [
   {
+    "title": "Fossil fruits show flowering plants flourished in time of dinosaurs",
+    "url": "https://www.newscientist.com/article/2531870-fossil-fruits-show-flowering-plants-flourished-in-time-of-dinosaurs/",
+    "description": "Large fruits and seeds buried under volcanic ash nearly 75 million years ago upend the idea that flowering plants only came to prominence after the Cretaceous mass extinction",
+    "author": "James Woodford",
+    "category": "Life",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25094223/SEI_302550803.jpg"
+  },
+  {
     "title": "Can home batteries help save the climate and save you money?",
     "url": "https://www.newscientist.com/article/2531891-can-home-batteries-help-save-the-climate-and-save-you-money/",
     "description": "Growing numbers of homeowners are installing batteries that store electricity when it is cheap, which helps balance the grid and cuts emissions, and cheaper plug-in batteries will soon let more people do the same",
@@ -38,13 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "Technology",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24114809/SEI_302531697.jpg"
-  },
-  {
-    "title": "Phages could enable us to hijack vaccine immunity to kill cancer cells",
-    "url": "https://www.newscientist.com/article/2531700-phages-could-enable-us-to-hijack-vaccine-immunity-to-kill-cancer-cells/",
-    "description": "Phages, viruses that infect bacteria, could be genetically manipulated to destroy cancerous cells using the immunity we have acquired from vaccines",
-    "author": "Tom Bawden",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25101433/SEI_302699536.jpg"
   }
 ]
