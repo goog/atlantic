@@ -1,5 +1,53 @@
 [
   {
+    "title": "Europe Cannot Cope With This Heat",
+    "url": "https://www.theatlantic.com/science/2026/06/europe-heat/687692/",
+    "description": "“It is just unbearable,” one Paris resident said.",
+    "author": "Joshua Partlow",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/eMRv9aGTCeOu5MkaohGG-d4ll_M=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_24_Theres_No_Escaping_Europes_Heat_Josh_Partlow/original.jpg"
+  },
+  {
+    "title": "The AI-Tutor Revolution That Wasn’t",
+    "url": "https://www.theatlantic.com/ideas/2026/06/ai-tutor-education-human-investment/687678/",
+    "description": "It turns out bots aren’t great teachers.",
+    "author": "Jenny AndersonandMike Goldstein",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/uqqyPTa5Rs0C_mJEm6lkR2wANxI=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_04_28_Goldstein_Anderson_Ai_tutors_final/original.gif"
+  },
+  {
+    "title": "Alan Greenspan Was ‘Not Quite God’",
+    "url": "https://www.theatlantic.com/ideas/2026/06/alan-greenspan-fed-independence/687687/",
+    "description": "He built an independent central bank that withstood many crises. That independence may not last forever.",
+    "author": "Annie Lowrey",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/EWxqy0FlDXB5PFZdSQUFr2PB9S0=/235x0:2785x1700/210x140/media/img/mt/2026/06/2026_06_24_Alan_Greenspan_Obit/original.jpg"
+  },
+  {
+    "title": "My New Life With the Palantir Chore Coat",
+    "url": "https://www.theatlantic.com/technology/2026/06/palantir-chore-coat/687686/",
+    "description": "I bought the most confusing jacket in America.",
+    "author": "Saahil Desai",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/4cW8bNaT3YD5Pc7dqUh5_3czeNY=/300x240:2941x2000/210x140/media/img/mt/2026/06/AC_PalantirCoat_HR_09624/original.jpg"
+  },
+  {
+    "title": "The 10,000-Year Flood",
+    "url": "https://www.theatlantic.com/ideas/2026/06/texas-guadalupe-floods-rv-park-deaths/687617/",
+    "description": "The banks of the Guadalupe River were an idyllic spot to park an RV. Then, last summer, it started to rain harder and faster than anyone could imagine.",
+    "author": "Sean Flynn",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/8Rx1mzx-4c45odbSNjXrDqWUqTM=/98x0:5238x3427/210x140/media/img/mt/2026/06/TexasFlood_134-1/original.jpg"
+  },
+  {
+    "title": "AtlanticTrivia: Dessert",
+    "url": "https://www.theatlantic.com/trivia/2026/06/25-chocolate-shortage-expensive-french-american/687056/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/HZgwX90aUOxM5n8qR7wLMMhpanM=/152x0:1772x1080/210x140/media/img/mt/2026/05/trivia_yellow/original.jpg"
+  },
+  {
     "title": "Trump Is Making the 250th Small",
     "url": "https://www.theatlantic.com/ideas/2026/06/trump-250-usa-speech/687682/",
     "description": "The State Fair rally was an empty celebration of a man instead of a country.",
@@ -110,53 +158,5 @@
     "author": "Drew Goins",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/iN6mxJ7-h2PGe6xGUVPLJIswd2A=/148x0:1769x1081/210x140/media/img/mt/2026/05/trivia_purple/original.png"
-  },
-  {
-    "title": "Burnham Is Britain’s Last Chance Before Farage",
-    "url": "https://www.theatlantic.com/ideas/2026/06/burnham-uk-reform-manchesterism/687674/",
-    "description": "If he becomes prime minister, he has three years to fix the country.",
-    "author": "Idrees Kahloon",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/HlFnbAxM5qnub45RfOKZbWGAc7E=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_24_Andy_Burnham_and_the_Future_of_Britain_Idrees_Kahloon/original.jpg"
-  },
-  {
-    "title": "War and Consequences",
-    "url": "https://www.theatlantic.com/ideas/2026/06/iran-war-consequences/687669/",
-    "description": "The damage will not be undone when the Trump administration is gone.",
-    "author": "Eliot A. Cohen",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/RRqUnaiLSXw2tli9FTPkrOkYlOc=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_23_War_and_Consequences/original.jpg"
-  },
-  {
-    "title": "The AI Super PACs Trying to Influence the Midterms",
-    "url": "https://www.theatlantic.com/newsletters/2026/06/ai-pac-elections-midterm-money/687676/",
-    "description": "The elections will be a test for the industry’s ability to translate money into political power.",
-    "author": "Will Gottsegen",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Q2mC2mZNJBCY_7Tu7HQTe3rd48U=/281x0:3319x2025/210x140/media/newsletters/2026/06/2026_06_23_The_Daily_AIs_Growing_Political_Power/original.jpg"
-  },
-  {
-    "title": "Another Top General Is Out at the Pentagon",
-    "url": "https://www.theatlantic.com/national-security/2026/06/army-general-pentagon-hegseth/687675/",
-    "description": "C. D. Donahue, the last American soldier to leave Afghanistan, is the latest in a long line of military departures.",
-    "author": "Nancy A. YoussefandMissy Ryan",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/nh20Op7EfB7I1bglxCfMXHOnCQY=/313x0:3688x2250/210x140/media/img/mt/2026/06/2026_06_23_Hegseth_Ousts_Another_Decorated_General_Nancy_Youssef_Missy_Ryan/original.jpg"
-  },
-  {
-    "title": "America’s Greatest Food Export",
-    "url": "https://www.theatlantic.com/culture/2026/06/ranch-dressing-america-world-cup/687671/",
-    "description": "Ranch dressing has become, deservedly or not, a face of the nation during the World Cup.",
-    "author": "Ellen Cushing",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/VBFMk1q2DhxRTcZEVCsI_N24WPM=/82x0:924x561/210x140/media/img/mt/2026/06/2026_06_22_Cushing_Ranch_final_1/original.gif"
-  },
-  {
-    "title": "Is It Warm Out There?",
-    "url": "https://www.theatlantic.com/science/2026/06/climate-ambivalence/687673/",
-    "description": "The planet is getting hotter. But America’s conversation about it has chilled.",
-    "author": "Joshua Partlow",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/nc1zAAR9iWD8qk0Cf7BU8qwXEno=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_18_ClimateSilence/original.jpg"
   }
 ]

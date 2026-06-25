@@ -1,5 +1,13 @@
 [
   {
+    "title": "If you aren't terrified by this heatwave, you should be",
+    "url": "https://www.newscientist.com/article/2531853-if-you-arent-terrified-by-this-heatwave-you-should-be/",
+    "description": "The extreme heat currently being felt in Europe isn’t the new normal – much worse is to come, and we are doing far too little to adapt, says Michael Le Page",
+    "author": "Michael Le Page",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25110717/SEI_302817839.jpg"
+  },
+  {
     "title": "Record-breaking IBM chip uses trick to cram in 100 billion transistors",
     "url": "https://www.newscientist.com/article/2530687-record-breaking-ibm-chip-uses-trick-to-cram-in-100-billion-transistors/",
     "description": "IBM's latest chip packs in twice as many transistors as the current state-of-the-art chip by adding a second layer of silicon circuitry",
@@ -38,13 +46,5 @@
     "author": "Sam Wong",
     "category": "News",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23125046/SEI_302072062.jpg"
-  },
-  {
-    "title": "All known Homo naledi skeletons seem to be female",
-    "url": "https://www.newscientist.com/article/2531654-all-known-homo-naledi-skeletons-seem-to-be-female/",
-    "description": "An analysis of tooth proteins suggests all 23 Homo naledi individuals found in the Rising Star cave in South Africa were female, which strengthens the case that they were placed there deliberately",
-    "author": "Colin Barras",
-    "category": "Humans",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24133510/SEI_302689512.jpg"
   }
 ]
