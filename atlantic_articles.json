@@ -1,8 +1,24 @@
 [
   {
-    "title": "The Secrets of the Diva Whisperer",
+    "title": "Darwin’s Story Isn’t as Simple as It Seems",
+    "url": "https://www.theatlantic.com/newsletters/2026/06/the-books-briefing-darwin-story-galapagos-evolution/687703/",
+    "description": "The best writing leads us to a more complex and more honest understanding of the past.",
+    "author": "Emma Sarappo",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/CAs9eBJh0VH9yfnWnwsVysLjvXU=/228x0:2658x1620/210x140/media/img/mt/2026/06/2026_06_25_The_Books_Briefing_Galapagos/original.jpg"
+  },
+  {
+    "title": "Photos of the Week: Stone Roofs, Football Fans, Soapbox Racers",
+    "url": "https://www.theatlantic.com/photography/2026/06/photos-week-stone-roofs-football-fans-individual-airship/687698/",
+    "description": "An early harvest in Romania, a space-shuttle exhibit in Los Angeles, medieval armored combat in France, heavy rains in China, a soapbox derby in London, and much more",
+    "author": "Alan Taylor",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/IY_eSDSNAMJ12tMw8RrcgU9nTt8=/0x0:8256x5504/210x140/media/img/mt/2026/06/a01_G_2281815503/original.jpg"
+  },
+  {
+    "title": "The Record Executive Who Understood the Power of Ego",
     "url": "https://www.theatlantic.com/culture/2026/06/clive-davis-appreciation/687701/",
-    "description": "Clive Davis, who died this week, understood ambition—and how to magnify it.",
+    "description": "Clive Davis, who died this week, was more than just the man with the golden ear.",
     "author": "Spencer Kornhaber",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/Sfqo5MqRVAAgvN23kPuJZ7ptlU0=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_6_25_Clive_Davis-1/original.jpg"
@@ -142,21 +158,5 @@
     "author": "Sean Flynn",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/8Rx1mzx-4c45odbSNjXrDqWUqTM=/98x0:5238x3427/210x140/media/img/mt/2026/06/TexasFlood_134-1/original.jpg"
-  },
-  {
-    "title": "AtlanticTrivia: Dessert",
-    "url": "https://www.theatlantic.com/trivia/2026/06/25-chocolate-shortage-expensive-french-american/687056/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Drew Goins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/HZgwX90aUOxM5n8qR7wLMMhpanM=/152x0:1772x1080/210x140/media/img/mt/2026/05/trivia_yellow/original.jpg"
-  },
-  {
-    "title": "Trump Is Making the 250th Small",
-    "url": "https://www.theatlantic.com/ideas/2026/06/trump-250-usa-speech/687682/",
-    "description": "The State Fair rally was an empty celebration of a man instead of a country.",
-    "author": "Tom Nichols",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Q_xnuiD0i-ex0Npw1QXNUqXmDBU=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_24_Trump_250th_Rally_Tom_Nichols/original.jpg"
   }
 ]
