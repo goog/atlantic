@@ -1,5 +1,13 @@
 [
   {
+    "title": "Europe’s heatwave is the hottest and most humid ever",
+    "url": "https://www.newscientist.com/article/2531992-europes-heatwave-is-the-hottest-and-most-humid-ever/",
+    "description": "The current temperatures in western and central Europe would have been virtually impossible 50 years ago, and unprecedented humidity levels make this heatwave especially dangerous",
+    "author": "Alec Luhn",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25163458/SEI_302840659.jpg"
+  },
+  {
     "title": "Fossil fruits show flowering plants flourished in time of dinosaurs",
     "url": "https://www.newscientist.com/article/2531870-fossil-fruits-show-flowering-plants-flourished-in-time-of-dinosaurs/",
     "description": "Large fruits and seeds buried under volcanic ash nearly 75 million years ago upend the idea that flowering plants only came to prominence after the Cretaceous mass extinction",
@@ -38,13 +46,5 @@
     "author": "Michael Le Page",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25110717/SEI_302817839.jpg"
-  },
-  {
-    "title": "Record-breaking IBM chip uses trick to cram in 100 billion transistors",
-    "url": "https://www.newscientist.com/article/2530687-record-breaking-ibm-chip-uses-trick-to-cram-in-100-billion-transistors/",
-    "description": "IBM's latest chip packs in twice as many transistors as the current state-of-the-art chip by adding a second layer of silicon circuitry",
-    "author": "Matthew Sparkes",
-    "category": "Technology",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/24114809/SEI_302531697.jpg"
   }
 ]
