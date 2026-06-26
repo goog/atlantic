@@ -1,5 +1,13 @@
 [
   {
+    "title": "Ancient human DNA found on cave art for the first time",
+    "url": "https://www.newscientist.com/article/2532130-ancient-human-dna-found-on-cave-art-for-the-first-time/",
+    "description": "DNA from ancient humans has been found on a prehistoric cave painting and on cave walls, demonstrating the potential to one day identify individual artists and resolve the debate over Neanderthals' artistic abilities",
+    "author": "Alison George",
+    "category": "Humans",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/26123111/SEI_302965423.jpg"
+  },
+  {
     "title": "Europe’s heatwave is the hottest and most humid ever",
     "url": "https://www.newscientist.com/article/2531992-europes-heatwave-is-the-hottest-and-most-humid-ever/",
     "description": "The current temperatures in western and central Europe would have been virtually impossible 50 years ago, and unprecedented humidity levels make this heatwave especially dangerous",
@@ -38,13 +46,5 @@
     "author": "Leah Crane",
     "category": "Space",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25140600/SEI_3026843711.jpg"
-  },
-  {
-    "title": "If you aren't terrified by this heatwave, you should be",
-    "url": "https://www.newscientist.com/article/2531853-if-you-arent-terrified-by-this-heatwave-you-should-be/",
-    "description": "The extreme heat currently being felt in Europe isn’t the new normal – much worse is to come, and we are doing far too little to adapt, says Michael Le Page",
-    "author": "Michael Le Page",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25110717/SEI_302817839.jpg"
   }
 ]

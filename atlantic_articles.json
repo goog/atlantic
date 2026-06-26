@@ -1,5 +1,29 @@
 [
   {
+    "title": "The Secrets of the Diva Whisperer",
+    "url": "https://www.theatlantic.com/culture/2026/06/clive-davis-appreciation/687701/",
+    "description": "Clive Davis, who died this week, understood ambition—and how to magnify it.",
+    "author": "Spencer Kornhaber",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Sfqo5MqRVAAgvN23kPuJZ7ptlU0=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_6_25_Clive_Davis-1/original.jpg"
+  },
+  {
+    "title": "Here Come Trump’s ‘Freedom Trucks’",
+    "url": "https://www.theatlantic.com/culture/2026/06/freedom-trucks-trump/687458/",
+    "description": "A fleet of mobile museums is touring the country with a version of American history the administration can get behind.",
+    "author": "Kelsey Ables",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/GE_w5sojcom_DL-IsdTLNJvR8mw=/124x863:2876x2698/210x140/media/img/mt/2026/06/2026_06_09_FreedomTrucks/original.jpg"
+  },
+  {
+    "title": "AtlanticTrivia: Indigestion",
+    "url": "https://www.theatlantic.com/trivia/2026/06/26-gerd-medication-heartburn-soda-gastroenteritis/687057/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/gFzceuAUH3vTLa7f3dI-FppoNRE=/148x0:1769x1081/210x140/media/img/mt/2026/05/trivia_peach-1/original.png"
+  },
+  {
     "title": "The Meltdown",
     "url": "https://www.theatlantic.com/politics/2026/06/trump-congress-iran-midterms/687704/",
     "description": "One day that captures how Trump has gone from unpredictable to chaotic",
@@ -134,29 +158,5 @@
     "author": "Tom Nichols",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/Q_xnuiD0i-ex0Npw1QXNUqXmDBU=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_24_Trump_250th_Rally_Tom_Nichols/original.jpg"
-  },
-  {
-    "title": "Trump’s Other Paint Job",
-    "url": "https://www.theatlantic.com/politics/2026/06/trump-reflecting-pool-paint-wall/687685/",
-    "description": "Before he botched the Reflecting Pool, the president wanted the border wall black.",
-    "author": "Nick Miroff",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/suhB8slRzuAWtt-4o_OX5pKTYg4=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_24_Trumps_Obsession_With_Painting_Things_Backfires_Again_NickMiroff/original.jpg"
-  },
-  {
-    "title": "The Whiplash of Trump’s Iran Capitulation",
-    "url": "https://www.theatlantic.com/ideas/2026/06/trump-iran-foreign-policy/687683/",
-    "description": "America’s foreign policy is about one man and little else.",
-    "author": "Tom Nichols",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/wtfevnw3ptTb8k6hy5opa8rp4TE=/246x0:2927x1787/210x140/media/img/mt/2026/06/2026_06_23_Iran_Whiplash/original.jpg"
-  },
-  {
-    "title": "Trump’s No-Limits Presidency",
-    "url": "https://www.theatlantic.com/newsletters/2026/06/trump-no-limits-power-iran/687690/",
-    "description": "Most presidents become chastened about their power over time. Trump is doing the opposite.",
-    "author": "David A. Graham",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/6wfQtX4UXbzolVOX5yJrDIOiyiU=/548x0:6461x3942/210x140/media/newsletters/2026/06/2026_06_24_The_Daily_No_Limits/original.jpg"
   }
 ]
