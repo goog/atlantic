@@ -1,5 +1,13 @@
 [
   {
+    "title": "Dark Matter",
+    "url": "https://www.theatlantic.com/books/2026/06/poem-maya-popa-dark-matter/687691/",
+    "description": "",
+    "author": "Maya C. Popa",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/NiJQbMRlylT13qksod2MUKw9KIg=/0x1860:3758x4365/210x140/media/img/mt/2026/06/2026_06_23_Poem_Dark_Matter/original.jpg"
+  },
+  {
     "title": "The Overlooked Reason Europe Doesn’t Have AC",
     "url": "https://www.theatlantic.com/ideas/2026/06/europe-heat-wave-air-conditioning/687729/",
     "description": "Americans and Europeans tend to have very different ideas about physical suffering and sacrifice.",
@@ -150,13 +158,5 @@
     "author": "Charlie Warzel",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/zuW5LqRp8n39MikB9ZPGOz5Z-EM=/341x0:3981x2427/210x140/media/img/mt/2026/06/2026_06_26_Reflecting_Pool_Fiasco/original.jpg"
-  },
-  {
-    "title": "Europe’s Come-to-AC Moment",
-    "url": "https://www.theatlantic.com/health/2026/06/europe-air-conditioning/687711/",
-    "description": "The heat is changing the continent’s interest in cooling technologies of all kinds.",
-    "author": "Beth Gardiner",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/bMFdsywOaMJzjG4Ynx9RroeDL10=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_06_27_Europes_Air_Conditioning_Problem_BethGardiner/original.jpg"
   }
 ]
