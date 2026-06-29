@@ -1,5 +1,13 @@
 [
   {
+    "title": "US government wants to have a useful quantum computer by 2028",
+    "url": "https://www.newscientist.com/article/2532173-us-government-wants-to-have-a-useful-quantum-computer-by-2028/",
+    "description": "The US government is trying to speed up the development of quantum computers so it can have one sooner",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "Technology",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/29104114/SEI_303364917.jpg"
+  },
+  {
     "title": "Childbirth for many primate species is even harder than for humans",
     "url": "https://www.newscientist.com/article/2532191-childbirth-for-many-primate-species-is-even-harder-than-for-humans/",
     "description": "For decades, we’ve thought that childbirth is uniquely challenging for humans, but it turns out that many other primates find the birth process just as difficult",
@@ -38,13 +46,5 @@
     "author": "Alec Luhn",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25163458/SEI_302840659.jpg"
-  },
-  {
-    "title": "Fossil fruits show flowering plants flourished in time of dinosaurs",
-    "url": "https://www.newscientist.com/article/2531870-fossil-fruits-show-flowering-plants-flourished-in-time-of-dinosaurs/",
-    "description": "Large fruits and seeds buried under volcanic ash nearly 75 million years ago upend the idea that flowering plants only came to prominence after the Cretaceous mass extinction",
-    "author": "James Woodford",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25094223/SEI_302550803.jpg"
   }
 ]
