@@ -1,5 +1,13 @@
 [
   {
+    "title": "Childbirth for many primate species is even harder than for humans",
+    "url": "https://www.newscientist.com/article/2532191-childbirth-for-many-primate-species-is-even-harder-than-for-humans/",
+    "description": "For decades, we’ve thought that childbirth is uniquely challenging for humans, but it turns out that many other primates find the birth process just as difficult",
+    "author": "Colin Barras",
+    "category": "Life",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/29105318/SEI_303366095.jpg"
+  },
+  {
     "title": "Your menstrual cycle may affect how well vaccines work",
     "url": "https://www.newscientist.com/article/2532245-your-menstrual-cycle-may-affect-how-well-vaccines-work/",
     "description": "Women who were vaccinated against covid-19 in the luteal phase of their menstrual cycle reported having a breakthrough infection sooner than those vaccinated during their follicular phase",
@@ -38,13 +46,5 @@
     "author": "James Woodford",
     "category": "Life",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25094223/SEI_302550803.jpg"
-  },
-  {
-    "title": "Can home batteries help save the climate and save you money?",
-    "url": "https://www.newscientist.com/article/2531891-can-home-batteries-help-save-the-climate-and-save-you-money/",
-    "description": "Growing numbers of homeowners are installing batteries that store electricity when it is cheap, which helps balance the grid and cuts emissions, and cheaper plug-in batteries will soon let more people do the same",
-    "author": "Alec Luhn",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25145313/SEI_302841098.jpg"
   }
 ]
