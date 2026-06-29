@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Man Who Saw AI Coming",
+    "url": "https://www.theatlantic.com/ideas/2026/06/erik-brynjolfsson-the-man-who-saw-ai-coming/687561/",
+    "description": "Erik Brynjolfsson wants to talk with you about the future.",
+    "author": "Annie Lowrey",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/TTk8sLshFkEQpwhf1fxpwCR0Bck=/248x0:1935x1125/210x140/media/img/mt/2026/06/2026_06_15_Brynjolfsson/original.jpg"
+  },
+  {
+    "title": "Did Marcel Duchamp Ruin Art?",
+    "url": "https://www.theatlantic.com/magazine/2026/08/marcel-duchamp-legacy-moma-retrospective/687614/",
+    "description": "If you hate contemporary art, everything you dislike about it can be traced back to him.",
+    "author": "Sebastian Smee",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/BAW-huIMv8U3PYFrKxGn_r_sDHA=/220x0:3451x2154/210x140/media/img/2026/06/lead_no_border/original.png"
+  },
+  {
     "title": "Dark Matter",
     "url": "https://www.theatlantic.com/books/2026/06/poem-maya-popa-dark-matter/687691/",
     "description": "",
@@ -142,21 +158,5 @@
     "author": "Will Gottsegen",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/EiC4H-xoDI-aSkLQXZ-QBJiuaQU=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_26_The_Daily_Trumps_Builder_Ethos_1/original.jpg"
-  },
-  {
-    "title": "William Barr’s Dangerous Endorsement of Todd Blanche",
-    "url": "https://www.theatlantic.com/ideas/2026/06/trump-justice-department-barr-blanche-endorsement/687722/",
-    "description": "Trump’s former attorney general proposes a Senate blessing of Trump’s threats to the rule of law.",
-    "author": "Jonathan Chait",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/oLHH0vjn0Rsv-3h9fY515OYJZQw=/545x0:6478x3956/210x140/media/img/mt/2026/06/2026_06_26_Todd_Blanche/original.jpg"
-  },
-  {
-    "title": "The 13 Steps of a Trump Fiasco",
-    "url": "https://www.theatlantic.com/technology/2026/06/reflecting-pool-america-250-trump/687716/",
-    "description": "The Reflecting Pool drama says everything about how the administration operates.",
-    "author": "Charlie Warzel",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/zuW5LqRp8n39MikB9ZPGOz5Z-EM=/341x0:3981x2427/210x140/media/img/mt/2026/06/2026_06_26_Reflecting_Pool_Fiasco/original.jpg"
   }
 ]

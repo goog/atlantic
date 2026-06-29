@@ -1,5 +1,13 @@
 [
   {
+    "title": "Your menstrual cycle may affect how well vaccines work",
+    "url": "https://www.newscientist.com/article/2532245-your-menstrual-cycle-may-affect-how-well-vaccines-work/",
+    "description": "Women who were vaccinated against covid-19 in the luteal phase of their menstrual cycle reported having a breakthrough infection sooner than those vaccinated during their follicular phase",
+    "author": "Chioma Eve",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/29143234/SEI_3020712071.jpg"
+  },
+  {
     "title": "Remote-controlled cockroach swarm can now breathe underwater",
     "url": "https://www.newscientist.com/article/2531894-remote-controlled-cockroach-swarm-can-now-breathe-underwater/",
     "description": "Tiny 3D-printed diving suits allow cockroaches to walk underwater for up to 3 hours with no ill effects, which could enable a cyborg insect swarm to explore disaster zones and perhaps even Mars",
@@ -38,13 +46,5 @@
     "author": "Alec Luhn",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25145313/SEI_302841098.jpg"
-  },
-  {
-    "title": "We’ve uncovered a master gene that switches on human development",
-    "url": "https://www.newscientist.com/article/2531950-weve-uncovered-a-master-gene-that-switches-on-human-development/",
-    "description": "We have identified the gene that, when activated, initiates the developmental programme that results in cells forming a human body",
-    "author": "Michael Le Page",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25155913/SEI_302846028.jpg"
   }
 ]
