@@ -1,5 +1,13 @@
 [
   {
+    "title": "Remote-controlled cockroach swarm can now breathe underwater",
+    "url": "https://www.newscientist.com/article/2531894-remote-controlled-cockroach-swarm-can-now-breathe-underwater/",
+    "description": "Tiny 3D-printed diving suits allow cockroaches to walk underwater for up to 3 hours with no ill effects, which could enable a cyborg insect swarm to explore disaster zones and perhaps even Mars",
+    "author": "Matthew Sparkes",
+    "category": "Technology",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/26141516/SEI_302970424.jpg"
+  },
+  {
     "title": "Ancient human DNA found on cave art for the first time",
     "url": "https://www.newscientist.com/article/2532130-ancient-human-dna-found-on-cave-art-for-the-first-time/",
     "description": "DNA from ancient humans has been found on a prehistoric cave painting and on cave walls, demonstrating the potential to one day identify individual artists and resolve the debate over Neanderthals' artistic abilities",
@@ -38,13 +46,5 @@
     "author": "Michael Le Page",
     "category": "Health",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25155913/SEI_302846028.jpg"
-  },
-  {
-    "title": "Where, when and how to watch the 2026 solar eclipse",
-    "url": "https://www.newscientist.com/article/2531639-where-when-and-how-to-watch-the-2026-solar-eclipse/",
-    "description": "This August a total solar eclipse is set to be visible across parts of Europe, while a partial eclipse will sweep across about a quarter of the planet – here’s how to catch it",
-    "author": "Leah Crane",
-    "category": "Space",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25140600/SEI_3026843711.jpg"
   }
 ]
