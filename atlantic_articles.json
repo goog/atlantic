@@ -1,8 +1,24 @@
 [
   {
-    "title": "A Search Through the Rubble of Two Towers in Venezuela",
+    "title": "The Most Surprising Part of the Birthright-Citizenship Decision",
+    "url": "https://www.theatlantic.com/newsletters/2026/06/what-the-supreme-court-rulings-mean-for-trump/687751/",
+    "description": "A conversation with Quinta Jurecic about how the recent rulings will affect the president’s power",
+    "author": "Will Gottsegen",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/LzMit3cEZiEaLAHvnNQAg_HCwCA=/463x0:5427x3309/210x140/media/img/mt/2026/06/2026_06_30_The_Daily_SCOTUS_Decisions_QA-1/original.jpg"
+  },
+  {
+    "title": "A Tough Day for NPR",
+    "url": "https://www.theatlantic.com/technology/2026/06/npr-alito-supreme-court-retraction/687750/",
+    "description": "Are there any lessons to the newsroom’s Supreme Court error?",
+    "author": "Charlie Warzel",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/X2Ap3S__Swj02AM6VUjFowHUiyc=/285x0:3661x2250/210x140/media/img/mt/2026/06/2026_06_30_NPRs_Troubling_Justice_Alito_Retraction_Charlie_Warzel/original.jpg"
+  },
+  {
+    "title": "Venezuelans Were Sorting Through the Rubble Alone",
     "url": "https://www.theatlantic.com/science/2026/06/venezuela-earthquake-towers/687747/",
-    "description": "In the first, crucial days after Venezuela’s earthquake, the people closest to the disaster were on their own.",
+    "description": "“It was just us, the relatives, the neighbors,” one woman who was searching for her family said.",
     "author": "Joshua Partlow",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/f2mZ98UMs4oMUJeWg0acf1jGakE=/346x0:2776x1620/210x140/media/img/mt/2026/06/2026_06_30_Three_Terrible_Days_Inside_Twin_Venezuelan_Beach_Towers_4/original.jpg"
@@ -142,21 +158,5 @@
     "author": "Sebastian Smee",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/BAW-huIMv8U3PYFrKxGn_r_sDHA=/220x0:3451x2154/210x140/media/img/2026/06/lead_no_border/original.png"
-  },
-  {
-    "title": "Dark Matter",
-    "url": "https://www.theatlantic.com/books/2026/06/poem-maya-popa-dark-matter/687691/",
-    "description": "",
-    "author": "Maya C. Popa",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/NiJQbMRlylT13qksod2MUKw9KIg=/0x1860:3758x4365/210x140/media/img/mt/2026/06/2026_06_23_Poem_Dark_Matter/original.jpg"
-  },
-  {
-    "title": "The Overlooked Reason Europe Doesn’t Have AC",
-    "url": "https://www.theatlantic.com/ideas/2026/06/europe-heat-wave-air-conditioning/687729/",
-    "description": "Americans and Europeans tend to have very different ideas about physical suffering and sacrifice.",
-    "author": "Thomas Chatterton Williams",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/LAgsktbKwyEbyS1OutRUZu5oo2M=/0x0:3375x2250/210x140/media/img/mt/2026/06/2026_06_29_Its_Hot_in_Paris_Thomas_Chatterton_Williams/original.jpg"
   }
 ]

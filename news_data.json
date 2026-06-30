@@ -1,5 +1,13 @@
 [
   {
+    "title": "First new open-ocean subsea research habitat in 40 years launched",
+    "url": "https://www.newscientist.com/article/2532117-first-new-open-ocean-subsea-research-habitat-in-40-years-launched/",
+    "description": "The ocean floor is a vast source of potentially revolutionary scientific discovery – yet it remains largely inaccessible. For many marine scientists, they could only dream of living and working underwater. That changes now.",
+    "author": "New Scientist",
+    "category": "Life",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/26120021/deep-newsletter-image.png"
+  },
+  {
     "title": "The world's fastest spider tops 3.5 metres per second",
     "url": "https://www.newscientist.com/article/2532086-the-worlds-fastest-spider-tops-3-5-metres-per-second/",
     "description": "The most comprehensive database ever compiled of how fast arachnids can run has shown how leg anatomy and evolutionary history influence spiders’ running speed",
@@ -38,13 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "Technology",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/29104114/SEI_303364917.jpg"
-  },
-  {
-    "title": "Childbirth for many primate species is even harder than for humans",
-    "url": "https://www.newscientist.com/article/2532191-childbirth-for-many-primate-species-is-even-harder-than-for-humans/",
-    "description": "For decades, we’ve thought that childbirth is uniquely challenging for humans, but it turns out that many other primates find the birth process just as difficult",
-    "author": "Colin Barras",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/29105318/SEI_303366095.jpg"
   }
 ]
