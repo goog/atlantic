@@ -1,5 +1,13 @@
 [
   {
+    "title": "I’m the first person whose life was saved by CRISPR base editing",
+    "url": "https://www.newscientist.com/article/2532296-im-the-first-person-whose-life-was-saved-by-crispr-base-editing/",
+    "description": "When standard leukaemia treatments failed, 13-year-old Alyssa Tapley was told she had only weeks left – but then she was offered an experimental procedure",
+    "author": "Alyssa Tapley",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/29152024/SEI_303364838.jpg"
+  },
+  {
     "title": "US government wants to have a useful quantum computer by 2028",
     "url": "https://www.newscientist.com/article/2532173-us-government-wants-to-have-a-useful-quantum-computer-by-2028/",
     "description": "The US government is trying to speed up the development of quantum computers so it can have one sooner",
@@ -38,13 +46,5 @@
     "author": "Alison George",
     "category": "Humans",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/26123111/SEI_302965423.jpg"
-  },
-  {
-    "title": "Europe’s heatwave is the hottest and most humid ever",
-    "url": "https://www.newscientist.com/article/2531992-europes-heatwave-is-the-hottest-and-most-humid-ever/",
-    "description": "The current temperatures in western and central Europe would have been virtually impossible 50 years ago, and unprecedented humidity levels make this heatwave especially dangerous",
-    "author": "Alec Luhn",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/25163458/SEI_302840659.jpg"
   }
 ]

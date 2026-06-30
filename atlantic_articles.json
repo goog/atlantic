@@ -1,5 +1,37 @@
 [
   {
+    "title": "The Incredible Freedom of Not Trying to Look Good",
+    "url": "https://www.theatlantic.com/books/2026/06/fairyington-ugly-beauty-values-book-review/687662/",
+    "description": "A new book explores the benefits of accepting ugliness instead of trying to change it.",
+    "author": "Ilana Masad",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/TbXNFsRPPAaI9DssNcxCKARYrU4=/177x0:1797x1080/210x140/media/img/mt/2026/06/2026_06_22_Is_Beauty_A_Worthy_Value_h/original.jpg"
+  },
+  {
+    "title": "The New (And Slightly Smelly) Center of the AI Boom",
+    "url": "https://www.theatlantic.com/technology/2026/06/hacker-houses-ai-boom-san-francisco/687737/",
+    "description": "San Francisco’s brightest minds are stuffing themselves into hacker houses.",
+    "author": "Matteo Wong",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/H6gtv3dT2RfQozaJuv92vYqVMKI=/0x0:1500x1000/210x140/media/img/mt/2026/06/hacker_house_85-1/original.jpg"
+  },
+  {
+    "title": "What AI Will Do to Art",
+    "url": "https://www.theatlantic.com/magazine/2026/08/ai-art-holly-herndon-mat-dryhurst/687619/",
+    "description": "Holly Herndon and Mat Dryhurst believe the future doesn’t have to belong to slop.",
+    "author": "Spencer Kornhaber",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Up5ZKP6EdDuYVDEs890B3KOQN18=/83x112:2286x1580/210x140/media/img/2026/06/balsamini_Atlantic_dryhurst_herndon_berlin015/original.jpg"
+  },
+  {
+    "title": "A False Pretense of Judicial Modesty",
+    "url": "https://www.theatlantic.com/ideas/2026/06/supreme-court-precedent/687739/",
+    "description": "The Supreme Court is remaking the law while claiming to preserve the status quo.",
+    "author": "Duncan Hosie",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/cSwwAczOqcNJA7FIogSo5pkAW8o=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_6_29_A_False_Pretense_of_Judicial_Modesty/original.jpg"
+  },
+  {
     "title": "Hegseth, Rubio, and Caine Had an Auto-Deleting Signal Chat",
     "url": "https://www.theatlantic.com/national-security/2026/06/trump-administration-signal-chat-marco-rubio/687735/",
     "description": "New records reveal that officials kept using the app, even after the president suggested they stop.",
@@ -126,37 +158,5 @@
     "author": "Adrienne LaFrance",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/509WehW17Io7sGwX0LU-3ZlcY3A=/949x524:5300x3424/210x140/media/img/mt/2026/06/GettyImages_507837999/original.jpg"
-  },
-  {
-    "title": "Five Animated Movies That Grow Up With You",
-    "url": "https://www.theatlantic.com/newsletters/2026/06/five-animated-movies-that-grow-up-with-you/687724/",
-    "description": "Even as we get older, we don’t have to abandon certain comfort watches.",
-    "author": "Stephanie Bai",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/1_s2vK7G2sGSeQqL9YIYppQs4K0=/19x0:2008x1326/210x140/media/newsletters/2026/06/Screenshot_2026_06_26_at_3.45.03PM/original.png"
-  },
-  {
-    "title": "The People Who Will Thrive in the AI Age",
-    "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
-    "description": "What will differentiate people is not how smart they are but their relationship to mental effort.",
-    "author": "David Brooks",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/XK0atxv9lueIHoEhoH1J73RVLq8=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_21_AI_users/original.jpg"
-  },
-  {
-    "title": "The Beef Administration’s Blind Spot",
-    "url": "https://www.theatlantic.com/health/2026/06/paleo-diet-beef-manatee-rfk/687699/",
-    "description": "Should RFK Jr. be more open to the idea of eating manatees?",
-    "author": "David Merritt Johns",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/SanuCnRpW8-d53IeeBBSOq50gRE=/160x0:1840x1120/210x140/media/img/mt/2026/06/2026_06_26_Johns_Manatee_final/original.jpg"
-  },
-  {
-    "title": "What Trump’s Efforts to Change D.C. Reveal",
-    "url": "https://www.theatlantic.com/national/2026/06/trump-change-dc-architecture-washington-week/687728/",
-    "description": "Panelists joined to discuss the president’s ongoing projects in the nation’s capital.",
-    "author": "The Editors",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/DsAKm23XtjmaFUVz8FlU4pJVQxY=/1374x23:3046x1137/210x140/media/img/mt/2026/06/Screenshot_2026_06_27_at_9.55.39AM/original.png"
   }
 ]
