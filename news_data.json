@@ -1,5 +1,21 @@
 [
   {
+    "title": "The most detailed survey of the universe ever conducted starts now",
+    "url": "https://www.newscientist.com/article/2532167-the-most-detailed-survey-of-the-universe-ever-conducted-starts-now/",
+    "description": "The Vera C. Rubin Observatory in Chile is beginning its extraordinary survey of the southern sky, which will use the largest camera ever built to map the solar system, the galaxy and beyond",
+    "author": "Leah Crane",
+    "category": "Space",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/29111648/SEI_302961592.jpg"
+  },
+  {
+    "title": "Babies are born with the neural foundations for maths",
+    "url": "https://www.newscientist.com/article/2532352-babies-are-born-with-the-neural-foundations-for-maths/",
+    "description": "Brain recordings from newborns reveal the first neural evidence that humans are born with an innate sense of numbers",
+    "author": "Helen Thomson",
+    "category": "Mind",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/30120831/SEI_303480956.jpg"
+  },
+  {
     "title": "I’m the first person whose life was saved by CRISPR base editing",
     "url": "https://www.newscientist.com/article/2532296-im-the-first-person-whose-life-was-saved-by-crispr-base-editing/",
     "description": "When standard leukaemia treatments failed, 13-year-old Alyssa Tapley was told she had only weeks left – but then she was offered an experimental procedure",
@@ -30,21 +46,5 @@
     "author": "Chioma Eve",
     "category": "Health",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/29143234/SEI_3020712071.jpg"
-  },
-  {
-    "title": "Remote-controlled cockroach swarm can now breathe underwater",
-    "url": "https://www.newscientist.com/article/2531894-remote-controlled-cockroach-swarm-can-now-breathe-underwater/",
-    "description": "Tiny 3D-printed diving suits allow cockroaches to walk underwater for up to 3 hours with no ill effects, which could enable a cyborg insect swarm to explore disaster zones and perhaps even Mars",
-    "author": "Matthew Sparkes",
-    "category": "Technology",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/26141516/SEI_302970424.jpg"
-  },
-  {
-    "title": "Ancient human DNA found on cave art for the first time",
-    "url": "https://www.newscientist.com/article/2532130-ancient-human-dna-found-on-cave-art-for-the-first-time/",
-    "description": "DNA from ancient humans has been found on a prehistoric cave painting and on cave walls, demonstrating the potential to one day identify individual artists and resolve the debate over Neanderthals' artistic abilities",
-    "author": "Alison George",
-    "category": "Humans",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/26123111/SEI_302965423.jpg"
   }
 ]
