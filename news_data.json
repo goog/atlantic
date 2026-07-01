@@ -1,5 +1,13 @@
 [
   {
+    "title": "Slowdown of AMOC ocean current may be gradual and reversible",
+    "url": "https://www.newscientist.com/article/2532392-slowdown-of-amoc-ocean-current-may-be-gradual-and-reversible/",
+    "description": "Scientists worry that a surge of meltwater from Greenland could irreversibly collapse the Atlantic Meridional Overturning Circulation, but new modelling suggests the weakening of the current could be reversed if CO2 levels come back down",
+    "author": "Alec Luhn",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/30165644/SEI_303508387.jpg"
+  },
+  {
     "title": "First new open-ocean subsea research habitat in 40 years launched",
     "url": "https://www.newscientist.com/article/2532117-first-new-open-ocean-subsea-research-habitat-in-40-years-launched/",
     "description": "The ocean floor is a vast source of potentially revolutionary scientific discovery – yet it remains largely inaccessible. For many marine scientists, they could only dream of living and working underwater. That changes now.",
@@ -38,13 +46,5 @@
     "author": "Alyssa Tapley",
     "category": "Health",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/29152024/SEI_303364838.jpg"
-  },
-  {
-    "title": "US government wants to have a useful quantum computer by 2028",
-    "url": "https://www.newscientist.com/article/2532173-us-government-wants-to-have-a-useful-quantum-computer-by-2028/",
-    "description": "The US government is trying to speed up the development of quantum computers so it can have one sooner",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "Technology",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/29104114/SEI_303364917.jpg"
   }
 ]
