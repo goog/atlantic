@@ -1,5 +1,21 @@
 [
   {
+    "title": "The weirdness of neutrinos could completely rewrite particle physics",
+    "url": "https://www.newscientist.com/article/2532479-the-weirdness-of-neutrinos-could-completely-rewrite-particle-physics/",
+    "description": "A philosopher has put forward an argument for rethinking how particles are defined within the standard model of particle physics",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "Physics",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/01111331/SEI_303596254.jpg"
+  },
+  {
+    "title": "A type of fibre that stimulates GLP-1 release approved for use in food",
+    "url": "https://www.newscientist.com/article/2532336-a-type-of-fibre-that-stimulates-glp-1-release-approved-for-use-in-food/",
+    "description": "A form of fibre that boosts the release of the hunger-reducing hormone GLP-1 has been approved as safe by a European regulator, and could be added to foods within a year",
+    "author": "Michael Le Page",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/01115749/SEI_303484929.jpg"
+  },
+  {
     "title": "Slowdown of AMOC ocean current may be gradual and reversible",
     "url": "https://www.newscientist.com/article/2532392-slowdown-of-amoc-ocean-current-may-be-gradual-and-reversible/",
     "description": "Scientists worry that a surge of meltwater from Greenland could irreversibly collapse the Atlantic Meridional Overturning Circulation, but new modelling suggests the weakening of the current could be reversed if CO2 levels come back down",
@@ -30,21 +46,5 @@
     "author": "Leah Crane",
     "category": "Space",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/29111648/SEI_302961592.jpg"
-  },
-  {
-    "title": "Babies are born with the neural foundations for maths",
-    "url": "https://www.newscientist.com/article/2532352-babies-are-born-with-the-neural-foundations-for-maths/",
-    "description": "Brain recordings from newborns reveal the first neural evidence that humans are born with an innate sense of numbers",
-    "author": "Helen Thomson",
-    "category": "Mind",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/30120831/SEI_303480956.jpg"
-  },
-  {
-    "title": "I’m the first person whose life was saved by CRISPR base editing",
-    "url": "https://www.newscientist.com/article/2532296-im-the-first-person-whose-life-was-saved-by-crispr-base-editing/",
-    "description": "When standard leukaemia treatments failed, 13-year-old Alyssa Tapley was told she had only weeks left – but then she was offered an experimental procedure",
-    "author": "Alyssa Tapley",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/29152024/SEI_303364838.jpg"
   }
 ]
