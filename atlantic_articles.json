@@ -1,8 +1,24 @@
 [
   {
-    "title": "A Surreal Day at the Great American State Fair",
+    "title": "A Supreme Court Decision That Might Improve Politics",
+    "url": "https://www.theatlantic.com/newsletters/2026/07/supreme-court-campaign-finance-decision/687774/",
+    "description": "The recent campaign-finance ruling is actually good. Or at least, it’s not bad.",
+    "author": "David A. Graham",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/0eDl8aK38OW8gvaibsVX31qj0fE=/225x0:2655x1620/210x140/media/newsletters/2026/07/2026_07_01_The_Daily_The_Supreme_Courts_Campaign_Finance_Decision_Is_Actually_Good/original.jpg"
+  },
+  {
+    "title": "So Long to America’s Favorite Everymensch",
+    "url": "https://www.theatlantic.com/technology/2026/07/freddy-world-cup-viral-fan/687771/",
+    "description": "The internet couldn’t get enough of “Freddy,” a German tourist on an epic World Cup road trip. Why did he suddenly go silent?",
+    "author": "Will Oremus",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/0UfAsNsOW3cbETNY1kd90nNWZiw=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_06_30_Finding_Freddy/original.jpg"
+  },
+  {
+    "title": "I Went to the Great American State Fair and I May Never Sleep Again",
     "url": "https://www.theatlantic.com/newsletters/2026/07/great-american-state-fair-maha-visit/687769/",
-    "description": "I drank a can of Phorm Energy Screamin’ Freedom, and I may never sleep again.",
+    "description": "A day at the fair featuring patriotic energy drinks, a George Washington impersonator, and lots of ABBA",
     "author": "Alexandra Petri",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/0OgblP908gak1TiWvCr3zou9a08=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_06_30_Petri_State_fair_final/original.jpg"
@@ -142,21 +158,5 @@
     "author": "Ilana Masad",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/TbXNFsRPPAaI9DssNcxCKARYrU4=/177x0:1797x1080/210x140/media/img/mt/2026/06/2026_06_22_Is_Beauty_A_Worthy_Value_h/original.jpg"
-  },
-  {
-    "title": "The New (And Slightly Smelly) Center of the AI Boom",
-    "url": "https://www.theatlantic.com/technology/2026/06/hacker-houses-ai-boom-san-francisco/687737/",
-    "description": "San Francisco’s brightest minds are stuffing themselves into hacker houses.",
-    "author": "Matteo Wong",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/H6gtv3dT2RfQozaJuv92vYqVMKI=/0x0:1500x1000/210x140/media/img/mt/2026/06/hacker_house_85-1/original.jpg"
-  },
-  {
-    "title": "What AI Will Do to Art",
-    "url": "https://www.theatlantic.com/magazine/2026/08/ai-art-holly-herndon-mat-dryhurst/687619/",
-    "description": "Holly Herndon and Mat Dryhurst believe the future doesn’t have to belong to slop.",
-    "author": "Spencer Kornhaber",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Up5ZKP6EdDuYVDEs890B3KOQN18=/83x112:2286x1580/210x140/media/img/2026/06/balsamini_Atlantic_dryhurst_herndon_berlin015/original.jpg"
   }
 ]
