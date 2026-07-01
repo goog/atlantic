@@ -1,8 +1,32 @@
 [
   {
-    "title": "The DSA’s Communist Revolution",
+    "title": "Photos: Fourth of July Celebrations From Years Past",
+    "url": "https://www.theatlantic.com/photography/2026/07/photos-fourth-july-celebrations-years-past/687757/",
+    "description": "Images of parades, beach days, firework shows, and other Independence Day celebrations across the United States, over the past century.",
+    "author": "Alan Taylor",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/-VjMtpm9qQkrFvWw-RzxeTfR7dQ=/0x0:2000x1333/210x140/media/img/mt/2026/07/a01_P070414PS_1133/original.jpg"
+  },
+  {
+    "title": "The American Idea at 250",
+    "url": "https://www.theatlantic.com/podcasts/2026/07/david-frum-show-jeffrey-goldberg-america-250/687754/",
+    "description": "The Atlantic’s editor in chief, Jeffrey Goldberg, on America’s 250th anniversary and the American idea today. Plus: what we can learn from American history on this Fourth of July andCity on a Hill: A ",
+    "author": "David Frum",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/idJ6IdhUn7OnemzeRMSDzatjyiw=/151x0:1771x1080/210x140/media/img/mt/2026/07/2026_6_23_Vivian_Salama_The_David_Frum_Podcast/original.png"
+  },
+  {
+    "title": "Putin Is Slipping Into Delusion",
+    "url": "https://www.theatlantic.com/national-security/2026/07/putin-russia-ukraine-war/687753/",
+    "description": "The Russian dictator remains obsessed with his war in Ukraine, but doesn’t seem to comprehend how badly it’s going.",
+    "author": "Simon Shuster",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/8sIOMkdfm6PWiOxcHb7RJN7dIrM=/315x0:3690x2250/210x140/media/img/mt/2026/06/2026_07_01_Putin_Faces_The_Biggest_Ukrainian_Drone_Attack_Yet_Simon_Shuster/original.jpg"
+  },
+  {
+    "title": "There’s Nothing Democratic About These Socialists",
     "url": "https://www.theatlantic.com/ideas/2026/07/dsa-communist-socialist-democrats/687756/",
-    "description": "The Democratic Socialists of America was formed in opposition to the very thing it has become.",
+    "description": "The DSA was formed in opposition to the very thing it has become.",
     "author": "Jonathan Chait",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/OX4pEjKRqMHalU3XrEsWawS-s38=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_06_24_DSA/original.jpg"
@@ -134,29 +158,5 @@
     "author": "David A. Graham",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/_AkjjNgqNdT9Vdh8XlwnaO9W9y8=/225x0:2655x1620/210x140/media/newsletters/2026/06/2026_06_29_The_Daily_Vances_Remarks_on_Watergate/original.jpg"
-  },
-  {
-    "title": "The White House Considers Granting 250 Pardons for the Nation’s Birthday",
-    "url": "https://www.theatlantic.com/politics/2026/06/trump-250-pardons-250th-birthday/687736/",
-    "description": "The idea has set off a frenzy of appeals for clemency.",
-    "author": "Sarah FitzpatrickandMichael Scherer",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/1vSN_pA_1IvyDlYwvYP8A2JjLIY=/644x0:3932x2192/210x140/media/img/mt/2026/06/2026_06_29_250_Pardons/original.jpg"
-  },
-  {
-    "title": "Taylor Swift’s Fans Have Been Training for This",
-    "url": "https://www.theatlantic.com/culture/2026/06/taylor-swift-travis-kelce-wedding-rumor-mill/687738/",
-    "description": "Speculation about her wedding is in overdrive—by her own design.",
-    "author": "Julie Beck",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/qNqcKJv9GamTBU-9NoLvTnZAtlw=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_27_Taylor/original.jpg"
-  },
-  {
-    "title": "Trump Gets Roasted on Bill Maher’s Night",
-    "url": "https://www.theatlantic.com/culture/2026/06/maher-twain-trump/687732/",
-    "description": "The Mark Twain Prize ceremony illustrated the perils of a president making everything about himself.",
-    "author": "Janay Kingsberry",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/UBhNeqOGTMXyJ6TQMxrmNjhJKsU=/120x0:4168x2698/210x140/media/img/mt/2026/06/2026_06_29_Mark_Twain_Prize/original.jpg"
   }
 ]
