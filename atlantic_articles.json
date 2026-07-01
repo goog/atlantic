@@ -1,11 +1,27 @@
 [
   {
+    "title": "A Surreal Day at the Great American State Fair",
+    "url": "https://www.theatlantic.com/newsletters/2026/07/great-american-state-fair-maha-visit/687769/",
+    "description": "I drank a can of Phorm Energy Screamin’ Freedom, and I may never sleep again.",
+    "author": "Alexandra Petri",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/0OgblP908gak1TiWvCr3zou9a08=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_06_30_Petri_State_fair_final/original.jpg"
+  },
+  {
+    "title": "Something Is Happening in the Democratic Base",
+    "url": "https://www.theatlantic.com/politics/2026/07/democrats-colorado-primary-results-socialist-kiros/687762/",
+    "description": "Voters are over moderates and incumbents.",
+    "author": "Russell BermanandElaine Godfrey",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/AKp9dKjo9L3xhflwqBCt0f_Q_1E=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_07_01_Colorado_Primary_Results_Russell_Berman_Elaine_Godfrey/original.jpg"
+  },
+  {
     "title": "The Supreme Court’s Utterly Mainstream Ruling on Women’s Sports",
     "url": "https://www.theatlantic.com/ideas/2026/07/supreme-court-trans-student-athletes-womens-sports/687767/",
     "description": "The justices position themselves at the center of American public opinion.",
     "author": "Helen Lewis",
     "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/2jXgiulNiH5aBuOooadQHof29X0=/505x0:6006x3668/210x140/media/img/mt/2026/07/2026_07_01_Supreme_Court_Rules_that_Sports_are_Different/original.jpg"
+    "image": "https://cdn.theatlantic.com/thumbor/TXDUDXv1-uSDdtbPck_H2_KsJ8s=/613x0:3925x2208/210x140/media/img/mt/2026/07/GettyImages_1213721544/original.jpg"
   },
   {
     "title": "The Joy of Being American",
@@ -142,21 +158,5 @@
     "author": "Spencer Kornhaber",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/Up5ZKP6EdDuYVDEs890B3KOQN18=/83x112:2286x1580/210x140/media/img/2026/06/balsamini_Atlantic_dryhurst_herndon_berlin015/original.jpg"
-  },
-  {
-    "title": "A False Pretense of Judicial Modesty",
-    "url": "https://www.theatlantic.com/ideas/2026/06/supreme-court-precedent/687739/",
-    "description": "The Supreme Court is remaking the law while claiming to preserve the status quo.",
-    "author": "Duncan Hosie",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/cSwwAczOqcNJA7FIogSo5pkAW8o=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_6_29_A_False_Pretense_of_Judicial_Modesty/original.jpg"
-  },
-  {
-    "title": "Hegseth, Rubio, and Caine Had an Auto-Deleting Signal Chat",
-    "url": "https://www.theatlantic.com/national-security/2026/06/trump-administration-signal-chat-marco-rubio/687735/",
-    "description": "New records reveal that officials kept using the app, even after the president suggested they stop.",
-    "author": "Michael Scherer,Missy Ryan,Nancy A. Youssef,  andShane Harris",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/neKUzMotkU0Jjbqs5a8sfqopb_s=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_27_Signal/original.jpg"
   }
 ]
