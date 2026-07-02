@@ -1,7 +1,7 @@
 [
   {
-    "title": "Have scientists really made a living cell from scratch? Not quite",
-    "url": "https://www.newscientist.com/article/2532689-have-scientists-really-made-a-living-cell-from-scratch-not-quite/",
+    "title": "What is 'SpudCell'? Arguably the greatest bioengineering feat yet",
+    "url": "https://www.newscientist.com/article/2532689-what-is-spudcell-arguably-the-greatest-bioengineering-feat-yet/",
     "description": "A prototype cell partly capable of replicating itself has been created using 36 existing bacterial genes, but it's not really a living organism – yet",
     "author": "Michael Le Page",
     "category": "Life",
@@ -32,19 +32,19 @@
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/30165644/SEI_303508387.jpg"
   },
   {
-    "title": "First new open-ocean subsea research habitat in 40 years launched",
-    "url": "https://www.newscientist.com/article/2532117-first-new-open-ocean-subsea-research-habitat-in-40-years-launched/",
-    "description": "The ocean floor is a vast source of potentially revolutionary scientific discovery – yet it remains largely inaccessible. For many marine scientists, they could only dream of living and working underwater. That changes now.",
-    "author": "New Scientist",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/26120021/deep-newsletter-image.png"
-  },
-  {
     "title": "The world's fastest spider tops 3.5 metres per second",
     "url": "https://www.newscientist.com/article/2532086-the-worlds-fastest-spider-tops-3-5-metres-per-second/",
     "description": "The most comprehensive database ever compiled of how fast arachnids can run has shown how leg anatomy and evolutionary history influence spiders’ running speed",
     "author": "James Woodford",
     "category": "Life",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/30104957/SEI_303478410.jpg"
+  },
+  {
+    "title": "The most detailed survey of the universe ever conducted starts now",
+    "url": "https://www.newscientist.com/article/2532167-the-most-detailed-survey-of-the-universe-ever-conducted-starts-now/",
+    "description": "The Vera C. Rubin Observatory in Chile is beginning its extraordinary survey of the southern sky, which will use the largest camera ever built to map the solar system, the galaxy and beyond",
+    "author": "Leah Crane",
+    "category": "Space",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/29111648/SEI_302961592.jpg"
   }
 ]
