@@ -1,5 +1,13 @@
 [
   {
+    "title": "June heatwave may have killed around 20,000 people in Europe",
+    "url": "https://www.newscientist.com/article/2532825-june-heatwave-may-have-killed-around-20000-people-in-europe/",
+    "description": "It will be some months before the true toll of Europe's worst-ever heatwave is confirmed, but researchers can estimate a death count based on how many people died in Europe during previous hot periods",
+    "author": "Michael Le Page",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02170440/SEI_303740674.jpg"
+  },
+  {
     "title": "Random wobbles in time could finally solve gravity’s greatest mystery",
     "url": "https://www.newscientist.com/article/2532714-random-wobbles-in-time-could-finally-solve-gravitys-greatest-mystery/",
     "description": "The question of how gravity interacts with the quantum world has long perplexed physicists, but a non-quantum theory of space-time could present an answer",
@@ -38,13 +46,5 @@
     "author": "Michael Le Page",
     "category": "Health",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/01115749/SEI_303484929.jpg"
-  },
-  {
-    "title": "Slowdown of AMOC ocean current may be gradual and reversible",
-    "url": "https://www.newscientist.com/article/2532392-slowdown-of-amoc-ocean-current-may-be-gradual-and-reversible/",
-    "description": "Scientists worry that a surge of meltwater from Greenland could irreversibly collapse the Atlantic Meridional Overturning Circulation, but new modelling suggests the weakening of the current could be reversed if CO2 levels come back down",
-    "author": "Alec Luhn",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/30165644/SEI_303508387.jpg"
   }
 ]
