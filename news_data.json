@@ -1,5 +1,21 @@
 [
   {
+    "title": "Random wobbles in time could finally solve gravity’s greatest mystery",
+    "url": "https://www.newscientist.com/article/2532714-random-wobbles-in-time-could-finally-solve-gravitys-greatest-mystery/",
+    "description": "The question of how gravity interacts with the quantum world has long perplexed physicists, but a non-quantum theory of space-time could present an answer",
+    "author": "Leah Crane",
+    "category": "Physics",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02105918/SEI_303706468.jpg"
+  },
+  {
+    "title": "Geoengineering could expose plane passengers to sulphuric acid",
+    "url": "https://www.newscientist.com/article/2532757-geoengineering-could-expose-plane-passengers-to-sulphuric-acid/",
+    "description": "A proposed technique to counter global warming by spraying sun-reflecting particles near the poles would cause commercial flights to pass through clouds of sulphuric acid, posing a danger to passengers and crew",
+    "author": "Syris Valentine",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02120005/SEI_303594824.jpg"
+  },
+  {
     "title": "What is 'SpudCell'? Arguably the greatest bioengineering feat yet",
     "url": "https://www.newscientist.com/article/2532689-what-is-spudcell-arguably-the-greatest-bioengineering-feat-yet/",
     "description": "A prototype cell partly capable of replicating itself has been created using 36 existing bacterial genes, but it's not really a living organism – yet",
@@ -30,21 +46,5 @@
     "author": "Alec Luhn",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/06/30165644/SEI_303508387.jpg"
-  },
-  {
-    "title": "The world's fastest spider tops 3.5 metres per second",
-    "url": "https://www.newscientist.com/article/2532086-the-worlds-fastest-spider-tops-3-5-metres-per-second/",
-    "description": "The most comprehensive database ever compiled of how fast arachnids can run has shown how leg anatomy and evolutionary history influence spiders’ running speed",
-    "author": "James Woodford",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/30104957/SEI_303478410.jpg"
-  },
-  {
-    "title": "The most detailed survey of the universe ever conducted starts now",
-    "url": "https://www.newscientist.com/article/2532167-the-most-detailed-survey-of-the-universe-ever-conducted-starts-now/",
-    "description": "The Vera C. Rubin Observatory in Chile is beginning its extraordinary survey of the southern sky, which will use the largest camera ever built to map the solar system, the galaxy and beyond",
-    "author": "Leah Crane",
-    "category": "Space",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/29111648/SEI_302961592.jpg"
   }
 ]
