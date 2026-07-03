@@ -1,5 +1,13 @@
 [
   {
+    "title": "A volcano has erupted remnants of Earth's primordial magma ocean",
+    "url": "https://www.newscientist.com/article/2532929-a-volcano-has-erupted-remnants-of-earths-primordial-magma-ocean/",
+    "description": "Earth was once covered by a global magma ocean, which later cooled and crystallised – now traces of this primordial event have been found in magma from a young volcano in the Indian Ocean",
+    "author": "Christa Lesté-Lasserre",
+    "category": "Earth",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03123303/SEI_303834151.jpg"
+  },
+  {
     "title": "Audacious mission to rescue NASA's falling telescope has launched",
     "url": "https://www.newscientist.com/article/2532627-audacious-mission-to-rescue-nasas-falling-telescope-has-launched/",
     "description": "NASA’s Swift space telescope is reaching the end of its two-decade run in orbit – unless a satellite launched on 3 July can give it a lifesaving boost",
@@ -38,13 +46,5 @@
     "author": "Syris Valentine",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02120005/SEI_303594824.jpg"
-  },
-  {
-    "title": "What is 'SpudCell'? Arguably the greatest bioengineering feat yet",
-    "url": "https://www.newscientist.com/article/2532689-what-is-spudcell-arguably-the-greatest-bioengineering-feat-yet/",
-    "description": "A prototype cell partly capable of replicating itself has been created using 36 existing bacterial genes, but it's not really a living organism – yet",
-    "author": "Michael Le Page",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/01201518/SEI_303625606.jpg"
   }
 ]

@@ -1,16 +1,40 @@
 [
   {
-    "title": "Thoughts on AI, From a Prizewinning Writer Accused of Using AI",
+    "title": "It Wasn’t Just the Founders",
+    "url": "https://www.theatlantic.com/ideas/2026/07/american-revolution-history-founders/687800/",
+    "description": "The conventional telling of America’s origin story leaves out perhaps its greatest heroes.",
+    "author": "T. H. Breen",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Sq6Ehu9YFXYUnKqHJAeG93bzSfA=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_07_03_It_Wasnt_Just_the_Founders_Summary_T._H._Breen/original.jpg"
+  },
+  {
+    "title": "The ‘Have It Both Ways’ Theory of Great Books",
+    "url": "https://www.theatlantic.com/newsletters/2026/07/the-books-briefing-david-thomson-book-classics-literature/687783/",
+    "description": "Many literary classics have a way of appealing to our lizard brains while questioning why we're so compelled by them.",
+    "author": "Boris Kachka",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/7avfDaBNEAdYJthgCchzurKmwd0=/812x0:5198x2924/210x140/media/img/mt/2026/07/2026_07_02_BB_Books_that_Have_it_Both_Ways/original.jpg"
+  },
+  {
+    "title": "The Strange History of the WordEqual",
+    "url": "https://www.theatlantic.com/ideas/2026/07/history-word-equal-rights-declaration/687777/",
+    "description": "The expansiveness of the concept helps explain its endurance.",
+    "author": "Teresa M. Bejan",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/m_hiImObPPo5jKcBGJ6EJuYsbGc=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_02_The_Strange_Career_of_Equal_and_Equality_/original.jpg"
+  },
+  {
+    "title": "A Twist in This Year’s Strangest Literary AI Scandal",
     "url": "https://www.theatlantic.com/technology/2026/07/commonwealth-prize-ai-writing-jamir-nazir/687806/",
-    "description": "Jamir Nazir, the controversial winner of a prestigious literary award, tells his side of the story.",
+    "description": "Jamir Nazir, the controversial winner of the Commonwealth award, tells his side of the story.",
     "author": "Will Oremus",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/0yn7T-8OAEnSZVTrbino1_7ivj4=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_02_Oremus_Jamir_Nazir_Ai_story_QA/original.jpg"
   },
   {
-    "title": "How American Brands Are Celebrating America’s Birthday—Or Aren’t",
+    "title": "American Brands Seem Lukewarm on America’s Birthday",
     "url": "https://www.theatlantic.com/ideas/2026/07/america-250-brands/687805/",
-    "description": "Big companies are taking a restrained approach to the 250th.",
+    "description": "Does patriotism still sell in 2026?",
     "author": "Annie Joy Williams",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/92INJbjHAmXCVXro1ucOGhB8pSU=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_01_Branding/original.jpg"
@@ -25,16 +49,16 @@
   },
   {
     "title": "Photos of the Week: World Cup, Wine Battle, White Kimono",
-    "url": "https://www.theatlantic.com/photography/2026/07/photos-week-tk/687784/",
+    "url": "https://www.theatlantic.com/photography/2026/07/photos-of-the-week-world-cup-wine-battle-white-kimono/687784/",
     "description": "A scorching heat wave in Europe, a bonfire celebration in Argentina, a Pride parade in Seattle, semiquincentennial celebrations across America, and much more",
     "author": "Alan Taylor",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/-tW4BoWb7UcuN9g4FpP7-BJNhL4=/0x2:8049x5368/210x140/media/img/mt/2026/07/a01_G_2283648383/original.jpg"
   },
   {
-    "title": "The NewRoe v. Wade",
+    "title": "These Justices Are Not Impartial",
     "url": "https://www.theatlantic.com/ideas/2026/07/birthright-citizenship-dissents/687799/",
-    "description": "Trump v. Barbara,the decision upholding birthright citizenship, is less a victory than a reprieve.",
+    "description": "Why such a slim Supreme Court majority upheld birthright citizenship",
     "author": "Adam Serwer",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/KJhOUKDR-pJ3n0SDeDmGnrqNHlQ=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_06_30_The_Four_Votes_Against_Birthright_Citizenship_Adam_Serwer/original.jpg"
@@ -134,29 +158,5 @@
     "author": "Michael O’Donnell",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/EOaAWkAwZlrjRlTs3P771C5at-4=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_06_26_ODonnel_Movies_are_bad_final/original.jpg"
-  },
-  {
-    "title": "At Least You’re Not Playing in the World Cup Right Now",
-    "url": "https://www.theatlantic.com/health/2026/07/heat-athletes-cooling/687775/",
-    "description": "The athletes train for this heat, but even elite-level acclimation only goes so far.",
-    "author": "Nancy Walecki",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/g7jPuvYpUrZB6bWNEOAx5IjkZzM=/605x0:3980x2250/210x140/media/img/mt/2026/07/2026_07_02_Its_Hot_Out_FIFA_Nancy_Walecki/original.jpg"
-  },
-  {
-    "title": "Pete Buttigieg’s Ordeal Is a Frightening New Form of Political Harassment",
-    "url": "https://www.theatlantic.com/ideas/2026/07/buttigieg-cps-michigan-harassment/687776/",
-    "description": "People considering a role in public life should not have to worry about the risks to their children.",
-    "author": "Quinta Jurecic",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/KfFf1DGf223tWzRr7HWuH68xHEI=/178x0:2112x1289/210x140/media/img/mt/2026/07/2026_07_01_buttigieg_1/original.jpg"
-  },
-  {
-    "title": "The Capital Is a Mess",
-    "url": "https://www.theatlantic.com/politics/2026/07/national-mall-construction-trump/687761/",
-    "description": "Chain-link fences, construction cranes, armed guards, and portable toilets everywhere",
-    "author": "Matt Viser",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/nGDvnxN-cauWFMnweU3i77rxhEY=/113x1184:2562x2817/210x140/media/img/mt/2026/07/Gutman_TheAtlantic_DCconstruction_16/original.jpg"
   }
 ]
