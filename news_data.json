@@ -1,5 +1,21 @@
 [
   {
+    "title": "Audacious mission to rescue NASA's falling telescope has launched",
+    "url": "https://www.newscientist.com/article/2532627-audacious-mission-to-rescue-nasas-falling-telescope-has-launched/",
+    "description": "NASA’s Swift space telescope is reaching the end of its two-decade run in orbit – unless a satellite launched on 3 July can give it a lifesaving boost",
+    "author": "Leah Crane",
+    "category": "Space",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03141232/SEI_303630320.jpg"
+  },
+  {
+    "title": "Orangutan mothers seem to plan playdates for their offspring",
+    "url": "https://www.newscientist.com/article/2532880-orangutan-mothers-seem-to-plan-playdates-for-their-offspring/",
+    "description": "Female orangutans are generally solitary, but they travel more and eat less in an apparent effort to ensure their offspring have someone to play with",
+    "author": "Chris Simms",
+    "category": "Life",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03121714/SEI_303833229.jpg"
+  },
+  {
     "title": "June heatwave may have killed around 20,000 people in Europe",
     "url": "https://www.newscientist.com/article/2532825-june-heatwave-may-have-killed-around-20000-people-in-europe/",
     "description": "It will be some months before the true toll of Europe's worst-ever heatwave is confirmed, but researchers can estimate a death count based on how many people died in Europe during previous hot periods",
@@ -30,21 +46,5 @@
     "author": "Michael Le Page",
     "category": "Life",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/01201518/SEI_303625606.jpg"
-  },
-  {
-    "title": "The weirdness of neutrinos could completely rewrite particle physics",
-    "url": "https://www.newscientist.com/article/2532479-the-weirdness-of-neutrinos-could-completely-rewrite-particle-physics/",
-    "description": "A philosopher has put forward an argument for rethinking how particles are defined within the standard model of particle physics",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "Physics",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/01111331/SEI_303596254.jpg"
-  },
-  {
-    "title": "A type of fibre that stimulates GLP-1 release approved for use in food",
-    "url": "https://www.newscientist.com/article/2532336-a-type-of-fibre-that-stimulates-glp-1-release-approved-for-use-in-food/",
-    "description": "A form of fibre that boosts the release of the hunger-reducing hormone GLP-1 has been approved as safe by a European regulator, and could be added to foods within a year",
-    "author": "Michael Le Page",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/01115749/SEI_303484929.jpg"
   }
 ]
