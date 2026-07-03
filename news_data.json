@@ -1,5 +1,13 @@
 [
   {
+    "title": "‘Hobbit’ hominins scavenged meat left over by Komodo dragons",
+    "url": "https://www.newscientist.com/article/2532777-hobbit-hominins-scavenged-meat-left-over-by-komodo-dragons/",
+    "description": "An experiment that involved feeding a dead goat to a Komodo dragon as well as an analysis of thousands of ancient bones suggests that Homo floresiensis was neither a skilled hunter of big game nor a master of fire",
+    "author": "James Woodford",
+    "category": "Humans",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02123656/SEI_303594231.jpg"
+  },
+  {
     "title": "A volcano has erupted remnants of Earth's primordial magma ocean",
     "url": "https://www.newscientist.com/article/2532929-a-volcano-has-erupted-remnants-of-earths-primordial-magma-ocean/",
     "description": "Earth was once covered by a global magma ocean, which later cooled and crystallised – now traces of this primordial event have been found in magma from a young volcano in the Indian Ocean",
@@ -38,13 +46,5 @@
     "author": "Leah Crane",
     "category": "Physics",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02105918/SEI_303706468.jpg"
-  },
-  {
-    "title": "Geoengineering could expose plane passengers to sulphuric acid",
-    "url": "https://www.newscientist.com/article/2532757-geoengineering-could-expose-plane-passengers-to-sulphuric-acid/",
-    "description": "A proposed technique to counter global warming by spraying sun-reflecting particles near the poles would cause commercial flights to pass through clouds of sulphuric acid, posing a danger to passengers and crew",
-    "author": "Syris Valentine",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02120005/SEI_303594824.jpg"
   }
 ]
