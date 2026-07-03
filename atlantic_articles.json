@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hell Arrives in Washington",
+    "url": "https://www.theatlantic.com/science/2026/07/washington-dc-heat-wave-america-250/687808/",
+    "description": "My day of extreme heat in the nation’s capital",
+    "author": "Hana Kiros",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/RTDPVPV6ZwPSn0ciurflIC-jlko=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_03_Hell_Arrives_in_Washington/original.jpg"
+  },
+  {
     "title": "How Elon Musk Became More Powerful Than Ever",
     "url": "https://www.theatlantic.com/podcasts/2026/07/how-elon-musk-became-more-powerful-ever/687807/",
     "description": "The authors ofMuskismbreak down the beliefs, business strategy, and political influence behind the world’s richest man.",
@@ -150,13 +158,5 @@
     "author": "Gal Beckerman",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/POx1cjZy3kicVTiULPDdKIsRzKM=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_02_Why_the_Latest_Trump_Book_is_Actually_Selling/original.jpg"
-  },
-  {
-    "title": "The $10,000 MacBook Pro Is Here",
-    "url": "https://www.theatlantic.com/technology/2026/07/apple-prices-macbook-memory-shortage/687781/",
-    "description": "Apple is charging you an AI tax.",
-    "author": "Hana Kiros",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/FXg7_EIPebdT7SmPQwPi6USc0eo=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_06_30_Kiros_10k_macbook_final/original.jpg"
   }
 ]
