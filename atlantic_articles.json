@@ -1,8 +1,32 @@
 [
   {
-    "title": "Trump’s Remarkable Losing Streak",
+    "title": "How to Find Joy on a Quiet Day in",
+    "url": "https://www.theatlantic.com/newsletters/2026/07/quiet-day-hobbies-reading/687809/",
+    "description": "Home can be a place of adventure, not just stasis.",
+    "author": "Isabel Fattal",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/6YO-en0PAKs8s7Sg9F3iDcEN1z0=/155x0:1842x1125/210x140/media/img/mt/2025/05/2025_05_12_Sasseen_Reading_list_bored_GettyImages_1426056986_final/original.jpg"
+  },
+  {
+    "title": "America’s Most Enduring Belief Is Also One of Its Most Dangerous",
+    "url": "https://www.theatlantic.com/ideas/2026/07/america-jefferson-adams-providence/687790/",
+    "description": "How the simultaneous deaths of two Founding Fathers entrenched the idea that the United States was chosen by God",
+    "author": "Jim Rasenberger",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/_BpFI_QsBTylNRZZqHNyz7pQr-U=/360x0:1999x1093/210x140/media/img/mt/2026/07/2026_07_02_Rasenberger_Coincidence_in_American_History_final-2/original.jpg"
+  },
+  {
+    "title": "How to Define America in 30 Objects",
+    "url": "https://www.theatlantic.com/ideas/2026/07/define-america-30-objects/687778/",
+    "description": "What artifacts capture 250 years of work to attain the dreams of the Declaration?",
+    "author": "Lonnie G. Bunch III",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/JScbHGUZxoQWgXeqoT3uParguSI=/0x621:2160x2061/210x140/media/img/mt/2026/07/2026_07_02_Smithsonian/original.jpg"
+  },
+  {
+    "title": "Trump Is Getting Tired of Losing Election Cases",
     "url": "https://www.theatlantic.com/politics/2026/07/trump-election-law-strategies/687786/",
-    "description": "The administration has lost at least a dozen election-related cases.",
+    "description": "Even the judges he appointed aren’t buying the arguments.",
     "author": "Toluse Olorunnipa",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/t6teLSimYZr15SDRPulT5zc2XIU=/390x0:4636x2831/210x140/media/img/mt/2026/07/2026_07_02_Trump_Election_Losses/original.jpg"
@@ -134,29 +158,5 @@
     "author": "Anne Neuberger",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/zWEqIRkFhpvbvjD7U4rQwfZ21vc=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_07_03_The_Fourth_of_July_That_Saved_My_Family_Anne_Neuberger/original.jpg"
-  },
-  {
-    "title": "How to Love the U.S.A.",
-    "url": "https://www.theatlantic.com/ideas/2026/07/patriotism-america-250-pride/687680/",
-    "description": "The ideals that forged the country are capacious enough to allow both pride in America’s accomplishments and shame in its shortcomings.",
-    "author": "Steven B. Smith",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/uFA9RtJACf0R9DTwtYzmQqv30lo=/197x0:2306x1406/210x140/media/img/mt/2026/07/2026_07_02_Smith_Patriotism/original.png"
-  },
-  {
-    "title": "What I Learned From ROTC",
-    "url": "https://www.theatlantic.com/ideas/2026/07/army-military-service-training-lessons/687589/",
-    "description": "Military experience is, sooner or later, humbling.",
-    "author": "Eliot A. Cohen",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/QDgv60tIzYr3zXAKuK_-k2ypr1I=/227x0:2657x1620/210x140/media/img/mt/2026/06/2026_06_22_What_I_Learned_From_ROTC/original.jpg"
-  },
-  {
-    "title": "The Father of American Pop Music Turns 200",
-    "url": "https://www.theatlantic.com/newsletters/2026/07/stephen-foster-popular-music-birthday/687801/",
-    "description": "Stephen Foster wrote some of the most enduring American songs, invented the role of songwriter, and served as a cautionary tale for his successors.",
-    "author": "David A. Graham",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/kwuzkC13T7_Rxh5HjfVjemrP4PM=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_07_02_The_Daily_The_Man_Who_Invented_American_Popular_Music_Turns_200_1/original.jpg"
   }
 ]
