@@ -1,5 +1,13 @@
 [
   {
+    "title": "5 things to know about sunscreen, according to a skin cancer expert",
+    "url": "https://www.newscientist.com/article/2532744-5-things-to-know-about-sunscreen-according-to-a-skin-cancer-expert/",
+    "description": "How much sunscreen should you be using, when should you apply it, and are there any downsides to doing so? Skin cancer expert Rachel Neale is here to answer all of these questions and more",
+    "author": "Rachel Neale",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02110823/SEI_303476907.jpg"
+  },
+  {
     "title": "Collapse of AMOC ocean current may already be locked in",
     "url": "https://www.newscientist.com/article/2533017-collapse-of-amoc-ocean-current-may-already-be-locked-in/",
     "description": "The fate of the Atlantic Ocean current that keeps Europe’s climate warm depends on our carbon emissions and the rate of ice melt from Greenland, but there is a chance that a shutdown is already inevitable",
@@ -38,13 +46,5 @@
     "author": "Christa Lesté-Lasserre",
     "category": "Earth",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03123303/SEI_303834151.jpg"
-  },
-  {
-    "title": "Audacious mission to rescue NASA's falling telescope has launched",
-    "url": "https://www.newscientist.com/article/2532627-audacious-mission-to-rescue-nasas-falling-telescope-has-launched/",
-    "description": "NASA’s Swift space telescope is reaching the end of its two-decade run in orbit – unless a satellite launched on 3 July can give it a lifesaving boost",
-    "author": "Leah Crane",
-    "category": "Space",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03141232/SEI_303630320.jpg"
   }
 ]
