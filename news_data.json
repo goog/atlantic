@@ -1,5 +1,13 @@
 [
   {
+    "title": "Can the biggest problems in AI be solved by philosophy?",
+    "url": "https://www.newscientist.com/article/2532588-can-the-biggest-problems-in-ai-be-solved-by-philosophy/",
+    "description": "AI companies are hiring philosophy graduates to help them understand the nature of consciousness, whether it can be replicated and how their systems can be made better and more reliable",
+    "author": "Matthew Sparkes",
+    "category": "Technology",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02114356/SEI_303622370.jpg"
+  },
+  {
     "title": "‘Hobbit’ hominins scavenged meat left over by Komodo dragons",
     "url": "https://www.newscientist.com/article/2532777-hobbit-hominins-scavenged-meat-left-over-by-komodo-dragons/",
     "description": "An experiment that involved feeding a dead goat to a Komodo dragon as well as an analysis of thousands of ancient bones suggests that Homo floresiensis was neither a skilled hunter of big game nor a master of fire",
@@ -38,13 +46,5 @@
     "author": "Michael Le Page",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02170440/SEI_303740674.jpg"
-  },
-  {
-    "title": "Random wobbles in time could finally solve gravity’s greatest mystery",
-    "url": "https://www.newscientist.com/article/2532714-random-wobbles-in-time-could-finally-solve-gravitys-greatest-mystery/",
-    "description": "The question of how gravity interacts with the quantum world has long perplexed physicists, but a non-quantum theory of space-time could present an answer",
-    "author": "Leah Crane",
-    "category": "Physics",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02105918/SEI_303706468.jpg"
   }
 ]
