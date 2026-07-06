@@ -1,5 +1,21 @@
 [
   {
+    "title": "Collapse of AMOC ocean current may already be locked in",
+    "url": "https://www.newscientist.com/article/2533017-collapse-of-amoc-ocean-current-may-already-be-locked-in/",
+    "description": "The fate of the Atlantic Ocean current that keeps Europe’s climate warm depends on our carbon emissions and the rate of ice melt from Greenland, but there is a chance that a shutdown is already inevitable",
+    "author": "Chris Simms",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06101937/SEI_303859873.jpg"
+  },
+  {
+    "title": "Human brains may have got bigger for no particular reason",
+    "url": "https://www.newscientist.com/article/2532890-human-brains-may-have-got-bigger-for-no-particular-reason/",
+    "description": "Our brains are large compared with other animals, so it is tempting to assume there was an evolutionary advantage to them – but that may not be true at all",
+    "author": "Michael Marshall",
+    "category": "Humans",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03122332/SEI_303833291.jpg"
+  },
+  {
     "title": "Can the biggest problems in AI be solved by philosophy?",
     "url": "https://www.newscientist.com/article/2532588-can-the-biggest-problems-in-ai-be-solved-by-philosophy/",
     "description": "AI companies are hiring philosophy graduates to help them understand the nature of consciousness, whether it can be replicated and how their systems can be made better and more reliable",
@@ -30,21 +46,5 @@
     "author": "Leah Crane",
     "category": "Space",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03141232/SEI_303630320.jpg"
-  },
-  {
-    "title": "Orangutan mothers seem to plan playdates for their offspring",
-    "url": "https://www.newscientist.com/article/2532880-orangutan-mothers-seem-to-plan-playdates-for-their-offspring/",
-    "description": "Female orangutans are generally solitary, but they travel more and eat less in an apparent effort to ensure their offspring have someone to play with",
-    "author": "Chris Simms",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03121714/SEI_303833229.jpg"
-  },
-  {
-    "title": "June heatwave may have killed around 20,000 people in Europe",
-    "url": "https://www.newscientist.com/article/2532825-june-heatwave-may-have-killed-around-20000-people-in-europe/",
-    "description": "It will be some months before the true toll of Europe's worst-ever heatwave is confirmed, but researchers can estimate a death count based on how many people died in Europe during previous hot periods",
-    "author": "Michael Le Page",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02170440/SEI_303740674.jpg"
   }
 ]
