@@ -1,5 +1,13 @@
 [
   {
+    "title": "AtlanticTrivia: Mystery Meat",
+    "url": "https://www.theatlantic.com/trivia/2026/07/06-rfk-jr-maha-mel-brooks-paris/687814/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/5VbdH-l88rciDEPAoPi8WmjYES8=/152x0:1772x1080/210x140/media/img/mt/2026/07/trivia_green/original.png"
+  },
+  {
     "title": "A Very Bad Call",
     "url": "https://www.theatlantic.com/culture/2026/07/world-cup-red-card/687815/",
     "description": "The red card against Team USA’s Folarin Balogun at the World Cup wasn’t good. FIFA’s decision to overturn it after hearing from Donald Trump was even worse.",
@@ -8,9 +16,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/6fwIgsEPAh12vkD6uGxtz64AjYg=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_06_World_Cup_Sally_on_Folarin_Baloguns_Red_Card_Reversal/original.jpg"
   },
   {
-    "title": "The End of Discs",
+    "title": "A Sad Kind of Convenience",
     "url": "https://www.theatlantic.com/technology/2026/07/playstation-ends-discs/687770/",
-    "description": "A more convenient world may not be a better one.",
+    "description": "The death of physical media is getting closer—and we may miss it when it’s gone.",
     "author": "Will Gottsegen",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/JS6fmr8DuLc38onhv5Ue5eVsxlo=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_01_Gottsegen_Discs_final/original.png"
@@ -56,7 +64,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/XAfhK0B5G6szUQoR1UVn5n0ARqc=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_06_23_Social_security/original.jpg"
   },
   {
-    "title": "The Results Are In On Trump’s Boat Strikes Campaign",
+    "title": "The Results Are In on Trump’s Boat-Strike Campaign",
     "url": "https://www.theatlantic.com/national-security/2026/07/trump-narcoterrorists-boat-strikes/687763/",
     "description": "They haven’t stopped the drugs, but that may not be the point.",
     "author": "Marie-Rose Sheinerman",
@@ -150,13 +158,5 @@
     "author": "Isabel Fattal",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/6YO-en0PAKs8s7Sg9F3iDcEN1z0=/155x0:1842x1125/210x140/media/img/mt/2025/05/2025_05_12_Sasseen_Reading_list_bored_GettyImages_1426056986_final/original.jpg"
-  },
-  {
-    "title": "America’s Most Enduring Belief Is Also One of Its Most Dangerous",
-    "url": "https://www.theatlantic.com/ideas/2026/07/america-jefferson-adams-providence/687790/",
-    "description": "How the simultaneous deaths of two Founding Fathers entrenched the idea that the United States was chosen by God",
-    "author": "Jim Rasenberger",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/_BpFI_QsBTylNRZZqHNyz7pQr-U=/360x0:1999x1093/210x140/media/img/mt/2026/07/2026_07_02_Rasenberger_Coincidence_in_American_History_final-2/original.jpg"
   }
 ]
