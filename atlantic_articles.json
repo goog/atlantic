@@ -1,5 +1,21 @@
 [
   {
+    "title": "A Very Bad Call",
+    "url": "https://www.theatlantic.com/culture/2026/07/world-cup-red-card/687815/",
+    "description": "The red card against Team USA’s Folarin Balogun at the World Cup wasn’t good. FIFA’s decision to overturn it after hearing from Donald Trump was even worse.",
+    "author": "Sally Jenkins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/6fwIgsEPAh12vkD6uGxtz64AjYg=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_06_World_Cup_Sally_on_Folarin_Baloguns_Red_Card_Reversal/original.jpg"
+  },
+  {
+    "title": "The End of Discs",
+    "url": "https://www.theatlantic.com/technology/2026/07/playstation-ends-discs/687770/",
+    "description": "A more convenient world may not be a better one.",
+    "author": "Will Gottsegen",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/JS6fmr8DuLc38onhv5Ue5eVsxlo=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_01_Gottsegen_Discs_final/original.png"
+  },
+  {
     "title": "The Military Pete Hegseth Wants",
     "url": "https://www.theatlantic.com/podcasts/2026/07/ra-black-patriots/687773/",
     "description": "What America stands to lose as the Trump administration strips diversity from its military ranks.",
@@ -142,21 +158,5 @@
     "author": "Jim Rasenberger",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/_BpFI_QsBTylNRZZqHNyz7pQr-U=/360x0:1999x1093/210x140/media/img/mt/2026/07/2026_07_02_Rasenberger_Coincidence_in_American_History_final-2/original.jpg"
-  },
-  {
-    "title": "How to Define America in 30 Objects",
-    "url": "https://www.theatlantic.com/ideas/2026/07/define-america-30-objects/687778/",
-    "description": "What artifacts capture 250 years of work to attain the dreams of the Declaration?",
-    "author": "Lonnie G. Bunch III",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/JScbHGUZxoQWgXeqoT3uParguSI=/0x621:2160x2061/210x140/media/img/mt/2026/07/2026_07_02_Smithsonian/original.jpg"
-  },
-  {
-    "title": "Trump Is Getting Tired of Losing Election Cases",
-    "url": "https://www.theatlantic.com/politics/2026/07/trump-election-law-strategies/687786/",
-    "description": "Even the judges he appointed aren’t buying the arguments.",
-    "author": "Toluse Olorunnipa",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/t6teLSimYZr15SDRPulT5zc2XIU=/390x0:4636x2831/210x140/media/img/mt/2026/07/2026_07_02_Trump_Election_Losses/original.jpg"
   }
 ]

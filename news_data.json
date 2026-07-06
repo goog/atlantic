@@ -1,5 +1,21 @@
 [
   {
+    "title": "Bumblebee facial movements give clues to their inner lives",
+    "url": "https://www.newscientist.com/article/2533149-bumblebee-facial-movements-give-clues-to-their-inner-lives/",
+    "description": "A series of experiments shows that bees respond differently to tastes depending on their internal states, hinting that they have something akin to our emotions",
+    "author": "James Woodford",
+    "category": "Life",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06142655/SEI_304232627.jpg"
+  },
+  {
+    "title": "Artefacts hint at cultural exchange between Neanderthals and humans",
+    "url": "https://www.newscientist.com/article/2533108-artefacts-hint-at-cultural-exchange-between-neanderthals-and-humans/",
+    "description": "A cave on the Turkish Mediterranean coast was inhabited first by Neanderthals and then Homo sapiens, but the continuity of tools and personal objects suggests there was some sharing of culture between the two species",
+    "author": "James Woodford",
+    "category": "Humans",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06122856/SEI_304232939.jpg"
+  },
+  {
     "title": "5 things to know about sunscreen, according to a skin cancer expert",
     "url": "https://www.newscientist.com/article/2532744-5-things-to-know-about-sunscreen-according-to-a-skin-cancer-expert/",
     "description": "How much sunscreen should you be using, when should you apply it, and are there any downsides to doing so? Skin cancer expert Rachel Neale is here to answer all of these questions and more",
@@ -30,21 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "Technology",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02114356/SEI_303622370.jpg"
-  },
-  {
-    "title": "‘Hobbit’ hominins scavenged meat left over by Komodo dragons",
-    "url": "https://www.newscientist.com/article/2532777-hobbit-hominins-scavenged-meat-left-over-by-komodo-dragons/",
-    "description": "An experiment that involved feeding a dead goat to a Komodo dragon as well as an analysis of thousands of ancient bones suggests that Homo floresiensis was neither a skilled hunter of big game nor a master of fire",
-    "author": "James Woodford",
-    "category": "Humans",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02123656/SEI_303594231.jpg"
-  },
-  {
-    "title": "A volcano has erupted remnants of Earth's primordial magma ocean",
-    "url": "https://www.newscientist.com/article/2532929-a-volcano-has-erupted-remnants-of-earths-primordial-magma-ocean/",
-    "description": "Earth was once covered by a global magma ocean, which later cooled and crystallised – now traces of this primordial event have been found in magma from a young volcano in the Indian Ocean",
-    "author": "Christa Lesté-Lasserre",
-    "category": "Earth",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03123303/SEI_303834151.jpg"
   }
 ]
