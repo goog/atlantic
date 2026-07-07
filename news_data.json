@@ -1,5 +1,21 @@
 [
   {
+    "title": "5 graphs that show how heatwaves are getting more dangerous",
+    "url": "https://www.newscientist.com/article/2532809-5-graphs-that-show-how-heatwaves-are-getting-more-dangerous/",
+    "description": "Longer-lasting hot spells and high temperatures at night are making it harder to cope, leading to thousands more deaths from extreme heat",
+    "author": "Jacklin KwanandAlec Luhn",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03153116/SEI_303831189.jpg"
+  },
+  {
+    "title": "Ovaries may turn into an 'immune-like organ' after the menopause",
+    "url": "https://www.newscientist.com/article/2533022-ovaries-may-turn-into-an-immune-like-organ-after-the-menopause/",
+    "description": "The ovaries of aged mice become infiltrated with immune cells linked to widespread inflammation in the body, and the same change could be happening in women",
+    "author": "Starre Vartan",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06103647/SEI_303708794.jpg"
+  },
+  {
     "title": "Bumblebee facial movements give clues to their inner lives",
     "url": "https://www.newscientist.com/article/2533149-bumblebee-facial-movements-give-clues-to-their-inner-lives/",
     "description": "A series of experiments shows that bees respond differently to tastes depending on their internal states, hinting that they have something akin to our emotions",
@@ -30,21 +46,5 @@
     "author": "Chris Simms",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06101937/SEI_303859873.jpg"
-  },
-  {
-    "title": "Human brains may have got bigger for no particular reason",
-    "url": "https://www.newscientist.com/article/2532890-human-brains-may-have-got-bigger-for-no-particular-reason/",
-    "description": "Our brains are large compared with other animals, so it is tempting to assume there was an evolutionary advantage to them – but that may not be true at all",
-    "author": "Michael Marshall",
-    "category": "Humans",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03122332/SEI_303833291.jpg"
-  },
-  {
-    "title": "Can the biggest problems in AI be solved by philosophy?",
-    "url": "https://www.newscientist.com/article/2532588-can-the-biggest-problems-in-ai-be-solved-by-philosophy/",
-    "description": "AI companies are hiring philosophy graduates to help them understand the nature of consciousness, whether it can be replicated and how their systems can be made better and more reliable",
-    "author": "Matthew Sparkes",
-    "category": "Technology",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02114356/SEI_303622370.jpg"
   }
 ]
