@@ -1,5 +1,21 @@
 [
   {
+    "title": "I Heard You Singing",
+    "url": "https://www.theatlantic.com/books/2026/07/emily-ruskovich-i-heard-you-singing/687788/",
+    "description": "",
+    "author": "Emily Ruskovich",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/xYEBqaTDwsKk-UK9yTHCimIlCzY=/1134x732:3822x2524/210x140/media/img/mt/2026/07/temp/original.jpg"
+  },
+  {
+    "title": "The Genes That Could Cancel Out a Fatal Diagnosis",
+    "url": "https://www.theatlantic.com/health/2026/07/genetic-outliers/687821/",
+    "description": "The key to treating genetic disease might be hidden in other “modifier” genes.",
+    "author": "Roxanne Khamsi",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/BpNLddwxh8Gz1Dq78gkt7PQJLDg=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_06_25_GeneticOutliers/original.jpg"
+  },
+  {
     "title": "The Classic Novel That Today’s Young Men Should Read",
     "url": "https://www.theatlantic.com/books/2026/07/catcher-in-the-rye-75th-anniversary-holden-caulfield-masculinity/687813/",
     "description": "Beneath all the alienation,The Catcher in the Rye, which turns 75 this year, has a surprisingly hopeful—and ethical—outlook.",
@@ -8,15 +24,15 @@
     "image": "https://cdn.theatlantic.com/thumbor/qZ6tKCET7Pi9Ct3g0cp5YmuowgQ=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_2_Catcher_in_the_Rye/original.jpg"
   },
   {
-    "title": "What Biden Changed About American Foreign Policy",
+    "title": "The Foreign-Policy Debate Democrats Need to Have",
     "url": "https://www.theatlantic.com/international/2026/07/democrats-foreign-policy-future/687816/",
-    "description": "The most recent Democratic administration focused on adapting American power to a dangerous new world. Progressives are calling that vision into question.",
+    "description": "The Biden administration focused on adapting American power to a dangerous new world. Progressives are calling that vision into question.",
     "author": "Thomas Wright",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/g-ULbw7uiwwF7GdTMcPyxFS2PnQ=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_02_ForeignPolicy_1/original.jpg"
   },
   {
-    "title": "The Demons of Maryville",
+    "title": "The Demon Next Door",
     "url": "https://www.theatlantic.com/magazine/2026/08/charismatic-christian-church-tennessee/687624/",
     "description": "A growing number of charismatic Christians see themselves as waging a spiritual battle against the forces of Satan. Sometimes those forces are right across the street.",
     "author": "Stephanie McCrummen",
@@ -142,21 +158,5 @@
     "author": "Julie BeckandNatalie Brennan",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/ZOAFoA9k1qWlVZyp7D74x4wB2Rw=/155x0:1842x1125/210x140/media/img/mt/2026/07/HowTo_Share_Introducing_Static/original.jpg"
-  },
-  {
-    "title": "Small-Dollar Campaign Donors Are Hurting the Political System",
-    "url": "https://www.theatlantic.com/ideas/2026/07/small-dollar-donors-harm/687734/",
-    "description": "",
-    "author": "Idrees Kahloon",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Dz7D9Y3GYaoGL32aal-RPaz5opg=/155x0:1842x1125/210x140/media/img/mt/2026/06/2026_06_29_Small_donors/original.jpg"
-  },
-  {
-    "title": "FromIdaho B Roll",
-    "url": "https://www.theatlantic.com/magazine/2026/08/brian-blanchfield-from-idaho-b-roll/687622/",
-    "description": "",
-    "author": "Brian Blanchfield",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/6NiwORKdkAQHv8FrJ4P3wOBbcWo=/21x0:1214x796/210x140/media/img/2026/07/Poem_Hart_1230px-1/original.jpg"
   }
 ]
