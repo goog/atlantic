@@ -1,5 +1,29 @@
 [
   {
+    "title": "The Classic Novel That Today’s Young Men Should Read",
+    "url": "https://www.theatlantic.com/books/2026/07/catcher-in-the-rye-75th-anniversary-holden-caulfield-masculinity/687813/",
+    "description": "Beneath all the alienation,The Catcher in the Rye, which turns 75 this year, has a surprisingly hopeful—and ethical—outlook.",
+    "author": "Lily Meyer",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/qZ6tKCET7Pi9Ct3g0cp5YmuowgQ=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_2_Catcher_in_the_Rye/original.jpg"
+  },
+  {
+    "title": "What Biden Changed About American Foreign Policy",
+    "url": "https://www.theatlantic.com/international/2026/07/democrats-foreign-policy-future/687816/",
+    "description": "The most recent Democratic administration focused on adapting American power to a dangerous new world. Progressives are calling that vision into question.",
+    "author": "Thomas Wright",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/g-ULbw7uiwwF7GdTMcPyxFS2PnQ=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_02_ForeignPolicy_1/original.jpg"
+  },
+  {
+    "title": "The Demons of Maryville",
+    "url": "https://www.theatlantic.com/magazine/2026/08/charismatic-christian-church-tennessee/687624/",
+    "description": "A growing number of charismatic Christians see themselves as waging a spiritual battle against the forces of Satan. Sometimes those forces are right across the street.",
+    "author": "Stephanie McCrummen",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Rgcza9km0Yieg-meIvBbYZxqvbM=/1x18:4472x2999/210x140/media/img/2026/07/DemonsOpener/original.png"
+  },
+  {
     "title": "The Other Celebration of America",
     "url": "https://www.theatlantic.com/politics/2026/07/world-cup-america-250-patriotism/687817/",
     "description": "The World Cup has provided the unity that was lacking from the official 250th celebrations.",
@@ -58,7 +82,7 @@
   {
     "title": "The Military Pete Hegseth Wants",
     "url": "https://www.theatlantic.com/podcasts/2026/07/ra-black-patriots/687773/",
-    "description": "What America stands to lose as the Trump administration strips diversity from its military ranks.",
+    "description": "What America stands to lose as the Trump administration strips diversity from its military ranks",
     "author": "Adam Harris",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/BDIvp3Ne1MspCHZtbls07K6_qUI=/0x0:3375x2250/210x140/media/img/mt/2026/07/Radio_Atlantic_Horizontal_Black_Patriots/original.png"
@@ -134,29 +158,5 @@
     "author": "Brian Blanchfield",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/6NiwORKdkAQHv8FrJ4P3wOBbcWo=/21x0:1214x796/210x140/media/img/2026/07/Poem_Hart_1230px-1/original.jpg"
-  },
-  {
-    "title": "What Trump’s July 4 Speech Revealed",
-    "url": "https://www.theatlantic.com/ideas/2026/07/trump-july-4/687811/",
-    "description": "The president demanded credit for a history that he regards as a sucker’s mistake.",
-    "author": "David Frum",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/CCywB8WKQn3rEVGTNgIFh0E3v1E=/380x0:4521x2761/210x140/media/img/mt/2026/07/2026_07_05_Trumps_July_4_Speech/original.jpg"
-  },
-  {
-    "title": "Prepare for Airplane Purgatory",
-    "url": "https://www.theatlantic.com/science/2026/07/airlines-flight-extended-tarmac-delay/687802/",
-    "description": "The chances of getting stuck for hours in a grounded plane are soaring.",
-    "author": "Nicholas Florko",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/2zVcxg_pNXy3YeitZP0U_zYJbPA=/337x0:4006x2446/210x140/media/img/mt/2026/07/2026_06_30_The_Worst_Kind_of_Flight_Delay_Is_Skyrocketing/original.jpg"
-  },
-  {
-    "title": "The Alabamafication of National Politics",
-    "url": "https://www.theatlantic.com/politics/2026/07/doug-jones-tommy-tuberville-alabama/687789/",
-    "description": "What the race between Doug Jones and Tommy Tuberville says about America’s past and future",
-    "author": "Howell Raines",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Pdznj7vtIRkLUP-oIkECuSqGji8=/0x0:3375x2250/210x140/media/img/mt/2026/07/2026_07_05_he_Alabama_Governors_Race_Might_More_Complicated_Than_You_Think_Howell_Raines/original.jpg"
   }
 ]
