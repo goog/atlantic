@@ -1,8 +1,40 @@
 [
   {
-    "title": "Taylor Swift’s Networking Spectacular",
+    "title": "Nigel Farage Wants a Mandate For Corruption",
+    "url": "https://www.theatlantic.com/ideas/2026/07/reform-uk-farage-resigns-special-election/687831/",
+    "description": "The British populist leader makes a Trumpian gamble.",
+    "author": "Helen Lewis",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Fmf0gaJlTpAXHufrOfRXmoF8nRI=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_07_07_Nigel_Farages_Trumpian_Gamble_Helen_Lewis/original.jpg"
+  },
+  {
+    "title": "AtlanticTrivia: The World’s Richest People",
+    "url": "https://www.theatlantic.com/trivia/2026/07/7-musk-trillionaire-ai-san-francisco-marcel-duchamp/687829/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/WneugoVmSGFX1JfvB_O6fBrIA1Q=/149x0:1770x1081/210x140/media/img/mt/2026/07/trivia_purple/original.png"
+  },
+  {
+    "title": "China’s Answer to AI Sticker Shock",
+    "url": "https://www.theatlantic.com/technology/2026/07/glm-5-2-china-cheap-ai-agents/687828/",
+    "description": "Corporate America is starting to balk at the cost of AI agents. A cheap alternative from China looks more tempting than ever.",
+    "author": "Matteo Wong",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/8xtLA334JFMBp42x39JgY7Y-qV8=/646x0:7677x4688/210x140/media/img/mt/2026/07/2026_07_02_Wong_Chinas_claude_final/original.jpg"
+  },
+  {
+    "title": "Lab-Leak Payback Has Begun",
+    "url": "https://www.theatlantic.com/science/2026/07/lab-leak-payback/687824/",
+    "description": "Indictments, subpoenas, and debarments are hitting American scientists embroiled in the controversy over COVID’s origins.",
+    "author": "Daniel Engber",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/aFHZqCX6FFUTPA8lp4qL005Ln9M=/310x0:3686x2250/210x140/media/img/mt/2026/07/2026_06_30_Lab_Leak_Payback_Has_Begun_Dan_Engber/original.jpg"
+  },
+  {
+    "title": "Of Course It Happened at Madison Square Garden",
     "url": "https://www.theatlantic.com/culture/2026/07/taylor-swift-travis-kelce-wedding-msg-networking/687826/",
-    "description": "The superstar’s wedding turned her love story into a huge glad-handing opportunity.",
+    "description": "Taylor Swift and Travis Kelce turned the arena into a spectacular wedding—and networking event.",
     "author": "Shirley Li",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/uHO4l4IoMBr5HznKH4-_fKM3th8=/310x0:3686x2250/210x140/media/img/mt/2026/07/2026_07_06_Taylor_Swifts_Networking_Spectacular_Shirley_Li/original.jpg"
@@ -126,37 +158,5 @@
     "author": "Adam Harris",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/BDIvp3Ne1MspCHZtbls07K6_qUI=/0x0:3375x2250/210x140/media/img/mt/2026/07/Radio_Atlantic_Horizontal_Black_Patriots/original.png"
-  },
-  {
-    "title": "The Death of Renee Good Has Yet to Be Properly Investigated",
-    "url": "https://www.theatlantic.com/ideas/2026/07/alex-pretti-renee-good-accountability/687792/",
-    "description": "Six months after she and Alex Pretti were shot on the streets of Minneapolis, little has come of the probes into their killings.",
-    "author": "Quinta Jurecic",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/6hXD_lCpLbIl0ztueKSgQmyxaPI=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_07_05_Accountability_after_Good_Pretti_Killings_Quinta_Jurecic/original.jpg"
-  },
-  {
-    "title": "WhatGame of ThronesNever Got Around to Showing",
-    "url": "https://www.theatlantic.com/culture/2026/07/house-of-the-dragon-season-3-episode-3-rhaenyra/687812/",
-    "description": "OnHouse of the Dragon, even queens want to take a break sometimes.",
-    "author": "Shirley Li",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/R7XFZTczfir1G6-bMadRIjGFnA4=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_6_30_HoD_1/original.jpg"
-  },
-  {
-    "title": "The Problem America Refuses to Address",
-    "url": "https://www.theatlantic.com/ideas/2026/07/age-trillionaire/687795/",
-    "description": "In the age of the trillionaire, inequality remains a defining challenge.",
-    "author": "Annie Lowrey",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Adkg9TS7c3ftbJ2-KoXekPe2rSg=/0x0:1687x1125/210x140/media/img/mt/2026/07/Trillionaire/original.png"
-  },
-  {
-    "title": "The Elixir of the Payroll-Tax Cap and Other Social Security Myths",
-    "url": "https://www.theatlantic.com/ideas/2026/07/social-security-insolvency-solution/687766/",
-    "description": "Progressives are wrong about how to reform the program. Conservatives are, too.",
-    "author": "Jessica Riedl",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/XAfhK0B5G6szUQoR1UVn5n0ARqc=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_06_23_Social_security/original.jpg"
   }
 ]
