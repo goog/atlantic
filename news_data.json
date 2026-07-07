@@ -1,5 +1,13 @@
 [
   {
+    "title": "Peter Shor’s algorithm could break the internet – but he's not worried",
+    "url": "https://www.newscientist.com/article/2533218-peter-shors-algorithm-could-break-the-internet-but-hes-not-worried/",
+    "description": "Few people have invented an algorithm with the potential to spark a worldwide crisis, so why is quantum computing pioneer Peter Shor so unconcerned? Karmela Padavic-Callaghan spoke to him to find out",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "Technology",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/07160435/SEI_304356846.jpg"
+  },
+  {
     "title": "Salt batteries are about to shake up EVs and grid storage",
     "url": "https://www.newscientist.com/article/2532997-salt-batteries-are-about-to-shake-up-evs-and-grid-storage/",
     "description": "Today, most rechargeable batteries are made from lithium ions, but sodium-ion alternatives could make battery tech much cheaper and offer other advantages",
@@ -38,13 +46,5 @@
     "author": "James Woodford",
     "category": "Humans",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06122856/SEI_304232939.jpg"
-  },
-  {
-    "title": "5 things to know about sunscreen, according to a skin cancer expert",
-    "url": "https://www.newscientist.com/article/2532744-5-things-to-know-about-sunscreen-according-to-a-skin-cancer-expert/",
-    "description": "How much sunscreen should you be using, when should you apply it, and are there any downsides to doing so? Skin cancer expert Rachel Neale is here to answer all of these questions and more",
-    "author": "Rachel Neale",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/02110823/SEI_303476907.jpg"
   }
 ]
