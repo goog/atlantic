@@ -1,5 +1,13 @@
 [
   {
+    "title": "Seeding clouds with seawater could prevent a super El Niño",
+    "url": "https://www.newscientist.com/article/2533348-seeding-clouds-with-seawater-could-prevent-a-super-el-nino/",
+    "description": "A modelling study suggests marine cloud brightening could shade the eastern Pacific and reduce a global temperature spike from El Niño, but there could be unexpected consequences",
+    "author": "Alec Luhn",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/07164331/SEI_304395090.jpg"
+  },
+  {
     "title": "Our fertility window could be extended by making ovaries softer",
     "url": "https://www.newscientist.com/article/2533507-our-fertility-window-could-be-extended-by-making-ovaries-softer/",
     "description": "A drug that softens the ovaries helped mice and rats conceive more easily at an older age, and produce more pups",
@@ -38,13 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "Technology",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/07160435/SEI_304356846.jpg"
-  },
-  {
-    "title": "Salt batteries are about to shake up EVs and grid storage",
-    "url": "https://www.newscientist.com/article/2532997-salt-batteries-are-about-to-shake-up-evs-and-grid-storage/",
-    "description": "Today, most rechargeable batteries are made from lithium ions, but sodium-ion alternatives could make battery tech much cheaper and offer other advantages",
-    "author": "Alec Luhn",
-    "category": "Technology",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06152825/SEI_304234402.jpg"
   }
 ]
