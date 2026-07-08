@@ -1,5 +1,13 @@
 [
   {
+    "title": "Lambs born via IVF using highly immature eggs in major breakthrough",
+    "url": "https://www.newscientist.com/article/2533441-lambs-born-via-ivf-using-highly-immature-eggs-in-major-breakthrough/",
+    "description": "Lambs have been born using an experimental form of IVF that coaxes immature eggs to become mature ones. This could boost the number of eggs available for fertilisation and improve IVF success rates",
+    "author": "Carissa Wong",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/08112539/SEI_304501245.jpg"
+  },
+  {
     "title": "The allergy culprit histamine also boosts our memory",
     "url": "https://www.newscientist.com/article/2533166-the-allergy-culprit-histamine-also-boosts-our-memory/",
     "description": "A drug that raises levels of histamine – the chemical that causes allergy symptoms – in the brain boosts our memory by around 10 per cent",
@@ -38,13 +46,5 @@
     "author": "Jacklin KwanandAlec Luhn",
     "category": "Environment",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03153116/SEI_303831189.jpg"
-  },
-  {
-    "title": "Ovary identity shift after menopause may contribute to inflammation",
-    "url": "https://www.newscientist.com/article/2533022-ovary-identity-shift-after-menopause-may-contribute-to-inflammation/",
-    "description": "We used to think post-menopausal ovaries sat inert in the body, but evidence from mice suggests they may instead turn into an organ with a role in inflammation",
-    "author": "Starre Vartan",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06103647/SEI_303708794.jpg"
   }
 ]
