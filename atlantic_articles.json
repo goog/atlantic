@@ -1,5 +1,37 @@
 [
   {
+    "title": "AtlanticTrivia: Weddings (You Know Which One)",
+    "url": "https://www.theatlantic.com/trivia/2026/07/8-wedding-madison-square-garden-stephen-foster/687841/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/H5W44XAlBC7Xkm7td_Z7HefnTJw=/151x0:1771x1080/210x140/media/img/mt/2026/07/trivia_yellow/original.jpg"
+  },
+  {
+    "title": "What Trump Has in Common with the Far Left",
+    "url": "https://www.theatlantic.com/ideas/2026/07/trump-communism-socialism-central-control/687843/",
+    "description": "If the president fears communism, maybe he should stop mimicking its worst elements.",
+    "author": "Jonathan Chait",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/KvYq9vl3Gjusbp9O9rAKnv9hz4M=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_06_Chait_Trump_Socialism_final/original.jpg"
+  },
+  {
+    "title": "Democrats Became Great By Fighting the Left",
+    "url": "https://www.theatlantic.com/ideas/2026/07/democrats-fight-left-dsa/687839/",
+    "description": "In the DSA era, liberals need to remember their history and fight for their values.",
+    "author": "David Brooks",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/FBpAnVILGWJr_xR8hKQEo1oe2VI=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_08_Democrats_Became_Great_By_Fighting_the_Left/original.jpg"
+  },
+  {
+    "title": "The Literary Genre That Thrives in Hard Times",
+    "url": "https://www.theatlantic.com/books/2026/07/jordan-harper-violent-masterpiece-la-noir-novel-book-review/687840/",
+    "description": "Jordan Harper’s new novel proves noir can still channel the crises and neuroses of the moment.",
+    "author": "Carolyn Kellogg",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/DlHKqRK6UstU1XlnZxinYZEuo6M=/753x0:6874x4081/210x140/media/img/mt/2026/07/2026_07_02_Noir_For_The_Housewives_Era/original.jpg"
+  },
+  {
     "title": "Canada Should Start Talking With Iran",
     "url": "https://www.theatlantic.com/international/2026/07/canada-iran-diplomatic-ties-justified/687825/",
     "description": "Restoring diplomatic ties doesn’t necessarily benefit the Islamic Republic and can even help its opponents.",
@@ -126,37 +158,5 @@
     "author": "Lily Meyer",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/qZ6tKCET7Pi9Ct3g0cp5YmuowgQ=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_2_Catcher_in_the_Rye/original.jpg"
-  },
-  {
-    "title": "The Foreign-Policy Debate Democrats Need to Have",
-    "url": "https://www.theatlantic.com/international/2026/07/democrats-foreign-policy-future/687816/",
-    "description": "The Biden administration focused on adapting American power to a dangerous new world. Progressives are calling that vision into question.",
-    "author": "Thomas Wright",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/g-ULbw7uiwwF7GdTMcPyxFS2PnQ=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_02_ForeignPolicy_1/original.jpg"
-  },
-  {
-    "title": "The Demon Next Door",
-    "url": "https://www.theatlantic.com/magazine/2026/08/charismatic-christian-church-tennessee/687624/",
-    "description": "A growing number of charismatic Christians see themselves as waging a spiritual battle against the forces of Satan. Sometimes those forces are right across the street.",
-    "author": "Stephanie McCrummen",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Rgcza9km0Yieg-meIvBbYZxqvbM=/1x18:4472x2999/210x140/media/img/2026/07/DemonsOpener/original.png"
-  },
-  {
-    "title": "The Other Celebration of America",
-    "url": "https://www.theatlantic.com/politics/2026/07/world-cup-america-250-patriotism/687817/",
-    "description": "The World Cup has provided the unity that was lacking from the official 250th celebrations.",
-    "author": "Jonathan Lemire",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/upZ2jpTBJzxx42iQwVLM-ebfhu0=/358x0:4260x2602/210x140/media/img/mt/2026/07/2026_07_06_Notes_On_Americas_250th_Birthday/original.jpg"
-  },
-  {
-    "title": "A Huge Escalation in Trump’s Smithsonian Meddling",
-    "url": "https://www.theatlantic.com/culture/2026/07/trump-comes-american-history-museum/687818/",
-    "description": "A White House report details what the administration wants to change in museums—and suggests that a crackdown could be coming.",
-    "author": "Kelsey Ables",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/hcvqE0-dgBFH5Q79-5al4EfQONk=/456x0:5187x3154/210x140/media/img/mt/2026/07/2026_06_05_SmithsonianWar/original.jpg"
   }
 ]
