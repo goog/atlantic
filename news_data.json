@@ -1,5 +1,13 @@
 [
   {
+    "title": "Our fertility window could be extended by making ovaries softer",
+    "url": "https://www.newscientist.com/article/2533507-our-fertility-window-could-be-extended-by-making-ovaries-softer/",
+    "description": "A drug that softens the ovaries helped mice and rats conceive more easily at an older age, and produce more pups",
+    "author": "Tosin Thompson",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/08141254/SEI_304241699.jpg"
+  },
+  {
     "title": "Lambs born via IVF using highly immature eggs in major breakthrough",
     "url": "https://www.newscientist.com/article/2533441-lambs-born-via-ivf-using-highly-immature-eggs-in-major-breakthrough/",
     "description": "Lambs have been born using an experimental form of IVF that coaxes immature eggs to become mature ones. This could boost the number of eggs available for fertilisation and improve IVF success rates",
@@ -38,13 +46,5 @@
     "author": "Alec Luhn",
     "category": "Technology",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06152825/SEI_304234402.jpg"
-  },
-  {
-    "title": "5 graphs that show how heatwaves are getting more dangerous",
-    "url": "https://www.newscientist.com/article/2532809-5-graphs-that-show-how-heatwaves-are-getting-more-dangerous/",
-    "description": "Longer-lasting hot spells and high temperatures at night are making it harder to cope, leading to thousands more deaths from extreme heat",
-    "author": "Jacklin KwanandAlec Luhn",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/03153116/SEI_303831189.jpg"
   }
 ]
