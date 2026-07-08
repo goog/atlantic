@@ -1,5 +1,13 @@
 [
   {
+    "title": "How extreme heat affects the body – and the best ways to cope",
+    "url": "https://www.newscientist.com/article/2533216-how-extreme-heat-affects-the-body-and-the-best-ways-to-cope/",
+    "description": "A short spell in a heat chamber at the University of Brighton showed Alec Luhn that his body is not adapted to high temperatures – but regular exposure can train the body to respond more effectively",
+    "author": "Alec Luhn",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/07134843/SEI_304374726.jpg"
+  },
+  {
     "title": "Peter Shor’s algorithm could break the internet – but he's not worried",
     "url": "https://www.newscientist.com/article/2533218-peter-shors-algorithm-could-break-the-internet-but-hes-not-worried/",
     "description": "Few people have invented an algorithm with the potential to spark a worldwide crisis, so why is quantum computing pioneer Peter Shor so unconcerned? Karmela Padavic-Callaghan spoke to him to find out",
@@ -38,13 +46,5 @@
     "author": "James Woodford",
     "category": "Life",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06142655/SEI_304232627.jpg"
-  },
-  {
-    "title": "Artefacts hint at cultural exchange between Neanderthals and humans",
-    "url": "https://www.newscientist.com/article/2533108-artefacts-hint-at-cultural-exchange-between-neanderthals-and-humans/",
-    "description": "A cave on the Turkish Mediterranean coast was inhabited first by Neanderthals and then Homo sapiens, but the continuity of tools and personal objects suggests there was some sharing of culture between the two species",
-    "author": "James Woodford",
-    "category": "Humans",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06122856/SEI_304232939.jpg"
   }
 ]
