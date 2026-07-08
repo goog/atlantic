@@ -1,5 +1,21 @@
 [
   {
+    "title": "20 Hours Inside America’s World Cup Fever Dream",
+    "url": "https://www.theatlantic.com/technology/2026/07/inside-americas-world-cup-fever-dream/687845/",
+    "description": "The most important, least important day in U.S. history",
+    "author": "Charlie Warzel",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/0CW_IdReAaC29m8CaVexc5WvyoI=/0x112:4268x2957/210x140/media/img/mt/2026/07/GettyImages_2282823213/original.jpg"
+  },
+  {
+    "title": "‘We May Sleepwalk Our Way Back to War’",
+    "url": "https://www.theatlantic.com/national-security/2026/07/trump-iran-airstrikes-ceasefire-hormuz/687851/",
+    "description": "The U.S.-Iran skirmishes reflect the profound mistrust on both sides.",
+    "author": "Nancy A. Youssef,Jonathan Lemire,andVivian Salama",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/SXFa-zasU4jrHe82ZEWfX-JA1-E=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_08_Where_Do_War_And_Peace_With_Iran_Stand_After_Trump_Says_the_Deal_Is_Over_/original.jpg"
+  },
+  {
     "title": "Iran, Not Trump, Is in Control of This War",
     "url": "https://www.theatlantic.com/ideas/2026/07/iran-controls-war-trump/687848/",
     "description": "The cease-fire was always just a Trump fantasy.",
@@ -10,7 +26,7 @@
   {
     "title": "What Is the Point of Patriot Front?",
     "url": "https://www.theatlantic.com/national-security/2026/07/what-point-patriot-front/687838/",
-    "description": "The masked men in Washington on July 4 are both unserious and threatening.",
+    "description": "The masked men who were in Washington on July 4 are both unserious and threatening.",
     "author": "Ali Breland",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/FxaLQm7HvKrshXYU01t--y8Ulgg=/115x0:2545x1620/210x140/media/img/mt/2026/07/2026_07_08_patriot_front_3/original.jpg"
@@ -142,21 +158,5 @@
     "author": "Daniel Engber",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/aFHZqCX6FFUTPA8lp4qL005Ln9M=/310x0:3686x2250/210x140/media/img/mt/2026/07/2026_06_30_Lab_Leak_Payback_Has_Begun_Dan_Engber/original.jpg"
-  },
-  {
-    "title": "Of Course It Happened at Madison Square Garden",
-    "url": "https://www.theatlantic.com/culture/2026/07/taylor-swift-travis-kelce-wedding-msg-networking/687826/",
-    "description": "Taylor Swift and Travis Kelce turned the arena into a spectacular wedding—and networking event.",
-    "author": "Shirley Li",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/uHO4l4IoMBr5HznKH4-_fKM3th8=/310x0:3686x2250/210x140/media/img/mt/2026/07/2026_07_06_Taylor_Swifts_Networking_Spectacular_Shirley_Li/original.jpg"
-  },
-  {
-    "title": "China Is Abusing AI",
-    "url": "https://www.theatlantic.com/international/2026/07/xi-jinping-censorship-ai-training/687696/",
-    "description": "Chatbots are deftly disseminating Beijing’s talking points.",
-    "author": "Michael Schuman",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/PKLqLlQN6lWeFrb2kttVMUUYeJw=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_06_China_is_Abusing_AI/original.jpg"
   }
 ]
