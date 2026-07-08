@@ -1,5 +1,13 @@
 [
   {
+    "title": "The allergy culprit histamine also boosts our memory",
+    "url": "https://www.newscientist.com/article/2533166-the-allergy-culprit-histamine-also-boosts-our-memory/",
+    "description": "A drug that raises levels of histamine – the chemical that causes allergy symptoms – in the brain boosts our memory by around 10 per cent",
+    "author": "Michael Le Page",
+    "category": "Mind",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/07110928/SEI_304264304.jpg"
+  },
+  {
     "title": "How extreme heat affects the body – and the best ways to cope",
     "url": "https://www.newscientist.com/article/2533216-how-extreme-heat-affects-the-body-and-the-best-ways-to-cope/",
     "description": "A short spell in a heat chamber at the University of Brighton showed Alec Luhn that his body is not adapted to high temperatures – but regular exposure can train the body to respond more effectively",
@@ -38,13 +46,5 @@
     "author": "Starre Vartan",
     "category": "Health",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06103647/SEI_303708794.jpg"
-  },
-  {
-    "title": "Bumblebee facial movements give clues to their inner lives",
-    "url": "https://www.newscientist.com/article/2533149-bumblebee-facial-movements-give-clues-to-their-inner-lives/",
-    "description": "A series of experiments shows that bees respond differently to tastes depending on their internal states, hinting that they have something akin to our emotions",
-    "author": "James Woodford",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/06142655/SEI_304232627.jpg"
   }
 ]
