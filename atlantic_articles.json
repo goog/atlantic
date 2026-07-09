@@ -1,5 +1,29 @@
 [
   {
+    "title": "New York Is Not an Exception to the American Story",
+    "url": "https://www.theatlantic.com/newsletters/2026/07/new-york-american-story-mike-wallace/687861/",
+    "description": "The late historian Mike Wallace showed how the city explains America.",
+    "author": "Jake Lundberg",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/wzJoYw4gjzD2MAi9c2I1KTu7QK8=/156x0:1843x1125/210x140/media/newsletters/2026/07/Time_Travel_Thursdays_New_York/original.jpg"
+  },
+  {
+    "title": "If Other Jobs Were Like U.S. Senator",
+    "url": "https://www.theatlantic.com/newsletters/2026/07/us-senator-jobs-time/687859/",
+    "description": "No one has seen or heard from your dentist in months, but he has been making stock trades.",
+    "author": "Alexandra Petri",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/uP2V3OVv5QB20rC4wEbkjYjnhgY=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_09_Petri_Us_Senator_Jobs_final/original.jpg"
+  },
+  {
+    "title": "Trump’s War-Not-War Is Doing Something Odd to the Economy",
+    "url": "https://www.theatlantic.com/ideas/2026/07/imf-report-consumers-iran-war/687858/",
+    "description": "Businesses and consumers are struggling with a bizarre conflict that is simultaneously happening and not happening.",
+    "author": "Idrees Kahloon",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/kcmyR4MwMvaWkD9ATfFQhpxKogg=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_09_Trump_Is_Destroying_What_Made_the_American_Economy_Great_2284728429/original.jpg"
+  },
+  {
     "title": "The Newest Way to Go Analog",
     "url": "https://www.theatlantic.com/health/2026/07/new-analog/687856/",
     "description": "Digital devices from a less connected era are getting a second life.",
@@ -83,7 +107,7 @@
     "title": "‘We May Sleepwalk Our Way Back to War’",
     "url": "https://www.theatlantic.com/national-security/2026/07/trump-iran-airstrikes-ceasefire-hormuz/687851/",
     "description": "The U.S.-Iran skirmishes reflect the profound mistrust on both sides.",
-    "author": "Nancy A. Youssef,Jonathan Lemire,  andVivian Salama",
+    "author": "Nancy A. Youssef,Jonathan Lemire,andVivian Salama",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/SXFa-zasU4jrHe82ZEWfX-JA1-E=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_08_Where_Do_War_And_Peace_With_Iran_Stand_After_Trump_Says_the_Deal_Is_Over_/original.jpg"
   },
@@ -134,29 +158,5 @@
     "author": "Jonathan Chait",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/KvYq9vl3Gjusbp9O9rAKnv9hz4M=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_06_Chait_Trump_Socialism_final/original.jpg"
-  },
-  {
-    "title": "Democrats Became Great by Fighting the Left",
-    "url": "https://www.theatlantic.com/ideas/2026/07/democrats-fight-left-dsa/687839/",
-    "description": "In the DSA era, liberals need to remember their history and fight for their values.",
-    "author": "David Brooks",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/FBpAnVILGWJr_xR8hKQEo1oe2VI=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_08_Democrats_Became_Great_By_Fighting_the_Left/original.jpg"
-  },
-  {
-    "title": "The Literary Genre That Thrives in Hard Times",
-    "url": "https://www.theatlantic.com/books/2026/07/jordan-harper-violent-masterpiece-la-noir-novel-book-review/687840/",
-    "description": "Jordan Harper’s new novel proves noir can still channel the crises and neuroses of the moment.",
-    "author": "Carolyn Kellogg",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/DlHKqRK6UstU1XlnZxinYZEuo6M=/753x0:6874x4081/210x140/media/img/mt/2026/07/2026_07_02_Noir_For_The_Housewives_Era/original.jpg"
-  },
-  {
-    "title": "Canada Should Start Talking With Iran",
-    "url": "https://www.theatlantic.com/international/2026/07/canada-iran-diplomatic-ties-justified/687825/",
-    "description": "Restoring diplomatic ties doesn’t necessarily benefit the Islamic Republic and can even help its opponents.",
-    "author": "Arash Azizi",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/PcRAil6m9g6i3djIJqnNSkIw5_A=/279x0:3317x2025/210x140/media/img/mt/2026/07/2026_07_06_Why_Im_In_Favor_of_Dipomatic_Ties_W_Iran/original.jpg"
   }
 ]
