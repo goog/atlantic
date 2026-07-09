@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Newest Way to Go Analog",
+    "url": "https://www.theatlantic.com/health/2026/07/new-analog/687856/",
+    "description": "Digital devices from a less connected era are getting a second life.",
+    "author": "Nancy Walecki",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/24qF97AV1ji9hIOt4THsvD1wTSI=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_06_26_NewAnalog/original.jpg"
+  },
+  {
+    "title": "Louis C.K. Is Stuck in the Past",
+    "url": "https://www.theatlantic.com/culture/2026/07/louis-ck-ridiculous-netflix-review/687854/",
+    "description": "The comedian’s new special,Ridiculous, lacks the honesty of his best work.",
+    "author": "Vikram Murthi",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/8mJqK0px_pB_dC9hVccxl0HVBSk=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_07_Louis_C.K.s_Return_to_Normalcy/original.jpg"
+  },
+  {
     "title": "Who Can Hold ICE Accountable?",
     "url": "https://www.theatlantic.com/podcasts/2026/07/who-can-hold-ice-accountable/687853/",
     "description": "A new shooting in Texas. Still no proper investigations into the shootings in Minnesota.",
@@ -142,21 +158,5 @@
     "author": "Arash Azizi",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/PcRAil6m9g6i3djIJqnNSkIw5_A=/279x0:3317x2025/210x140/media/img/mt/2026/07/2026_07_06_Why_Im_In_Favor_of_Dipomatic_Ties_W_Iran/original.jpg"
-  },
-  {
-    "title": "The End of Reading Is Here",
-    "url": "https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/",
-    "description": "Optimists once believed that universal literacy was inevitable. Now it seems that the age of reading might be a short anomaly in human history.",
-    "author": "Rose Horowitch",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/x0ona7XYOj8TZsvDFxHnhp0HjGk=/155x0:1842x1125/210x140/media/img/2026/07/WEL_HorowitchOpenerHP-1/original.png"
-  },
-  {
-    "title": "Perhaps the Nazi Tattoo Was a Clue",
-    "url": "https://www.theatlantic.com/ideas/2026/07/graham-platner-campaign-scandals/687835/",
-    "description": "Graham Platner’s unfitness for office was clear long ago.",
-    "author": "Mike Nelson",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Io16dHnl8lcpyDIgnv5oTH5EG5E=/473x0:5536x3375/210x140/media/img/mt/2026/07/2026_07_07_Maybe_The_Nazi_Tattoo_Was_A_Clue/original.jpg"
   }
 ]
