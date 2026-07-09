@@ -1,8 +1,24 @@
 [
   {
-    "title": "20 Hours Inside America’s World Cup Fever Dream",
+    "title": "Platner Just Made Things Harder for Democrats",
+    "url": "https://www.theatlantic.com/politics/2026/07/democrats-maine-platner-next-nominee/687847/",
+    "description": "The party now has an even bigger mess to clean up.",
+    "author": "Elaine GodfreyandRussell Berman",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/EemQuOXB8yQZ2MaTuY87fYQCgsw=/473x4:2998x1687/210x140/media/img/mt/2026/07/2026_07_09_Graham_Platner_Russell_Berman_Elaine_Godfrey/original.jpg"
+  },
+  {
+    "title": "Another Fatal ICE Shooting",
+    "url": "https://www.theatlantic.com/politics/2026/07/driving-ice-dhs-shooting/687850/",
+    "description": "Lorenzo Salgado Araujo of Houston is the latest person to be killed by officers shooting into cars.",
+    "author": "Nick Miroff",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Iz9QO5Irzkb6y3zSryboc3YyrsY=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_08_How_Driving_Away_From_ICE_Became_a_Death_Sentence/original.jpg"
+  },
+  {
+    "title": "Something Incredible Every Single Game",
     "url": "https://www.theatlantic.com/technology/2026/07/inside-americas-world-cup-fever-dream/687845/",
-    "description": "The most important, least important day in U.S. history",
+    "description": "Inside America’s World Cup fever dream",
     "author": "Charlie Warzel",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/0CW_IdReAaC29m8CaVexc5WvyoI=/0x112:4268x2957/210x140/media/img/mt/2026/07/GettyImages_2282823213/original.jpg"
@@ -142,21 +158,5 @@
     "author": "Drew Goins",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/WneugoVmSGFX1JfvB_O6fBrIA1Q=/149x0:1770x1081/210x140/media/img/mt/2026/07/trivia_purple/original.png"
-  },
-  {
-    "title": "China’s Answer to AI Sticker Shock",
-    "url": "https://www.theatlantic.com/technology/2026/07/glm-5-2-china-cheap-ai-agents/687828/",
-    "description": "Corporate America is starting to balk at the cost of AI agents. A cheap alternative from China looks more tempting than ever.",
-    "author": "Matteo Wong",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/8xtLA334JFMBp42x39JgY7Y-qV8=/646x0:7677x4688/210x140/media/img/mt/2026/07/2026_07_02_Wong_Chinas_claude_final/original.jpg"
-  },
-  {
-    "title": "Lab-Leak Payback Has Begun",
-    "url": "https://www.theatlantic.com/science/2026/07/lab-leak-payback/687824/",
-    "description": "Indictments, subpoenas, and debarments are hitting American scientists embroiled in the controversy over COVID’s origins.",
-    "author": "Daniel Engber",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/aFHZqCX6FFUTPA8lp4qL005Ln9M=/310x0:3686x2250/210x140/media/img/mt/2026/07/2026_06_30_Lab_Leak_Payback_Has_Begun_Dan_Engber/original.jpg"
   }
 ]
