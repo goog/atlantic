@@ -1,5 +1,37 @@
 [
   {
+    "title": "Resuscitated human retinas respond to light 10 hours after death",
+    "url": "https://www.newscientist.com/article/2533673-resuscitated-human-retinas-respond-to-light-10-hours-after-death/",
+    "description": "Perfusing donor human retinas with blood and oxygen meant they continued to respond to light for up to 10 hours after death, marking a significant step towards eye transplants that restore vision",
+    "author": "Helen Thomson",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/09110653/SEI_304522985.jpg"
+  },
+  {
+    "title": "Mathematics of thermodynamics is being rewritten after 200 years",
+    "url": "https://www.newscientist.com/article/2533428-mathematics-of-thermodynamics-is-being-rewritten-after-200-years/",
+    "description": "The laws of physics that concern heat and work could gain a firmer mathematical footing thanks to “gauge theory”, which already helps us understand quantum fields",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "Physics",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/08225705/SEI_304523689.jpg"
+  },
+  {
+    "title": "Injection halves risk of chromosome error common in older human eggs",
+    "url": "https://www.newscientist.com/article/2533616-injection-halves-risk-of-chromosome-error-common-in-older-human-eggs/",
+    "description": "Egg cells missing a key protein may be more likely to end up with the wrong number of chromosomes, but an mRNA injection that helps the cells make the protein reduces the problem",
+    "author": "Carissa Wong",
+    "category": "Health",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/08183744/SEI_304526805.jpg"
+  },
+  {
+    "title": "A worm that lived half a billion years ago preferred turning right",
+    "url": "https://www.newscientist.com/article/2533656-a-worm-that-lived-half-a-billion-years-ago-preferred-turning-right/",
+    "description": "Fossils of Spriggina floundersi provide the earliest evidence of animals favouring one side of the body over the other – a feature of nervous systems that we see in our own right- and left-handedness",
+    "author": "James Woodford",
+    "category": "Life",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/09095520/SEI_304524593.jpg"
+  },
+  {
     "title": "Seeding clouds with seawater could prevent a super El Niño",
     "url": "https://www.newscientist.com/article/2533348-seeding-clouds-with-seawater-could-prevent-a-super-el-nino/",
     "description": "A modelling study suggests marine cloud brightening could shade the eastern Pacific and reduce a global temperature spike from El Niño, but there could be unexpected consequences",
@@ -14,37 +46,5 @@
     "author": "Tosin Thompson",
     "category": "Health",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/08141254/SEI_304241699.jpg"
-  },
-  {
-    "title": "Lambs born via IVF using highly immature eggs in major breakthrough",
-    "url": "https://www.newscientist.com/article/2533441-lambs-born-via-ivf-using-highly-immature-eggs-in-major-breakthrough/",
-    "description": "Lambs have been born using an experimental form of IVF that coaxes immature eggs to become mature ones. This could boost the number of eggs available for fertilisation and improve IVF success rates",
-    "author": "Carissa Wong",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/08112539/SEI_304501245.jpg"
-  },
-  {
-    "title": "The allergy culprit histamine also boosts our memory",
-    "url": "https://www.newscientist.com/article/2533166-the-allergy-culprit-histamine-also-boosts-our-memory/",
-    "description": "A drug that raises levels of histamine – the chemical that causes allergy symptoms – in the brain boosts our memory by around 10 per cent",
-    "author": "Michael Le Page",
-    "category": "Mind",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/07110928/SEI_304264304.jpg"
-  },
-  {
-    "title": "How extreme heat affects the body – and the best ways to cope",
-    "url": "https://www.newscientist.com/article/2533216-how-extreme-heat-affects-the-body-and-the-best-ways-to-cope/",
-    "description": "A short spell in a heat chamber at the University of Brighton showed Alec Luhn that his body is not adapted to high temperatures – but regular exposure can train the body to respond more effectively",
-    "author": "Alec Luhn",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/07134843/SEI_304374726.jpg"
-  },
-  {
-    "title": "Peter Shor’s algorithm could break the internet – but he's not worried",
-    "url": "https://www.newscientist.com/article/2533218-peter-shors-algorithm-could-break-the-internet-but-hes-not-worried/",
-    "description": "Few people have invented an algorithm with the potential to spark a worldwide crisis, so why is quantum computing pioneer Peter Shor so unconcerned? Karmela Padavic-Callaghan spoke to him to find out",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "Technology",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/07160435/SEI_304356846.jpg"
   }
 ]
