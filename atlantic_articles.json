@@ -1,8 +1,16 @@
 [
   {
-    "title": "New York Is Not an Exception to the American Story",
+    "title": "A New Phase of the AI-Jobs Panic",
+    "url": "https://www.theatlantic.com/technology/2026/07/silicon-valley-plan-ai-jobs-layoffs/687863/",
+    "description": "Silicon Valley is making a show of helping prepare the country for AI layoffs.",
+    "author": "Lila Shroff",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/aX5MPu-_1g3-Hp8bhLCZ3TNtC7g=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_06_23_AI_jobs/original.jpg"
+  },
+  {
+    "title": "A City That Explains America",
     "url": "https://www.theatlantic.com/newsletters/2026/07/new-york-american-story-mike-wallace/687861/",
-    "description": "The late historian Mike Wallace showed how the city explains America.",
+    "description": "The late historian Mike Wallace showed how the country’s story unfolds in New York.",
     "author": "Jake Lundberg",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/wzJoYw4gjzD2MAi9c2I1KTu7QK8=/156x0:1843x1125/210x140/media/newsletters/2026/07/Time_Travel_Thursdays_New_York/original.jpg"
@@ -150,13 +158,5 @@
     "author": "Drew Goins",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/H5W44XAlBC7Xkm7td_Z7HefnTJw=/151x0:1771x1080/210x140/media/img/mt/2026/07/trivia_yellow/original.jpg"
-  },
-  {
-    "title": "What Trump Has in Common With the Far Left",
-    "url": "https://www.theatlantic.com/ideas/2026/07/trump-communism-socialism-central-control/687843/",
-    "description": "If the president fears communism, maybe he should stop mimicking its worst elements.",
-    "author": "Jonathan Chait",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/KvYq9vl3Gjusbp9O9rAKnv9hz4M=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_06_Chait_Trump_Socialism_final/original.jpg"
   }
 ]
