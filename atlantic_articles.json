@@ -1,5 +1,21 @@
 [
   {
+    "title": "The MIA Caucus",
+    "url": "https://www.theatlantic.com/politics/2026/07/mitch-mcconnell-health/687862/",
+    "description": "Mitch McConnell isn’t the first member of Congress to drop out of sight.",
+    "author": "Marie-Rose Sheinerman",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/BUX404lBkmpabynlpK1IbqG0gYg=/644x0:7540x4597/210x140/media/img/mt/2026/07/2026_07_09_MIA_Lawmakers/original.jpg"
+  },
+  {
+    "title": "What Happens When the Public Record Shrinks",
+    "url": "https://www.theatlantic.com/newsletters/2026/07/trump-administration-public-record-data-holes/687867/",
+    "description": "Since last year, the Trump administration has been dramatically reducing the amount of federal data available to Americans.",
+    "author": "Will Gottsegen",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/fVw1C1APm4-kTS2nO1gMSNqrMWU=/156x0:1843x1125/210x140/media/newsletters/2026/07/2026_07_08_Gottsegen_TheDaily_Trump_war_on_information_final/original.jpg"
+  },
+  {
     "title": "A New Phase of the AI-Jobs Panic",
     "url": "https://www.theatlantic.com/technology/2026/07/silicon-valley-plan-ai-jobs-layoffs/687863/",
     "description": "Silicon Valley is making a show of helping prepare the country for AI layoffs.",
@@ -16,7 +32,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/wzJoYw4gjzD2MAi9c2I1KTu7QK8=/156x0:1843x1125/210x140/media/newsletters/2026/07/Time_Travel_Thursdays_New_York/original.jpg"
   },
   {
-    "title": "If Other Jobs Were Like U.S. Senator",
+    "title": "If Other Jobs Were Like a U.S. Senator’s",
     "url": "https://www.theatlantic.com/newsletters/2026/07/us-senator-jobs-time/687859/",
     "description": "No one has seen or heard from your dentist in months, but he has been making stock trades.",
     "author": "Alexandra Petri",
@@ -142,21 +158,5 @@
     "author": "David Frum",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/fM_srUCq6skZyrsfgBVVXTvXzI8=/151x0:1771x1080/210x140/media/img/mt/2026/07/Untitled_2/original.png"
-  },
-  {
-    "title": "Photos: Russia’s Constant Bombardment of Kyiv",
-    "url": "https://www.theatlantic.com/photography/2026/07/photos-russias-constant-bombardment-of-kyiv/687842/",
-    "description": "The Ukrainian capital has been struck by thousands of Russian missiles and drones since the start of the invasion in 2022. Russia has recently stepped up its long-range attacks on the city, killing do",
-    "author": "Alan Taylor",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/90AiFInM1tz1DG99pYedz6Shdoo=/21x0:1982x1308/210x140/media/img/mt/2026/07/a01_26183017377703/original.jpg"
-  },
-  {
-    "title": "AtlanticTrivia: Weddings (You Know Which One)",
-    "url": "https://www.theatlantic.com/trivia/2026/07/8-wedding-madison-square-garden-stephen-foster/687841/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Drew Goins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/H5W44XAlBC7Xkm7td_Z7HefnTJw=/151x0:1771x1080/210x140/media/img/mt/2026/07/trivia_yellow/original.jpg"
   }
 ]
