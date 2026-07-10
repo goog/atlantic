@@ -1,5 +1,13 @@
 [
   {
+    "title": "2026 eclipse: 5 citizen science projects you can contribute to",
+    "url": "https://www.newscientist.com/article/2531817-2026-eclipse-5-citizen-science-projects-you-can-contribute-to/",
+    "description": "During the August 2026 solar eclipse, scientists will be rushing to gather data on the sun, but even if you aren't a professional scientist, you can still help the research",
+    "author": "Leah Crane",
+    "category": "Space",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/06/26163830/SEI_302712757.jpg"
+  },
+  {
     "title": "Special relativity can warp chemical bonds – now we've seen it happen",
     "url": "https://www.newscientist.com/article/2533629-special-relativity-can-warp-chemical-bonds-now-weve-seen-it-happen/",
     "description": "An experiment with a charged molecule of bismuth and carbon reveals how effects from Albert Einstein’s special relativity reshape the standard understanding of chemical bonds",
@@ -38,13 +46,5 @@
     "author": "James Woodford",
     "category": "Life",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/09095520/SEI_304524593.jpg"
-  },
-  {
-    "title": "Seeding clouds with seawater could prevent a super El Niño",
-    "url": "https://www.newscientist.com/article/2533348-seeding-clouds-with-seawater-could-prevent-a-super-el-nino/",
-    "description": "A modelling study suggests marine cloud brightening could shade the eastern Pacific and reduce a global temperature spike from El Niño, but there could be unexpected consequences",
-    "author": "Alec Luhn",
-    "category": "Environment",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/07164331/SEI_304395090.jpg"
   }
 ]
