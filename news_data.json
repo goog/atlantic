@@ -1,5 +1,21 @@
 [
   {
+    "title": "UN space database aimed at easing global tensions is mysteriously down",
+    "url": "https://www.newscientist.com/article/2533721-un-space-database-aimed-at-easing-global-tensions-is-mysteriously-down/",
+    "description": "A list of global space launches designed to calm cold war tensions and promote transparency has been missing from the UN's website for months",
+    "author": "Matthew Sparkes",
+    "category": "Space",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/10150517/SEI_304768873.jpg"
+  },
+  {
+    "title": "Global warming already causing crop losses of over $20 billion a year",
+    "url": "https://www.newscientist.com/article/2533593-global-warming-already-causing-crop-losses-of-over-20-billion-a-year/",
+    "description": "Climate change is already having a big impact on crop yields, and the subsequent financial losses will continue to rise as the world keeps warming",
+    "author": "Michael Le Page",
+    "category": "Environment",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/09143727/SEI_304539670.jpg"
+  },
+  {
     "title": "Mathematicians put AI to work on Fermat's last theorem",
     "url": "https://www.newscientist.com/article/2533518-mathematicians-put-ai-to-work-on-fermats-last-theorem/",
     "description": "At an event in London, mathematicians have made unexpectedly fast progress on formalising Fermat's last theorem using AI",
@@ -30,21 +46,5 @@
     "author": "Helen Thomson",
     "category": "Health",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/09110653/SEI_304522985.jpg"
-  },
-  {
-    "title": "Mathematics of thermodynamics is being rewritten after 200 years",
-    "url": "https://www.newscientist.com/article/2533428-mathematics-of-thermodynamics-is-being-rewritten-after-200-years/",
-    "description": "The laws of physics that concern heat and work could gain a firmer mathematical footing thanks to “gauge theory”, which already helps us understand quantum fields",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "Physics",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/08225705/SEI_304523689.jpg"
-  },
-  {
-    "title": "Injection halves risk of chromosome error common in older human eggs",
-    "url": "https://www.newscientist.com/article/2533616-injection-halves-risk-of-chromosome-error-common-in-older-human-eggs/",
-    "description": "Egg cells missing a key protein may be more likely to end up with the wrong number of chromosomes, but an mRNA injection that helps the cells make the protein reduces the problem",
-    "author": "Carissa Wong",
-    "category": "Health",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/08183744/SEI_304526805.jpg"
   }
 ]

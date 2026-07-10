@@ -1,11 +1,19 @@
 [
   {
-    "title": "CIA Analysts Say Political Pressure Is on the Rise",
+    "title": "Photos of the Week: Rabbit Beach, Puffin Census, Wild Horses",
+    "url": "https://www.theatlantic.com/photography/2026/07/photos-of-the-week-rabbit-beach-puffin-census-wild-horses/687855/",
+    "description": "An electronic-music festival in Germany, World Cup watch parties around the world, the running of the bulls in Spain, cave exploration in China, a heat wave in southern Europe, and much more",
+    "author": "Alan Taylor",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/k5-7U8T_LvlpBJRs1GXB9V2KNss=/0x0:6000x4000/210x140/media/img/mt/2026/07/a01_UP1EM7706SPBL/original.jpg"
+  },
+  {
+    "title": "CIA Officers Can Sense the Threat Within",
     "url": "https://www.theatlantic.com/national-security/2026/07/cia-trump-intelligence-survey-gabbard/687865/",
     "description": "A survey reveals concern among the rank and file that Trump-administration meddling is undermining intelligence work.",
     "author": "Shane Harris",
     "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/5iKD1X0qw7nCmBBtMyBAz9IQVno=/417x0:4959x3028/210x140/media/img/mt/2026/07/2026_07_09_CIA_Officers_Politicization/original.jpg"
+    "image": "https://cdn.theatlantic.com/thumbor/Qc-B1ytqstmDhT0Ecx1xMihPnA4=/257x0:3050x1862/210x140/media/img/mt/2026/07/2026_07_10_CIA_officers_are_worried_about_Politicization/original.jpg"
   },
   {
     "title": "Madonna Is Finally Giving the World What It Wants",
@@ -150,13 +158,5 @@
     "author": "Elaine GodfreyandRussell Berman",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/EemQuOXB8yQZ2MaTuY87fYQCgsw=/473x4:2998x1687/210x140/media/img/mt/2026/07/2026_07_09_Graham_Platner_Russell_Berman_Elaine_Godfrey/original.jpg"
-  },
-  {
-    "title": "Another Fatal ICE Shooting",
-    "url": "https://www.theatlantic.com/politics/2026/07/driving-ice-dhs-shooting/687850/",
-    "description": "Lorenzo Salgado Araujo of Houston is the latest person to be killed by officers shooting into cars.",
-    "author": "Nick Miroff",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Iz9QO5Irzkb6y3zSryboc3YyrsY=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_08_How_Driving_Away_From_ICE_Became_a_Death_Sentence/original.jpg"
   }
 ]
