@@ -1,5 +1,13 @@
 [
   {
+    "title": "Mathematicians put AI to work on Fermat's last theorem",
+    "url": "https://www.newscientist.com/article/2533518-mathematicians-put-ai-to-work-on-fermats-last-theorem/",
+    "description": "At an event in London, mathematicians have made unexpectedly fast progress on formalising Fermat's last theorem using AI",
+    "author": "Matthew Sparkes",
+    "category": "Mathematics",
+    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/09132318/SEI_304535668.jpg"
+  },
+  {
     "title": "2026 eclipse: 5 citizen science projects you can contribute to",
     "url": "https://www.newscientist.com/article/2531817-2026-eclipse-5-citizen-science-projects-you-can-contribute-to/",
     "description": "During the August 2026 solar eclipse, scientists will be rushing to gather data on the sun, but even if you aren't a professional scientist, you can still help the research",
@@ -38,13 +46,5 @@
     "author": "Carissa Wong",
     "category": "Health",
     "image": "https://images.newscientist.com/wp-content/uploads/2026/07/08183744/SEI_304526805.jpg"
-  },
-  {
-    "title": "A worm that lived half a billion years ago preferred turning right",
-    "url": "https://www.newscientist.com/article/2533656-a-worm-that-lived-half-a-billion-years-ago-preferred-turning-right/",
-    "description": "Fossils of Spriggina floundersi provide the earliest evidence of animals favouring one side of the body over the other – a feature of nervous systems that we see in our own right- and left-handedness",
-    "author": "James Woodford",
-    "category": "Life",
-    "image": "https://images.newscientist.com/wp-content/uploads/2026/07/09095520/SEI_304524593.jpg"
   }
 ]
