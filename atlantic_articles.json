@@ -1,5 +1,37 @@
 [
   {
+    "title": "The Thinking About Kids and Heat Has Flipped",
+    "url": "https://www.theatlantic.com/science/2026/07/children-heat/687889/",
+    "description": "Kids are supposed to be uniquely vulnerable to heat, but the data tell a different story.",
+    "author": "Daniel Engber",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/fiGqTowQbtldtYrB7l1JRvwrN-g=/487x0:5709x3481/210x140/media/img/mt/2026/07/2026_07_10_Send_Your_Kids_To_Camp_Heatwave/original.jpg"
+  },
+  {
+    "title": "The Surprising Unity of Soccer",
+    "url": "https://www.theatlantic.com/newsletters/2026/07/soccer-world-cup-unity-competition/687884/",
+    "description": "The World Cup reminds us that loyalty doesn’t have to be bound by borders.",
+    "author": "Rafaela Jinich",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/2cfCIxxl31XfyNqRvd5CxZW-b1c=/41x28:982x656/210x140/media/img/mt/2026/07/GettyImages_2285301813/original.jpg"
+  },
+  {
+    "title": "A Magical New Way of Looking at Soccer",
+    "url": "https://www.theatlantic.com/culture/2026/07/world-cup-spectacle-zidane-21st-century-portrait-art-movie-review/687879/",
+    "description": "An art film about the great midfielder Zinedine Zidane reveals the heroism and pathos of being human.",
+    "author": "Sebastian Smee",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/6LGAEbqPL0l83RbTSKN8OWpey9s=/126x0:1476x900/210x140/media/img/mt/2026/07/2026_07_09_Zizou_Guggenheim/original.jpg"
+  },
+  {
+    "title": "The Social Ritual That Made Me a Better Man",
+    "url": "https://www.theatlantic.com/ideas/2026/07/guys-night-friendship-loneliness/687878/",
+    "description": "Thomas Chatterton Williams8:00 AM ET",
+    "author": "Thomas Chatterton Williams",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/566o40TN-JS0U51KpVqCJ3n0JVU=/26x0:4415x2926/210x140/media/img/mt/2026/07/2026_07_09_Guys_Night_Out/original.jpg"
+  },
+  {
     "title": "What’s Behind the Latest National Guard Surge in D.C.",
     "url": "https://www.theatlantic.com/newsletters/2026/07/national-guard-surge-dc/687887/",
     "description": "The number of National Guardsmen in Washington, D.C., has jumped in recent weeks.",
@@ -126,37 +158,5 @@
     "author": "Alexandra Petri",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/uP2V3OVv5QB20rC4wEbkjYjnhgY=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_09_Petri_Us_Senator_Jobs_final/original.jpg"
-  },
-  {
-    "title": "Trump’s War-Not-War Is Doing Something Odd to the Economy",
-    "url": "https://www.theatlantic.com/ideas/2026/07/imf-report-consumers-iran-war/687858/",
-    "description": "Businesses and consumers are struggling with a bizarre conflict that is simultaneously happening and not happening.",
-    "author": "Idrees Kahloon",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/kcmyR4MwMvaWkD9ATfFQhpxKogg=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_09_Trump_Is_Destroying_What_Made_the_American_Economy_Great_2284728429/original.jpg"
-  },
-  {
-    "title": "The Newest Way to Go Analog",
-    "url": "https://www.theatlantic.com/health/2026/07/new-analog/687856/",
-    "description": "Digital devices from a less connected era are getting a second life.",
-    "author": "Nancy Walecki",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/24qF97AV1ji9hIOt4THsvD1wTSI=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_06_26_NewAnalog/original.jpg"
-  },
-  {
-    "title": "Louis C.K. Is Stuck in the Past",
-    "url": "https://www.theatlantic.com/culture/2026/07/louis-ck-ridiculous-netflix-review/687854/",
-    "description": "The comedian’s new special,Ridiculous, lacks the honesty of his best work.",
-    "author": "Vikram Murthi",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/8mJqK0px_pB_dC9hVccxl0HVBSk=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_07_Louis_C.K.s_Return_to_Normalcy/original.jpg"
-  },
-  {
-    "title": "Who Can Hold ICE Accountable?",
-    "url": "https://www.theatlantic.com/podcasts/2026/07/who-can-hold-ice-accountable/687853/",
-    "description": "A new shooting in Texas. Still no proper investigations into the shootings in Minnesota.",
-    "author": "Hanna Rosin",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Yb9Z2Ch3_zmBp0f-lXcn9vD_D2o=/0x0:3375x2250/210x140/media/img/mt/2026/07/Radio_Atlantic_Horizontal_ICE_accountibility/original.png"
   }
 ]
