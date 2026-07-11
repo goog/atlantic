@@ -1,5 +1,21 @@
 [
   {
+    "title": "America’s Homegrown-Parasite Problem",
+    "url": "https://www.theatlantic.com/health/2026/07/cyclosporiasis-parasite-diarrhea-outbreak/687888/",
+    "description": "Scientists don’t know why cyclosporiasis, a tropical diarrheal disease, is spreading more and more from domestic sources.",
+    "author": "Nicholas Florko",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/35IfkzMx7aZ_rKnWavK32thCBqc=/316x0:3755x2293/210x140/media/img/mt/2026/07/2026_07_10_Cyclosporiasis/original.jpg"
+  },
+  {
+    "title": "Look Closer: Pieter De Hooch’s Puzzle Box",
+    "url": "https://www.theatlantic.com/magazine/2026/08/interior-with-women-beside-a-linen-cupboard-pieter-de-hooch/687633/",
+    "description": "What the painter, a contemporary of Vermeer, revealed and concealed in a beguiling 1663 work",
+    "author": "Susan Tallman",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/sQRWQikvAciMzJWpBCBlBchgAWw=/1x0:1806x1203/210x140/media/img/2026/07/BoB_Tallman_DeHooch_full/original.jpg"
+  },
+  {
     "title": "The Thinking About Kids and Heat Has Flipped",
     "url": "https://www.theatlantic.com/science/2026/07/children-heat/687889/",
     "description": "Kids are supposed to be uniquely vulnerable to heat, but the data tell a different story.",
@@ -16,7 +32,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/2cfCIxxl31XfyNqRvd5CxZW-b1c=/41x28:982x656/210x140/media/img/mt/2026/07/GettyImages_2285301813/original.jpg"
   },
   {
-    "title": "A Magical New Way of Looking at Soccer",
+    "title": "Soccer’s Most Magical Performer",
     "url": "https://www.theatlantic.com/culture/2026/07/world-cup-spectacle-zidane-21st-century-portrait-art-movie-review/687879/",
     "description": "An art film about the great midfielder Zinedine Zidane reveals the heroism and pathos of being human.",
     "author": "Sebastian Smee",
@@ -142,21 +158,5 @@
     "author": "Lila Shroff",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/aX5MPu-_1g3-Hp8bhLCZ3TNtC7g=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_06_23_AI_jobs/original.jpg"
-  },
-  {
-    "title": "A City That Explains America",
-    "url": "https://www.theatlantic.com/newsletters/2026/07/new-york-american-story-mike-wallace/687861/",
-    "description": "The late historian Mike Wallace showed how the country’s story unfolds in New York.",
-    "author": "Jake Lundberg",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/wzJoYw4gjzD2MAi9c2I1KTu7QK8=/156x0:1843x1125/210x140/media/newsletters/2026/07/Time_Travel_Thursdays_New_York/original.jpg"
-  },
-  {
-    "title": "If Other Jobs Were Like a U.S. Senator’s",
-    "url": "https://www.theatlantic.com/newsletters/2026/07/us-senator-jobs-time/687859/",
-    "description": "No one has seen or heard from your dentist in months, but he has been making stock trades.",
-    "author": "Alexandra Petri",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/uP2V3OVv5QB20rC4wEbkjYjnhgY=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_09_Petri_Us_Senator_Jobs_final/original.jpg"
   }
 ]
