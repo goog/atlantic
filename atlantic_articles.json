@@ -1,8 +1,32 @@
 [
   {
-    "title": "The Surprising Source of America’s Success",
+    "title": "It’s Not Just Annoying, It’s Inescapable",
+    "url": "https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/",
+    "description": "We are stuck with AI’s favorite writing tic.",
+    "author": "Will Oremus",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/nSXYEM5sbcERx8FGbK1HE8r55EI=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_09_AIs_Favorite_Writing_Tic/original.jpg"
+  },
+  {
+    "title": "The Return of the Democratic Manly Man",
+    "url": "https://www.theatlantic.com/politics/2026/07/ohio-poindexter-democrats-men/687880/",
+    "description": "The party has a new campaign strategy: masculinity.",
+    "author": "Russell Berman",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/1TQzt5B7MHddXkKN8T4ugz0GAMI=/1x944:2666x2721/210x140/media/img/mt/2026/07/22CEE9CD_FCF5_45AA_8572_7A97DD009C7F-1/original.jpg"
+  },
+  {
+    "title": "NATO Is Going Strong, Actually",
+    "url": "https://www.theatlantic.com/international/2026/07/nato-alliance-trump-europe/687874/",
+    "description": "Trump hasn’t made the alliance less resilient or less necessary.",
+    "author": "Charles Kupchan",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/-KPCdut9HjGqiJ--8y8SHiOCDtM=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_09_NATO_Is_Not_Dead_Yet_2284623310/original.jpg"
+  },
+  {
+    "title": "American Loneliness",
     "url": "https://www.theatlantic.com/ideas/2026/07/america-birthday-250-roadtrip/687877/",
-    "description": "Loneliness created the first nation in history in which almost everyone has already changed the course of their life at least once.",
+    "description": "It’s not an epidemic—it’s an immune system.",
     "author": "Yair Lapid",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/t2e3RtFAa7ax_9n1H_QC6yUg07g=/364x0:4328x2643/210x140/media/img/mt/2026/07/2026_07_09_The_Surprising_Source_of_American_Success/original.jpg"
@@ -134,29 +158,5 @@
     "author": "Shane Harris",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/Qc-B1ytqstmDhT0Ecx1xMihPnA4=/257x0:3050x1862/210x140/media/img/mt/2026/07/2026_07_10_CIA_officers_are_worried_about_Politicization/original.jpg"
-  },
-  {
-    "title": "Madonna Is Finally Giving the World What It Wants",
-    "url": "https://www.theatlantic.com/culture/2026/07/madonna-new-album-confessions-ii-review/687857/",
-    "description": "The singer is known for pushing pop forward, but her most acclaimed album in years is playing it safe.",
-    "author": "Spencer Kornhaber",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/a62Ho686n4E2Ig43qYlFGEBj_pY=/28x0:1715x1125/210x140/media/img/mt/2026/07/2026_07_08_Kornhaber_Madonna/original.jpg"
-  },
-  {
-    "title": "Believe the Hype About Teen Takeovers",
-    "url": "https://www.theatlantic.com/ideas/2026/07/teen-takeovers-violence-dc/687866/",
-    "description": "Outdoor street parties are turning into violent rumbles in D.C. and other large cities.",
-    "author": "Robert F. Worth",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/oEZBHv6wZurvayoW5cr4rgCAEHA=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_07_07_Teen_Takeovers_Top_Robert_Worth_1/original.jpg"
-  },
-  {
-    "title": "AtlanticTrivia: France (Yay!) and Belgium (Boo!)",
-    "url": "https://www.theatlantic.com/trivia/2026/07/10-fifa-world-cup-coronavirus-paris-france-belgium/687864/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Drew Goins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/AlxXdeIRUDJhGnaI8EoyNDOnB3E=/152x0:1772x1080/210x140/media/img/mt/2026/07/trivia_green-1/original.png"
   }
 ]
