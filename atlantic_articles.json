@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Honorable Gentleman for Ukraine",
+    "url": "https://www.theatlantic.com/national-security/2026/07/lindsey-graham-was-honorable-gentleman-ukraine/687896/",
+    "description": "Senator Lindsey Graham made the last foreign trip of his life to a nation he never gave up on.",
+    "author": "Simon Shuster",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Gs-F_oZt77RF6gNw_JWRAN5EozI=/0x0:1780x1187/210x140/media/img/mt/2026/07/2026_07_12_LindseyGrahamUkraine/original.jpg"
+  },
+  {
+    "title": "What Lindsey Graham Wanted",
+    "url": "https://www.theatlantic.com/politics/2026/07/what-lindsey-graham-wanted/687895/",
+    "description": "The senator always sought relevance.",
+    "author": "Mark Leibovich",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/UViv4rnIM8B6Yt8HptpvFx07p_g=/302x0:3585x2189/210x140/media/img/mt/2026/07/2026_07_12_Graham_relevance/original.jpg"
+  },
+  {
     "title": "Trump Loses His Wingman",
     "url": "https://www.theatlantic.com/politics/2026/07/lindsey-graham-dies-trump-ally/687894/",
     "description": "Lindsey Graham’s sudden death leaves a void that the White House can’t afford",
@@ -142,21 +158,5 @@
     "author": "Jacob Stern",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/fjwmTaWI2XxPpMPojIVbfiX9t1A=/395x0:4613x2812/210x140/media/img/mt/2026/07/2026_07_08_Too_Much_Sports/original.jpg"
-  },
-  {
-    "title": "The Hidden Cost of Optimizing Everything",
-    "url": "https://www.theatlantic.com/podcasts/2026/07/the-hidden-cost-of-optimizing-everything/687873/",
-    "description": "How technology is disconnecting us from life’s small pleasures",
-    "author": "Charlie Warzel",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/t2BTCixa_3qJNiuKb6QkeMjffcI=/155x0:1842x1125/210x140/media/img/mt/2026/07/GB_Ollie_260710/original.jpg"
-  },
-  {
-    "title": "The Timidity of America’s Top Generals",
-    "url": "https://www.theatlantic.com/national-security/2026/07/generals-deferential-military-trump/687822/",
-    "description": "Deference to civilian power is part of the job but can go too far.",
-    "author": "Missy RyanandNancy A. Youssef",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/4MdvQxAFMbMa8H-q-_TgUVKu9E8=/310x0:3686x2250/210x140/media/img/mt/2026/07/2026_07_02_How_Should_Americas_Generals_Behave_Missy_Ryan_Nancy_Youssef/original.jpg"
   }
 ]
