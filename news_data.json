@@ -1,5 +1,21 @@
 [
   {
+    "title": "Shifts in the jet stream are behind Europe's long heatwaves | New Scientist",
+    "url": "https://www.newscientist.com/article/2533887-shifts-in-the-jet-stream-are-behind-europes-long-heatwaves/",
+    "description": "Two types of jet stream patterns seem to be causing persistent heat domes over Europe, with big questions for the future",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/10163108/SEI_304760930.jpg"
+  },
+  {
+    "title": "Game that reduces dementia risk may clear amyloid from men's brains | New Scientist",
+    "url": "https://www.newscientist.com/article/2578806-game-that-reduces-dementia-risk-clears-amyloid-from-mens-brains/",
+    "description": "Playing a mental speed-training game seems to help the brain clear a protein linked to Alzheimer’s disease in men, but may work in women through different mechanisms",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305085506.jpg"
+  },
+  {
     "title": "Four children with terminal brain cancer saved by new cell therapy | New Scientist",
     "url": "https://www.newscientist.com/article/2533638-four-children-with-terminal-brain-cancer-saved-by-new-cell-therapy/",
     "description": "An experimental immunotherapy has beaten aggressive brain tumours in a handful of children, and a personalised version is now being tested on more patients",
@@ -30,21 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/09132318/SEI_304535668.jpg"
-  },
-  {
-    "title": "2026 eclipse: 5 citizen science projects you can contribute to | New Scientist",
-    "url": "https://www.newscientist.com/article/2531817-2026-eclipse-5-citizen-science-projects-you-can-contribute-to/",
-    "description": "During the August 2026 solar eclipse, scientists will be rushing to gather data on the sun, but even if you aren't a professional scientist, you can still help the research",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/06/26163830/SEI_302712757.jpg"
-  },
-  {
-    "title": "Special relativity can warp chemical bonds – now we've seen it happen | New Scientist",
-    "url": "https://www.newscientist.com/article/2533629-special-relativity-can-warp-chemical-bonds-now-weve-seen-it-happen/",
-    "description": "An experiment with a charged molecule of bismuth and carbon reveals how effects from Albert Einstein’s special relativity reshape the standard understanding of chemical bonds",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/09111608/SEI_304616192.jpg"
   }
 ]
