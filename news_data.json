@@ -1,5 +1,13 @@
 [
   {
+    "title": "Maya mathematician's name decoded alongside astronomical formula | New Scientist",
+    "url": "https://www.newscientist.com/article/2578746-maya-mathematicians-name-decoded-alongside-astronomical-formula/",
+    "description": "Hieroglyphs on the wall of a Maya building record calculations concerning the orbits of Earth, Mars and Venus, as well as the name of a mathematician who wrote the text around 1200 years ago",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305097838.jpg"
+  },
+  {
     "title": "Sugar molecules found in interstellar space for the first time | New Scientist",
     "url": "https://www.newscientist.com/article/2533910-sugar-molecules-found-in-interstellar-space-for-the-first-time/",
     "description": "Researchers have long suspected early life may have been helped by sugars brought to Earth by asteroids – now a sugar found in raspberries has been spotted in a cosmic cloud nearly 27 light years away",
@@ -38,13 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/10150517/SEI_304768873.jpg"
-  },
-  {
-    "title": "Global warming already causing crop losses of over $20 billion a year | New Scientist",
-    "url": "https://www.newscientist.com/article/2533593-global-warming-already-causing-crop-losses-of-over-20-billion-a-year/",
-    "description": "Climate change is already having a big impact on crop yields, and the subsequent financial losses will continue to rise as the world keeps warming",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/09143727/SEI_304539670.jpg"
   }
 ]
