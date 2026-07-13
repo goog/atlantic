@@ -1,5 +1,13 @@
 [
   {
+    "title": "Sugar molecules found in interstellar space for the first time | New Scientist",
+    "url": "https://www.newscientist.com/article/2533910-sugar-molecules-found-in-interstellar-space-for-the-first-time/",
+    "description": "Researchers have long suspected early life may have been helped by sugars brought to Earth by asteroids – now a sugar found in raspberries has been spotted in a cosmic cloud nearly 27 light years away",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/10153731/SEI_304757172.jpg"
+  },
+  {
     "title": "Shifts in the jet stream are behind Europe's long heatwaves | New Scientist",
     "url": "https://www.newscientist.com/article/2533887-shifts-in-the-jet-stream-are-behind-europes-long-heatwaves/",
     "description": "Two types of jet stream patterns seem to be causing persistent heat domes over Europe, with big questions for the future",
@@ -38,13 +46,5 @@
     "author": "Michael Le Page",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/09143727/SEI_304539670.jpg"
-  },
-  {
-    "title": "Mathematicians put AI to work on Fermat's last theorem | New Scientist",
-    "url": "https://www.newscientist.com/article/2533518-mathematicians-put-ai-to-work-on-fermats-last-theorem/",
-    "description": "At an event in London, mathematicians have made unexpectedly fast progress on formalising Fermat's last theorem using AI",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/09132318/SEI_304535668.jpg"
   }
 ]
