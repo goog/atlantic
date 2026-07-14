@@ -1,5 +1,13 @@
 [
   {
+    "title": "The US-China AI arms race has taken an unexpected turn | New Scientist",
+    "url": "https://www.newscientist.com/article/2532952-who-is-winning-the-ai-arms-race-between-the-us-and-china/",
+    "description": "Powerful artificial intelligence models built by Chinese companies have gone from inducing widespread panic to being met with a shrug of the shoulders – what changed?",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305099525.jpg"
+  },
+  {
     "title": "Maya mathematician's name decoded alongside astronomical formula | New Scientist",
     "url": "https://www.newscientist.com/article/2578746-maya-mathematicians-name-decoded-alongside-astronomical-formula/",
     "description": "Hieroglyphs on the wall of a Maya building record calculations concerning the orbits of Earth, Mars and Venus, as well as the name of a mathematician who wrote the text around 1200 years ago",
@@ -38,13 +46,5 @@
     "author": "Alice Klein",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/10113320/SEI_304616538.jpg"
-  },
-  {
-    "title": "UN space database aimed at easing global tensions is mysteriously down | New Scientist",
-    "url": "https://www.newscientist.com/article/2533721-un-space-database-aimed-at-easing-global-tensions-is-mysteriously-down/",
-    "description": "A list of global space launches designed to calm cold war tensions and promote transparency has been missing from the UN's website for months",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/10150517/SEI_304768873.jpg"
   }
 ]
