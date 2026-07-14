@@ -1,5 +1,21 @@
 [
   {
+    "title": "Hard but lightweight ‘bio-metal’ material discovered in sea worm jaws | New Scientist",
+    "url": "https://www.newscientist.com/article/2579072-hard-but-lightweight-bio-metal-material-discovered-in-sea-worm-jaws/",
+    "description": "Marine bristle worms have jaws made from a mix of proteins and metal ions that may constitute a whole new kind of material, with possible applications in engineering",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305153597.jpg"
+  },
+  {
+    "title": "Why praying for rain appears to work – but only in some places | New Scientist",
+    "url": "https://www.newscientist.com/article/2578962-why-praying-for-rain-appears-to-work-but-only-in-some-places/",
+    "description": "In some parts of the world, the probability of rain rises with every day it doesn’t rain, and communities in these places are more likely to carry out rain-making rituals",
+    "author": "Bas den Hond",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_304778081.jpg"
+  },
+  {
     "title": "The US-China AI arms race has taken an unexpected turn | New Scientist",
     "url": "https://www.newscientist.com/article/2532952-who-is-winning-the-ai-arms-race-between-the-us-and-china/",
     "description": "Powerful artificial intelligence models built by Chinese companies have gone from inducing widespread panic to being met with a shrug of the shoulders – what changed?",
@@ -30,21 +46,5 @@
     "author": "Alec Luhn",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/10163108/SEI_304760930.jpg"
-  },
-  {
-    "title": "Game that reduces dementia risk may clear amyloid from men's brains | New Scientist",
-    "url": "https://www.newscientist.com/article/2578806-game-that-reduces-dementia-risk-clears-amyloid-from-mens-brains/",
-    "description": "Playing a mental speed-training game seems to help the brain clear a protein linked to Alzheimer’s disease in men, but may work in women through different mechanisms",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305085506.jpg"
-  },
-  {
-    "title": "Four children with terminal brain cancer saved by new cell therapy | New Scientist",
-    "url": "https://www.newscientist.com/article/2533638-four-children-with-terminal-brain-cancer-saved-by-new-cell-therapy/",
-    "description": "An experimental immunotherapy has beaten aggressive brain tumours in a handful of children, and a personalised version is now being tested on more patients",
-    "author": "Alice Klein",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/10113320/SEI_304616538.jpg"
   }
 ]
