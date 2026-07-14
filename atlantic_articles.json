@@ -1,8 +1,16 @@
 [
   {
-    "title": "Ferris Bueller, Influencer",
+    "title": "Generative AI Is an Engineering Disaster",
+    "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
+    "description": "A shockingly inefficient trillion-dollar project",
+    "author": "Alex Reisner",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/8p2NtxzfuqDEqfa-fFjcyqFFpKk=/173x0:1860x1125/210x140/media/img/mt/2026/07/2026_07_10_Reisner_Gen_Ai_Engineering_Disaster/original.jpg"
+  },
+  {
+    "title": "The 40-Year-Old Man-Child",
     "url": "https://www.theatlantic.com/culture/2026/07/ferris-bueller-40th-anniversary-influencer/687764/",
-    "description": "The film bearing his name, which just turned 40, isn’t only a teen comedy. It’s also a timeless portrait of popularity and truthiness.",
+    "description": "Ferris Bueller’s Day Offhas avoided a midlife crisis for good reason: It’s a timeless portrait of popularity and truthiness.",
     "author": "Megan Garber",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/i9Xqwj-WpkjNeiJShUGbqHuJ-pI=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_09_Ferris_Bueller_Influencer/original.jpg"
@@ -48,9 +56,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/WU75SIpEChS4VUEk_Zdc195Kdhw=/323x0:3779x2304/210x140/media/img/mt/2026/07/2026_07_13_Trump_Destroying_What_Makes_American_Economy_Great_lede/original.jpg"
   },
   {
-    "title": "Todd Blanche’s War Against Journalism",
+    "title": "Does Todd Blanche Have a Red Line?",
     "url": "https://www.theatlantic.com/newsletters/2026/07/todd-blanche-doj-war-against-journalism/687908/",
-    "description": "As the acting attorney general prepares for confirmation hearings, his DOJ is showcasing its willingness to intimidate reporters whose revelations have upset the president.",
+    "description": "The acting attorney general is showcasing his willingness to intimidate reporters whose revelations have upset the president.",
     "author": "David A. Graham",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/p5kjYEXy_K49UuFk6BaCntOLjQ4=/225x0:2655x1620/210x140/media/newsletters/2026/07/2026_07_13_The_Daily_Curtain_Raiser_on_Blanche_Confirmation_Hearing_2276582788/original.jpg"
@@ -150,13 +158,5 @@
     "author": "Anne Applebaum",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/hJBXZz2sRtlRxpjW8EsjrDFAX3k=/233x0:2764x1688/210x140/media/img/mt/2026/07/2026_GrahamApplebaum-1/original.jpg"
-  },
-  {
-    "title": "The Scrubbed and Simple Moon",
-    "url": "https://www.theatlantic.com/magazine/2026/08/carol-frost-the-scrubbed-and-simple-moon/687629/",
-    "description": "",
-    "author": "Carol Frost",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/zkl2weJYuLcoMKHL_jyc-NO4Skk=/0x100:2113x1509/210x140/media/img/2026/07/moonpoem/original.jpg"
   }
 ]
