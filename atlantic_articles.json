@@ -1,5 +1,13 @@
 [
   {
+    "title": "The See-No-Evil Supreme Court",
+    "url": "https://www.theatlantic.com/ideas/2026/07/the-see-no-evil-supreme-court/687902/",
+    "description": "The majority refuses to see evidence of racism.",
+    "author": "Adam Serwer",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/EsU2NatT7gSeCRRsQ_YMytCwC1w=/0x101:2400x1701/210x140/media/img/mt/2026/07/RobertsBlindRacismHP/original.png"
+  },
+  {
     "title": "AtlanticTrivia: Roman Holiday",
     "url": "https://www.theatlantic.com/trivia/2026/07/14-italy-rome-elite-tourism-imago-artist/687903/",
     "description": "Test your knowledge—and read our stories for a little extra help.",
@@ -16,9 +24,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/-0JVVK_PPRWD2Fer8cccPEd5ZmE=/120x582:2874x2418/210x140/media/img/2026/07/0826COMMONS/original.png"
   },
   {
-    "title": "What Is Punctuation For?",
+    "title": "Punctuation: A Generational Divide",
     "url": "https://www.theatlantic.com/magazine/2026/08/punctuation-internet-texting-generational-divide/687632/",
-    "description": "It used to be about mutual comprehension—now it’s about maximizing attention.",
+    "description": "Can parents ever learn to text like their kids? Should they even try?",
     "author": "Judith Shulevitz",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/VcX9o2hu5WlAUhPZV3h4ZvS64jY=/0x1076:1548x2108/210x140/media/img/2026/07/ShulevitzWebHP/original.png"
@@ -150,13 +158,5 @@
     "author": "Will Oremus",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/nSXYEM5sbcERx8FGbK1HE8r55EI=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_09_AIs_Favorite_Writing_Tic/original.jpg"
-  },
-  {
-    "title": "The Return of the Democratic Manly Man",
-    "url": "https://www.theatlantic.com/politics/2026/07/ohio-poindexter-democrats-men/687880/",
-    "description": "The party has a new campaign strategy: masculinity.",
-    "author": "Russell Berman",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/1TQzt5B7MHddXkKN8T4ugz0GAMI=/1x944:2666x2721/210x140/media/img/mt/2026/07/22CEE9CD_FCF5_45AA_8572_7A97DD009C7F-1/original.jpg"
   }
 ]
