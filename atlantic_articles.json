@@ -1,5 +1,13 @@
 [
   {
+    "title": "Inside Trump’s Reversal on ICE",
+    "url": "https://www.theatlantic.com/politics/2026/07/trump-ice-maine-shooting-vehicle-order/687927/",
+    "description": "Attacks from immigration hard-liners had the president worried about looking weak.",
+    "author": "Jonathan LemireandNick Miroff",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/jsRgiz5KYz2w2YPPdoF2C98WTb0=/155x0:1842x1125/210x140/media/img/mt/2026/07/IceStopsTrump/original.png"
+  },
+  {
     "title": "United States of Disbelief",
     "url": "https://www.theatlantic.com/newsletters/2026/07/conspiracy-theories-lindsey-graham-mitch-mcconnell/687928/",
     "description": "The spread of conspiracy theories about Senators Lindsey Graham and Mitch McConnell underscores the lack of trust in American society.",
@@ -8,9 +16,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/Nvse35Ce-qQ1TxRxlirNm89LrtQ=/225x0:2655x1620/210x140/media/newsletters/2026/07/2026_07_15_the_daily_conspiracies_2284728469/original.jpg"
   },
   {
-    "title": "90 Seconds That Encapsulate the AI Industry",
+    "title": "Anthropic Accidentally Made the Perfect Commercial",
     "url": "https://www.theatlantic.com/technology/2026/07/anthropic-ai-commercial/687925/",
-    "description": "Anthropic’s new commercial is accidentally perfect.",
+    "description": "How a 90-second ad encapsulates the AI industry",
     "author": "Lila Shroff",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/26ti9FhLpBrGKEfonZfR_AxLnXw=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_15_Shroff_Claude_ad/original.gif"
@@ -83,7 +91,7 @@
     "title": "Marco Rubio’s Disappearing Signal Chat",
     "url": "https://www.theatlantic.com/national-security/2026/07/marco-rubio-signal-state-department/687906/",
     "description": "The State Department told a court last year that the secretary didn’t use disappearing messages. By this spring, it had dropped that claim.",
-    "author": "Michael Scherer,Missy Ryan,Nancy A. Youssef,andShane Harris",
+    "author": "Michael Scherer,Missy Ryan,Nancy A. Youssef,  andShane Harris",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/tDzrBX7AYanHPGLfkztjP2xNiNg=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_13_Harris_Youssef_Scherer_Ryan_Rubio_signal/original.jpg"
   },
@@ -150,13 +158,5 @@
     "author": "Judith Shulevitz",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/VcX9o2hu5WlAUhPZV3h4ZvS64jY=/0x1076:1548x2108/210x140/media/img/2026/07/ShulevitzWebHP/original.png"
-  },
-  {
-    "title": "Trump’s Anti-Growth Agenda",
-    "url": "https://www.theatlantic.com/ideas/2026/07/trumps-growth-hegemony-decline-britain/687904/",
-    "description": "When a superpower’s economy lags, hegemony becomes unsustainable.",
-    "author": "Idrees Kahloon",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/WU75SIpEChS4VUEk_Zdc195Kdhw=/323x0:3779x2304/210x140/media/img/mt/2026/07/2026_07_13_Trump_Destroying_What_Makes_American_Economy_Great_lede/original.jpg"
   }
 ]
