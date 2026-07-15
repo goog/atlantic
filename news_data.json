@@ -1,5 +1,21 @@
 [
   {
+    "title": "Can consciousness be quantum? We may now have an answer | New Scientist",
+    "url": "https://www.newscientist.com/article/2579540-can-consciousness-be-quantum-we-may-now-have-an-answer/",
+    "description": "A mathematical analysis suggests that the notion of agency, which is a prerequisite for consciousness, cannot be purely quantum in nature",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305300105.jpg"
+  },
+  {
+    "title": "Nicotine pouches may cause receding gums | New Scientist",
+    "url": "https://www.newscientist.com/article/2579647-nicotine-pouches-may-cause-receding-gums/",
+    "description": "Nicotine pouches aren't typically associated with the same health harms as similar products that also contain tobacco, but they have now been linked to receding gums and oral irritation",
+    "author": "Mattha Busby",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_304620650.jpg"
+  },
+  {
     "title": "Queen's powerful smell suppresses rivals in naked mole rat colonies | New Scientist",
     "url": "https://www.newscientist.com/article/2579526-queens-powerful-smell-suppresses-rivals-in-naked-mole-rat-colonies/",
     "description": "In naked mole rat colonies, only the queen can breed – and now we have found out how she maintains control",
@@ -30,21 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305099525.jpg"
-  },
-  {
-    "title": "Maya mathematician's name decoded alongside astronomical formula | New Scientist",
-    "url": "https://www.newscientist.com/article/2578746-maya-mathematicians-name-decoded-alongside-astronomical-formula/",
-    "description": "Hieroglyphs on the wall of a Maya building record calculations concerning the orbits of Earth, Mars and Venus, as well as the name of a mathematician who wrote the text around 1200 years ago",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305097838.jpg"
-  },
-  {
-    "title": "Sugar molecules found in interstellar space for the first time | New Scientist",
-    "url": "https://www.newscientist.com/article/2533910-sugar-molecules-found-in-interstellar-space-for-the-first-time/",
-    "description": "Researchers have long suspected early life may have been helped by sugars brought to Earth by asteroids – now a sugar found in raspberries has been spotted in a cosmic cloud nearly 27 light years away",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/10153731/SEI_304757172.jpg"
   }
 ]

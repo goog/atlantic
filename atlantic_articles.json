@@ -1,5 +1,29 @@
 [
   {
+    "title": "Social Security Is Running Out of Time",
+    "url": "https://www.theatlantic.com/podcasts/2026/07/david-frum-show-maya-macguineas-social-security-debt/687921/",
+    "description": "Maya MacGuineas on the looming exhaustion of the Social Security Trust Fund and whether America will ever have a responsible federal budget. Plus: another ICE shooting andA Place of Greater Safetyby H",
+    "author": "David Frum",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/sg9lfknpcrE2AoTbzKGIn11RPDQ=/151x0:1771x1080/210x140/media/img/mt/2026/07/Untitled_2-1/original.png"
+  },
+  {
+    "title": "Photos: The Wonders of Ocean Life",
+    "url": "https://www.theatlantic.com/photography/2026/07/photos-richness-life-our-oceans/687918/",
+    "description": "Images of the incredibly wide variety of marine life on our planet, including seabirds, marine mammals, fish, corals, crustaceans, and much more",
+    "author": "Alan Taylor",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/GgHzdLBq9fuKFqRqszaws48anO0=/0x0:5494x3663/210x140/media/img/mt/2026/07/a01_G_2247635311/original.jpg"
+  },
+  {
+    "title": "AnOdysseyDeserving of the Biggest Screen Possible",
+    "url": "https://www.theatlantic.com/culture/2026/07/the-odyssey-movie-review-christopher-nolan/687913/",
+    "description": "Christopher Nolan successfully brings the epic into the IMAX era.",
+    "author": "David Sims",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/L06N-1fGSdgQ8XgO61UEuq-kP7Q=/188x0:2205x1345/210x140/media/img/mt/2026/07/2026_07_14_Odyssey_Review/original.jpg"
+  },
+  {
     "title": "All the Cool Kids Are Birding",
     "url": "https://www.theatlantic.com/health/2026/07/birding-millennials-genz/687910/",
     "description": "A younger crowd is flocking to a hobby once dominated by retirees—and transforming it along the way.",
@@ -13,7 +37,7 @@
     "description": "Trump and Iran might keep talking. Or they might keep bombing. Or both.",
     "author": "Vivian Salama",
     "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/oRbt7Kn2LYlYyMmvCA23ETSqJnQ=/233x0:2764x1688/210x140/media/img/mt/2026/07/2026_07_14_MOU_Trump_Iran/original.jpg"
+    "image": "https://cdn.theatlantic.com/thumbor/firyELSPVAHKeiZh-hARpAt3ebY=/0x30:2436x1654/210x140/media/img/mt/2026/07/2026_07_14_MOU_Trump_Iran/original.jpg"
   },
   {
     "title": "You Don’t Need to Vote for Socialists to Get Universal Health Care",
@@ -43,7 +67,7 @@
     "title": "Marco Rubio’s Disappearing Signal Chat",
     "url": "https://www.theatlantic.com/national-security/2026/07/marco-rubio-signal-state-department/687906/",
     "description": "The State Department told a court last year that the secretary didn’t use disappearing messages. By this spring, it had dropped that claim.",
-    "author": "Michael Scherer,Missy Ryan,Nancy A. Youssef,  andShane Harris",
+    "author": "Michael Scherer,Missy Ryan,Nancy A. Youssef,andShane Harris",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/tDzrBX7AYanHPGLfkztjP2xNiNg=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_13_Harris_Youssef_Scherer_Ryan_Rubio_signal/original.jpg"
   },
@@ -134,29 +158,5 @@
     "author": "Alan Taylor",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/CdVQvZa1WkiztzGprURBRHLst4c=/0x185:3926x2802/210x140/media/img/mt/2026/07/a01_Liu/original.jpg"
-  },
-  {
-    "title": "How Lindsey Graham Miscalculated on Iran",
-    "url": "https://www.theatlantic.com/national-security/2026/07/lindsey-graham-iran-hawk-trump/687900/",
-    "description": "The senator helped persuade Trump to launch a war that has become a quagmire.",
-    "author": "Vivian Salama",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/mFf_XpP7zfugwipDyNcteWPNLz4=/354x0:4151x2531/210x140/media/img/mt/2026/07/2026_07_13_Graham_Foreign_Policy_Hawk/original.jpg"
-  },
-  {
-    "title": "The Last of the Three Amigos",
-    "url": "https://www.theatlantic.com/ideas/2026/07/lindsey-graham-ukraine-russia/687898/",
-    "description": "Lindsey Graham believed American power could be a force for good in the world.",
-    "author": "Richard Fontaine",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/RmwJT2fVsyyDJwQ-SYhncWXGJXs=/627x156:3315x1948/210x140/media/img/mt/2026/07/2026_07_13_The_Lindsey_Graham_I_Knew/original.jpg"
-  },
-  {
-    "title": "AtlanticTrivia: Early-2000s Tech",
-    "url": "https://www.theatlantic.com/trivia/2026/07/13-apple-tech-analog-tennis-futterman-alcaraz/687885/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Drew Goins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Gyhz8b8tyJlG5uvQCUPjMtXjSHM=/149x0:1770x1081/210x140/media/img/mt/2026/07/trivia_purple-1/original.png"
   }
 ]
