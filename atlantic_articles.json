@@ -1,5 +1,21 @@
 [
   {
+    "title": "United States of Disbelief",
+    "url": "https://www.theatlantic.com/newsletters/2026/07/conspiracy-theories-lindsey-graham-mitch-mcconnell/687928/",
+    "description": "The spread of conspiracy theories about Senators Lindsey Graham and Mitch McConnell underscores the lack of trust in American society.",
+    "author": "David A. Graham",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Nvse35Ce-qQ1TxRxlirNm89LrtQ=/225x0:2655x1620/210x140/media/newsletters/2026/07/2026_07_15_the_daily_conspiracies_2284728469/original.jpg"
+  },
+  {
+    "title": "90 Seconds That Encapsulate the AI Industry",
+    "url": "https://www.theatlantic.com/technology/2026/07/anthropic-ai-commercial/687925/",
+    "description": "Anthropic’s new commercial is accidentally perfect.",
+    "author": "Lila Shroff",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/26ti9FhLpBrGKEfonZfR_AxLnXw=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_15_Shroff_Claude_ad/original.gif"
+  },
+  {
     "title": "Social Security Is Running Out of Time",
     "url": "https://www.theatlantic.com/podcasts/2026/07/david-frum-show-maya-macguineas-social-security-debt/687921/",
     "description": "Maya MacGuineas on the looming exhaustion of the Social Security Trust Fund and whether America will ever have a responsible federal budget. Plus: another ICE shooting andA Place of Greater Safetyby H",
@@ -82,7 +98,7 @@
   {
     "title": "The Shooter in Maine Was a New ICE Recruit",
     "url": "https://www.theatlantic.com/politics/2026/07/ice-vehicle-shooting-maine-dhs/687912/",
-    "description": "The agency’s second killing in as many weeks prompted an abrupt policy change on vehicle stops.",
+    "description": "The agency’s second killing this month prompted an abrupt policy change on vehicle stops.",
     "author": "Nick Miroff",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/ogA5UBVgGDgZV29uGLJ62NXvNAo=/187x0:2176x1326/210x140/media/img/mt/2026/07/2026_07_14_ICE_Maine_Shooting_2285425401/original.jpg"
@@ -142,21 +158,5 @@
     "author": "Idrees Kahloon",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/WU75SIpEChS4VUEk_Zdc195Kdhw=/323x0:3779x2304/210x140/media/img/mt/2026/07/2026_07_13_Trump_Destroying_What_Makes_American_Economy_Great_lede/original.jpg"
-  },
-  {
-    "title": "Does Todd Blanche Have a Red Line?",
-    "url": "https://www.theatlantic.com/newsletters/2026/07/todd-blanche-doj-war-against-journalism/687908/",
-    "description": "The acting attorney general is showcasing his willingness to intimidate reporters whose revelations have upset the president.",
-    "author": "David A. Graham",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/p5kjYEXy_K49UuFk6BaCntOLjQ4=/225x0:2655x1620/210x140/media/newsletters/2026/07/2026_07_13_The_Daily_Curtain_Raiser_on_Blanche_Confirmation_Hearing_2276582788/original.jpg"
-  },
-  {
-    "title": "Winners of the International Aerial Photographer of the Year",
-    "url": "https://www.theatlantic.com/photography/2026/07/winners-international-aerial-photographer-year/687899/",
-    "description": "A collection of winners and selected images from the competition’s “Top 101” grouping, chosen from more than 1,500 entries by professional and amateur aerial photographers around the world",
-    "author": "Alan Taylor",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/CdVQvZa1WkiztzGprURBRHLst4c=/0x185:3926x2802/210x140/media/img/mt/2026/07/a01_Liu/original.jpg"
   }
 ]
