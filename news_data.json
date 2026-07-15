@@ -1,5 +1,21 @@
 [
   {
+    "title": "Congolese monkey with mask-like face and strong BO is new to science | New Scientist",
+    "url": "https://www.newscientist.com/article/2579257-congolian-monkey-with-mask-like-face-and-strong-bo-is-new-to-science/",
+    "description": "A black colobus monkey from a remote part of the Congo Basin rainforest, known locally as likweli, is thought to be severely threatened by poaching",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305157117.jpg"
+  },
+  {
+    "title": "Best treatment for multiple sclerosis may be antivirals | New Scientist",
+    "url": "https://www.newscientist.com/article/2579595-best-treatment-for-multiple-sclerosis-may-be-anti-virals/",
+    "description": "Low levels of replicating Epstein-Barr viruses might be the main driver of the autoimmune condition multiple sclerosis. This may mean that targeting them would be as effective as suppressing the immune system, with fewer side effects",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305300761.jpg"
+  },
+  {
     "title": "Can consciousness be quantum? We may now have an answer | New Scientist",
     "url": "https://www.newscientist.com/article/2579540-can-consciousness-be-quantum-we-may-now-have-an-answer/",
     "description": "A mathematical analysis suggests that the notion of agency, which is a prerequisite for consciousness, cannot be purely quantum in nature",
@@ -30,21 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305153597.jpg"
-  },
-  {
-    "title": "Why praying for rain appears to work – but only in some places | New Scientist",
-    "url": "https://www.newscientist.com/article/2578962-why-praying-for-rain-appears-to-work-but-only-in-some-places/",
-    "description": "In some parts of the world, the probability of rain rises with every day it doesn’t rain, and communities in these places are more likely to carry out rain-making rituals",
-    "author": "Bas den Hond",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_304778081.jpg"
-  },
-  {
-    "title": "The US-China AI arms race has taken an unexpected turn | New Scientist",
-    "url": "https://www.newscientist.com/article/2532952-who-is-winning-the-ai-arms-race-between-the-us-and-china/",
-    "description": "Powerful artificial intelligence models built by Chinese companies have gone from inducing widespread panic to being met with a shrug of the shoulders – what changed?",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305099525.jpg"
   }
 ]
