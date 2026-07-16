@@ -1,5 +1,29 @@
 [
   {
+    "title": "The Lessons About Ebola the U.S. Wants to Forget",
+    "url": "https://www.theatlantic.com/health/2026/07/ebola-promises-united-states/687905/",
+    "description": "The world’s capacity to control the disease has improved in the past decade, but only because of dedicated investment and coordination.",
+    "author": "Craig Spencer",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/qinpLA6bYM1nj0wtNuNb-32CLRc=/491x0:5747x3504/210x140/media/img/mt/2026/07/2026_07_02_The_Promises_We_Made_About_Ebola/original.jpg"
+  },
+  {
+    "title": "Nobody Is Getting the Data-Center Water Question Right",
+    "url": "https://www.theatlantic.com/technology/2026/07/how-much-water-data-centers-use/687934/",
+    "description": "How thirsty is AI, actually? And why does everyone care so much?",
+    "author": "Matteo Wong",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/m_GK4wfIbG0y9Rbp0TqbpU0S6cE=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_12_AI_water_use/original.gif"
+  },
+  {
+    "title": "What Ancient Greek Is Good For",
+    "url": "https://www.theatlantic.com/newsletters/2026/07/defense-classics-education-useless-subject/687935/",
+    "description": "The point of a classical education is to learn something about being human.",
+    "author": "Elias Wachtel",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/HHQ58AA_PV2xGiqPDBvmFv-AEzo=/156x0:1843x1125/210x140/media/newsletters/2026/07/2026_7_16_Time_Travel_Thursdays_Classical_Education/original.jpg"
+  },
+  {
     "title": "The Biggest Takeaway From Todd Blanche’s Confirmation Hearing",
     "url": "https://www.theatlantic.com/ideas/2026/07/todd-blanche-attorney-general-confirmation-hearing/687933/",
     "description": "The once-cherished ideal of dispensing impartial justice has all but disappeared.",
@@ -134,29 +158,5 @@
     "author": "Jonathan Chait",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/L-O8d3UBpRPTgeEfDNblXtaGGSo=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_13_Obamacare_repeal/original.jpg"
-  },
-  {
-    "title": "AtlanticTrivia: Punctuation",
-    "url": "https://www.theatlantic.com/trivia/2026/07/15-punctuation-internet-texting-gen-z/687915/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Drew Goins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/wohNbpaTB9J6VHn47PVbTMsZTLg=/149x0:1770x1080/210x140/media/img/mt/2026/07/trivia_peach-1/original.png"
-  },
-  {
-    "title": "Who Really Controls the Strait of Hormuz?",
-    "url": "https://www.theatlantic.com/newsletters/2026/07/who-controls-strait-of-hormuz/687920/",
-    "description": "Since the war began, Iran has only expanded its power over the waterway.",
-    "author": "Will Gottsegen",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/2h4TCYH4ocY7QfjRVlmqa0A1pOU=/469x0:5531x3375/210x140/media/newsletters/2026/07/2026_07_14_The_Dailly_Strait_of_Hormuz/original.jpg"
-  },
-  {
-    "title": "Marco Rubio’s Disappearing Signal Chat",
-    "url": "https://www.theatlantic.com/national-security/2026/07/marco-rubio-signal-state-department/687906/",
-    "description": "The State Department told a court last year that the secretary didn’t use disappearing messages. By this spring, it had dropped that claim.",
-    "author": "Michael Scherer,Missy Ryan,Nancy A. Youssef,andShane Harris",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/tDzrBX7AYanHPGLfkztjP2xNiNg=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_13_Harris_Youssef_Scherer_Ryan_Rubio_signal/original.jpg"
   }
 ]
