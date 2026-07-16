@@ -1,5 +1,29 @@
 [
   {
+    "title": "Neurostimulation restores feeling in paralysed hand for months after | New Scientist",
+    "url": "https://www.newscientist.com/article/2580028-neurostimulation-restores-feeling-in-paralysed-hand-for-months-after/",
+    "description": "Keith Thomas, 48, has paralysis, but brain stimulation meant he regained some feeling and movement in his hands – and this was maintained even when the stimulation was turned off",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_270217370.jpg"
+  },
+  {
+    "title": "We’ve found a rocky, temperate planet’s atmosphere for the first time | New Scientist",
+    "url": "https://www.newscientist.com/article/2579909-weve-found-a-rocky-temperate-planets-atmosphere-for-the-first-time/",
+    "description": "Astronomers have only previously found atmospheres around exoplanets that are very large or incredibly hot – but now they have found one adorning a world that may well be right for life",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305397858.jpg"
+  },
+  {
+    "title": "Next-generation Alzheimer's drug reduces risk of serious brain bleeds | New Scientist",
+    "url": "https://www.newscientist.com/article/2580025-next-generation-alzheimers-drug-reduces-risk-of-serious-brain-bleeds/",
+    "description": "A new kind of antibody drug that more efficiently enters the brain could slow the progression of Alzheimer's disease with a much lower risk of dangerous side effects than existing therapies",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305302587.jpg"
+  },
+  {
     "title": "Stealth drone spins so fast that it disappears | New Scientist",
     "url": "https://www.newscientist.com/article/2579564-stealth-drone-spins-so-fast-that-it-disappears/",
     "description": "A drone that spins 25 times a second can avoid being spotted by becoming nothing more than a vague blur – though the creators admit that it can still be easily heard",
@@ -22,29 +46,5 @@
     "author": "Michael Le Page",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305300761.jpg"
-  },
-  {
-    "title": "Can consciousness be quantum? We may now have an answer | New Scientist",
-    "url": "https://www.newscientist.com/article/2579540-can-consciousness-be-quantum-we-may-now-have-an-answer/",
-    "description": "A mathematical analysis suggests that the notion of agency, which is a prerequisite for consciousness, cannot be purely quantum in nature",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305300105.jpg"
-  },
-  {
-    "title": "Nicotine pouches may cause receding gums | New Scientist",
-    "url": "https://www.newscientist.com/article/2579647-nicotine-pouches-may-cause-receding-gums/",
-    "description": "Nicotine pouches aren't typically associated with the same health harms as similar products that also contain tobacco, but they have now been linked to receding gums and oral irritation",
-    "author": "Mattha Busby",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_304620650.jpg"
-  },
-  {
-    "title": "Queen's powerful smell suppresses rivals in naked mole rat colonies | New Scientist",
-    "url": "https://www.newscientist.com/article/2579526-queens-powerful-smell-suppresses-rivals-in-naked-mole-rat-colonies/",
-    "description": "In naked mole rat colonies, only the queen can breed – and now we have found out how she maintains control",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305176049.jpg"
   }
 ]
