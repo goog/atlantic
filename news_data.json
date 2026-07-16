@@ -1,8 +1,16 @@
 [
   {
+    "title": "Restoring ability to remove zombie cells may keep us sharp as we age | New Scientist",
+    "url": "https://www.newscientist.com/article/2580031-restoring-ability-to-remove-zombie-cells-may-keep-us-sharp-as-we-age/",
+    "description": "Zombie, or senescent, cells accumulate in our body with age, when we become less able to clear them. But a study in mice suggests that a drug could restore this ability and improve ageing outcomes",
+    "author": "Isha Ishtiaq",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305433656.jpg"
+  },
+  {
     "title": "Neurostimulation restores feeling in paralysed hand for months after | New Scientist",
     "url": "https://www.newscientist.com/article/2580028-neurostimulation-restores-feeling-in-paralysed-hand-for-months-after/",
-    "description": "Keith Thomas, 48, has paralysis, but brain stimulation meant he regained some feeling and movement in his hands – and this was maintained even when the stimulation was turned off",
+    "description": "Keith Thomas, 48, has paralysis, but brain stimulation helped him regain some feeling and movement in his hands – and this was maintained even when the stimulation was turned off",
     "author": "Christa Lesté-Lasserre",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_270217370.jpg"
@@ -38,13 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305157117.jpg"
-  },
-  {
-    "title": "Best treatment for multiple sclerosis may be antivirals | New Scientist",
-    "url": "https://www.newscientist.com/article/2579595-best-treatment-for-multiple-sclerosis-may-be-anti-virals/",
-    "description": "Low levels of replicating Epstein-Barr viruses might be the main driver of the autoimmune condition multiple sclerosis. This may mean that targeting them would be as effective as suppressing the immune system, with fewer side effects",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305300761.jpg"
   }
 ]
