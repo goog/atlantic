@@ -1,5 +1,13 @@
 [
   {
+    "title": "How the Smithsonian Could Fall",
+    "url": "https://www.theatlantic.com/culture/2026/07/smithsonian-trump-regents/687911/",
+    "description": "A president cracking down on museums is unusual—but so are the museums.",
+    "author": "Kelsey Ables",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/JRxnBo3zQa0bnjZKhar01J2_D_M=/0x0:2582x1721/210x140/media/img/mt/2026/07/2026_07_15_How_the_Smithsonian_Could_Fall_promo_01/original.jpg"
+  },
+  {
     "title": "AtlanticTrivia: A Little Poetic Language",
     "url": "https://www.theatlantic.com/trivia/2026/07/16-pop-music-album-phones-education-cities/687924/",
     "description": "Test your knowledge—and read our stories for a little extra help.",
@@ -16,9 +24,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/jbbn2S8v_CIajGYQ7mnHAjBCAR0=/0x0:3375x2250/210x140/media/img/mt/2026/07/2026_07_15_Georgia_election_RA_horizontal/original.png"
   },
   {
-    "title": "The Joy of ReadingThe Odysseyto My 3-Year-Old Son",
+    "title": "Reading a 3,000-Year-Old Poem to a 3-Year-Old Boy",
     "url": "https://www.theatlantic.com/family/2026/07/odyssey-read-father-son/687914/",
-    "description": "Yes, he’s a toddler. But he’s not too young to appreciate a great yarn.",
+    "description": "The Odysseyis not, strictly speaking, a children’s book. I thought my son might enjoy it anyway.",
     "author": "Chris Moody",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/r66ECagQrsTZFZQ8QYj5Q80iprM=/0x200:2160x1640/210x140/media/img/mt/2026/07/illustration_the_atlantic_odyssey/original.png"
@@ -123,7 +131,7 @@
     "title": "Marco Rubio’s Disappearing Signal Chat",
     "url": "https://www.theatlantic.com/national-security/2026/07/marco-rubio-signal-state-department/687906/",
     "description": "The State Department told a court last year that the secretary didn’t use disappearing messages. By this spring, it had dropped that claim.",
-    "author": "Michael Scherer,Missy Ryan,Nancy A. Youssef,  andShane Harris",
+    "author": "Michael Scherer,Missy Ryan,Nancy A. Youssef,andShane Harris",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/tDzrBX7AYanHPGLfkztjP2xNiNg=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_13_Harris_Youssef_Scherer_Ryan_Rubio_signal/original.jpg"
   },
@@ -150,13 +158,5 @@
     "author": "Alex Reisner",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/8p2NtxzfuqDEqfa-fFjcyqFFpKk=/173x0:1860x1125/210x140/media/img/mt/2026/07/2026_07_10_Reisner_Gen_Ai_Engineering_Disaster/original.jpg"
-  },
-  {
-    "title": "The 40-Year-Old Man-Child",
-    "url": "https://www.theatlantic.com/culture/2026/07/ferris-bueller-40th-anniversary-influencer/687764/",
-    "description": "Ferris Bueller’s Day Offhas avoided a midlife crisis for good reason: It’s a timeless portrait of popularity and truthiness.",
-    "author": "Megan Garber",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/i9Xqwj-WpkjNeiJShUGbqHuJ-pI=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_09_Ferris_Bueller_Influencer/original.jpg"
   }
 ]
