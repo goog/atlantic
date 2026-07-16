@@ -1,5 +1,29 @@
 [
   {
+    "title": "AtlanticTrivia: A Little Poetic Language",
+    "url": "https://www.theatlantic.com/trivia/2026/07/16-pop-music-album-phones-education-cities/687924/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/_cPrg3eiT2U7cXVJ-7Th7i--dGc=/152x0:1772x1080/210x140/media/img/mt/2026/07/trivia_green-2/original.png"
+  },
+  {
+    "title": "The Election Deniers Are in Charge Now",
+    "url": "https://www.theatlantic.com/podcasts/2026/07/they-think-2020-was-rigged-now-theyre-in-charge/687923/",
+    "description": "In Georgia, where Donald Trump once tried to “find” more than 11,000 votes, election deniers are now in powerful election-board positions.",
+    "author": "Hanna Rosin",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/jbbn2S8v_CIajGYQ7mnHAjBCAR0=/0x0:3375x2250/210x140/media/img/mt/2026/07/2026_07_15_Georgia_election_RA_horizontal/original.png"
+  },
+  {
+    "title": "The Joy of ReadingThe Odysseyto My 3-Year-Old Son",
+    "url": "https://www.theatlantic.com/family/2026/07/odyssey-read-father-son/687914/",
+    "description": "Yes, he’s a toddler. But he’s not too young to appreciate a great yarn.",
+    "author": "Chris Moody",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/r66ECagQrsTZFZQ8QYj5Q80iprM=/0x200:2160x1640/210x140/media/img/mt/2026/07/illustration_the_atlantic_odyssey/original.png"
+  },
+  {
     "title": "Pete Hegseth Wants YOU to Test Your Testosterone",
     "url": "https://www.theatlantic.com/health/2026/07/hegseth-testosterone-testing-military/687929/",
     "description": "The secretary of defense has a questionable plan to monitor the hormone levels of every service member over 30.",
@@ -99,7 +123,7 @@
     "title": "Marco Rubio’s Disappearing Signal Chat",
     "url": "https://www.theatlantic.com/national-security/2026/07/marco-rubio-signal-state-department/687906/",
     "description": "The State Department told a court last year that the secretary didn’t use disappearing messages. By this spring, it had dropped that claim.",
-    "author": "Michael Scherer,Missy Ryan,Nancy A. Youssef,andShane Harris",
+    "author": "Michael Scherer,Missy Ryan,Nancy A. Youssef,  andShane Harris",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/tDzrBX7AYanHPGLfkztjP2xNiNg=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_13_Harris_Youssef_Scherer_Ryan_Rubio_signal/original.jpg"
   },
@@ -134,29 +158,5 @@
     "author": "Megan Garber",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/i9Xqwj-WpkjNeiJShUGbqHuJ-pI=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_09_Ferris_Bueller_Influencer/original.jpg"
-  },
-  {
-    "title": "The See-No-Evil Supreme Court",
-    "url": "https://www.theatlantic.com/ideas/2026/07/the-see-no-evil-supreme-court/687902/",
-    "description": "The majority refuses to see evidence of racism.",
-    "author": "Adam Serwer",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/EsU2NatT7gSeCRRsQ_YMytCwC1w=/0x101:2400x1701/210x140/media/img/mt/2026/07/RobertsBlindRacismHP/original.png"
-  },
-  {
-    "title": "AtlanticTrivia: Roman Holiday",
-    "url": "https://www.theatlantic.com/trivia/2026/07/14-italy-rome-elite-tourism-imago-artist/687903/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Drew Goins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/wYFqNKt3wS-wlT2qKNTJHyRCMGk=/151x0:1771x1080/210x140/media/img/mt/2026/07/trivia_yellow-1/original.jpg"
-  },
-  {
-    "title": "The System for Addressing Gambling Harm Is Broken",
-    "url": "https://www.theatlantic.com/magazine/2026/08/the-commons/687636/",
-    "description": "Readers respond to our April 2026 cover story and more.",
-    "author": "",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/-0JVVK_PPRWD2Fer8cccPEd5ZmE=/120x582:2874x2418/210x140/media/img/2026/07/0826COMMONS/original.png"
   }
 ]

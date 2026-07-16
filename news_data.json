@@ -1,5 +1,13 @@
 [
   {
+    "title": "Stealth drone spins so fast that it disappears | New Scientist",
+    "url": "https://www.newscientist.com/article/2579564-stealth-drone-spins-so-fast-that-it-disappears/",
+    "description": "A drone that spins 25 times a second can avoid being spotted by becoming nothing more than a vague blur – though the creators admit that it can still be easily heard",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305296745.jpg"
+  },
+  {
     "title": "Congolese monkey with mask-like face and strong BO is new to science | New Scientist",
     "url": "https://www.newscientist.com/article/2579257-congolian-monkey-with-mask-like-face-and-strong-bo-is-new-to-science/",
     "description": "A black colobus monkey from a remote part of the Congo Basin rainforest, known locally as likweli, is thought to be severely threatened by poaching",
@@ -38,13 +46,5 @@
     "author": "Michael Le Page",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305176049.jpg"
-  },
-  {
-    "title": "Hard but lightweight ‘bio-metal’ material discovered in sea worm jaws | New Scientist",
-    "url": "https://www.newscientist.com/article/2579072-hard-but-lightweight-bio-metal-material-discovered-in-sea-worm-jaws/",
-    "description": "Marine bristle worms have jaws made from a mix of proteins and metal ions that may constitute a whole new kind of material, with possible applications in engineering",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305153597.jpg"
   }
 ]
