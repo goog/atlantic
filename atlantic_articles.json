@@ -1,5 +1,13 @@
 [
   {
+    "title": "Just Ask the Dinosaurs How Bad Air Quality Can Get",
+    "url": "https://www.theatlantic.com/health/2026/07/air-quality-smoke-dinosaurs/687985/",
+    "description": "If an orange sky seems apocalyptic, imagine planet-wide fires against a black sky.",
+    "author": "Nancy Walecki",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/udjH3dY3_ED2ODiKWv0Hq7AVFIw=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_17_dino_mpg/original.jpg"
+  },
+  {
     "title": "Cyclosporiasis Is Solved! Right?",
     "url": "https://www.theatlantic.com/health/2026/07/cyclosporiasis-parasite-taco-bell-lettuce/687986/",
     "description": "The federal government announced that iceberg lettuce at Taco Bell was to blame for the outbreak. But it still hasn’t answered some crucial questions.",
@@ -150,13 +158,5 @@
     "author": "Shane Harris,Michael Scherer,Sarah Fitzpatrick,andYvonne Wingett Sanchez",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/Ir1UPYuQAWTEqmlv2QUHjgnOAvU=/450x0:2880x1620/210x140/media/img/mt/2026/07/2026_07_17_Trump_Makes_His_Move_on_Elections_/original.jpg"
-  },
-  {
-    "title": "Trump Just Did More Damage to American Elections Than China",
-    "url": "https://www.theatlantic.com/ideas/2026/07/trump-address/687939/",
-    "description": "His speech was a mash-up of charges that aren’t supported by the documents he released.",
-    "author": "Tom Nichols",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/VWv-Y2kLEqoHhWnhbYfW25bsg8M=/315x0:3690x2250/210x140/media/img/mt/2026/07/07_16_Trumps_Thursday_Night_Address_TK_Tom_Nichols/original.jpg"
   }
 ]
