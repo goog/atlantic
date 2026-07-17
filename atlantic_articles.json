@@ -1,5 +1,37 @@
 [
   {
+    "title": "Where the War Is Still a War",
+    "url": "https://www.theatlantic.com/international/2026/07/iran-us-airstrikes-coast/687963/",
+    "description": "The southern coast of Iran is still getting battered. Some Iranians want their government’s hawks to see for themselves.",
+    "author": "Arash Azizi",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/WLNna8o-dYOMwh-VGtSYsE_F1i0=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_16_The_Unequal_Burden_of_War_2282283019/original.jpg"
+  },
+  {
+    "title": "The Best Running Shoes You Can’t Get Your Hands On",
+    "url": "https://www.theatlantic.com/ideas/2026/07/running-shoes-china-america/687941/",
+    "description": "Chinese shoes are cheap and high quality. Why are they so hard to buy in the U.S.?",
+    "author": "Scott Douglas",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/jbnSmdEY2Ik_fo43bMBNGF4X2-c=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_06_26_shoes_mpg_1/original.jpg"
+  },
+  {
+    "title": "Photos of the Week: Tall Ships, Cool Catacombs, Bastille Day",
+    "url": "https://www.theatlantic.com/photography/2026/07/photos-of-the-week-tall-ships-cool-catacombs-bastille-day/687942/",
+    "description": "T. rex racing in Washington State, wildfires in the U.S. and Canada, electric-speedboat racing in Monaco, celebrations of Mozart’s birthday in Austria, and much more",
+    "author": "Alan Taylor",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/0emzdZD138y2y2euJTLHKhDeQKU=/0x0:5887x3925/210x140/media/img/mt/2026/07/a01_G_2285609394/original.jpg"
+  },
+  {
+    "title": "The Attention-Span Class Divide",
+    "url": "https://www.theatlantic.com/ideas/2026/07/attention-span-class-divide-ballet-opera-movies/687919/",
+    "description": "Who can afford to sit still at the movies?",
+    "author": "Xochitl Gonzalez",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/OJllSLlxLrKxz-9OkHXw6KIRt-0=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_14_Attentionspan_2/original.gif"
+  },
+  {
     "title": "The Researchers Who Want Dads-to-Be to Stop Drinking",
     "url": "https://www.theatlantic.com/family/2026/07/alcohol-conception-fathers-men/687943/",
     "description": "If you’re “actively trying to have babies,” one expert told me, “both the man and the woman should be abstaining” from alcohol.",
@@ -61,7 +93,7 @@
     "description": "The president’s prime-time speech was more notable for what it didn’t prove than for what it did.",
     "author": "Shane Harris,Michael Scherer,Sarah Fitzpatrick,andYvonne Wingett Sanchez",
     "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/lkpQ9UBNW4JmVTZ1CE_naM8Kr8k=/426x0:5065x3093/210x140/media/img/mt/2026/07/2026_07_14_Trump_Makes_His_Move_on_Elections_Michael_Scherer_Shane_Harris/original.jpg"
+    "image": "https://cdn.theatlantic.com/thumbor/Ir1UPYuQAWTEqmlv2QUHjgnOAvU=/450x0:2880x1620/210x140/media/img/mt/2026/07/2026_07_17_Trump_Makes_His_Move_on_Elections_/original.jpg"
   },
   {
     "title": "Trump Just Did More Damage to American Elections Than China",
@@ -126,37 +158,5 @@
     "author": "Matteo Wong",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/m_GK4wfIbG0y9Rbp0TqbpU0S6cE=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_12_AI_water_use/original.gif"
-  },
-  {
-    "title": "The Ancient Texts That Teach You to Be Human",
-    "url": "https://www.theatlantic.com/newsletters/2026/07/defense-classics-education-useless-subject/687935/",
-    "description": "Reading the classics is a kind of learning that helps youbecomesomeone.",
-    "author": "Elias Wachtel",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/HHQ58AA_PV2xGiqPDBvmFv-AEzo=/156x0:1843x1125/210x140/media/newsletters/2026/07/2026_7_16_Time_Travel_Thursdays_Classical_Education/original.jpg"
-  },
-  {
-    "title": "The Biggest Takeaway From Todd Blanche’s Confirmation Hearing",
-    "url": "https://www.theatlantic.com/ideas/2026/07/todd-blanche-attorney-general-confirmation-hearing/687933/",
-    "description": "The once-cherished ideal of dispensing impartial justice has all but disappeared.",
-    "author": "Quinta Jurecic",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/B52NVwDlm57qQ_I4UGjHoSDSKK4=/399x0:4747x2899/210x140/media/img/mt/2026/07/2026_07_16_Todd_Blanche_DOJ/original.jpg"
-  },
-  {
-    "title": "The Opening After Netanyahu",
-    "url": "https://www.theatlantic.com/international/2026/07/america-israel-election-netanyahu-eisenkot/687930/",
-    "description": "A new Israeli government won’t deliver peace overnight, but it could reverse the trajectory toward endless conflict.",
-    "author": "Thomas Wright",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/ua3Txi4pD7JBdf2X0RcXmP_TizU=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_07_16_U.S._Israel_Relations_Piece_Thomas_Wright/original.jpg"
-  },
-  {
-    "title": "The Unapologetic Crime Fiction of Colson Whitehead",
-    "url": "https://www.theatlantic.com/books/2026/07/colson-whitehead-cool-machine-harlem-trilogy-book-review/687926/",
-    "description": "The Harlem Trilogy concludes with big questions about the moral universe.",
-    "author": "David Hajdu",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/U97PIqHC-PRRqKJKFOJwKq5iMnw=/0x691:2160x2131/210x140/media/img/mt/2026/07/Whitehead_final/original.jpg"
   }
 ]
