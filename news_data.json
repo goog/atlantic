@@ -1,5 +1,13 @@
 [
   {
+    "title": "Why a Ukrainian cruise missile is flying with hobby drone hardware | New Scientist",
+    "url": "https://www.newscientist.com/article/2580002-why-a-ukrainian-cruise-missile-is-flying-with-hobby-drone-hardware/",
+    "description": "An open-source flight-control system found in consumer drones has been installed in Ukraine’s latest cruise missile, showing how cheap technology is making military hardware accessible to all",
+    "author": "David Hambling",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305499119.jpg"
+  },
+  {
     "title": "Why the upcoming eclipse is still vital in the age of solar probes | New Scientist",
     "url": "https://www.newscientist.com/article/2533621-why-the-upcoming-eclipse-is-still-vital-in-the-age-of-solar-probes/",
     "description": "Experiments will take advantage of the solar eclipse in August to learn more about the sun and Earth at a relatively low cost",
@@ -38,13 +46,5 @@
     "author": "Leah Crane",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305397858.jpg"
-  },
-  {
-    "title": "Next-generation Alzheimer's drug reduces risk of serious brain bleeds | New Scientist",
-    "url": "https://www.newscientist.com/article/2580025-next-generation-alzheimers-drug-reduces-risk-of-serious-brain-bleeds/",
-    "description": "A new kind of antibody drug that more efficiently enters the brain could slow the progression of Alzheimer's disease with a much lower risk of dangerous side effects than existing therapies",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305302587.jpg"
   }
 ]

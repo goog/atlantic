@@ -1,5 +1,37 @@
 [
   {
+    "title": "AtlanticTrivia: Shakespeareology",
+    "url": "https://www.theatlantic.com/trivia/2026/07/17-ai-writing-shakespeare-birding-genz-alliance-trump-ankara/687940/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/MA9XxSyVGFKCfh7jeIC5YmJqpmM=/149x0:1770x1081/210x140/media/img/mt/2026/07/trivia_purple-2/original.png"
+  },
+  {
+    "title": "Trump Has Only Terrible Choices With Iran",
+    "url": "https://www.theatlantic.com/international/2026/07/trump-iran-negotiations-hormuz-nuclear/687937/",
+    "description": "Some involve accepting Iranian control of the Strait of Hormuz. The rest call for escalation.",
+    "author": "Brynn Tannehill",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/nYgZ4zDvrdeG9fOR_et4nVQkFbc=/625x0:4000x2250/210x140/media/img/mt/2026/07/2026_07_17_The_Remaining_Military_Options_re_Hormuz_Brynn_Tannehill/original.jpg"
+  },
+  {
+    "title": "Just Pay the NIMBYs",
+    "url": "https://www.theatlantic.com/ideas/2026/07/housing-shortage-pay-nimby/687932/",
+    "description": "The biggest obstacle to building new housing is local resistance. But everyone has a price.",
+    "author": "Rogé Karma",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/z2vfLLs-finC8BrZtL4DHg2hxDk=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_14_NIMBY/original.jpg"
+  },
+  {
+    "title": "When Did Sports Get So Loud?",
+    "url": "https://www.theatlantic.com/culture/2026/07/sports-stadiums-loud-baseball/687875/",
+    "description": "Athletes have become influencers. In-game production has become “storytelling.” And everything has gotten very, very stimulating.",
+    "author": "Ellen Cushing",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/LAiqP0ItgXHW7LgMyWiZK6yRGvU=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_06_17_When_Did_Sports_Stadiums_Get_So_Loud_Ellen_Cushing/original.jpg"
+  },
+  {
     "title": "Trump Still Hasn’t Found What He’s Looking For",
     "url": "https://www.theatlantic.com/politics/2026/07/trump-election-fraud-speech/687950/",
     "description": "The president’s prime-time speech was more notable for what it didn’t prove than what it did.",
@@ -126,37 +158,5 @@
     "author": "Hanna Rosin",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/jbbn2S8v_CIajGYQ7mnHAjBCAR0=/0x0:3375x2250/210x140/media/img/mt/2026/07/2026_07_15_Georgia_election_RA_horizontal/original.png"
-  },
-  {
-    "title": "Reading a 3,000-Year-Old Poem to a 3-Year-Old Boy",
-    "url": "https://www.theatlantic.com/family/2026/07/odyssey-read-father-son/687914/",
-    "description": "The Odysseyis not, strictly speaking, a children’s book. I thought my son might enjoy it anyway.",
-    "author": "Chris Moody",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/r66ECagQrsTZFZQ8QYj5Q80iprM=/0x200:2160x1640/210x140/media/img/mt/2026/07/illustration_the_atlantic_odyssey/original.png"
-  },
-  {
-    "title": "Pete Hegseth Wants YOU to Test Your Testosterone",
-    "url": "https://www.theatlantic.com/health/2026/07/hegseth-testosterone-testing-military/687929/",
-    "description": "The secretary of defense has a questionable plan to monitor the hormone levels of every service member over 30.",
-    "author": "Tom Bartlett",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/gN3eF6gJwz3R8YxveqXTgEgydo8=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_07_15_Pete_Hegseths_Manic_Hunky_Dream_Warriors_Tom_Bartlett/original.jpg"
-  },
-  {
-    "title": "Inside Trump’s Reversal on ICE",
-    "url": "https://www.theatlantic.com/politics/2026/07/trump-ice-maine-shooting-vehicle-order/687927/",
-    "description": "Attacks from immigration hard-liners had the president worried about looking weak.",
-    "author": "Jonathan LemireandNick Miroff",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/jsRgiz5KYz2w2YPPdoF2C98WTb0=/155x0:1842x1125/210x140/media/img/mt/2026/07/IceStopsTrump/original.png"
-  },
-  {
-    "title": "United States of Disbelief",
-    "url": "https://www.theatlantic.com/newsletters/2026/07/conspiracy-theories-lindsey-graham-mitch-mcconnell/687928/",
-    "description": "The spread of conspiracy theories about Senators Lindsey Graham and Mitch McConnell underscores the lack of trust in American society.",
-    "author": "David A. Graham",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Nvse35Ce-qQ1TxRxlirNm89LrtQ=/225x0:2655x1620/210x140/media/newsletters/2026/07/2026_07_15_the_daily_conspiracies_2284728469/original.jpg"
   }
 ]
