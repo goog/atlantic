@@ -1,5 +1,13 @@
 [
   {
+    "title": "Supplement that binds to microplastics may remove them from our body | New Scientist",
+    "url": "https://www.newscientist.com/article/2580139-supplement-that-binds-to-microplastics-may-remove-them-from-our-body/",
+    "description": "A supplement comprised of dead bacteria seems to remove microplastics, and prevent their absorption into cells, by attracting them to the bacteria's rough surfaces",
+    "author": "Helen Thomson",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305398139.jpg"
+  },
+  {
     "title": "Why a Ukrainian cruise missile is flying with hobby drone hardware | New Scientist",
     "url": "https://www.newscientist.com/article/2580002-why-a-ukrainian-cruise-missile-is-flying-with-hobby-drone-hardware/",
     "description": "An open-source flight-control system found in consumer drones has been installed in Ukraine’s latest cruise missile, showing how cheap technology is making military hardware accessible to all",
@@ -38,13 +46,5 @@
     "author": "Christa Lesté-Lasserre",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_270217370.jpg"
-  },
-  {
-    "title": "We’ve found a rocky, temperate planet’s atmosphere for the first time | New Scientist",
-    "url": "https://www.newscientist.com/article/2579909-weve-found-a-rocky-temperate-planets-atmosphere-for-the-first-time/",
-    "description": "Astronomers have only previously found atmospheres around exoplanets that are very large or incredibly hot – but now they have found one adorning a world that may well be right for life",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305397858.jpg"
   }
 ]
