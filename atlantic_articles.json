@@ -1,5 +1,13 @@
 [
   {
+    "title": "How the World Cup Finally Won Over America",
+    "url": "https://www.theatlantic.com/podcasts/2026/07/how-the-world-cup-finally-won-over-america/687972/",
+    "description": "Roger Bennett on soccer, social media, and the new American fandom",
+    "author": "Charlie Warzel",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/aDJBFlVe-7I0oteoCn4_gOG1-9I=/155x0:1842x1125/210x140/media/img/mt/2026/07/GB_Ollie_260717/original.jpg"
+  },
+  {
     "title": "Susan Collins Is Not Concerned About Election Denial",
     "url": "https://www.theatlantic.com/ideas/2026/07/trump-speech-election-integrity-republicans/687978/",
     "description": "Mortal threats to the republic are apparently a sideshow that distracts from cutting taxes, confirming judges, and deregulation.",
@@ -8,9 +16,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/ESuTjpzmpve20jz2HgpGKf7gt7I=/561x0:6674x4075/210x140/media/img/mt/2026/07/2026_07_17_Susan_Collins_Is_Not_Very_Concerned_About_Election_Denial/original.jpg"
   },
   {
-    "title": "Trump’s Election-Interference Plan Is Failing",
+    "title": "Trump’s Plan for November Is Failing",
     "url": "https://www.theatlantic.com/newsletters/2026/07/trumps-election-interference-speech-failing/687980/",
-    "description": "His speech last night is best understood as a cry of frustration.",
+    "description": "His efforts to subvert the 2026 midterms have largely come up short.",
     "author": "David A. Graham",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/iKibQpuTMizExDbdKIb81Oddehc=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_07_17_The_Daily_Trump_Election_Fraud_Speech_Was_A_Sign_of_Desperation/original.jpg"
@@ -150,13 +158,5 @@
     "author": "Conor Friedersdorf",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/SWZNZtWi_pFWygpGKlIKmH5rrZ4=/324x0:3795x2314/210x140/media/img/mt/2026/07/2026_07_16_Explaining_Sex_to_an_Anthropologist/original.jpg"
-  },
-  {
-    "title": "Canada’s Forests Will Burn and Burn",
-    "url": "https://www.theatlantic.com/science/2026/07/canadian-forests-are-big/687936/",
-    "description": "Once a wildfire starts, it can spread to an area too massive to control.",
-    "author": "Joshua Partlow",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/LAjQsMBf9f4uXm4BQ71rKUykTlg=/313x0:3666x2235/210x140/media/img/mt/2026/07/2026_07_16_Canadian_Forests_are_That_Big/original.jpg"
   }
 ]
