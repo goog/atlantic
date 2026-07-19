@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago | New Scientist",
+    "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
+    "description": "Many centuries before the advent of agriculture in Norway, ancient people transported fish into mountain lakes to create a source of food, then built wooden traps to catch them",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305290666.jpg"
+  },
+  {
     "title": "Supplement that binds to microplastics may remove them from our body | New Scientist",
     "url": "https://www.newscientist.com/article/2580139-supplement-that-binds-to-microplastics-may-remove-them-from-our-body/",
     "description": "A supplement comprised of dead bacteria seems to remove microplastics, and prevent their absorption into cells, by attracting them to the bacteria's rough surfaces",
@@ -38,13 +46,5 @@
     "author": "Isha Ishtiaq",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305433656.jpg"
-  },
-  {
-    "title": "Neurostimulation restores feeling in paralysed hand for months after | New Scientist",
-    "url": "https://www.newscientist.com/article/2580028-neurostimulation-restores-feeling-in-paralysed-hand-for-months-after/",
-    "description": "Keith Thomas, 48, has paralysis, but brain stimulation gave him some feeling and movement in his hands – and this was maintained even when the stimulation was turned off",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_270217370.jpg"
   }
 ]
