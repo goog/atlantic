@@ -1,5 +1,37 @@
 [
   {
+    "title": "China’s Tech Bubble",
+    "url": "https://www.theatlantic.com/international/2026/07/china-tech-sector-ai/687938/",
+    "description": "Keeping out the world’s best tech promises to stymie innovation.",
+    "author": "Michael Schuman",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/hkO4TNqbb0qdJ1n2Nv0P3UqfsSM=/118x0:1805x1125/210x140/media/img/mt/2026/07/2026_7_16_China_AI/original.jpg"
+  },
+  {
+    "title": "A TV Show That’s Equal Parts Joy and Torture",
+    "url": "https://www.theatlantic.com/newsletters/2026/07/house-of-the-dragon-batik-memoir-novel/687983/",
+    "description": "Culture and entertainment recommendations includingHouse of the Dragon, batik paintings, and more",
+    "author": "Janay Kingsberry",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/SiiyZsPWdGhzyflmWPq8Om_5ZoY=/0x0:1920x1280/210x140/media/newsletters/2026/07/emma_d_arcy_/original.jpg"
+  },
+  {
+    "title": "The Anti-Populist",
+    "url": "https://www.theatlantic.com/ideas/2026/07/trump-populism-right-wing-critique/687974/",
+    "description": "The writer and former white supremacist Richard Hanania was once the toast of MAGA-curious tech barons and reactionary intellectuals. Now he thinks Trumpism has broken their brains.",
+    "author": "Gilad Edelman",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/UYzdQBNG6t-hL2dZtdS8TxDqksc=/193x0:1880x1125/210x140/media/img/mt/2026/07/2026_06_18_Hananias_Kakistocracy/original.jpg"
+  },
+  {
+    "title": "The Beauty of a Stone Wall",
+    "url": "https://www.theatlantic.com/ideas/2026/07/second-career-passion-life-meaning/687952/",
+    "description": "Why we love them, and why I build them",
+    "author": "Matt Seaton",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/HJlEJmAlReZkqIWU0yb8x7Ayq6U=/422x238:5087x3348/210x140/media/img/mt/2026/07/_KAB0195-1/original.jpg"
+  },
+  {
     "title": "Trump Owes Americans a Better Explanation About Iran",
     "url": "https://www.theatlantic.com/national-security/2026/07/trump-war-iran-casualties/687996/",
     "description": "Two more Americans have died. Meanwhile, the president’s rationale for war keeps changing.",
@@ -126,37 +158,5 @@
     "author": "Arash Azizi",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/WLNna8o-dYOMwh-VGtSYsE_F1i0=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_16_The_Unequal_Burden_of_War_2282283019/original.jpg"
-  },
-  {
-    "title": "The Best Running Shoes You Can’t Get Your Hands On",
-    "url": "https://www.theatlantic.com/ideas/2026/07/running-shoes-china-america/687941/",
-    "description": "Chinese shoes are cheap and high quality. Why are they so hard to buy in the U.S.?",
-    "author": "Scott Douglas",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/jbnSmdEY2Ik_fo43bMBNGF4X2-c=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_06_26_shoes_mpg_1/original.jpg"
-  },
-  {
-    "title": "Photos of the Week: Tall Ships, Cool Catacombs, Bastille Day",
-    "url": "https://www.theatlantic.com/photography/2026/07/photos-of-the-week-tall-ships-cool-catacombs-bastille-day/687942/",
-    "description": "T. rex racing in Washington State, wildfires in the U.S. and Canada, electric-speedboat racing in Monaco, celebrations of Mozart’s birthday in Austria, and much more",
-    "author": "Alan Taylor",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/0emzdZD138y2y2euJTLHKhDeQKU=/0x0:5887x3925/210x140/media/img/mt/2026/07/a01_G_2285609394/original.jpg"
-  },
-  {
-    "title": "The Attention-Span Class Divide",
-    "url": "https://www.theatlantic.com/ideas/2026/07/attention-span-class-divide-ballet-opera-movies/687919/",
-    "description": "Who can afford to sit still at the movies?",
-    "author": "Xochitl Gonzalez",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/OJllSLlxLrKxz-9OkHXw6KIRt-0=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_14_Attentionspan_2/original.gif"
-  },
-  {
-    "title": "The Researchers Who Want Dads-to-Be to Stop Drinking",
-    "url": "https://www.theatlantic.com/family/2026/07/alcohol-conception-fathers-men/687943/",
-    "description": "If you’re “actively trying to have babies,” one expert told me, “both the man and the woman should be abstaining” from alcohol.",
-    "author": "Olga Khazan",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/JMZXjrrfXgMMfnaj-mW7sf9lPwc=/155x0:1842x1125/210x140/media/img/mt/2026/07/DadDrinking_1/original.png"
   }
 ]
