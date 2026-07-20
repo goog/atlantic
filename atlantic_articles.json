@@ -1,5 +1,29 @@
 [
   {
+    "title": "AtlanticTrivia: Your Own Odyssey",
+    "url": "https://www.theatlantic.com/trivia/2026/07/20-odyssey-christopher-nolan-smithsonian-virus-congo/687981/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/pO2KxeHMRykwTOmmEOkO0TZP8ug=/151x0:1771x1080/210x140/media/img/mt/2026/07/trivia_yellow-2/original.jpg"
+  },
+  {
+    "title": "Pete Hegseth’s Bad Workout Form",
+    "url": "https://www.theatlantic.com/magazine/2026/09/pete-hegseth-workout-videos-fitness/687955/",
+    "description": "The Secretary of Defense loves to demonstrate his physical fitness. But military experts say he’s cutting corners in the gym.",
+    "author": "Tom Bartlett",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Btqo_vL1r3Qr5tZD9u-pnKNIeG0=/227x0:2657x1620/210x140/media/img/2026/07/2026_07_19_Hegseth_pullup/original.jpg"
+  },
+  {
+    "title": "The Canoeist Accused of Destroying the Reflecting Pool",
+    "url": "https://www.theatlantic.com/politics/2026/07/david-hearn-trump-reflecting-pool-damage/687995/",
+    "description": "The Olympian has become the latest emblem of possible prosecutorial overreach.",
+    "author": "Matt Viser",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/rPLqZXyTvKMq2SGHLo0ABqzA6kM=/473x99:5717x3595/210x140/media/img/mt/2026/07/20260718_cvh_26288/original.jpg"
+  },
+  {
     "title": "Inside Trump’s Rush Job to Build His Arch",
     "url": "https://www.theatlantic.com/culture/2026/07/trump-arch-preservation/687871/",
     "description": "If the president gets his way, new rules would lower the bar for building monuments in Washington.",
@@ -134,29 +158,5 @@
     "author": "",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/L2-y_zb4vqMDGJTR9BdAbgzKOhg=/450x0:3150x1800/210x140/media/img/mt/2026/07/Ian_Bogost_Atlantic_Reads_Header/original.jpg"
-  },
-  {
-    "title": "How the World Cup Finally Won Over America",
-    "url": "https://www.theatlantic.com/podcasts/2026/07/how-the-world-cup-finally-won-over-america/687972/",
-    "description": "Roger Bennett on soccer, social media, and the new American fandom",
-    "author": "Charlie Warzel",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/aDJBFlVe-7I0oteoCn4_gOG1-9I=/155x0:1842x1125/210x140/media/img/mt/2026/07/GB_Ollie_260717/original.jpg"
-  },
-  {
-    "title": "Susan Collins Is Not Concerned About Election Denial",
-    "url": "https://www.theatlantic.com/ideas/2026/07/trump-speech-election-integrity-republicans/687978/",
-    "description": "Mortal threats to the republic are apparently a sideshow that distracts from cutting taxes, confirming judges, and deregulation.",
-    "author": "Jonathan Chait",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/ESuTjpzmpve20jz2HgpGKf7gt7I=/561x0:6674x4075/210x140/media/img/mt/2026/07/2026_07_17_Susan_Collins_Is_Not_Very_Concerned_About_Election_Denial/original.jpg"
-  },
-  {
-    "title": "Trump’s Plan for November Is Failing",
-    "url": "https://www.theatlantic.com/newsletters/2026/07/trumps-election-interference-speech-failing/687980/",
-    "description": "His efforts to subvert the 2026 midterms have largely come up short.",
-    "author": "David A. Graham",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/iKibQpuTMizExDbdKIb81Oddehc=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_07_17_The_Daily_Trump_Election_Fraud_Speech_Was_A_Sign_of_Desperation/original.jpg"
   }
 ]
