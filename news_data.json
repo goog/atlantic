@@ -1,5 +1,13 @@
 [
   {
+    "title": "Cloudy skies have slowed global warming – but that may be changing | New Scientist",
+    "url": "https://www.newscientist.com/article/2580307-cloudy-skies-have-slowed-global-warming-but-that-may-be-changing/",
+    "description": "Low cloud cover has been expanding since 1979, reflecting more sunlight into space, but scientists expect that trend to reverse and accelerate global warming",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305869103.jpg"
+  },
+  {
     "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago | New Scientist",
     "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
     "description": "Many centuries before the advent of agriculture in Norway, ancient people transported fish into mountain lakes to create a source of food, then built wooden traps to catch them",
@@ -38,13 +46,5 @@
     "author": "Chris Simms",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305407141.jpg"
-  },
-  {
-    "title": "Restoring ability to remove zombie cells may keep us sharp as we age | New Scientist",
-    "url": "https://www.newscientist.com/article/2580031-restoring-ability-to-remove-zombie-cells-may-keep-us-sharp-as-we-age/",
-    "description": "Zombie, or senescent, cells accumulate in our body with age, when we become less able to clear them. But a study in mice suggests that a drug could restore this ability and improve ageing outcomes",
-    "author": "Isha Ishtiaq",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305433656.jpg"
   }
 ]

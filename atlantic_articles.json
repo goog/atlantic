@@ -1,5 +1,37 @@
 [
   {
+    "title": "The Wingman",
+    "url": "https://www.theatlantic.com/politics/2026/07/mark-kelly-hegseth-trump/687860/",
+    "description": "Mark Kelly’s résumé and the goodwill he’s accrued as Gabby Giffords’s spouse have granted him a high level of admiration. Can it translate to excitement for a presidential campaign?",
+    "author": "Mark Leibovich",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/KW-_32A9SQVFKT1ZWyZx7PnhRoA=/635x61:3636x2062/210x140/media/img/mt/2026/07/2026_07_09_mark_kelly_00030_2/original.jpg"
+  },
+  {
+    "title": "What’s Behind the Rise in Mild Autism?",
+    "url": "https://www.theatlantic.com/family/2026/07/mild-autism-diagnosis/687998/",
+    "description": "The number of people with the condition has increased rapidly in recent decades. Some researchers and clinicians worry that many patients have been wrongly diagnosed.",
+    "author": "Olga Khazan",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/-_1SmA3a5tmgnn1OyL7FROB-9Dk=/302x0:3542x2160/210x140/media/img/mt/2026/07/2026_07_13_are_to_many_ppl_being_diagnosed_w_mild_autism_1/original.jpg"
+  },
+  {
+    "title": "J. D. Vance’s New Book Wasn’t Meant to Be Read",
+    "url": "https://www.theatlantic.com/magazine/2026/09/jd-vance-communion-review-catholicism/687959/",
+    "description": "",
+    "author": "Matthew Walther",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/9muOOjDPeuQ3mQsP8GjCeImgbLc=/86x0:1706x1080/210x140/media/img/2026/07/16x9_Walther_Vance/original.jpg"
+  },
+  {
+    "title": "WhyWidow’s BayIs the Show of the Summer",
+    "url": "https://www.theatlantic.com/magazine/2026/09/widows-bay-apple-tv-matthew-rhys/687956/",
+    "description": "Its blend of horror and comedy channels the spirit of the times.",
+    "author": "James Parker",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/2UAyKSzwWOwPXqCr8p7DEO48ekc=/207x0:2456x1500/210x140/media/img/2026/07/16X9_CC_Widows_Bay/original.jpg"
+  },
+  {
     "title": "AtlanticTrivia: Your Own Odyssey",
     "url": "https://www.theatlantic.com/trivia/2026/07/20-odyssey-christopher-nolan-smithsonian-virus-congo/687981/",
     "description": "Test your knowledge—and read our stories for a little extra help.",
@@ -8,9 +40,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/pO2KxeHMRykwTOmmEOkO0TZP8ug=/151x0:1771x1080/210x140/media/img/mt/2026/07/trivia_yellow-2/original.jpg"
   },
   {
-    "title": "Pete Hegseth’s Bad Workout Form",
+    "title": "Pete Hegseth, You Call That a Pull-Up?",
     "url": "https://www.theatlantic.com/magazine/2026/09/pete-hegseth-workout-videos-fitness/687955/",
-    "description": "The Secretary of Defense loves to demonstrate his physical fitness. But military experts say he’s cutting corners in the gym.",
+    "description": "Military fitness experts say the secretary of defense fails on form.",
     "author": "Tom Bartlett",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/Btqo_vL1r3Qr5tZD9u-pnKNIeG0=/227x0:2657x1620/210x140/media/img/2026/07/2026_07_19_Hegseth_pullup/original.jpg"
@@ -126,37 +158,5 @@
     "author": "Matteo Wong",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/Oe7eXsmuptIg553miXhzaX6Rv9Q=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_14_AI_heavy_industry/original.jpg"
-  },
-  {
-    "title": "Just Ask the Dinosaurs How Bad Air Quality Can Get",
-    "url": "https://www.theatlantic.com/health/2026/07/air-quality-smoke-dinosaurs/687985/",
-    "description": "If an orange sky seems apocalyptic, imagine planet-wide fires against a black sky.",
-    "author": "Nancy Walecki",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/udjH3dY3_ED2ODiKWv0Hq7AVFIw=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_17_dino_mpg/original.jpg"
-  },
-  {
-    "title": "Cyclosporiasis Is Solved! Right?",
-    "url": "https://www.theatlantic.com/health/2026/07/cyclosporiasis-parasite-taco-bell-lettuce/687986/",
-    "description": "The federal government announced that iceberg lettuce at Taco Bell was to blame for the outbreak. But it still hasn’t answered some crucial questions.",
-    "author": "Nicholas Florko",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/3K0kF6bLei7IwFxFsBPynAWRYsI=/199x0:2329x1420/210x140/media/img/mt/2026/07/2026_07_17_How_We_All_Got_So_Freaked_Out_About_Cyclospora_50580997/original.jpg"
-  },
-  {
-    "title": "Photos: Wildfire Smoke Blankets Parts of North America",
-    "url": "https://www.theatlantic.com/photography/2026/07/photos-wildfire-smoke-blankets-parts-north-america/687973/",
-    "description": "Large wildfires in Canada and Minnesota have been sending plumes of smoke into the atmosphere, turning the sky shades of yellow or orange from the U.S. Midwest to the East Coast, and prompting countle",
-    "author": "Alan Taylor",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/n6fdVPCwYk-SPogMDe2YenFHoTo=/0x2:7845x5232/210x140/media/img/mt/2026/07/a01_G_2285609475/original.jpg"
-  },
-  {
-    "title": "Atlantic Reads:The Small StuffWith Ian Bogost",
-    "url": "https://www.theatlantic.com/books/2026/07/atlantic-reads-the-small-stuff-with-ian-bogost/687977/",
-    "description": "TheAtlanticcontributing writer Ian Bogost and senior editor Chris Suellentrop discuss Bogost’s new book,The Small Stuff: How to Lead a More Gratifying Life.",
-    "author": "",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/L2-y_zb4vqMDGJTR9BdAbgzKOhg=/450x0:3150x1800/210x140/media/img/mt/2026/07/Ian_Bogost_Atlantic_Reads_Header/original.jpg"
   }
 ]
