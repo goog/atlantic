@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI's solution to 87-year-old riddle takes mathematicians by surprise | New Scientist",
+    "url": "https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/",
+    "description": "Mathematicians have been trying to prove the Jacobian conjecture for nearly a century, but now the Claude Fable 5 AI has apparently found a counterexample that disproves it",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305891020.jpg"
+  },
+  {
     "title": "Cloudy skies have slowed global warming – but that may be changing | New Scientist",
     "url": "https://www.newscientist.com/article/2580307-cloudy-skies-have-slowed-global-warming-but-that-may-be-changing/",
     "description": "Low cloud cover has been expanding since 1979, reflecting more sunlight into space, but scientists expect that trend to reverse and accelerate global warming",
@@ -38,13 +46,5 @@
     "author": "Jamie Carter",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/08183714/SEI_304503348.jpg"
-  },
-  {
-    "title": "Ancient Egyptian princesses buried with weapons may have been fighters | New Scientist",
-    "url": "https://www.newscientist.com/article/2579773-ancient-egyptian-princesses-buried-with-weapons-may-have-been-fighters/",
-    "description": "The mummified daughters of pharaohs who lived thousands of years ago have bone changes that suggest they fought with bows and daggers",
-    "author": "Chris Simms",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305407141.jpg"
   }
 ]

@@ -1,11 +1,35 @@
 [
   {
+    "title": "’Turning Up the Heat on the Streets’",
+    "url": "https://www.theatlantic.com/podcasts/2026/07/ra-dhsice/687971/",
+    "description": "The problem with ICE and traffic stops",
+    "author": "Hanna Rosin",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/vaw_OJMr8rxF9Q_U0QEXIeGMWpU=/0x0:3375x2250/210x140/media/img/mt/2026/07/2026_07_17_ICE_shooting_RA_Horizontal/original.jpg"
+  },
+  {
+    "title": "The World Cup Could Not Be Americanized",
+    "url": "https://www.theatlantic.com/culture/2026/07/world-cup-spain-argentina/688000/",
+    "description": "Spain’s 1–0 win over Argentina demonstrated all of the ways that this sport is still foreign in the United States.",
+    "author": "Sally Jenkins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/QsWSQXBnrs6fiwAWhAEdj1_Gbc8=/299x0:3553x2169/210x140/media/img/mt/2026/07/2026_07_19_There_Was_Really_No_American_izing_the_World_Cup/original.jpg"
+  },
+  {
+    "title": "The Subject Too Big for Fiction",
+    "url": "https://www.theatlantic.com/books/2026/07/amitav-ghosh-ghost-eye-review-climate-change/687993/",
+    "description": "Amitav Ghosh believes that climate change requires rethinking the novel. His new work of fiction fails that standard.",
+    "author": "Robert Rubsam",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/8RI2Pxl74CjNzkjGdH-hPKHkCGQ=/123x0:1810x1125/210x140/media/img/mt/2026/07/Final_16x9/original.png"
+  },
+  {
     "title": "The Wingman",
     "url": "https://www.theatlantic.com/politics/2026/07/mark-kelly-hegseth-trump/687860/",
     "description": "Mark Kelly’s résumé and the goodwill he’s accrued as Gabby Giffords’s spouse have granted him a high level of admiration. Can it translate to excitement for a presidential campaign?",
     "author": "Mark Leibovich",
     "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/KW-_32A9SQVFKT1ZWyZx7PnhRoA=/635x61:3636x2062/210x140/media/img/mt/2026/07/2026_07_09_mark_kelly_00030_2/original.jpg"
+    "image": "https://cdn.theatlantic.com/thumbor/1CoaMqzu_0Lk3168aG9NCbCqfkU=/58x582:2270x2057/210x140/media/img/mt/2026/07/2026_07_09_mark_kelly_00030/original.jpg"
   },
   {
     "title": "What’s Behind the Rise in Mild Autism?",
@@ -13,7 +37,7 @@
     "description": "The number of people with the condition has increased rapidly in recent decades. Some researchers and clinicians worry that many patients have been wrongly diagnosed.",
     "author": "Olga Khazan",
     "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/-_1SmA3a5tmgnn1OyL7FROB-9Dk=/302x0:3542x2160/210x140/media/img/mt/2026/07/2026_07_13_are_to_many_ppl_being_diagnosed_w_mild_autism_1/original.jpg"
+    "image": "https://cdn.theatlantic.com/thumbor/c-ABrX2U731Q5jd6tt4PoVvUyLQ=/281x0:3289x2005/210x140/media/img/mt/2026/07/2026_07_13_are_to_many_ppl_being_diagnosed_w_mild_autismm/original.jpg"
   },
   {
     "title": "J. D. Vance’s New Book Wasn’t Meant to Be Read",
@@ -21,7 +45,7 @@
     "description": "",
     "author": "Matthew Walther",
     "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/9muOOjDPeuQ3mQsP8GjCeImgbLc=/86x0:1706x1080/210x140/media/img/2026/07/16x9_Walther_Vance/original.jpg"
+    "image": "https://cdn.theatlantic.com/thumbor/jHpcXUBauhQ9S2x9Bc1ZDqs7RhU=/155x208:1530x1125/210x140/media/img/2026/07/VanceWebReplacement/original.png"
   },
   {
     "title": "WhyWidow’s BayIs the Show of the Summer",
@@ -134,29 +158,5 @@
     "author": "Sally Jenkins",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/rWPDGXOXUJG_dHPdbjAND9XmEPU=/300x0:3563x2176/210x140/media/img/mt/2026/07/2026_07_16_Messi_TK/original.jpg"
-  },
-  {
-    "title": "Dua Lipa’s Freedom-to-Read Crusade",
-    "url": "https://www.theatlantic.com/culture/2026/07/dua-lipa-banned-book-library/687982/",
-    "description": "The pop star’s latest literary cause is good PR—and a complicated topic.",
-    "author": "Sophia Nguyen",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/cLjOTYdD5XCOFY3BltU9eW6PWyk=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_14_Nguyen_Dua_Lipa_banned_books_final/original.jpg"
-  },
-  {
-    "title": "Fighter Jets Are Passé",
-    "url": "https://www.theatlantic.com/ideas/2026/07/us-military-tech-drones/687945/",
-    "description": "The future of warfare is drones, clearly.",
-    "author": "Phillips Payson O’Brien",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/u8V2j995q1QYLTValmo-23MM2H0=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_17_The_U.S._Cant_Bear_to_Acknowledge_the_Drone_Revolution/original.png"
-  },
-  {
-    "title": "Silicon Valley Has Lost Its Biggest Advantage",
-    "url": "https://www.theatlantic.com/technology/2026/07/data-center-ai-heavy-industry/687990/",
-    "description": "In the data-center age, the business of tech companies is more like oil-refining than coding.",
-    "author": "Matteo Wong",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Oe7eXsmuptIg553miXhzaX6Rv9Q=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_14_AI_heavy_industry/original.jpg"
   }
 ]
