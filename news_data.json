@@ -1,5 +1,13 @@
 [
   {
+    "title": "Inhaling high-dose CO2 clears Alzheimer's proteins from the brain | New Scientist",
+    "url": "https://www.newscientist.com/article/2580471-inhaling-high-dose-co2-clears-alzheimers-proteins-from-the-brain/",
+    "description": "Intermittingly inhaling a high dose of carbon dioxide seems to remove the proteins amyloid and tau, which are implicated in Alzheimer's disease, from the brain by boosting its glymphatic system",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305894556.jpg"
+  },
+  {
     "title": "AI's solution to 87-year-old riddle takes mathematicians by surprise | New Scientist",
     "url": "https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/",
     "description": "Mathematicians have been trying to prove the Jacobian conjecture for nearly a century, but now the Claude Fable 5 AI has apparently found a counterexample that disproves it",
@@ -38,13 +46,5 @@
     "author": "David Hambling",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305499119.jpg"
-  },
-  {
-    "title": "Why the upcoming eclipse is still vital in the age of solar probes | New Scientist",
-    "url": "https://www.newscientist.com/article/2533621-why-the-upcoming-eclipse-is-still-vital-in-the-age-of-solar-probes/",
-    "description": "Experiments will take advantage of the solar eclipse in August to learn more about the sun and Earth at a relatively low cost",
-    "author": "Jamie Carter",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/08183714/SEI_304503348.jpg"
   }
 ]
