@@ -1,8 +1,16 @@
 [
   {
-    "title": "AI Companies Are Stripping Colleges of Their Best Researchers",
+    "title": "Iraq’s Man in the Middle",
+    "url": "https://www.theatlantic.com/national-security/2026/07/iraq-ali-alzaidi-iran-war-trump/688009/",
+    "description": "The country’s new prime minister is trying to navigate between Washington and Tehran.",
+    "author": "Vivian Salama",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/CUrqfMHqUcVJYEYBho9-eS2UT80=/295x0:3457x2108/210x140/media/img/mt/2026/07/GettyImages_2285454272/original.jpg"
+  },
+  {
+    "title": "Where Did All the Computer-Science Professors Go?",
     "url": "https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/",
-    "description": "The new career path for professors: join Anthropic.",
+    "description": "AI companies are stripping universities of their best researchers.",
     "author": "Lila ShroffandRose Horowitch",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/JVsqmI6uyNpN4aMVnLWjP89zNLY=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_15_Silicon_Valley_Acadamia/original.png"
@@ -150,13 +158,5 @@
     "author": "James Parker",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/2UAyKSzwWOwPXqCr8p7DEO48ekc=/207x0:2456x1500/210x140/media/img/2026/07/16X9_CC_Widows_Bay/original.jpg"
-  },
-  {
-    "title": "AtlanticTrivia: Your Own Odyssey",
-    "url": "https://www.theatlantic.com/trivia/2026/07/20-odyssey-christopher-nolan-smithsonian-virus-congo/687981/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Drew Goins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/pO2KxeHMRykwTOmmEOkO0TZP8ug=/151x0:1771x1080/210x140/media/img/mt/2026/07/trivia_yellow-2/original.jpg"
   }
 ]
