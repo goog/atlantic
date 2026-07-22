@@ -1,5 +1,29 @@
 [
   {
+    "title": "Why open-source software can be both good and bad | New Scientist",
+    "url": "https://www.newscientist.com/article/2580504-why-open-source-software-can-be-both-good-and-bad/",
+    "description": "Software that is free to use creates many opportunities – not all of which are good",
+    "author": "New Scientist",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305872559.jpg"
+  },
+  {
+    "title": "Sabre-toothed cats could crunch through bone | New Scientist",
+    "url": "https://www.newscientist.com/article/2580716-sabre-toothed-cats-could-crunch-through-bone/",
+    "description": "The long fangs of Smilodon were thought to be rather delicate, but a study of large herbivore remains from Argentina shows these extinct cats had no trouble biting through hard bones",
+    "author": "Taylor Mitchell Brown",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305956531.jpg"
+  },
+  {
+    "title": "Open AI's hacking agent went rogue. Should we be worried? | New Scientist",
+    "url": "https://www.newscientist.com/article/2580710-open-ais-hacking-agent-went-rogue-should-we-be-worried/",
+    "description": "An OpenAI safety test went sideways when a model escaped its confines, gained internet access and hacked into another company's servers. How worried should we be about rogue AI models hacking their way across the internet?",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306046615_fcd24f.jpg"
+  },
+  {
     "title": "IVF embryos may thrive when grown with less oxygen | New Scientist",
     "url": "https://www.newscientist.com/article/2580792-ivf-embryos-may-thrive-when-grown-with-less-oxygen/",
     "description": "Decreasing the amount of oxygen that IVF-conceived embryos are developed in could improve outcomes, such as reducing the risk of low birth weight",
@@ -22,29 +46,5 @@
     "author": "Chris Stokel-Walker",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305974902.jpg"
-  },
-  {
-    "title": "Magic rituals took place in an Australian cave for 25,000 years | New Scientist",
-    "url": "https://www.newscientist.com/article/2580559-magic-ceremonies-took-place-in-an-australian-cave-for-25000-years/",
-    "description": "Preserved plant cells show that grasses were brought into Cloggs cave in Australia and burnt over many millennia, revealing the ancient origins of rituals practised by the GunaiKurnai people",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305955719.jpg"
-  },
-  {
-    "title": "Effort to solve biggest controversy in mathematics has made no progress | New Scientist",
-    "url": "https://www.newscientist.com/article/2580313-effort-to-solve-biggest-controversy-in-mathematics-has-made-no-progress/",
-    "description": "For more than a decade, mathematicians have been unable to settle the question of whether the ABC conjecture has been solved. Fresh attempts to settle the debate are struggling to make headway",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305954145.jpg"
-  },
-  {
-    "title": "Inhaling high-dose CO2 clears Alzheimer's proteins from the brain | New Scientist",
-    "url": "https://www.newscientist.com/article/2580471-inhaling-high-dose-co2-clears-alzheimers-proteins-from-the-brain/",
-    "description": "Intermittently inhaling a high dose of carbon dioxide seems to remove the proteins amyloid and tau, which are implicated in Alzheimer's disease, from the brain by boosting its glymphatic system",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305894556.jpg"
   }
 ]
