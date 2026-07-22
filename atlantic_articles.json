@@ -1,5 +1,21 @@
 [
   {
+    "title": "Dave Eggers Debates Himself",
+    "url": "https://www.theatlantic.com/books/2026/07/dave-eggers-contrapposto-review/688015/",
+    "description": "In his new novel,Contrapposto, the author wonders whether artists should shun institutions or build them.",
+    "author": "Tope Folarin",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/MsSNqOcruvbmaxUMjwggw25P0tA=/464x1399:2159x2529/210x140/media/img/mt/2026/07/2026_07_13_Contrapposto_final/original.jpg"
+  },
+  {
+    "title": "TheTop Gun: MaverickTheory of Pete Hegseth",
+    "url": "https://www.theatlantic.com/national-security/2026/07/top-gun-hegseth-pentagon-leadership/687997/",
+    "description": "Like Tom Cruise in the movie, the defense secretary appears stuck in his past.",
+    "author": "Missy Ryan",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/K5fnHlCnsvdlh1ro81OlGTTuHmY=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_18_HegsethTopGun/original.jpg"
+  },
+  {
     "title": "AtlanticTrivia: The Geologic Record",
     "url": "https://www.theatlantic.com/trivia/2026/07/22-air-quality-smoke-dinosaurs-amitav-ghosh-geology/688017/",
     "description": "Test your knowledge—and read our stories for a little extra help.",
@@ -142,21 +158,5 @@
     "author": "Alan Taylor",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/-RPR5aVX0AyLRBWr2x2pikVYz5k=/75x0:1552x985/210x140/media/img/mt/2026/07/a01_11i106/original.jpg"
-  },
-  {
-    "title": "‘Turning Up the Heat on the Streets’",
-    "url": "https://www.theatlantic.com/podcasts/2026/07/ra-dhsice/687971/",
-    "description": "The problem with ICE and traffic stops",
-    "author": "Hanna Rosin",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/vaw_OJMr8rxF9Q_U0QEXIeGMWpU=/0x0:3375x2250/210x140/media/img/mt/2026/07/2026_07_17_ICE_shooting_RA_Horizontal/original.jpg"
-  },
-  {
-    "title": "The World Cup Could Not Be Americanized",
-    "url": "https://www.theatlantic.com/culture/2026/07/world-cup-spain-argentina/688000/",
-    "description": "Spain’s 1–0 win over Argentina demonstrated all of the ways that this sport is still foreign in the United States.",
-    "author": "Sally Jenkins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/QsWSQXBnrs6fiwAWhAEdj1_Gbc8=/299x0:3553x2169/210x140/media/img/mt/2026/07/2026_07_19_There_Was_Really_No_American_izing_the_World_Cup/original.jpg"
   }
 ]

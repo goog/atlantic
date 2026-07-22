@@ -1,5 +1,21 @@
 [
   {
+    "title": "IVF embryos may thrive when grown with less oxygen | New Scientist",
+    "url": "https://www.newscientist.com/article/2580792-ivf-embryos-may-thrive-when-grown-with-less-oxygen/",
+    "description": "Decreasing the amount of oxygen that IVF-conceived embryos are developed in could improve outcomes, such as reducing the risk of low birth weight",
+    "author": "Sophie Fessl",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306061685.jpg"
+  },
+  {
+    "title": "Phone breathalyser can detect when your body switches to burning fat | New Scientist",
+    "url": "https://www.newscientist.com/article/2580739-breathalyser-detects-when-your-body-is-burning-fat/",
+    "description": "A handheld breathalyser picks up on a molecule called acetone, revealing that your body is using fat for energy",
+    "author": "Linda Geddes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306043464.jpg"
+  },
+  {
     "title": "China is trying to regulate relationships with AI – can it work? | New Scientist",
     "url": "https://www.newscientist.com/article/2580736-china-is-trying-to-regulate-relationships-with-ai-can-it-work/",
     "description": "China is the first country to enact substantial legislation on AI relationships in an effort to protect people from the worst aspects of digital companions",
@@ -30,21 +46,5 @@
     "author": "Carissa Wong",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305894556.jpg"
-  },
-  {
-    "title": "AI's solution to 87-year-old riddle takes mathematicians by surprise | New Scientist",
-    "url": "https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/",
-    "description": "Mathematicians have been trying to prove the Jacobian conjecture for nearly a century, but now the Claude Fable 5 AI has apparently found a counterexample that disproves it",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305891020.jpg"
-  },
-  {
-    "title": "Cloudy skies have slowed global warming – but that may be changing | New Scientist",
-    "url": "https://www.newscientist.com/article/2580307-cloudy-skies-have-slowed-global-warming-but-that-may-be-changing/",
-    "description": "Low cloud cover has been expanding since 1979, reflecting more sunlight into space, but scientists expect that trend to reverse and accelerate global warming",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305869103.jpg"
   }
 ]
