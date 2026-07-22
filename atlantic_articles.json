@@ -1,8 +1,24 @@
 [
   {
-    "title": "The Scariest Part of OpenAI’s Hugging Face Hack",
+    "title": "The Worst Part of the Cyclosporiasis Response",
+    "url": "https://www.theatlantic.com/health/2026/07/cyclosporiasis-false-positive-communications/688024/",
+    "description": "As the government began to figure out why people were getting sick, the messaging got only worse.",
+    "author": "Nicholas Florko",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Dhw3sQodVRvYdwZcNTKtj_cF1ws=/378x0:4428x2700/210x140/media/img/mt/2026/07/2026_07_22_Cyclospora_What_Now_1/original.jpg"
+  },
+  {
+    "title": "The American People Need the Truth About the Iran War",
+    "url": "https://www.theatlantic.com/ideas/2026/07/trump-iran-conflict-pentagon/688026/",
+    "description": "The president and the Pentagon are not being up front about what has happened in more than 20 weeks of hostilities.",
+    "author": "Tom Nichols",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/l8ZbI3j9gCa6dxfVmLcYdCCu7cY=/170x0:3545x2250/210x140/media/img/mt/2026/07/2026_07_21_The_American_People_Are_Being_Lied_To_About_Iran/original.jpg"
+  },
+  {
+    "title": "A Startling Glimpse at AI’s Ruthless Efficiency",
     "url": "https://www.theatlantic.com/technology/2026/07/openai-hugging-face-hack/688025/",
-    "description": "Ruthless efficiency has its drawbacks.",
+    "description": "The Hugging Face hack reveals that the web is in a vulnerable new era.",
     "author": "Matteo Wong",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/zuexyC61AEtRxMiymXmm0SqeQ04=/109x0:1291x788/210x140/media/img/mt/2026/07/2026_07_22_AI_mpg.aep/original.gif"
@@ -48,9 +64,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/UvxpTKis-YUfNxeu7kD0HAo7EP4=/155x0:1842x1125/210x140/media/img/mt/2026/07/AbolishTheSenate/original.png"
   },
   {
-    "title": "Maine Is a Mess",
+    "title": "One Morning of Controlled Chaos in Maine",
     "url": "https://www.theatlantic.com/politics/2026/07/maine-senate-troy-jackson-susan-collins/688007/",
-    "description": "",
+    "description": "Replacing a Senate candidate is messy, but so is democracy.",
     "author": "Elaine Godfrey",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/xccYCvPqFpACo3xxlqU9Ezu11rY=/112x1680:2740x3432/210x140/media/img/mt/2026/07/Atlantic_MaineDelegates_Klos_0171/original.jpg"
@@ -142,21 +158,5 @@
     "author": "Alexandra Tremayne-Pengelly",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/xPA4gPRIXJh4AEi7cfA9zXifGWM=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_16_tremayne_pengelly_metal_cards_trials-1/original.jpg"
-  },
-  {
-    "title": "The DSA Is a Parasite",
-    "url": "https://www.theatlantic.com/ideas/2026/07/dsa-socialist-leftist-takeover/687989/",
-    "description": "The left-wing faction is hijacking the Democratic Party.",
-    "author": "James Kirchick",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/ACnIb_WkL63kIMoZ-VdtLkIu8wA=/345x243:1650x1113/210x140/media/img/mt/2026/07/2026_07_14_Kirchick_hostile_takeover_of_Dems_final/original.jpg"
-  },
-  {
-    "title": "Trump Is Caught in the Trap He Set",
-    "url": "https://www.theatlantic.com/newsletters/2026/07/trump-is-caught-in-iran-war/688006/",
-    "description": "The war in Iran has dealt a serious blow to the idea that the president can slip out of any bind easily.",
-    "author": "David A. Graham",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/TKS6mRZgBHt8KjoPaLQIIfnK23U=/225x0:2655x1620/210x140/media/newsletters/2026/07/2026_07_20_The_Iran_War_Broke_Trumps_Aura_of_Invincibility_2283706208/original.jpg"
   }
 ]
