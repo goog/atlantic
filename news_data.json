@@ -1,5 +1,13 @@
 [
   {
+    "title": "Magic rituals took place in an Australian cave for 25,000 years | New Scientist",
+    "url": "https://www.newscientist.com/article/2580559-magic-ceremonies-took-place-in-an-australian-cave-for-25000-years/",
+    "description": "Preserved plant cells show that grasses were brought into Cloggs cave in Australia and burnt over many millennia, revealing the ancient origins of rituals practised by the GunaiKurnai people",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305955719.jpg"
+  },
+  {
     "title": "Effort to solve biggest controversy in mathematics has made no progress | New Scientist",
     "url": "https://www.newscientist.com/article/2580313-effort-to-solve-biggest-controversy-in-mathematics-has-made-no-progress/",
     "description": "For more than a decade, mathematicians have been unable to settle the question of whether the ABC conjecture has been solved. Fresh attempts to settle the debate are struggling to make headway",
@@ -38,13 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305290666.jpg"
-  },
-  {
-    "title": "Supplement that binds to microplastics may remove them from our body | New Scientist",
-    "url": "https://www.newscientist.com/article/2580139-supplement-that-binds-to-microplastics-may-remove-them-from-our-body/",
-    "description": "A supplement comprised of dead bacteria seems to remove microplastics, and prevent their absorption into cells, by attracting them to the bacteria's rough surfaces",
-    "author": "Helen Thomson",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305399422.jpg"
   }
 ]
