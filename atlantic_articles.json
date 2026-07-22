@@ -1,5 +1,21 @@
 [
   {
+    "title": "AtlanticTrivia: The Geologic Record",
+    "url": "https://www.theatlantic.com/trivia/2026/07/22-air-quality-smoke-dinosaurs-amitav-ghosh-geology/688017/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/VJP4RRIlwzEvDlDEoqiKMJ3SfgA=/152x0:1772x1080/210x140/media/img/mt/2026/07/trivia_green-3/original.png"
+  },
+  {
+    "title": "The DSA Isn’t Wrong About Everything",
+    "url": "https://www.theatlantic.com/ideas/2026/07/senate-representation-undemocratic-imbalance/688012/",
+    "description": "",
+    "author": "Jonathan Chait",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/UvxpTKis-YUfNxeu7kD0HAo7EP4=/155x0:1842x1125/210x140/media/img/mt/2026/07/AbolishTheSenate/original.png"
+  },
+  {
     "title": "A Morning of Controlled Chaos in Maine",
     "url": "https://www.theatlantic.com/politics/2026/07/maine-senate-troy-jackson-susan-collins/688007/",
     "description": "",
@@ -142,21 +158,5 @@
     "author": "Sally Jenkins",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/QsWSQXBnrs6fiwAWhAEdj1_Gbc8=/299x0:3553x2169/210x140/media/img/mt/2026/07/2026_07_19_There_Was_Really_No_American_izing_the_World_Cup/original.jpg"
-  },
-  {
-    "title": "The Crisis That Novelists Can’t Handle",
-    "url": "https://www.theatlantic.com/books/2026/07/amitav-ghosh-ghost-eye-review-climate-change/687993/",
-    "description": "Amitav Ghosh believes that climate change requires rethinking the novel. His new work of fiction fails that standard.",
-    "author": "Robert Rubsam",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/8RI2Pxl74CjNzkjGdH-hPKHkCGQ=/123x0:1810x1125/210x140/media/img/mt/2026/07/Final_16x9/original.png"
-  },
-  {
-    "title": "The Wingman",
-    "url": "https://www.theatlantic.com/politics/2026/07/mark-kelly-hegseth-trump/687860/",
-    "description": "Mark Kelly’s résumé and the goodwill he’s accrued as Gabby Giffords’s spouse have granted him a high level of admiration. Can it translate to excitement for a presidential campaign?",
-    "author": "Mark Leibovich",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/1CoaMqzu_0Lk3168aG9NCbCqfkU=/58x582:2270x2057/210x140/media/img/mt/2026/07/2026_07_09_mark_kelly_00030/original.jpg"
   }
 ]
