@@ -1,5 +1,13 @@
 [
   {
+    "title": "The Scariest Part of OpenAI’s Hugging Face Hack",
+    "url": "https://www.theatlantic.com/technology/2026/07/openai-hugging-face-hack/688025/",
+    "description": "Ruthless efficiency has its drawbacks.",
+    "author": "Matteo Wong",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/zuexyC61AEtRxMiymXmm0SqeQ04=/109x0:1291x788/210x140/media/img/mt/2026/07/2026_07_22_AI_mpg.aep/original.gif"
+  },
+  {
     "title": "Why Are Groceries So Expensive?",
     "url": "https://www.theatlantic.com/podcasts/2026/07/david-frum-show-vincent-smith-grocery-prices/688022/",
     "description": "Vincent Smith on rising grocery prices and whether there will be relief anytime soon. Plus: Trump’s broken economic policies and Edith Hamilton’sMythology.",
@@ -150,13 +158,5 @@
     "author": "David A. Graham",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/TKS6mRZgBHt8KjoPaLQIIfnK23U=/225x0:2655x1620/210x140/media/newsletters/2026/07/2026_07_20_The_Iran_War_Broke_Trumps_Aura_of_Invincibility_2283706208/original.jpg"
-  },
-  {
-    "title": "The ‘Hair-Dryer Incident’ Is Just the Start",
-    "url": "https://www.theatlantic.com/technology/2026/07/prediction-market-outsider-trading/687975/",
-    "description": "A new, gonzo style of fraud could be an existential threat to prediction markets.",
-    "author": "Kaitlyn Tiffany",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/gwmfaXJdCeg_bFD0BbOCndHnXIE=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_15_market_mpg_landscape/original.gif"
   }
 ]
