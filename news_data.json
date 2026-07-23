@@ -1,5 +1,29 @@
 [
   {
+    "title": "Can sounds make plants grow bigger? A start-up says they can | New Scientist",
+    "url": "https://www.newscientist.com/article/2581022-can-sounds-make-plants-grow-bigger-a-start-up-says-they-can/",
+    "description": "Haivya has developed acoustic signals designed to influence plant development, and its trials reportedly show large yield increases in soybean, pepper and cannabis crops",
+    "author": "Vanessa Bates Ramirez",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305960378.jpg"
+  },
+  {
+    "title": "Fields medal 2026: Work on unifying laws of physics wins maths prize | New Scientist",
+    "url": "https://www.newscientist.com/article/2580296-fields-medal-2026-work-on-unifying-laws-of-physics-wins-maths-prize/",
+    "description": "Mathematicians who helped unify laws of physics and cracked decades-old problems in geometry are among this year's recipients of the Fields medal",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305883935.jpg"
+  },
+  {
+    "title": "Dark energy doesn't exist, claims controversial paper | New Scientist",
+    "url": "https://www.newscientist.com/article/2580973-dark-energy-doesnt-exist-claims-controversial-paper/",
+    "description": "An analysis of supernovae argues that the universe’s expansion is not speeding up, so there is no need for dark energy to exist to explain it",
+    "author": "Matt von Hippel",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_304507925.jpg"
+  },
+  {
     "title": "Orcas filmed making sunfish explode by ramming them at high speed | New Scientist",
     "url": "https://www.newscientist.com/article/2580817-orcas-filmed-making-sunfish-explode-by-ramming-it-at-high-speed/",
     "description": "Orcas have been seen smashing into sharp-tail sunfish so hard that the fish bursts into thousands of fragments, perhaps as a form of play as well as food processing",
@@ -22,29 +46,5 @@
     "author": "Taylor Mitchell Brown",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305956531.jpg"
-  },
-  {
-    "title": "Open AI's hacking agent went rogue. Should we be worried? | New Scientist",
-    "url": "https://www.newscientist.com/article/2580710-open-ais-hacking-agent-went-rogue-should-we-be-worried/",
-    "description": "An OpenAI safety test went sideways when a model escaped its confines, gained internet access and hacked into another company's servers. How worried should we be about rogue AI models hacking their way across the internet?",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306046615_fcd24f.jpg"
-  },
-  {
-    "title": "IVF embryos may thrive when grown with less oxygen | New Scientist",
-    "url": "https://www.newscientist.com/article/2580792-ivf-embryos-may-thrive-when-grown-with-less-oxygen/",
-    "description": "Decreasing the amount of oxygen that IVF-conceived embryos are developed in could improve outcomes, such as reducing the risk of low birth weight",
-    "author": "Sophie Fessl",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306061685.jpg"
-  },
-  {
-    "title": "Phone breathalyser can detect when your body switches to burning fat | New Scientist",
-    "url": "https://www.newscientist.com/article/2580739-breathalyser-detects-when-your-body-is-burning-fat/",
-    "description": "A handheld breathalyser picks up on a molecule called acetone, revealing that your body is using fat for energy",
-    "author": "Linda Geddes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306043464.jpg"
   }
 ]

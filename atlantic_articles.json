@@ -1,6 +1,14 @@
 [
   {
-    "title": "Gen Z’s ‘Jolene’ Is Here",
+    "title": "Is the Age of Reading Over?",
+    "url": "https://www.theatlantic.com/podcasts/2026/07/age-reading-over-postliterate/688013/",
+    "description": "Rose Horowitch on her cover story and what happens when a society becomes “postliterate”",
+    "author": "Hanna Rosin",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/AjE5TdTshb3sbrbXkA0jhPytnhc=/0x0:3375x2250/210x140/media/img/mt/2026/07/2026_07_21_Rose_on_Reading_RA_Horizontal/original.jpg"
+  },
+  {
+    "title": "Music’s New Superstar Is Here—And She’s Rather Relaxed",
     "url": "https://www.theatlantic.com/culture/2026/07/ella-langley-gen-z-popular/688027/",
     "description": "Ella Langley’s country music offers an appealing commodity for this moment: moderation.",
     "author": "Spencer Kornhaber",
@@ -19,14 +27,14 @@
     "title": "The New Chilling Effect",
     "url": "https://www.theatlantic.com/ideas/2026/07/high-school-students-free-speech-protest/688028/",
     "description": "Too many institutions are teaching young people to stay quiet.",
-    "author": "Jacob Blane,Annabelle Garland,andSam Gross",
+    "author": "Jacob Blane,Annabelle Garland,  andSam Gross",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/3dsZ_j9XlYpXiI1Zr9bfuKcXAcg=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_21_Institution_censorship_3/original.jpg"
   },
   {
     "title": "The Other Victims of a Wrongful Conviction",
     "url": "https://www.theatlantic.com/ideas/2026/07/wrongful-conviction-family/687394/",
-    "description": "For years, I reported on one man’s wrongful incarceration—and ignored the stories of a grieving family who thought they had gotten justice.",
+    "description": "For years, I reported on one man’s incarceration for a crime he didn’t commit—and ignored the stories of a grieving family who thought they had gotten justice.",
     "author": "Barbara Bradley Hagerty",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/7mPeuudLlCKmPQkRp97HP2HlDcQ=/111x842:2566x2479/210x140/media/img/mt/2026/06/260130_JAY_008-1/original.jpg"
@@ -150,13 +158,5 @@
     "author": "Brynn Tannehill",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/sUCO0UlWRWB-0tdXmCUbq_fgYio=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_20_hegseth_endangers_public_safety_2236282969/original.jpg"
-  },
-  {
-    "title": "The Lines the Court Won’t Cross",
-    "url": "https://www.theatlantic.com/ideas/2026/07/scotus-birthright-citizenship-trump/687797/",
-    "description": "The Supreme Court is mostly giving the Trump administration what it wants—with interesting exceptions.",
-    "author": "Aziz Huq",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/_mV10lF86Z1wl3C4OWqJFvkwljw=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_02_Where_the_Court_Draws_a_Line/original.jpg"
   }
 ]
