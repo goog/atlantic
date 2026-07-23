@@ -1,5 +1,13 @@
 [
   {
+    "title": "This El Niño will be the hottest by a huge margin | New Scientist",
+    "url": "https://www.newscientist.com/article/2581151-this-el-nino-will-be-the-hottest-by-a-huge-margin/",
+    "description": "The super El Niño now developing in the tropical Pacific has a 90 per cent chance of becoming the strongest in 150 years, breaking global temperature records and unleashing extreme weather",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306139086.jpg"
+  },
+  {
     "title": "Extremely basic AI prompt cracks decades-old maths problem | New Scientist",
     "url": "https://www.newscientist.com/article/2580932-extremely-basic-ai-prompt-cracks-decades-old-maths-problem/",
     "description": "For the second time in a week, a long-standing conjecture has been disproved by artificial intelligence, highlighting the advanced mathematical capabilities of ChatGPT and its ilk",
@@ -38,13 +46,5 @@
     "author": "Christa Lesté-Lasserre",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306060654.jpg"
-  },
-  {
-    "title": "Why open-source software can be both good and bad | New Scientist",
-    "url": "https://www.newscientist.com/article/2580504-why-open-source-software-can-be-both-good-and-bad/",
-    "description": "Software that is free to use creates many opportunities – not all of which are good",
-    "author": "New Scientist",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305872559.jpg"
   }
 ]
