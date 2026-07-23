@@ -1,5 +1,37 @@
 [
   {
+    "title": "Gen Z’s ‘Jolene’ Is Here",
+    "url": "https://www.theatlantic.com/culture/2026/07/ella-langley-gen-z-popular/688027/",
+    "description": "Ella Langley’s country music offers an appealing commodity for this moment: moderation.",
+    "author": "Spencer Kornhaber",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/soO3N5fqiaJvnurq5c0kxTCvp9s=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_21_his_Superstars_Edge_Is_That_She_Doesnt_Have_One/original.jpg"
+  },
+  {
+    "title": "AtlanticTrivia: Admitted Into the Union",
+    "url": "https://www.theatlantic.com/trivia/2026/07/23-senate-congress-trump-arch-credit-cards-finance/688029/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/gV7nm-aK3UHULN9qaB3XN2I4fGY=/149x0:1770x1081/210x140/media/img/mt/2026/07/trivia_purple-3/original.png"
+  },
+  {
+    "title": "The New Chilling Effect",
+    "url": "https://www.theatlantic.com/ideas/2026/07/high-school-students-free-speech-protest/688028/",
+    "description": "Too many institutions are teaching young people to stay quiet.",
+    "author": "Jacob Blane,Annabelle Garland,andSam Gross",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/3dsZ_j9XlYpXiI1Zr9bfuKcXAcg=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_21_Institution_censorship_3/original.jpg"
+  },
+  {
+    "title": "The Other Victims of a Wrongful Conviction",
+    "url": "https://www.theatlantic.com/ideas/2026/07/wrongful-conviction-family/687394/",
+    "description": "For years, I reported on one man’s wrongful incarceration—and ignored the stories of a grieving family who thought they had gotten justice.",
+    "author": "Barbara Bradley Hagerty",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/7mPeuudLlCKmPQkRp97HP2HlDcQ=/111x842:2566x2479/210x140/media/img/mt/2026/06/260130_JAY_008-1/original.jpg"
+  },
+  {
     "title": "The Smithsonian’s Show Trial on Capitol Hill",
     "url": "https://www.theatlantic.com/culture/2026/07/smithsonian-hearing-hartig/688031/",
     "description": "Republicans grilled a museum head, intensifying Donald Trump’s campaign to reshape the American story.",
@@ -126,37 +158,5 @@
     "author": "Aziz Huq",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/_mV10lF86Z1wl3C4OWqJFvkwljw=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_02_Where_the_Court_Draws_a_Line/original.jpg"
-  },
-  {
-    "title": "The Secretary of Homeland",
-    "url": "https://www.theatlantic.com/politics/2026/07/markwayne-mullin-secretary-homeland-security-ice/687868/",
-    "description": "How Markwayne Mullin went from Indian Country to Trump’s immigration enforcer",
-    "author": "Nick Miroff",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Qh4V2NpNO47teklCAprbrM9HmNA=/292x0:2722x1620/210x140/media/img/mt/2026/07/2026_07_09_markwayne_mullen_1/original.jpg"
-  },
-  {
-    "title": "The AI Bubble Is No Ordinary Bubble",
-    "url": "https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/",
-    "description": "Tech companies need to generate huge revenues fast, or the economy could be in trouble.",
-    "author": "Annie Lowrey",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/E7r28sgugV2sdvWnj8IPe-eMaxY=/293x0:3433x2093/210x140/media/img/mt/2026/07/2026_07_22_Why_the_AI_Bubble_Is_Totally_Different_Annie_Lowrey/original.jpg"
-  },
-  {
-    "title": "Few Know About This Law, but Everyone Is Paying for It",
-    "url": "https://www.theatlantic.com/ideas/2026/07/jones-act-domestic-commerce/688003/",
-    "description": "The past few months have shown just how anachronistic and costly the Jones Act is.",
-    "author": "James Surowiecki",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/XZUXa37hpV894vxbdXe1sN7fAC4=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_06_18_shipping_mpg/original.jpg"
-  },
-  {
-    "title": "AtlanticTrivia: Poor Form and Banned Books",
-    "url": "https://www.theatlantic.com/trivia/2026/07/21-pete-hegseth-dua-lipa-banned-books-john-hughes/688005/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Drew Goins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/2vXA5Y7EWtEtpE4nUaw1an13G_g=/149x0:1770x1080/210x140/media/img/mt/2026/07/trivia_peach-2/original.png"
   }
 ]
