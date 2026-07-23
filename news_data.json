@@ -1,5 +1,13 @@
 [
   {
+    "title": "Extremely basic AI prompt cracks decades-old maths problem | New Scientist",
+    "url": "https://www.newscientist.com/article/2580932-extremely-basic-ai-prompt-cracks-decades-old-maths-problem/",
+    "description": "For the second time in a week, a long-standing conjecture has been disproved by artificial intelligence, highlighting the advanced mathematical capabilities of ChatGPT and its ilk",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306155806.jpg"
+  },
+  {
     "title": "Can sounds make plants grow bigger? A start-up says they can | New Scientist",
     "url": "https://www.newscientist.com/article/2581022-can-sounds-make-plants-grow-bigger-a-start-up-says-they-can/",
     "description": "Haivya has developed acoustic signals designed to influence plant development, and its trials reportedly show large yield increases in soybean, pepper and cannabis crops",
@@ -38,13 +46,5 @@
     "author": "New Scientist",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305872559.jpg"
-  },
-  {
-    "title": "Sabre-toothed cats could crunch through bone | New Scientist",
-    "url": "https://www.newscientist.com/article/2580716-sabre-toothed-cats-could-crunch-through-bone/",
-    "description": "The long fangs of Smilodon were thought to be rather delicate, but a study of large herbivore remains from Argentina shows these extinct cats had no trouble biting through hard bones",
-    "author": "Taylor Mitchell Brown",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305956531.jpg"
   }
 ]
