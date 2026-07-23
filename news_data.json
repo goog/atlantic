@@ -1,5 +1,13 @@
 [
   {
+    "title": "Orcas filmed making sunfish explode by ramming them at high speed | New Scientist",
+    "url": "https://www.newscientist.com/article/2580817-orcas-filmed-making-sunfish-explode-by-ramming-it-at-high-speed/",
+    "description": "Orcas have been seen smashing into sharp-tail sunfish so hard that the fish bursts into thousands of fragments, perhaps as a form of play as well as food processing",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306060654.jpg"
+  },
+  {
     "title": "Why open-source software can be both good and bad | New Scientist",
     "url": "https://www.newscientist.com/article/2580504-why-open-source-software-can-be-both-good-and-bad/",
     "description": "Software that is free to use creates many opportunities – not all of which are good",
@@ -38,13 +46,5 @@
     "author": "Linda Geddes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306043464.jpg"
-  },
-  {
-    "title": "China is trying to regulate relationships with AI – can it work? | New Scientist",
-    "url": "https://www.newscientist.com/article/2580736-china-is-trying-to-regulate-relationships-with-ai-can-it-work/",
-    "description": "China is the first country to enact substantial legislation on AI relationships in an effort to protect people from the worst aspects of digital companions",
-    "author": "Chris Stokel-Walker",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305974902.jpg"
   }
 ]
