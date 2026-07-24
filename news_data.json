@@ -1,5 +1,13 @@
 [
   {
+    "title": "Clothes made from living fungi can clean and repair themselves | New Scientist",
+    "url": "https://www.newscientist.com/article/2581227-clothes-made-from-living-fungi-can-clean-and-repair-themselves/",
+    "description": "Researchers have created a textile made from the parasitic fungus Cordyceps militaris, which is biodegradable and can be adapted for different purposes with various microbes",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306130565.jpg"
+  },
+  {
     "title": "Having a young biological age could help with weight loss | New Scientist",
     "url": "https://www.newscientist.com/article/2581243-having-a-young-biological-age-could-help-with-weight-loss/",
     "description": "In a small study, restricting calories led to greater weight loss among people with a biological age younger than their chronological age",
@@ -38,13 +46,5 @@
     "author": "Alec Luhn",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306225296.jpg"
-  },
-  {
-    "title": "Extremely basic AI prompt cracks decades-old maths problem | New Scientist",
-    "url": "https://www.newscientist.com/article/2580932-extremely-basic-ai-prompt-cracks-decades-old-maths-problem/",
-    "description": "For the second time in a week, a long-standing conjecture has been disproved by artificial intelligence, highlighting the advanced mathematical capabilities of ChatGPT and its ilk",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306155806.jpg"
   }
 ]

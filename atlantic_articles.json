@@ -1,5 +1,37 @@
 [
   {
+    "title": "What Climate Fiction Should Accomplish",
+    "url": "https://www.theatlantic.com/newsletters/2026/07/books-briefing-climate-fiction-accomplish/688057/",
+    "description": "Can a novel capture the shock of planetary instability?",
+    "author": "Emma Sarappo",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/YdAqd9SRUwwuTFmLOPYGyxXUWac=/156x0:1843x1125/210x140/media/newsletters/2026/07/2026_7_24_The_Books_Briefing_What_climate_fiction_should_accomplish/original.jpg"
+  },
+  {
+    "title": "Is AI the End of Cheap Tech?",
+    "url": "https://www.theatlantic.com/podcasts/2026/07/why-ai-is-making-things-more-expensive/688055/",
+    "description": "How the AI-driven memory crisis affects us all",
+    "author": "Charlie Warzel",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/jXVU5NqpSfzr4ZuQoa9KQpYbv7o=/155x0:1842x1125/210x140/media/img/mt/2026/07/GB_Ollie_260724-1/original.jpg"
+  },
+  {
+    "title": "Remember Tesla?",
+    "url": "https://www.theatlantic.com/technology/2026/07/tesla-elon-musk-comeback-cars/688056/",
+    "description": "Elon Musk’s company is quietly becoming even more important to the future of electric cars in America.",
+    "author": "Tim Levin",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/qQqlA0ysorwxIOJQPZ9Gi8sApNA=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_23_musk_mpg/original.jpg"
+  },
+  {
+    "title": "America Is About to Go Over a Peptide Cliff",
+    "url": "https://www.theatlantic.com/health/2026/07/peptide-bpc157-fda-compounding-pharmacy/688052/",
+    "description": "Popular gray-market drugs may soon be easy to get through mainstream channels.",
+    "author": "Tom Bartlett",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/M7Vw4uj6Z-RLw0gEsD2GBSYSg0E=/155x0:1842x1125/210x140/media/img/mt/2026/07/PeptideGoldRush/original.png"
+  },
+  {
     "title": "Photos of the Week: Alpine Swing, Disaster Simulation, Lumberjack Championship",
     "url": "https://www.theatlantic.com/photography/2026/07/photos-of-the-week-alpine-swing-disaster-simulation-lumberjack-championship/688039/",
     "description": "A medieval full-contact-combat exhibition in France, celebrations in Spain after its World Cup win, scenes from the ongoing Tour de France cycling race, and much more",
@@ -126,37 +158,5 @@
     "author": "Hanna Rosin",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/AjE5TdTshb3sbrbXkA0jhPytnhc=/0x0:3375x2250/210x140/media/img/mt/2026/07/2026_07_21_Rose_on_Reading_RA_Horizontal/original.jpg"
-  },
-  {
-    "title": "Music’s New Superstar Is Here—And She’s Rather Relaxed",
-    "url": "https://www.theatlantic.com/culture/2026/07/ella-langley-gen-z-popular/688027/",
-    "description": "Ella Langley’s country music offers an appealing commodity for this moment: moderation.",
-    "author": "Spencer Kornhaber",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/soO3N5fqiaJvnurq5c0kxTCvp9s=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_21_his_Superstars_Edge_Is_That_She_Doesnt_Have_One/original.jpg"
-  },
-  {
-    "title": "AtlanticTrivia: Admitted Into the Union",
-    "url": "https://www.theatlantic.com/trivia/2026/07/23-senate-congress-trump-arch-credit-cards-finance/688029/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Drew Goins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/gV7nm-aK3UHULN9qaB3XN2I4fGY=/149x0:1770x1081/210x140/media/img/mt/2026/07/trivia_purple-3/original.png"
-  },
-  {
-    "title": "The New Chilling Effect",
-    "url": "https://www.theatlantic.com/ideas/2026/07/high-school-students-free-speech-protest/688028/",
-    "description": "Too many institutions are teaching young people to stay quiet.",
-    "author": "Jacob Blane,Annabelle Garland,andSam Gross",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/3dsZ_j9XlYpXiI1Zr9bfuKcXAcg=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_21_Institution_censorship_3/original.jpg"
-  },
-  {
-    "title": "The Other Victims of a Wrongful Conviction",
-    "url": "https://www.theatlantic.com/ideas/2026/07/wrongful-conviction-family/687394/",
-    "description": "For years, I reported on one man’s incarceration for a crime he didn’t commit—and ignored the stories of a grieving family who thought they had gotten justice.",
-    "author": "Barbara Bradley Hagerty",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/7mPeuudLlCKmPQkRp97HP2HlDcQ=/111x842:2566x2479/210x140/media/img/mt/2026/06/260130_JAY_008-1/original.jpg"
   }
 ]
