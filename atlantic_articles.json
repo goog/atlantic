@@ -1,5 +1,53 @@
 [
   {
+    "title": "Weather Forecasts Aren’t Made for Smoke Like This",
+    "url": "https://www.theatlantic.com/technology/2026/07/what-aqi-readings-really-mean/688048/",
+    "description": "We need a better way to know when it’s safe outside.",
+    "author": "Daniel Engber",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/asJDj1i5mrgsZm7gWHEDz6SIdCI=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_23_Forecasting_in_the_age_of_AQI/original.jpg"
+  },
+  {
+    "title": "The Eroticism Shortage",
+    "url": "https://www.theatlantic.com/family/2026/07/eroticism-esther-perel-the-invite/687872/",
+    "description": "The therapist Esther Perel believes that the sex recession isn’t just about statistics.",
+    "author": "Faith Hill",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/SIil8jPSoH0dLqBIm1xrB1z73aw=/67x0:2490x1616/210x140/media/img/mt/2026/07/TheAtlantic_Liz_7_Jul26_rt/original.jpg"
+  },
+  {
+    "title": "Why So Much Millennial Fiction Is Boring",
+    "url": "https://www.theatlantic.com/books/2026/07/jem-calder-i-want-you-to-be-happy-novel-book-review/688047/",
+    "description": "The generation’s novels tend to focus on the flatness of modern life—but alienation doesn’t have to be dull.",
+    "author": "Hillary Kelly",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/V0dix3aWeMsxGfESSvRGbpSwaTs=/395x0:4613x2812/210x140/media/img/mt/2026/07/2026_07_How_Novels_Can_Reflect_Millennial_Despair_Without_Boring_Readers/original.jpg"
+  },
+  {
+    "title": "The Social Security Reckoning Is Finally Coming",
+    "url": "https://www.theatlantic.com/ideas/2026/07/social-security-taxes-benefits/688042/",
+    "description": "Senators elected this November will be in office when America’s most popular federal program is on track to run out of money.",
+    "author": "Marc Novicoff",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/F9vwlk2Saf5OmhQIVn6PY-2rd1Q=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_22_Novicoff_Social_Security_final/original.jpg"
+  },
+  {
+    "title": "AtlanticTrivia: A Trio of Duos",
+    "url": "https://www.theatlantic.com/trivia/2026/07/24-hot-100-ella-langley-memoirs-odyssey-movie-nolan/688036/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/v7Rp01eq-1HhDzhzZZ_oGvOn7MM=/151x0:1771x1080/210x140/media/img/mt/2026/07/trivia_yellow-3/original.jpg"
+  },
+  {
+    "title": "The White House’s MAHA Gatekeeper",
+    "url": "https://www.theatlantic.com/politics/2026/07/heidi-overton-maha-rfk/688038/",
+    "description": "A policy wonk who could lead the FDA has angered “Make America Healthy Again” activists.",
+    "author": "Michael SchererandTom Bartlett",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Y9GE5bdnuyiO0DSgSUxoB08qwS0=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_17_The_White_House_Aide_Blocking_the_MAHA_Movement/original.jpg"
+  },
+  {
     "title": "No War for Old Men",
     "url": "https://www.theatlantic.com/national-security/2026/07/ukraine-war-drones-syrsky-zelensky/688045/",
     "description": "The fall of Ukraine’s top general, Oleksandr Syrsky, leaves younger officers to finish the reforms that he resisted.",
@@ -8,9 +56,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/N69mFo3AqRNpRGomWd8YXW6ijKc=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_07_24_No_War_for_Old_Men_Simon_Shuster/original.jpg"
   },
   {
-    "title": "The Informants in Mexico’s Government",
+    "title": "A Planeload of Informants",
     "url": "https://www.theatlantic.com/national-security/2026/07/mexico-informants-fbi-attack-sheinbaum/688019/",
-    "description": "The United States is intensifying its hunt for narcos south of the border. Is this all prelude to an attack?",
+    "description": "The United States is intensifying its hunt for narcos within the Mexican government. Is this all prelude to an attack?",
     "author": "Kevin Sieff",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/NNu2tmhjn81u2bxmJMoEtqPSguY=/0x0:2430x1620/210x140/media/img/mt/2026/07/2026_07_21_Mexico_government_leaders/original.jpg"
@@ -110,53 +158,5 @@
     "author": "Kelsey Ables",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/yZL0k8srotBD08Y6dROiRCv4Rc0=/310x0:3686x2250/210x140/media/img/mt/2026/07/2026_07_22_The_GOP_Puts_the_Smithsonian_on_Trial_Kelsey_Ables/original.jpg"
-  },
-  {
-    "title": "The Worst Part of the Cyclosporiasis Response",
-    "url": "https://www.theatlantic.com/health/2026/07/cyclosporiasis-false-positive-communications/688024/",
-    "description": "As the government began to figure out why people were getting sick, the messaging got only worse.",
-    "author": "Nicholas Florko",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Dhw3sQodVRvYdwZcNTKtj_cF1ws=/378x0:4428x2700/210x140/media/img/mt/2026/07/2026_07_22_Cyclospora_What_Now_1/original.jpg"
-  },
-  {
-    "title": "The American People Need the Truth About the Iran War",
-    "url": "https://www.theatlantic.com/ideas/2026/07/trump-iran-conflict-pentagon/688026/",
-    "description": "The president and the Pentagon are not being up front about what has happened in more than 20 weeks of hostilities.",
-    "author": "Tom Nichols",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/l8ZbI3j9gCa6dxfVmLcYdCCu7cY=/170x0:3545x2250/210x140/media/img/mt/2026/07/2026_07_21_The_American_People_Are_Being_Lied_To_About_Iran/original.jpg"
-  },
-  {
-    "title": "A Startling Glimpse at AI’s Ruthless Efficiency",
-    "url": "https://www.theatlantic.com/technology/2026/07/openai-hugging-face-hack/688025/",
-    "description": "The Hugging Face hack reveals that the web is in a vulnerable new era.",
-    "author": "Matteo Wong",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/zuexyC61AEtRxMiymXmm0SqeQ04=/109x0:1291x788/210x140/media/img/mt/2026/07/2026_07_22_AI_mpg.aep/original.gif"
-  },
-  {
-    "title": "Why Are Groceries So Expensive?",
-    "url": "https://www.theatlantic.com/podcasts/2026/07/david-frum-show-vincent-smith-grocery-prices/688022/",
-    "description": "Vincent Smith on rising grocery prices and whether there will be relief anytime soon. Plus: Trump’s broken economic policies and Edith Hamilton’sMythology.",
-    "author": "David Frum",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/994XnhzUTVLfq-ocVfm6lt_tg08=/151x0:1771x1080/210x140/media/img/mt/2026/07/2026_6_23_Vivian_Salama_The_David_Frum_Podcast_2/original.jpg"
-  },
-  {
-    "title": "A Novel About the Benefits—And Costs—Of Being a Rebel",
-    "url": "https://www.theatlantic.com/books/2026/07/dave-eggers-contrapposto-review/688015/",
-    "description": "Dave Eggers’s career has long balanced two major impulses. In his new book, he lets them wrestle on the page.",
-    "author": "Tope Folarin",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/MsSNqOcruvbmaxUMjwggw25P0tA=/464x1399:2159x2529/210x140/media/img/mt/2026/07/2026_07_13_Contrapposto_final/original.jpg"
-  },
-  {
-    "title": "TheTop Gun: MaverickTheory of Pete Hegseth",
-    "url": "https://www.theatlantic.com/national-security/2026/07/top-gun-hegseth-pentagon-leadership/687997/",
-    "description": "Like Tom Cruise in the movie, the defense secretary appears stuck in his past.",
-    "author": "Missy Ryan",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/K5fnHlCnsvdlh1ro81OlGTTuHmY=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_18_HegsethTopGun/original.jpg"
   }
 ]
