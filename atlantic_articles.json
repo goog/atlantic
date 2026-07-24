@@ -1,16 +1,24 @@
 [
   {
-    "title": "Weather Forecasts Aren’t Made for Smoke Like This",
+    "title": "Photos of the Week: Alpine Swing, Disaster Simulation, Lumberjack Championship",
+    "url": "https://www.theatlantic.com/photography/2026/07/photos-of-the-week-alpine-swing-disaster-simulation-lumberjack-championship/688039/",
+    "description": "A medieval full-contact-combat exhibition in France, celebrations in Spain after its World Cup win, scenes from the ongoing Tour de France cycling race, and much more",
+    "author": "Alan Taylor",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/r0RntY20lkCI8HiifSSG4WdYsDI=/0x0:5532x3688/210x140/media/img/mt/2026/07/a01_MT1PRA85374558/original.jpg"
+  },
+  {
+    "title": "Smoky Skies Are Coming Back",
     "url": "https://www.theatlantic.com/technology/2026/07/what-aqi-readings-really-mean/688048/",
-    "description": "We need a better way to know when it’s safe outside.",
+    "description": "We should really have a better way of knowing when it’s safe to go outside.",
     "author": "Daniel Engber",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/asJDj1i5mrgsZm7gWHEDz6SIdCI=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_23_Forecasting_in_the_age_of_AQI/original.jpg"
   },
   {
-    "title": "The Eroticism Shortage",
+    "title": "Too Scared for Sex",
     "url": "https://www.theatlantic.com/family/2026/07/eroticism-esther-perel-the-invite/687872/",
-    "description": "The therapist Esther Perel believes that the sex recession isn’t just about statistics.",
+    "description": "The therapist Esther Perel has a theory about America’s eroticism shortage.",
     "author": "Faith Hill",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/SIil8jPSoH0dLqBIm1xrB1z73aw=/67x0:2490x1616/210x140/media/img/mt/2026/07/TheAtlantic_Liz_7_Jul26_rt/original.jpg"
@@ -48,7 +56,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/Y9GE5bdnuyiO0DSgSUxoB08qwS0=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_17_The_White_House_Aide_Blocking_the_MAHA_Movement/original.jpg"
   },
   {
-    "title": "No War for Old Men",
+    "title": "Inside the Feud Over Ukraine’s Drone Success",
     "url": "https://www.theatlantic.com/national-security/2026/07/ukraine-war-drones-syrsky-zelensky/688045/",
     "description": "The fall of Ukraine’s top general, Oleksandr Syrsky, leaves younger officers to finish the reforms that he resisted.",
     "author": "Simon Shuster",
@@ -150,13 +158,5 @@
     "author": "Barbara Bradley Hagerty",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/7mPeuudLlCKmPQkRp97HP2HlDcQ=/111x842:2566x2479/210x140/media/img/mt/2026/06/260130_JAY_008-1/original.jpg"
-  },
-  {
-    "title": "The Smithsonian’s Show Trial on Capitol Hill",
-    "url": "https://www.theatlantic.com/culture/2026/07/smithsonian-hearing-hartig/688031/",
-    "description": "Republicans grilled a museum head, intensifying Donald Trump’s campaign to reshape the American story.",
-    "author": "Kelsey Ables",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/yZL0k8srotBD08Y6dROiRCv4Rc0=/310x0:3686x2250/210x140/media/img/mt/2026/07/2026_07_22_The_GOP_Puts_the_Smithsonian_on_Trial_Kelsey_Ables/original.jpg"
   }
 ]
