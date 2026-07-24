@@ -1,11 +1,27 @@
 [
   {
+    "title": "Most neurons seem to be jacks-of-all-trades, not specialists | New Scientist",
+    "url": "https://www.newscientist.com/article/2581104-most-neurons-seem-to-be-jacks-of-all-trades-not-specialists/",
+    "description": "We tend to think of the brain as being made up of highly specialised cells, but a study in mice suggests that most neurons are generalists",
+    "author": "Nora Bradford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306158636.jpg"
+  },
+  {
+    "title": "We now know how a black hole can be flung across the universe | New Scientist",
+    "url": "https://www.newscientist.com/article/2580928-we-now-know-how-a-black-hole-can-be-flung-across-the-universe/",
+    "description": "When researchers found evidence of a black hole flying out of its galaxy, nobody knew how that could happen. Now we have an explanation",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306151194.jpg"
+  },
+  {
     "title": "This El Niño will be the hottest by a huge margin | New Scientist",
     "url": "https://www.newscientist.com/article/2581151-this-el-nino-will-be-the-hottest-by-a-huge-margin/",
     "description": "The super El Niño now developing in the tropical Pacific has a 90 per cent chance of becoming the strongest in 150 years, breaking global temperature records and unleashing extreme weather",
     "author": "Alec Luhn",
     "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306139086.jpg"
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306225296.jpg"
   },
   {
     "title": "Extremely basic AI prompt cracks decades-old maths problem | New Scientist",
@@ -30,21 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305883935.jpg"
-  },
-  {
-    "title": "Dark energy doesn't exist, claims controversial paper | New Scientist",
-    "url": "https://www.newscientist.com/article/2580973-dark-energy-doesnt-exist-claims-controversial-paper/",
-    "description": "An analysis of supernovae argues that the universe’s expansion is not speeding up, so there is no need for dark energy to exist to explain it",
-    "author": "Matt von Hippel",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_304507925.jpg"
-  },
-  {
-    "title": "Orcas filmed making sunfish explode by ramming them at high speed | New Scientist",
-    "url": "https://www.newscientist.com/article/2580817-orcas-filmed-making-sunfish-explode-by-ramming-it-at-high-speed/",
-    "description": "Orcas have been seen smashing into sharp-tail sunfish so hard that the fish bursts into thousands of fragments, perhaps as a form of play as well as food processing",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306060654.jpg"
   }
 ]
