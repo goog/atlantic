@@ -1,5 +1,21 @@
 [
   {
+    "title": "How to Be a Tourist at Home",
+    "url": "https://www.theatlantic.com/newsletters/2026/07/tourist-at-home-recommendations/688060/",
+    "description": "You don’t have to leave town to discover something new.",
+    "author": "Rafaela Jinich",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/L90s2hIKbiV5JTw4F_RmpIp8DPY=/0x0:6000x4000/210x140/media/newsletters/2026/07/GettyImages_2279889160/original.jpg"
+  },
+  {
+    "title": "The Problem With Shutting Down ICE in Blue States",
+    "url": "https://www.theatlantic.com/politics/2026/07/ice-detention-center-protest/688035/",
+    "description": "Trump officials are happy to ship immigrants elsewhere.",
+    "author": "Nick Miroff",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/81oYlVD6dvV3S_Tp_klZM_yPLUU=/450x0:2880x1620/210x140/media/img/mt/2026/07/2026_07_24_The_Skewed_Geography_of_ICE_Detention_2/original.jpg"
+  },
+  {
     "title": "A Brief Exchange That Shows the Enormous Difference Between Trump and Obama",
     "url": "https://www.theatlantic.com/culture/2026/07/obama-caitlin-clark/688073/",
     "description": "This is what a president sounds like.",
@@ -142,21 +158,5 @@
     "author": "Tom Bartlett",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/M7Vw4uj6Z-RLw0gEsD2GBSYSg0E=/155x0:1842x1125/210x140/media/img/mt/2026/07/PeptideGoldRush/original.png"
-  },
-  {
-    "title": "Photos of the Week: Alpine Swing, Disaster Simulation, Lumberjack Championship",
-    "url": "https://www.theatlantic.com/photography/2026/07/photos-of-the-week-alpine-swing-disaster-simulation-lumberjack-championship/688039/",
-    "description": "A medieval full-contact-combat exhibition in France, celebrations in Spain after its World Cup win, scenes from the ongoing Tour de France cycling race, and much more",
-    "author": "Alan Taylor",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/r0RntY20lkCI8HiifSSG4WdYsDI=/0x0:5532x3688/210x140/media/img/mt/2026/07/a01_MT1PRA85374558/original.jpg"
-  },
-  {
-    "title": "Smoky Skies Are Coming Back",
-    "url": "https://www.theatlantic.com/technology/2026/07/what-aqi-readings-really-mean/688048/",
-    "description": "We should really have a better way of knowing when it’s safe to go outside.",
-    "author": "Daniel Engber",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/asJDj1i5mrgsZm7gWHEDz6SIdCI=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_23_Forecasting_in_the_age_of_AQI/original.jpg"
   }
 ]
