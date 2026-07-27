@@ -1,6 +1,22 @@
 [
   {
-    "title": "An Odyssey for Our Own Time",
+    "title": "A Battle for the Future of the Democratic Party",
+    "url": "https://www.theatlantic.com/podcasts/2026/07/ra-michigan/688049/",
+    "description": "What Michigan voters could tell us about the path forward for Democrats. Plus: A senator looks at Congress.",
+    "author": "Adam Harris",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/0FcCrSk0hjIlRS8LeX50M9rFBIo=/0x110:3075x2160/210x140/media/img/mt/2026/07/2026_07_24_Michigan_rac_RA_Horizontal/original.jpg"
+  },
+  {
+    "title": "Photos: Wildfires Rage Across France and Spain",
+    "url": "https://www.theatlantic.com/photography/2026/07/photos-wildfires-rage-across-france-and-spain/688077/",
+    "description": "Hundreds of thousands of residents have been evacuated from regions of France and Spain as fire crews battle dozens of wildfires—with extreme heat predicted in the coming days, threatening even more p",
+    "author": "Alan Taylor",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/UPFbdc229DpKKOWkaYo4GGd4lgw=/58x0:3344x2191/210x140/media/img/mt/2026/07/a01_G_2286804086/original.jpg"
+  },
+  {
+    "title": "AnOdysseyfor Our Own Time",
     "url": "https://www.theatlantic.com/ideas/2026/07/nolan-odysseus-morality-guilt/688076/",
     "description": "Christopher Nolanpresents a very human hero to a culture that desperately needs one.",
     "author": "Peter Wehner",
@@ -142,21 +158,5 @@
     "author": "Thomas Wright",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/J_SBCig8fmxkDfYGTkFJT6TnWWU=/316x0:3690x2249/210x140/media/img/mt/2026/07/2026_07_25_Iran_Thomas_Wright/original.jpg"
-  },
-  {
-    "title": "Public Health Needs MAHA",
-    "url": "https://www.theatlantic.com/ideas/2026/07/public-health-maha-rfk/688014/",
-    "description": "The field must swallow its pride and admit where the insurgent movement is right.",
-    "author": "Craig Spencer",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/UKiNWX6UhYc9kTGgIpQY3FhNVL8=/155x0:1842x1125/210x140/media/img/mt/2026/07/publicHealthMAHA/original.png"
-  },
-  {
-    "title": "Trump’s Trigger Warnings",
-    "url": "https://www.theatlantic.com/culture/2026/07/trump-smithsonian-signs/688069/",
-    "description": "The president is ordering new signs outside the Smithsonian to warn Americans about history.",
-    "author": "Kelsey Ables",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/F8vD8-gMvcnyfPvaBp9uQ9EaYYo=/185x0:3560x2250/210x140/media/img/mt/2026/07/2026_07_24_Trump_Orders_Trigger_Warnings_Outside_the_Smithsonian_Kelsey_Ables_sub/original.jpg"
   }
 ]

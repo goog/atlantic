@@ -1,5 +1,13 @@
 [
   {
+    "title": "We’ve found the best example yet of an enormous wandering black hole | New Scientist",
+    "url": "https://www.newscientist.com/article/2581301-weve-found-the-best-example-yet-of-an-enormous-wandering-black-hole/",
+    "description": "Astronomers have caught a supermassive black hole straying far from the centre of its galaxy using light from a star being ripped apart",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306572960.jpg"
+  },
+  {
     "title": "Eye implant that restores vision lost to age approved for use | New Scientist",
     "url": "https://www.newscientist.com/article/2581477-eye-implant-that-restores-vision-lost-to-age-approved-for-use/",
     "description": "An eye implant and a pair of high-tech glasses that enable people with a severe form of vision loss to read have been approved for use by a European regulator",
@@ -38,13 +46,5 @@
     "author": "Leah Crane",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_304495601.jpg"
-  },
-  {
-    "title": "Most neurons seem to be jacks-of-all-trades, not specialists | New Scientist",
-    "url": "https://www.newscientist.com/article/2581104-most-neurons-seem-to-be-jacks-of-all-trades-not-specialists/",
-    "description": "We tend to think of the brain as being made up of highly specialised cells, but a study in mice suggests that most neurons are generalists",
-    "author": "Nora Bradford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306158636.jpg"
   }
 ]
