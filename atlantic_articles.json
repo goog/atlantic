@@ -1,5 +1,13 @@
 [
   {
+    "title": "Is This What Comes After AI Slop?",
+    "url": "https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/",
+    "description": "Daggermouthcould be the first best-selling novel partly written by a chatbot.",
+    "author": "Will Oremus",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/F8dEJgLLCAYf-qa3PVsPD8XELdI=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_23_Oremus_AI_bestseller_final/original.jpg"
+  },
+  {
     "title": "The War That Shall Not Be Named",
     "url": "https://www.theatlantic.com/newsletters/2026/07/iran-war-trump-hiding-american-soldiers-death/688085/",
     "description": "The Trump administration’s bumbling effort to pretend it’s not fighting a war has pushed it into covering up the deaths of American soldiers.",
@@ -150,13 +158,5 @@
     "author": "John Garrison Marks",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/bcH9ODpGRnbY0pdf46BH_-_MXnw=/345x0:3720x2250/210x140/media/img/mt/2026/07/2026_07_22_Why_the_Trump_Administration_Wants_Portray_George_Washington_As_an_Abolitionist_and_Not_an_Enslaver_John_Garrison_Marks/original.jpg"
-  },
-  {
-    "title": "Even Trump Can’t Spin This One",
-    "url": "https://www.theatlantic.com/technology/2026/07/trump-iran-war-social-media/688065/",
-    "description": "You can’t post your way out of a war.",
-    "author": "Charlie Warzel",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/8-Ch_oF-e4JfrVW1MBjrUXeS1p4=/0x0:5940x3960/210x140/media/img/mt/2026/07/2026_07_24_The_Boy_Who_Cried_Mission_Accomplished/original.jpg"
   }
 ]
