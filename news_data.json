@@ -1,5 +1,29 @@
 [
   {
+    "title": "Jaguar makes epic 2100-kilometre journey across the Amazon | New Scientist",
+    "url": "https://www.newscientist.com/article/2581557-jaguar-makes-epic-2100-kilometre-journey-across-the-amazon/",
+    "description": "A jaguar that has been dubbed Gaspar traversed 2100 kilometres of the Amazon, crossing farms and roads. But why he set off on this mission is unclear",
+    "author": "Joshua Rapp Learn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306589648.jpg"
+  },
+  {
+    "title": "Matcha is under threat from climate change – can genomics save it? | New Scientist",
+    "url": "https://www.newscientist.com/article/2581783-matcha-is-under-threat-from-climate-change-can-genomics-save-it/",
+    "description": "Climate change is affecting the yields and flavour of the traditional Japanese tea matcha, but studying its seedlings' genetic tolerance for heat could future-proof the crop",
+    "author": "Michael Fitzpatrick",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305871463.jpg"
+  },
+  {
+    "title": "Asteroid strike caused global firestorm that incinerated the dinosaurs | New Scientist",
+    "url": "https://www.newscientist.com/article/2581822-asteroid-strike-caused-global-firestorm-that-incinerated-the-dinosaurs/",
+    "description": "After the Chicxulub impact 66 million years ago, trillions of tonnes of rock vapour was launched into space before falling back to Earth at ballistic speeds, creating a global blast of heat strong enough to broil life on land",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306667803.jpg"
+  },
+  {
     "title": "Unprecedented 'fire clouds' are fanning the flames in France | New Scientist",
     "url": "https://www.newscientist.com/article/2581585-unprecedented-fire-clouds-are-fanning-the-flames-in-france/",
     "description": "Flame-generated thunderstorms known as pyrocumulonimbus clouds can make wildfires even more intense, and they are expected to become more common in Europe",
@@ -22,29 +46,5 @@
     "author": "Leah Crane",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306572960.jpg"
-  },
-  {
-    "title": "Eye implant that restores vision lost to age approved for use | New Scientist",
-    "url": "https://www.newscientist.com/article/2581477-eye-implant-that-restores-vision-lost-to-age-approved-for-use/",
-    "description": "An eye implant and a pair of high-tech glasses that enable people with a severe form of vision loss to read have been approved for use by a European regulator",
-    "author": "Oluoma Aneke",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306577900.jpg"
-  },
-  {
-    "title": "One of NASA’s crucial links to deep space is at risk of burning down | New Scientist",
-    "url": "https://www.newscientist.com/article/2581311-one-of-nasas-crucial-links-to-deep-space-is-at-risk-of-burning-down/",
-    "description": "The Deep Space Network is our best way to communicate with spacecraft beyond Earth’s orbit, and one of its three stations around the world is in the middle of a wildfire",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/Canberra-DSN.webp"
-  },
-  {
-    "title": "Clothes made from living fungi can clean and repair themselves | New Scientist",
-    "url": "https://www.newscientist.com/article/2581227-clothes-made-from-living-fungi-can-clean-and-repair-themselves/",
-    "description": "Researchers have created a textile made from the parasitic fungus Cordyceps militaris, which is biodegradable and can be adapted for different purposes with various microbes",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306130565.jpg"
   }
 ]
