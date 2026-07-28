@@ -1,5 +1,53 @@
 [
   {
+    "title": "The Unmaking of Anthony Fauci",
+    "url": "https://www.theatlantic.com/health/2026/07/anthony-fauci-politics-hearing/688081/",
+    "description": "He built an empire. It did not last.",
+    "author": "Katherine J. Wu",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/J1rehlDWbpA6359dAay87Wyd370=/440x0:3815x2250/210x140/media/img/mt/2026/07/2026_07_28_Fauci/original.jpg"
+  },
+  {
+    "title": "Automation Led to Economic Misery. AI Doesn’t Have To.",
+    "url": "https://www.theatlantic.com/ideas/2026/07/ai-automation-productivity-workers/688083/",
+    "description": "How to make AI work for workers",
+    "author": "Daron Acemoglu",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/kMDQ8tdt1iwFlINCN2-G9C_mNnE=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_27_Acemoglu_pro_worker_ai_final/original.jpg"
+  },
+  {
+    "title": "The Most Interesting Part of Your Life",
+    "url": "https://www.theatlantic.com/books/2026/07/beginning-middle-end-valeria-luiselli-book-review/688084/",
+    "description": "Forget starting over. In Valeria Luiselli’s new novel, it’s the messy middle of life that counts.",
+    "author": "Lily Meyer",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Phqnj8cCcs1RyRARUwRhWyFRzVo=/1382x124:3340x1429/210x140/media/img/mt/2026/07/2026_07_27_Meyer_Middle_Life/original.jpg"
+  },
+  {
+    "title": "AtlanticTrivia: Judeo-Christian Edition",
+    "url": "https://www.theatlantic.com/trivia/2026/07/28-texas-public-school-bible-netanyahu-israel-nolan-odyssey/688082/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/aCh2SyJPX7zG7t491JWX9L2Hv08=/152x0:1772x1080/210x140/media/img/mt/2026/07/trivia_green-4/original.png"
+  },
+  {
+    "title": "The Masculinity Scam",
+    "url": "https://www.theatlantic.com/ideas/2026/07/masculinity-scam-manosphere-talarico/687999/",
+    "description": "The manosphere’s campaign strategy",
+    "author": "Adam Serwer",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/MgCFde7NwdQHJ4W4JJTYxfmRQ8A=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_18_Manosphere_1/original.jpg"
+  },
+  {
+    "title": "The Return of the Monarch",
+    "url": "https://www.theatlantic.com/magazine/2026/09/monarch-butterfly-population-migration/687966/",
+    "description": "After years of decline, butterfly populations are rising—for now.",
+    "author": "Vann R. Newkirk II",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/wWDXbmRPUYgCq_meI52xVXWhbUM=/85x1218:1913x2437/210x140/media/img/2026/07/WEL_Monarchs_Spot1/original.png"
+  },
+  {
     "title": "Is This What Comes After AI Slop?",
     "url": "https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/",
     "description": "Daggermouthcould be the first best-selling novel partly written by a chatbot.",
@@ -110,53 +158,5 @@
     "author": "Rafaela Jinich",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/L90s2hIKbiV5JTw4F_RmpIp8DPY=/0x0:6000x4000/210x140/media/newsletters/2026/07/GettyImages_2279889160/original.jpg"
-  },
-  {
-    "title": "The Problem With Shutting Down ICE in Blue States",
-    "url": "https://www.theatlantic.com/politics/2026/07/ice-detention-center-protest/688035/",
-    "description": "Trump officials are happy to ship immigrants elsewhere.",
-    "author": "Nick Miroff",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/81oYlVD6dvV3S_Tp_klZM_yPLUU=/450x0:2880x1620/210x140/media/img/mt/2026/07/2026_07_24_The_Skewed_Geography_of_ICE_Detention_2/original.jpg"
-  },
-  {
-    "title": "A Brief Exchange That Shows the Enormous Difference Between Trump and Obama",
-    "url": "https://www.theatlantic.com/culture/2026/07/obama-caitlin-clark/688073/",
-    "description": "This is what a president sounds like.",
-    "author": "Sally Jenkins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/vbIGQqbvVo05oDixTr1C1_yoeeU=/25x0:2884x1906/210x140/media/img/mt/2026/07/2026_07_25_Obama_Caitlin_Clark/original.jpg"
-  },
-  {
-    "title": "The Mounting Cost of War",
-    "url": "https://www.theatlantic.com/national/2026/07/mounting-cost-iran-war-washington-week/688071/",
-    "description": "Trump weighs escalating the war with Iran as criticism of the conflict grows.",
-    "author": "The Editors",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/EqJcgu55-I0wUVTsty9AUkfmSj0=/155x0:2339x1456/210x140/media/img/mt/2026/07/Screenshot_2026_07_25_at_9.59.48AM/original.png"
-  },
-  {
-    "title": "When Middle Age Actually Starts",
-    "url": "https://www.theatlantic.com/family/2026/07/middle-age-start-end/688021/",
-    "description": "Trying to attach some numbers to a fuzzy phase of life",
-    "author": "Julie Beck",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/M-EWqNKaob6v0r2uIijorAb_V3g=/302x0:3542x2160/210x140/media/img/mt/2026/07/2026_07_22_when_is_middle_age/original.jpg"
-  },
-  {
-    "title": "How to Open Yourself Up to a New Passion",
-    "url": "https://www.theatlantic.com/newsletters/2026/07/how-to-open-yourself-up-to-a-new-passion/688063/",
-    "description": "Sometimes the things that bring us the most joy are the ones we stumble upon.",
-    "author": "Isabel Fattal",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/cMvhElbTLcXKeyIWqikZkdOtNMg=/237x575:4635x3507/210x140/media/img/mt/2026/07/GettyImages_200155656_001/original.jpg"
-  },
-  {
-    "title": "How the Trump Administration Made George Washington an Abolitionist",
-    "url": "https://www.theatlantic.com/culture/2026/07/washington-slavery-philadelphia/688070/",
-    "description": "In Philadelphia, the Park Service now downplays the importance of slavery to understanding the first president.",
-    "author": "John Garrison Marks",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/bcH9ODpGRnbY0pdf46BH_-_MXnw=/345x0:3720x2250/210x140/media/img/mt/2026/07/2026_07_22_Why_the_Trump_Administration_Wants_Portray_George_Washington_As_an_Abolitionist_and_Not_an_Enslaver_John_Garrison_Marks/original.jpg"
   }
 ]
