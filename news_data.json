@@ -1,5 +1,13 @@
 [
   {
+    "title": "Unprecedented 'fire clouds' are fanning the flames in France | New Scientist",
+    "url": "https://www.newscientist.com/article/2581585-unprecedented-fire-clouds-are-fanning-the-flames-in-france/",
+    "description": "Flame-generated thunderstorms known as pyrocumulonimbus clouds can make wildfires even more intense, and they are expected to become more common in Europe",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306592811.jpg"
+  },
+  {
     "title": "Mystery hominin left big footprints at ancient lake in Africa | New Scientist",
     "url": "https://www.newscientist.com/article/2581351-mystery-hominin-left-big-footprints-at-ancient-lake-in-africa/",
     "description": "Over 1.4 million years ago, a group of eight ancient hominins walked across a shallow mudflat, but their footprints don’t match those of Paranthropus boisei or Homo erectus",
@@ -38,13 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306130565.jpg"
-  },
-  {
-    "title": "Having a young biological age could help with weight loss | New Scientist",
-    "url": "https://www.newscientist.com/article/2581243-having-a-young-biological-age-could-help-with-weight-loss/",
-    "description": "In a small study, restricting calories led to greater weight loss among people with a biological age younger than their chronological age",
-    "author": "Emma Young",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306239118.jpg"
   }
 ]
