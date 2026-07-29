@@ -1,6 +1,14 @@
 [
   {
-    "title": "Put a Lock on It, Fauci",
+    "title": "The New iPhone Underclass",
+    "url": "https://www.theatlantic.com/technology/2026/07/apple-lease-upgrade-program/688106/",
+    "description": "Apple’s rental program is a trap.",
+    "author": "Damon Beres",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/n5NKPaKnRdzSJGReRC10rKHGPXA=/116x0:1382x844/210x140/media/img/mt/2026/07/2026_07_29_apple_mpg/original.gif"
+  },
+  {
+    "title": "The Revelatory Cringe of Anthony Fauci",
     "url": "https://www.theatlantic.com/books/2026/07/anthony-faucis-embarrassing-revealing-diary/688107/",
     "description": "The private notes of the man who oversaw COVID policy are deeply embarrassing—and surprisingly instructive.",
     "author": "Gal Beckerman",
@@ -150,13 +158,5 @@
     "author": "Daron Acemoglu",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/kMDQ8tdt1iwFlINCN2-G9C_mNnE=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_27_Acemoglu_pro_worker_ai_final/original.jpg"
-  },
-  {
-    "title": "The Most Interesting Part of Your Life",
-    "url": "https://www.theatlantic.com/books/2026/07/beginning-middle-end-valeria-luiselli-book-review/688084/",
-    "description": "Forget starting over. In Valeria Luiselli’s new novel, it’s the messy middle of life that counts.",
-    "author": "Lily Meyer",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Phqnj8cCcs1RyRARUwRhWyFRzVo=/1382x124:3340x1429/210x140/media/img/mt/2026/07/2026_07_27_Meyer_Middle_Life/original.jpg"
   }
 ]
