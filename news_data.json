@@ -1,5 +1,21 @@
 [
   {
+    "title": "Lost civilisation in the Amazon may have numbered 3 million people | New Scientist",
+    "url": "https://www.newscientist.com/article/2582152-lost-civilisation-in-the-amazon-may-have-numbered-3-million-people/",
+    "description": "Laser-scanning surveys reveal that the ancient Aquiry civilisation was bigger than previously thought, building tens of thousands of large geometric earthworks in what was once thought to be pristine wilderness",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306765178.jpg"
+  },
+  {
+    "title": "Pill that lowers oxygen levels in brain may ease Parkinson's symptoms | New Scientist",
+    "url": "https://www.newscientist.com/article/2582191-hypoxia-in-a-pill-may-ease-neurodegeneration-by-lowering-oxygen-in-the-brain/",
+    "description": "A pill that induces hypoxia in the brain has been linked to improved symptoms of three neurodegenerative conditions when tested in mice",
+    "author": "Ute Eberle",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306695727.jpg"
+  },
+  {
     "title": "Extraordinary ichthyosaur fossil shows its last meal was a pterosaur | New Scientist",
     "url": "https://www.newscientist.com/article/2582125-extraordinary-ichthyosaur-fossil-shows-its-last-meal-was-a-pterosaur/",
     "description": "The remains of an orca-sized ichthyosaur include evidence of what it ate – before it too got eaten by an even bigger marine predator",
@@ -30,21 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306667803.jpg"
-  },
-  {
-    "title": "Unprecedented 'fire clouds' are fanning the flames in France | New Scientist",
-    "url": "https://www.newscientist.com/article/2581585-unprecedented-fire-clouds-are-fanning-the-flames-in-france/",
-    "description": "Flame-generated thunderstorms known as pyrocumulonimbus clouds can make wildfires even more intense, and they are expected to become more common in Europe",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306592811.jpg"
-  },
-  {
-    "title": "Mystery hominin left big footprints at ancient lake in Africa | New Scientist",
-    "url": "https://www.newscientist.com/article/2581351-mystery-hominin-left-big-footprints-at-ancient-lake-in-africa/",
-    "description": "Over 1.4 million years ago, a group of eight ancient hominins walked across a shallow mudflat, but their footprints don’t match those of Paranthropus boisei or Homo erectus",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306572153.jpg"
   }
 ]
