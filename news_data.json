@@ -1,5 +1,21 @@
 [
   {
+    "title": "Worry about what your children eat, but don't forget your own diet | New Scientist",
+    "url": "https://www.newscientist.com/article/2581627-worry-about-what-your-children-eat-but-dont-forget-your-own-diet/",
+    "description": "Measures like bans on advertising junk food to children are essential for instilling healthy eating at a young age, but we shouldn't let adults off the hook when it comes to improving our diets",
+    "author": "New Scientist",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306579722.jpg"
+  },
+  {
+    "title": "Strange three-lobed asteroid seems to have its own tiny moon | New Scientist",
+    "url": "https://www.newscientist.com/article/2582275-strange-three-lobed-asteroid-seems-to-have-its-own-tiny-moon/",
+    "description": "The asteroid 44 Nysa was first spotted more than 150 years ago, but we are only now finally figuring out its weird shape and mysterious formation",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306786556.jpg"
+  },
+  {
     "title": "Lost civilisation in the Amazon may have numbered 3 million people | New Scientist",
     "url": "https://www.newscientist.com/article/2582152-lost-civilisation-in-the-amazon-may-have-numbered-3-million-people/",
     "description": "Laser-scanning surveys reveal that the ancient Aquiry civilisation was bigger than previously thought, building tens of thousands of large geometric earthworks in what was once thought to be pristine wilderness",
@@ -30,21 +46,5 @@
     "author": "Joshua Rapp Learn",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306589648.jpg"
-  },
-  {
-    "title": "Matcha is under threat from climate change – can genomics save it? | New Scientist",
-    "url": "https://www.newscientist.com/article/2581783-matcha-is-under-threat-from-climate-change-can-genomics-save-it/",
-    "description": "Climate change is affecting the yields and flavour of the traditional Japanese tea matcha, but studying its seedlings' genetic tolerance for heat could future-proof the crop",
-    "author": "Michael Fitzpatrick",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305871463.jpg"
-  },
-  {
-    "title": "Asteroid strike caused global firestorm that incinerated the dinosaurs | New Scientist",
-    "url": "https://www.newscientist.com/article/2581822-asteroid-strike-caused-global-firestorm-that-incinerated-the-dinosaurs/",
-    "description": "After the Chicxulub impact 66 million years ago, trillions of tonnes of rock vapour was launched into space before falling back to Earth at ballistic speeds, creating a global blast of heat strong enough to broil life on land",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306667803.jpg"
   }
 ]
