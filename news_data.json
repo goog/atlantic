@@ -1,5 +1,13 @@
 [
   {
+    "title": "Extraordinary ichthyosaur fossil shows its last meal was a pterosaur | New Scientist",
+    "url": "https://www.newscientist.com/article/2582125-extraordinary-ichthyosaur-fossil-shows-its-last-meal-was-a-pterosaur/",
+    "description": "The remains of an orca-sized ichthyosaur include evidence of what it ate – before it too got eaten by an even bigger marine predator",
+    "author": "James Urquhart",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306767648.jpg"
+  },
+  {
     "title": "Jaguar makes epic 2100-kilometre journey across the Amazon | New Scientist",
     "url": "https://www.newscientist.com/article/2581557-jaguar-makes-epic-2100-kilometre-journey-across-the-amazon/",
     "description": "A jaguar that has been dubbed Gaspar traversed 2100 kilometres of the Amazon, crossing farms and roads. But why he set off on this mission is unclear",
@@ -38,13 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306572153.jpg"
-  },
-  {
-    "title": "We’ve found the best example yet of an enormous wandering black hole | New Scientist",
-    "url": "https://www.newscientist.com/article/2581301-weve-found-the-best-example-yet-of-an-enormous-wandering-black-hole/",
-    "description": "Astronomers have caught a supermassive black hole straying far from the centre of its galaxy using light from a star being ripped apart",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306572960.jpg"
   }
 ]
