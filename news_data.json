@@ -1,5 +1,13 @@
 [
   {
+    "title": "Is district cooling the solution we need for extreme heat in cities? | New Scientist",
+    "url": "https://www.newscientist.com/article/2582252-is-district-cooling-the-solution-we-need-for-extreme-heat-in-cities/",
+    "description": "Networks of pipes carrying chilled water have proven to be an efficient way to cool hospitals and universities. Now, they are expanding into cities as heatwaves increase in the US and Europe",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306799093.jpg"
+  },
+  {
     "title": "Quantum computers are starting to become useful as scientific tools | New Scientist",
     "url": "https://www.newscientist.com/article/2582048-quantum-computers-are-starting-to-become-useful-as-scientific-tools/",
     "description": "Three problems that are out of reach for conventional computers have been cracked by quantum computers and show how important the machines could become for scientific research",
@@ -38,13 +46,5 @@
     "author": "New Scientist",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306579722.jpg"
-  },
-  {
-    "title": "Strange three-lobed asteroid seems to have its own tiny moon | New Scientist",
-    "url": "https://www.newscientist.com/article/2582275-strange-three-lobed-asteroid-seems-to-have-its-own-tiny-moon/",
-    "description": "The asteroid 44 Nysa was first spotted more than 150 years ago, but we are only now finally figuring out its weird shape and mysterious formation",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306786556.jpg"
   }
 ]
