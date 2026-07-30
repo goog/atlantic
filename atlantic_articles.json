@@ -1,6 +1,22 @@
 [
   {
-    "title": "Spider-Man’s Not-So-Great Responsibility",
+    "title": "The One Sign of Life at the Zombie Kennedy Center",
+    "url": "https://www.theatlantic.com/culture/2026/07/kennedy-center-millennium-stage/688098/",
+    "description": "The major performers are gone. But staff are trying to keep the center alive on its smallest stage.",
+    "author": "Janay Kingsberry",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/jy_l5jdNCAF2_DsQPd_cKkVop4c=/290x0:3665x2250/210x140/media/img/mt/2026/07/2026_07_30_Strange_Times_at_the_Zombie_Kennedy_Center_Janay_Kingsbury/original.jpg"
+  },
+  {
+    "title": "America Isn’t Supposed to Have Political Prosecutions",
+    "url": "https://www.theatlantic.com/ideas/2026/07/comey-trump-aides-secret-service/688116/",
+    "description": "The investigation of James Comey is vindictive and meritless—and unashamedly so.",
+    "author": "Jonathan Chait",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/byeD3BFi93SfvM8vKrTCYl_TXVU=/443x0:5192x3166/210x140/media/img/mt/2026/07/2026_07_30_Comey_Indictment/original.jpg"
+  },
+  {
+    "title": "Spider-ManForgets Itself",
     "url": "https://www.theatlantic.com/culture/2026/07/spider-man-brand-new-day-movie-review/688114/",
     "description": "Despite seeming like a fresh start,Brand New Dayis trapped in the Marvel vortex.",
     "author": "David Sims",
@@ -142,21 +158,5 @@
     "author": "Drew Goins",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/0fpVffJMrzJFVz2BBie4W64i2b4=/149x0:1770x1081/210x140/media/img/mt/2026/07/2trivia_purple/original.png"
-  },
-  {
-    "title": "The Great Chinese Oil Mystery",
-    "url": "https://www.theatlantic.com/economy/2026/07/china-iran-usa-oil-prices/688086/",
-    "description": "America’s greatest rival is single-handedly averting a global energy crisis. No one knows how the country is doing it—or why.",
-    "author": "Rogé Karma",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/BP1bVQZw9_b0qD3GdYByuwXwQBM=/400x0:4681x2854/210x140/media/img/mt/2026/07/2026_07_27_The_Great_Chinese_Oil_Mystery_Roge_Karma/original.jpg"
-  },
-  {
-    "title": "The American Commentator Making Excuses for Iran",
-    "url": "https://www.theatlantic.com/ideas/2026/07/iran-apologists-blumenthal/688068/",
-    "description": "Max Blumenthal fits into a long, disreputable tradition.",
-    "author": "James Kirchick",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/p3ZAFAqpIaB41BW38YfI1pJUntA=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_07_26_A_Modern_Day_Walter_Duranty_in_DC_James_Kirchick_2/original.jpg"
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "title": "Smallpox DNA in ancient Inca mummies shows virus came from Europe | New Scientist",
+    "url": "https://www.newscientist.com/article/2582442-smallpox-dna-in-ancient-inca-mummies-shows-virus-came-from-europe/",
+    "description": "The mummies of two people who lived in Chile more than 400 years ago carry DNA from smallpox, providing the first molecular evidence that the virus was brought to the Americas from Europe",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306912272.jpg"
+  },
+  {
+    "title": "The genome of a long-extinct ancient human is hiding within us | New Scientist",
+    "url": "https://www.newscientist.com/article/2582522-the-genome-of-a-long-extinct-ancient-human-is-hiding-within-us/",
+    "description": "We all have bits of DNA from a long-lost “ghost ancestor” inside us – and by putting all the different bits together, we might be able to reconstruct their genome",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306906633.jpg"
+  },
+  {
     "title": "Woolly mammoths butchered by humans were mostly female | New Scientist",
     "url": "https://www.newscientist.com/article/2582513-woolly-mammoths-butchered-by-humans-were-mostly-female/",
     "description": "Genetic tests of mammoth remains have found a stark contrast in the sex ratio between sites where the animals died naturally and those associated with humans, offering hints about how our ancestors hunted",
@@ -30,21 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306879654.jpg"
-  },
-  {
-    "title": "First-of-kind Guillain-Barré drug switches off part of immune system | New Scientist",
-    "url": "https://www.newscientist.com/article/2582376-first-targeted-treatment-for-guillain-barre-syndrome-nears-approval/",
-    "description": "A treatment that turns off the bit of the immune system that goes haywire in Guillain-Barré syndrome may be the first targeted therapy approved for the autoimmune condition",
-    "author": "Alice Klein",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306781870.jpg"
-  },
-  {
-    "title": "Flat head syndrome discovered in Iron Age skeletons | New Scientist",
-    "url": "https://www.newscientist.com/article/2582200-flat-head-syndrome-discovered-in-iron-age-skeletons/",
-    "description": "Certain sleeping positions can lead to babies developing flattened heads, and an analysis of ancient skulls from Italy reveals that this condition affected people in the 9th century BC",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306776121.jpg"
   }
 ]
