@@ -1,5 +1,29 @@
 [
   {
+    "title": "Quantum computers are starting to become useful as scientific tools | New Scientist",
+    "url": "https://www.newscientist.com/article/2582048-quantum-computers-are-starting-to-become-useful-as-scientific-tools/",
+    "description": "Three problems that are out of reach for conventional computers have been cracked by quantum computers and show how important the machines could become for scientific research",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306879654.jpg"
+  },
+  {
+    "title": "First-of-kind Guillain-Barré drug switches off part of immune system | New Scientist",
+    "url": "https://www.newscientist.com/article/2582376-first-targeted-treatment-for-guillain-barre-syndrome-nears-approval/",
+    "description": "A treatment that turns off the bit of the immune system that goes haywire in Guillain-Barré syndrome may be the first targeted therapy approved for the autoimmune condition",
+    "author": "Alice Klein",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306781870.jpg"
+  },
+  {
+    "title": "Flat head syndrome discovered in Iron Age skeletons | New Scientist",
+    "url": "https://www.newscientist.com/article/2582200-flat-head-syndrome-discovered-in-iron-age-skeletons/",
+    "description": "Certain sleeping positions can lead to babies developing flattened heads, and an analysis of ancient skulls from Italy reveals that this condition affected people in the 9th century BC",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306776121.jpg"
+  },
+  {
     "title": "Spectacular fossil preserves internal organs of ancient marine reptile | New Scientist",
     "url": "https://www.newscientist.com/article/2582138-spectacular-fossil-preserves-internal-organs-of-ancient-marine-reptile/",
     "description": "A stunningly intact marine reptile named Austronaga minuta that lived around 245 million years ago may have looked like a miniature version of more famous later ocean predators, like plesiosaurs",
@@ -22,29 +46,5 @@
     "author": "Leah Crane",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306786556.jpg"
-  },
-  {
-    "title": "Lost civilisation in the Amazon may have numbered 3 million people | New Scientist",
-    "url": "https://www.newscientist.com/article/2582152-lost-civilisation-in-the-amazon-may-have-numbered-3-million-people/",
-    "description": "Laser-scanning surveys reveal that the ancient Aquiry civilisation was bigger than previously thought, building tens of thousands of large geometric earthworks in what was once thought to be pristine wilderness",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306765178.jpg"
-  },
-  {
-    "title": "Pill that lowers oxygen levels in brain may ease Parkinson's symptoms | New Scientist",
-    "url": "https://www.newscientist.com/article/2582191-hypoxia-in-a-pill-may-ease-neurodegeneration-by-lowering-oxygen-in-the-brain/",
-    "description": "A pill that induces hypoxia in the brain has been linked to improved symptoms of three neurodegenerative conditions when tested in mice",
-    "author": "Ute Eberle",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306695727.jpg"
-  },
-  {
-    "title": "Extraordinary ichthyosaur fossil shows its last meal was a pterosaur | New Scientist",
-    "url": "https://www.newscientist.com/article/2582125-extraordinary-ichthyosaur-fossil-shows-its-last-meal-was-a-pterosaur/",
-    "description": "The remains of an orca-sized ichthyosaur include evidence of what it ate – before it too got eaten by an even bigger marine predator",
-    "author": "James Urquhart",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306767648.jpg"
   }
 ]
