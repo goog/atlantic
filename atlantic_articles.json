@@ -1,16 +1,32 @@
 [
   {
-    "title": "The One Sign of Life at the Zombie Kennedy Center",
+    "title": "The White-Collar Myth",
+    "url": "https://www.theatlantic.com/newsletters/2026/07/white-collar-workers-office-ai/688121/",
+    "description": "Since the 19th century, office jobs have represented a path to comfort and prestige. The AI era is testing whether that promise still holds.",
+    "author": "Jake Lundberg",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/FCBz7LSObTh5tzFbBpunzjnpLMo=/156x0:1843x1125/210x140/media/newsletters/2026/07/Time_Travel_Thursdays_white_collar_work/original.jpg"
+  },
+  {
+    "title": "The Real Antidepressant Crisis",
+    "url": "https://www.theatlantic.com/health/2026/07/ssri-antidepressant-deprescribing-efficacy-kennedy/688100/",
+    "description": "Robert F. Kennedy Jr. says Americans overuse SSRIs. In fact, too many people who need depression treatment aren’t getting any.",
+    "author": "Richard A. Friedman",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/aCj-MxmYwNyfoNZfmfmc-A-b-rM=/155x0:1842x1125/210x140/media/img/mt/2026/07/NEW_rfk/original.jpg"
+  },
+  {
+    "title": "Dead-Mall Vibes at the Kennedy Center",
     "url": "https://www.theatlantic.com/culture/2026/07/kennedy-center-millennium-stage/688098/",
-    "description": "The major performers are gone. But staff are trying to keep the center alive on its smallest stage.",
+    "description": "",
     "author": "Janay Kingsberry",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/jy_l5jdNCAF2_DsQPd_cKkVop4c=/290x0:3665x2250/210x140/media/img/mt/2026/07/2026_07_30_Strange_Times_at_the_Zombie_Kennedy_Center_Janay_Kingsbury/original.jpg"
   },
   {
-    "title": "America Isn’t Supposed to Have Political Prosecutions",
+    "title": "Trump Is Barely Pretending About Comey Anymore",
     "url": "https://www.theatlantic.com/ideas/2026/07/comey-trump-aides-secret-service/688116/",
-    "description": "The investigation of James Comey is vindictive and meritless—and unashamedly so.",
+    "description": "The vindictive and meritless plot against the former FBI director is being orchestrated almost entirely in public view.",
     "author": "Jonathan Chait",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/byeD3BFi93SfvM8vKrTCYl_TXVU=/443x0:5192x3166/210x140/media/img/mt/2026/07/2026_07_30_Comey_Indictment/original.jpg"
@@ -142,21 +158,5 @@
     "author": "Franz Wright",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/qnCICu7_JjV5tJ2tSemOUn7aC2Y=/274x0:2704x1620/210x140/media/img/mt/2026/07/2026_07_23_poem_independence_day_10738/original.jpg"
-  },
-  {
-    "title": "Rural America’s Maternal-Health Crisis Is About to Get Much Worse",
-    "url": "https://www.theatlantic.com/ideas/2026/07/giving-birth-rural-hospitals-danger-mortality/688091/",
-    "description": "Care will be in shorter supply, travel distances will stretch farther, and high-risk situations will more likely result in tragedy.",
-    "author": "Keith Humphreys",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/R4-BL8W48QmaU1YwSaFE5jz3e3A=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_26_No_Country_for_Childbearing_Women/original.jpg"
-  },
-  {
-    "title": "AtlanticTrivia: Contained Within",
-    "url": "https://www.theatlantic.com/trivia/2026/07/29-jones-act-ai-bubble-economy-herman-melville/688092/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Drew Goins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/0fpVffJMrzJFVz2BBie4W64i2b4=/149x0:1770x1081/210x140/media/img/mt/2026/07/2trivia_purple/original.png"
   }
 ]
