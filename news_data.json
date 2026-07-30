@@ -1,5 +1,21 @@
 [
   {
+    "title": "Woolly mammoths butchered by humans were mostly female | New Scientist",
+    "url": "https://www.newscientist.com/article/2582513-woolly-mammoths-butchered-by-humans-were-mostly-female/",
+    "description": "Genetic tests of mammoth remains have found a stark contrast in the sex ratio between sites where the animals died naturally and those associated with humans, offering hints about how our ancestors hunted",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306878262.jpg"
+  },
+  {
+    "title": "Origami-inspired sensor could continuously monitor our vital signs | New Scientist",
+    "url": "https://www.newscientist.com/article/2582486-origami-inspired-sensor-could-continuously-monitor-our-vital-signs/",
+    "description": "A tiny sensor that unfolds within the body could continuously monitor our heart activity and breathing after showing promise in rats",
+    "author": "Esra Öz",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306791973.jpg"
+  },
+  {
     "title": "Is district cooling the solution we need for extreme heat in cities? | New Scientist",
     "url": "https://www.newscientist.com/article/2582252-is-district-cooling-the-solution-we-need-for-extreme-heat-in-cities/",
     "description": "Networks of pipes carrying chilled water have proven to be an efficient way to cool hospitals and universities. Now, they are expanding into cities as heatwaves increase in the US and Europe",
@@ -30,21 +46,5 @@
     "author": "Christa Lesté-Lasserre",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306776121.jpg"
-  },
-  {
-    "title": "Spectacular fossil preserves internal organs of ancient marine reptile | New Scientist",
-    "url": "https://www.newscientist.com/article/2582138-spectacular-fossil-preserves-internal-organs-of-ancient-marine-reptile/",
-    "description": "A stunningly intact marine reptile named Austronaga minuta that lived around 245 million years ago may have looked like a miniature version of more famous later ocean predators, like plesiosaurs",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306701012.jpg"
-  },
-  {
-    "title": "Worry about what your children eat, but don't forget your own diet | New Scientist",
-    "url": "https://www.newscientist.com/article/2581627-worry-about-what-your-children-eat-but-dont-forget-your-own-diet/",
-    "description": "Measures like bans on advertising junk food to children are essential for instilling healthy eating at a young age, but we shouldn't let adults off the hook when it comes to improving our diets",
-    "author": "New Scientist",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306579722.jpg"
   }
 ]
