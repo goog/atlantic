@@ -1,5 +1,13 @@
 [
   {
+    "title": "Where to watch the next total solar eclipse anywhere in the world | New Scientist",
+    "url": "https://www.newscientist.com/article/2580260-where-to-watch-the-next-total-solar-eclipse-anywhere-in-the-world/",
+    "description": "The total solar eclipse on 12 August will only be visible to a lucky few, but eclipses happen all over the world – here are the next ones to look out for, wherever you may be",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305882664.jpg"
+  },
+  {
     "title": "Smallpox DNA in ancient Inca mummies shows virus came from Europe | New Scientist",
     "url": "https://www.newscientist.com/article/2582442-smallpox-dna-in-ancient-inca-mummies-shows-virus-came-from-europe/",
     "description": "The mummies of two people who lived in Chile more than 400 years ago carry DNA from smallpox, providing the first molecular evidence that the virus was brought to the Americas from Europe",
@@ -38,13 +46,5 @@
     "author": "Alec Luhn",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306799093.jpg"
-  },
-  {
-    "title": "Quantum computers are starting to become useful as scientific tools | New Scientist",
-    "url": "https://www.newscientist.com/article/2582048-quantum-computers-are-starting-to-become-useful-as-scientific-tools/",
-    "description": "Three problems that are out of reach for conventional computers have been cracked by quantum computers and show how important the machines could become for scientific research",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306879654.jpg"
   }
 ]
