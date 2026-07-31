@@ -1,5 +1,13 @@
 [
   {
+    "title": "Thousands of people in China have had banned Alzheimer's surgery | New Scientist",
+    "url": "https://www.newscientist.com/article/2582621-thousands-of-people-in-china-have-had-banned-alzheimers-surgery/",
+    "description": "Surgery that aims to enhance the clearance of Alzheimer's-associated proteins from the brain has been banned in China, but only after thousands of people had the procedure",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306980417.jpg"
+  },
+  {
     "title": "Where to watch the next total solar eclipse anywhere in the world | New Scientist",
     "url": "https://www.newscientist.com/article/2580260-where-to-watch-the-next-total-solar-eclipse-anywhere-in-the-world/",
     "description": "The total solar eclipse on 12 August will only be visible to a lucky few, but eclipses happen all over the world – here are the next ones to look out for, wherever you may be",
@@ -38,13 +46,5 @@
     "author": "Esra Öz",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306791973.jpg"
-  },
-  {
-    "title": "Is district cooling the solution we need for extreme heat in cities? | New Scientist",
-    "url": "https://www.newscientist.com/article/2582252-is-district-cooling-the-solution-we-need-for-extreme-heat-in-cities/",
-    "description": "Networks of pipes carrying chilled water have proven to be an efficient way to cool hospitals and universities. Now, they are expanding into cities as heatwaves increase in the US and Europe",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306799093.jpg"
   }
 ]
