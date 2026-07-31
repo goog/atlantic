@@ -1,5 +1,21 @@
 [
   {
+    "title": "Two Unexpectedly Hilarious Kafka Stories",
+    "url": "https://www.theatlantic.com/newsletters/2026/07/books-briefing-two-unexpectedly-hilarious-kafka-stories/688136/",
+    "description": "The animal narrators in these works teach us something funny about human beings.",
+    "author": "Boris Kachka",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/w5SdbmwyhBXrhoN5iydjPj0iVd8=/186x0:2193x1338/210x140/media/newsletters/2026/07/2026_07_31_Books_Briefing_Kafkas_most_hilarious_stories/original.jpg"
+  },
+  {
+    "title": "Galaxy Brain: Behind the Curtain at Google",
+    "url": "https://www.theatlantic.com/podcasts/2026/07/galaxy-brain-behind-curtain-google-silicon-valley/688130/",
+    "description": "A look inside Silicon Valley’s vibe shift",
+    "author": "Charlie Warzel",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Su1lz0mhfMmlX6QzwCyks48hZ-0=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_31_GB_Claire_Stapleton/original.jpg"
+  },
+  {
     "title": "Trump Cares More About His Slush Fund Than Todd Blanche",
     "url": "https://www.theatlantic.com/newsletters/2026/07/trump-todd-blanche-nomination-slush-fund/688133/",
     "description": "The president seems less willing to let go of $1.8 billion than his pick for attorney general.",
@@ -8,9 +24,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/964XRNFmferwWmhGVNoQT0BvnDM=/81x0:945x576/210x140/media/img/mt/2026/07/2026_07_30_The_Daily_Todd_Blanche-1/original.jpg"
   },
   {
-    "title": "Climate Change Is Destabilizing the Ground Beneath Our Feet",
+    "title": "Climate Change Is Moving Mountains",
     "url": "https://www.theatlantic.com/science/2026/07/climate-change-land/688129/",
-    "description": "Mountains are shifting, permafrost is melting, and the risk of landslides is rising.",
+    "description": "As glaciers melt and rainfall grows more extreme, once-stable lands are shifting.",
     "author": "Christian Elliott",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/GuZl6JWkKfhHqAbypkh_Ja7yb-A=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_22_Unstable_ground/original.jpg"
@@ -142,21 +158,5 @@
     "author": "David Sims",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/cDl9uZGyMwu0b-4vtgTfgB50sSo=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_07_30_Spider_Man_Brand_New_Day_Review_David_Sims/original.jpg"
-  },
-  {
-    "title": "Is She the New Britney Spears—Or the New Lou Reed?",
-    "url": "https://www.theatlantic.com/culture/2026/07/charli-xcx-music-fashion-film-review/688111/",
-    "description": "Charli XCX’s new album is a broadside against overthinking the artistic process.",
-    "author": "Spencer Kornhaber",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/I1dzDamzAX2f9_p9HP7X-JqKs80=/600x0:7029x4286/210x140/media/img/mt/2026/07/2026_07_30_Charli_xcx_Swap-1/original.jpg"
-  },
-  {
-    "title": "Why Animal Narrators Are All the Rage",
-    "url": "https://www.theatlantic.com/books/2026/07/animal-narrator-fiction-paul-yoon-etna-book-review/688105/",
-    "description": "A new novel helps explain why so many storytellers enlist animal narrators to explore humanity.",
-    "author": "Rachel Vorona Cote",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/mGIHfoBOkjYH3kz8ShjhkuEoIog=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_29_animal_narrators/original.jpg"
   }
 ]
