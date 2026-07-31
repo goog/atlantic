@@ -1,5 +1,21 @@
 [
   {
+    "title": "Climate change may help eliminate malaria from West and Central Africa | New Scientist",
+    "url": "https://www.newscientist.com/article/2582737-climate-change-could-eliminate-malaria-from-west-and-central-africa/",
+    "description": "Global warming may make it too hot for malaria-carrying mosquitoes to survive in parts of Africa, but could also shift the problem to less affected areas",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306887915.jpg"
+  },
+  {
+    "title": "High-protein is a wellness craze, but could restricting it be anti-ageing? | New Scientist",
+    "url": "https://www.newscientist.com/article/2582717-high-protein-is-a-wellness-craze-but-could-restricting-it-be-anti-ageing/",
+    "description": "Protein is everywhere, but studies – mostly in non-human animals – suggest that limiting our intake could extend our lifespan",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306988537.jpg"
+  },
+  {
     "title": "Thousands of people in China have had banned Alzheimer's surgery | New Scientist",
     "url": "https://www.newscientist.com/article/2582621-thousands-of-people-in-china-have-had-banned-alzheimers-surgery/",
     "description": "Surgery that aims to enhance the clearance of Alzheimer's-associated proteins from the brain has been banned in China, but only after thousands of people had the procedure",
@@ -30,21 +46,5 @@
     "author": "Michael Le Page",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306906633.jpg"
-  },
-  {
-    "title": "Woolly mammoths butchered by humans were mostly female | New Scientist",
-    "url": "https://www.newscientist.com/article/2582513-woolly-mammoths-butchered-by-humans-were-mostly-female/",
-    "description": "Genetic tests of mammoth remains have found a stark contrast in the sex ratio between sites where the animals died naturally and those associated with humans, offering hints about how our ancestors hunted",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306878262.jpg"
-  },
-  {
-    "title": "Origami-inspired sensor could continuously monitor our vital signs | New Scientist",
-    "url": "https://www.newscientist.com/article/2582486-origami-inspired-sensor-could-continuously-monitor-our-vital-signs/",
-    "description": "A tiny sensor that unfolds within the body could continuously monitor our heart activity and breathing after showing promise in rats",
-    "author": "Esra Öz",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306791973.jpg"
   }
 ]

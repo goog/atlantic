@@ -1,8 +1,24 @@
 [
   {
-    "title": "Anthony Fauci’s Washington",
+    "title": "Trump Cares More About His Slush Fund Than Todd Blanche",
+    "url": "https://www.theatlantic.com/newsletters/2026/07/trump-todd-blanche-nomination-slush-fund/688133/",
+    "description": "The president seems less willing to let go of $1.8 billion than his pick for attorney general.",
+    "author": "David A. Graham",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/964XRNFmferwWmhGVNoQT0BvnDM=/81x0:945x576/210x140/media/img/mt/2026/07/2026_07_30_The_Daily_Todd_Blanche-1/original.jpg"
+  },
+  {
+    "title": "Climate Change Is Destabilizing the Ground Beneath Our Feet",
+    "url": "https://www.theatlantic.com/science/2026/07/climate-change-land/688129/",
+    "description": "Mountains are shifting, permafrost is melting, and the risk of landslides is rising.",
+    "author": "Christian Elliott",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/GuZl6JWkKfhHqAbypkh_Ja7yb-A=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_22_Unstable_ground/original.jpg"
+  },
+  {
+    "title": "What the Fauci Diary Reveals About Washington",
     "url": "https://www.theatlantic.com/ideas/2026/07/anthony-fauci-washington-diary/688127/",
-    "description": "His diary seems to confirm everyone’s worst suspicions about D.C. as a cesspool of self-regard.",
+    "description": "His musings seem to confirm everyone’s worst suspicions about the capital.",
     "author": "Mark Leibovich",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/27HrZiTosB46so1kOzmsljfmemY=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_30_Faucis_Washington/original.jpg"
@@ -142,21 +158,5 @@
     "author": "Rachel Vorona Cote",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/mGIHfoBOkjYH3kz8ShjhkuEoIog=/227x0:2657x1620/210x140/media/img/mt/2026/07/2026_07_29_animal_narrators/original.jpg"
-  },
-  {
-    "title": "The Town That Wants a Data Center Next Door",
-    "url": "https://www.theatlantic.com/podcasts/2026/07/town-wants-data-center-next-door/688108/",
-    "description": "Maine was about to ban data centers. Why did one town stop it?",
-    "author": "Ethan Brooks",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/S1UQagPMjhoHUL7Arwe0Xb8iD-o=/0x0:3375x2250/210x140/media/img/mt/2026/07/2026_07_29_Data_Center_RA_Horizontal/original.png"
-  },
-  {
-    "title": "AtlanticTrivia: Across Land and Sea",
-    "url": "https://www.theatlantic.com/trivia/2026/07/30-china-oil-markwayne-mullin-ice-alex-cooper-alix-earle/688104/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Drew Goins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/8h2qTTq16LJLjGZ2Vto1eRahU24=/151x0:1771x1080/210x140/media/img/mt/2026/07/3trivia_yellow/original.jpg"
   }
 ]
