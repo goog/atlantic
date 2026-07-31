@@ -1,6 +1,14 @@
 [
   {
-    "title": "Two Unexpectedly Hilarious Kafka Stories",
+    "title": "The Extras Are Tired",
+    "url": "https://www.theatlantic.com/culture/2026/07/influencer-job-controversial-nantucket-store/688132/",
+    "description": "People are getting more sick of influencers, even as the job becomes more important.",
+    "author": "Ellen Cushing",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/UU3IyDXKtDOLq_x53uLplA_1hmY=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_30_Cushing_Influencers_final/original.jpg"
+  },
+  {
+    "title": "Kafka’s Most Entertaining Stories",
     "url": "https://www.theatlantic.com/newsletters/2026/07/books-briefing-two-unexpectedly-hilarious-kafka-stories/688136/",
     "description": "The animal narrators in these works teach us something funny about human beings.",
     "author": "Boris Kachka",
@@ -8,7 +16,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/w5SdbmwyhBXrhoN5iydjPj0iVd8=/186x0:2193x1338/210x140/media/newsletters/2026/07/2026_07_31_Books_Briefing_Kafkas_most_hilarious_stories/original.jpg"
   },
   {
-    "title": "Galaxy Brain: Behind the Curtain at Google",
+    "title": "Behind the Curtain at Google",
     "url": "https://www.theatlantic.com/podcasts/2026/07/galaxy-brain-behind-curtain-google-silicon-valley/688130/",
     "description": "A look inside Silicon Valley’s vibe shift",
     "author": "Charlie Warzel",
@@ -150,13 +158,5 @@
     "author": "Jonathan Chait",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/byeD3BFi93SfvM8vKrTCYl_TXVU=/443x0:5192x3166/210x140/media/img/mt/2026/07/2026_07_30_Comey_Indictment/original.jpg"
-  },
-  {
-    "title": "Spider-ManForgets Itself",
-    "url": "https://www.theatlantic.com/culture/2026/07/spider-man-brand-new-day-movie-review/688114/",
-    "description": "Despite seeming like a fresh start,Brand New Dayis trapped in the Marvel vortex.",
-    "author": "David Sims",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/cDl9uZGyMwu0b-4vtgTfgB50sSo=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_07_30_Spider_Man_Brand_New_Day_Review_David_Sims/original.jpg"
   }
 ]
