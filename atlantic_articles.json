@@ -1,8 +1,16 @@
 [
   {
-    "title": "A Street Musician at Heart",
+    "title": "Fauci’s Return to Capitol Hill",
+    "url": "https://www.theatlantic.com/national/2026/08/fauci-senate-hearing-washington-week/688153/",
+    "description": "Panelists joined to discuss the doctor’s Senate hearing, and more.",
+    "author": "The Editors",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/qKIhTbjouzjH2IRdyvb1Qwmk3Rw=/1378x19:3042x1129/210x140/media/img/mt/2026/08/Screenshot_2026_08_01_at_9.55.34AM/original.png"
+  },
+  {
+    "title": "The Restless Troubadour",
     "url": "https://www.theatlantic.com/culture/2026/08/glen-hansard-death-obituary-busking/688152/",
-    "description": "The Oscar-winning performer Glen Hansard, who died this week, never forgot his busking roots.",
+    "description": "The Oscar-winning singer-songwriter, who died this week, brought the street into the studio.",
     "author": "Sophia Stewart",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/BSeEfwhSpBdfn8B9PPrrRznRLzk=/396x0:4638x2828/210x140/media/img/mt/2026/07/2026_07_29_Glen_Hansard_Appreciation/original.jpg"
@@ -24,15 +32,15 @@
     "image": "https://cdn.theatlantic.com/thumbor/E9yo0lv5fAiSs1N2cn--84XOqx8=/302x0:3542x2160/210x140/media/img/mt/2026/07/2026_07_30_Civil_Discourse/original.jpg"
   },
   {
-    "title": "Look Closer: David Hockney’s Window Onto Paris",
+    "title": "Look Closer: David Hockney’s Rules of Beauty",
     "url": "https://www.theatlantic.com/magazine/2026/09/david-hockney-contrejour-in-the-french-style/687970/",
-    "description": "In the Louvre, he found a view that was itself a work of art.",
+    "description": "What the artist found in a corner of the Louvre",
     "author": "Susan Tallman",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/IJhIEKcuDf6664i5fi9KFH1gchI=/155x0:1842x1125/210x140/media/img/2026/07/HockneyHP-1/original.jpg"
   },
   {
-    "title": "The Migrants Who Know the Rules, and Evade Them",
+    "title": "When Following the Rules Leads to Disaster",
     "url": "https://www.theatlantic.com/ideas/2026/08/ceuta-morocco-crisis-immigration/688149/",
     "description": "A supreme-court decision helped cause the Ceuta disaster.",
     "author": "Graeme Wood",
@@ -150,13 +158,5 @@
     "author": "Alan Taylor",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/NTReEp5hws2eEQbG17dFpVKmqjA=/32x0:5945x3942/210x140/media/img/mt/2026/07/a01_26207202456393/original.jpg"
-  },
-  {
-    "title": "Something Weird Is Happening in Math",
-    "url": "https://www.theatlantic.com/technology/2026/07/jacob-tsimerman-math-fields-medal-openai/688120/",
-    "description": "Why one of the world’s best mathematicians is joining OpenAI",
-    "author": "Lila Shroff",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/6LjQq3ZkULYBBNcUIf8yWcqx25E=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_29_Why_a_Winner_of_Maths_Most_Prestigious_Award_Is_Joining_OpenAII/original.jpg"
   }
 ]
