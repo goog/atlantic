@@ -1,6 +1,22 @@
 [
   {
-    "title": "Has Gen Z Saved—Or Just Changed—Movies?",
+    "title": "I Can’t Be the Only One Who Loves Dulles",
+    "url": "https://www.theatlantic.com/ideas/2026/08/sorry-haters-dulles-rules/688139/",
+    "description": "A plan to renovate one of America’s most hated airports will surely be popular—but the airport is actually fine the way it is.",
+    "author": "Adrienne LaFrance",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/NffcJtFVYFo6-uRorsL5vq75hMM=/115x0:1212x731/210x140/media/img/mt/2026/07/2026_07_31_dulles_mpg/original.gif"
+  },
+  {
+    "title": "Out Here",
+    "url": "https://www.theatlantic.com/books/2026/08/america-250th-homelessness-poems/687760/",
+    "description": "A view of America from its most exposed citizens",
+    "author": "The Black Seed Writers Group",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/jLEFUMIr4wVKDN0LMMoYqZiCnCI=/155x0:1842x1125/210x140/media/img/mt/2026/07/BlackSeedWriters/original.png"
+  },
+  {
+    "title": "Is Gen Z Really Saving Hollywood?",
     "url": "https://www.theatlantic.com/culture/2026/08/gen-z-movies/688148/",
     "description": "There’s a more complicated reality beneath the cheery headlines.",
     "author": "Sophia Nguyen",
@@ -142,21 +158,5 @@
     "author": "Ellen Cushing",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/UU3IyDXKtDOLq_x53uLplA_1hmY=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_07_30_Cushing_Influencers_final/original.jpg"
-  },
-  {
-    "title": "Kafka’s Most Entertaining Stories",
-    "url": "https://www.theatlantic.com/newsletters/2026/07/books-briefing-two-unexpectedly-hilarious-kafka-stories/688136/",
-    "description": "The animal narrators in these works teach us something funny about human beings.",
-    "author": "Boris Kachka",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/w5SdbmwyhBXrhoN5iydjPj0iVd8=/186x0:2193x1338/210x140/media/newsletters/2026/07/2026_07_31_Books_Briefing_Kafkas_most_hilarious_stories/original.jpg"
-  },
-  {
-    "title": "Behind the Curtain at Google",
-    "url": "https://www.theatlantic.com/podcasts/2026/07/galaxy-brain-behind-curtain-google-silicon-valley/688130/",
-    "description": "A look inside Silicon Valley’s vibe shift",
-    "author": "Charlie Warzel",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Su1lz0mhfMmlX6QzwCyks48hZ-0=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_31_GB_Claire_Stapleton/original.jpg"
   }
 ]
