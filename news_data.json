@@ -1,5 +1,21 @@
 [
   {
+    "title": "Why winner of biggest prize in maths has decided to work on AI instead | New Scientist",
+    "url": "https://www.newscientist.com/article/2582780-why-winner-of-biggest-prize-in-maths-has-decided-to-work-on-ai-instead/",
+    "description": "Jacob Tsimerman won a Fields medal last month – now he is leaving mathematics to work on AI safety",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307267791.jpg"
+  },
+  {
+    "title": "OpenAI announces solutions to 10 longstanding maths problems | New Scientist",
+    "url": "https://www.newscientist.com/article/2582793-openai-announces-solutions-to-10-longstanding-maths-problems/",
+    "description": "Ten conundrums that stumped human mathematicians for years have been cracked by OpenAI's Astra model, continuing a hot streak of AI-driven breakthroughs that are shaking up the field",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307286335.jpg"
+  },
+  {
     "title": "Why sitting under a parasol is barely cooler than being in the sun | New Scientist",
     "url": "https://www.newscientist.com/article/2582754-why-sitting-under-a-parasol-is-barely-cooler-than-being-in-the-sun/",
     "description": "A beach umbrella might protect you from sunburn, but when it comes to keeping you cool, it makes surprisingly little difference",
@@ -30,21 +46,5 @@
     "author": "Carissa Wong",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306988537.jpg"
-  },
-  {
-    "title": "Thousands of people in China have had banned Alzheimer's surgery | New Scientist",
-    "url": "https://www.newscientist.com/article/2582621-thousands-of-people-in-china-have-had-banned-alzheimers-surgery/",
-    "description": "Surgery that aims to enhance the clearance of Alzheimer's-associated proteins from the brain has been banned in China, but only after thousands of people had the procedure",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306980417.jpg"
-  },
-  {
-    "title": "Where to watch the next total solar eclipse anywhere in the world | New Scientist",
-    "url": "https://www.newscientist.com/article/2580260-where-to-watch-the-next-total-solar-eclipse-anywhere-in-the-world/",
-    "description": "The total solar eclipse on 12 August will only be visible to a lucky few, but eclipses happen all over the world – here are the next ones to look out for, wherever you may be",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305882664.jpg"
   }
 ]

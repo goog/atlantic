@@ -1,5 +1,29 @@
 [
   {
+    "title": "Photos: Wildfires Burn Through Spokane Neighborhoods",
+    "url": "https://www.theatlantic.com/photography/2026/08/photos-wildfires-burn-through-spokane-neighborhoods/688157/",
+    "description": "Tens of thousands of residents have been forced to flee as three fast-moving fires burned through forests and residential areas in Spokane, Washington, over the weekend. More than 600 structures have ",
+    "author": "Alan Taylor",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/XuJRJZbj1vhizO7aM1Me5goQ3dk=/51x0:1948x1264/210x140/media/img/mt/2026/08/a01_RC28QMAKZ5I9/original.jpg"
+  },
+  {
+    "title": "Kill the Ticks",
+    "url": "https://www.theatlantic.com/health/2026/08/tick-disease-public-health/688156/",
+    "description": "America needs a bigger plan to control its tick problem.",
+    "author": "Sarah Zhang",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/ZrfUCF7FQEJoXx1HzOaCiZ3HE0s=/99x0:1027x619/210x140/media/img/mt/2026/08/2026_07_29_ticks_mpg/original.gif"
+  },
+  {
+    "title": "What ‘America First’ Means for Global Health",
+    "url": "https://www.theatlantic.com/podcasts/2026/08/ra-ebola/688140/",
+    "description": "The Democratic Republic of the Congo is in the throes of the deadliest Ebola outbreak in its history. Could it have been prevented?",
+    "author": "Adam Harris",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/0LoT0j98vXYlBrqaPX7MRzYGRdI=/0x0:3375x2250/210x140/media/img/mt/2026/07/Radio_Atlantic_Horizontal-2/original.jpg"
+  },
+  {
     "title": "The One Town That Wants a Data Center",
     "url": "https://www.theatlantic.com/technology/2026/08/jay-maine-wants-data-center/688043/",
     "description": "",
@@ -134,29 +158,5 @@
     "author": "Rafaela Jinich",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/03doNhFAC6df9VVmbV5fNlEOLGE=/43x25:979x649/210x140/media/img/mt/2026/07/GettyImages_1240165466/original.jpg"
-  },
-  {
-    "title": "The Two Great Threats to Truth",
-    "url": "https://www.theatlantic.com/ideas/2026/08/truth-relativism-civil-discourse/688112/",
-    "description": "Moral relativism and fanaticism may seem to have nothing in common, but they lead to the same result.",
-    "author": "Robert P. George",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/E9yo0lv5fAiSs1N2cn--84XOqx8=/302x0:3542x2160/210x140/media/img/mt/2026/07/2026_07_30_Civil_Discourse/original.jpg"
-  },
-  {
-    "title": "Look Closer: David Hockney’s Rules of Beauty",
-    "url": "https://www.theatlantic.com/magazine/2026/09/david-hockney-contrejour-in-the-french-style/687970/",
-    "description": "What the artist found in a corner of the Louvre",
-    "author": "Susan Tallman",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/IJhIEKcuDf6664i5fi9KFH1gchI=/155x0:1842x1125/210x140/media/img/2026/07/HockneyHP-1/original.jpg"
-  },
-  {
-    "title": "When Following the Rules Leads to Disaster",
-    "url": "https://www.theatlantic.com/ideas/2026/08/ceuta-morocco-crisis-immigration/688149/",
-    "description": "A supreme-court decision helped cause the Ceuta disaster.",
-    "author": "Graeme Wood",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/CaeXHly7xOTayv5PLEIkjwFqpYg=/88x0:952x576/210x140/media/img/mt/2026/07/2026_07_31_Ceuta_Graeme_Wood/original.jpg"
   }
 ]
