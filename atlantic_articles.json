@@ -1,5 +1,53 @@
 [
   {
+    "title": "The One Town That Wants a Data Center",
+    "url": "https://www.theatlantic.com/technology/2026/08/jay-maine-wants-data-center/688043/",
+    "description": "",
+    "author": "Ethan Brooks",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/SDSwD9iH7vfGdN2LwiO4zkYzMeQ=/108x542:2550x2170/210x140/media/img/mt/2026/07/jay_maine_film_82/original.jpg"
+  },
+  {
+    "title": "AtlanticTrivia: Surprise Inside",
+    "url": "https://www.theatlantic.com/trivia/2026/08/3-mexico-sheinbaum-roblox-gaming-gambling-millennium-stage/688143/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/rhf3qNLPt1sUVAq3Gi2me2K7k4M=/149x0:1770x1081/210x140/media/img/mt/2026/07/2trivia_purple-1/original.png"
+  },
+  {
+    "title": "The Best Parenting Hack Is Being Rich",
+    "url": "https://www.theatlantic.com/family/2026/08/parenting-advice-education-income/688138/",
+    "description": "Young kids shouldn’t have screen time, a new report warns. But who can afford to follow that advice?",
+    "author": "Olga Khazan",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/jpSybsulALylFno_8xm6j80ZA2I=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_31_The_Best_Parenting_Hack_Is_Being_Rich/original.jpg"
+  },
+  {
+    "title": "Why Is the U.S. Running So Low on Weapons?",
+    "url": "https://www.theatlantic.com/ideas/2026/08/the-us-isnt-making-enough-weapons/688150/",
+    "description": "Allies that depend on U.S. military equipment need a Plan B.",
+    "author": "Phillips Payson O’Brien",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/0JiC99AniZbAMDkbiavU1_OEwdM=/302x0:3586x2190/210x140/media/img/mt/2026/07/2026_07_31_Why_is_the_Us_Running_out_of_Weapons/original.jpg"
+  },
+  {
+    "title": "How AI Could Make People More Anxious",
+    "url": "https://www.theatlantic.com/podcasts/2026/08/how-ai-could-make-people-more-anxious/688109/",
+    "description": "Researchers warn that the design of chatbots is a “perfect storm” for anxiety.",
+    "author": "Julie BeckandNatalie Brennan",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Kv0BIFrA4A2bfnMKCHBY1vQb_WQ=/155x0:1842x1125/210x140/media/img/mt/2026/07/HowTo_Ep_2/original.jpg"
+  },
+  {
+    "title": "The Great Romance Slump",
+    "url": "https://www.theatlantic.com/magazine/2026/09/modern-romance-recession/687968/",
+    "description": "Why are so few young people finding love?",
+    "author": "Faith Hill",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/k5bKNgjt4DaJGL0z64AJK6Kv6VA=/504x0:4554x2700/210x140/media/img/2026/07/0926_WEL_Hill_The_Romance_Recession_HP/original.jpg"
+  },
+  {
     "title": "The Far Right Is Distorting Ceuta",
     "url": "https://www.theatlantic.com/ideas/2026/08/ceuta-spain-far-right/688154/",
     "description": "",
@@ -110,53 +158,5 @@
     "author": "Graeme Wood",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/CaeXHly7xOTayv5PLEIkjwFqpYg=/88x0:952x576/210x140/media/img/mt/2026/07/2026_07_31_Ceuta_Graeme_Wood/original.jpg"
-  },
-  {
-    "title": "America’s Most Divided State Loves Its Extremes",
-    "url": "https://www.theatlantic.com/politics/2026/08/wisconsin-divided-state-loves-extremes/688128/",
-    "description": "Wisconsin has never been a bastion of moderation.",
-    "author": "Russell Berman",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/XI9x1_vVs37zyAkDlfG8euRdzqU=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_08_01_Wisconsin_Governors_Race_Russell_Berman/original.jpg"
-  },
-  {
-    "title": "How the Reflecting Pool Vandalism Case Fell Apart",
-    "url": "https://www.theatlantic.com/politics/2026/07/reflecting-pool-case-david-hearn/688151/",
-    "description": "Federal prosecutors searched for evidence and found that “a botched installation” was to blame.",
-    "author": "Matt Viser",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/fjJxJO0rLKdZvUBy9Beo4FkYZus=/315x0:3690x2250/210x140/media/img/mt/2026/07/2026_07_31_Charges_Against_Canoeist_Thrown_Out_Matt_Viser/original.jpg"
-  },
-  {
-    "title": "Google Just Ruined One of Its Most Important Tools",
-    "url": "https://www.theatlantic.com/technology/2026/07/google-earth-ai-images/688145/",
-    "description": "Google Earth was a boon for researchers—and then came the deepfakes.",
-    "author": "Matteo Wong",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/-y0HDe7Z8QrQMfdsRd9vZFxjxeQ=/0x0:1620x1080/210x140/media/img/mt/2026/07/2026_07_31_GoogleAI_1/original.jpg"
-  },
-  {
-    "title": "The Incoherence of the Iran Hawks",
-    "url": "https://www.theatlantic.com/ideas/2026/07/trump-iran-war-strategy-military-remarks/688144/",
-    "description": "If bombing has limited, reversible effects, then it will have to continue indefinitely.",
-    "author": "Jonathan Chait",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/U_FXwA-r4ZfVdX9_F5eZFtwMmXI=/440x0:5229x3193/210x140/media/img/mt/2026/07/2026_7_31_The_Incoherence_of_the_Iran_Hawks/original.png"
-  },
-  {
-    "title": "Schengen’s Greatest Failure",
-    "url": "https://www.theatlantic.com/politics/2026/07/migration-splitting-europe-apart/688137/",
-    "description": "The Ceuta crisis is undermining an agreement designed to foster “solidarity.”",
-    "author": "Isaac Stanley-Becker",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/IRc6NK4_afJ4b-lYq5BIFiF4HUg=/797x0:5278x2987/210x140/media/img/mt/2026/07/2026_07_31_Cueta/original.jpg"
-  },
-  {
-    "title": "Anthony Fauci Is Not the Villain in This Story",
-    "url": "https://www.theatlantic.com/ideas/2026/07/fauci-senate-diary-rand-paul/688135/",
-    "description": "The doctor was thrust into his pandemic-leadership role because of Trump’s deadly dereliction of duty.",
-    "author": "David Frum",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/qCHZnLAZjxrorbCogzPy8YS9Cio=/77x0:914x558/210x140/media/img/mt/2026/07/2026_07_31_Fauci_David_Frum/original.jpg"
   }
 ]
