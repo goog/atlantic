@@ -1,5 +1,13 @@
 [
   {
+    "title": "Why sitting under a parasol is barely cooler than being in the sun | New Scientist",
+    "url": "https://www.newscientist.com/article/2582754-why-sitting-under-a-parasol-is-barely-cooler-than-being-in-the-sun/",
+    "description": "A beach umbrella might protect you from sunburn, but when it comes to keeping you cool, it makes surprisingly little difference",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307269560.jpg"
+  },
+  {
     "title": "How Europe can make its landscapes more fire-resilient | New Scientist",
     "url": "https://www.newscientist.com/article/2582716-how-europe-can-make-its-landscapes-more-fire-resilient/",
     "description": "Paradoxically, suppressing wildfires has also made European countries more vulnerable to huge blazes like those seen in France and Spain this week. With global warming also amplifying the danger, some experts are calling for a change of strategy",
@@ -38,13 +46,5 @@
     "author": "Leah Crane",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305882664.jpg"
-  },
-  {
-    "title": "Smallpox DNA in ancient Inca mummies shows virus came from Europe | New Scientist",
-    "url": "https://www.newscientist.com/article/2582442-smallpox-dna-in-ancient-inca-mummies-shows-virus-came-from-europe/",
-    "description": "The mummies of two people who lived in Chile more than 400 years ago carry DNA from smallpox, providing the first molecular evidence that the virus was brought to the Americas from Europe",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306912272.jpg"
   }
 ]
