@@ -1,5 +1,13 @@
 [
   {
+    "title": "Canadian wildfires are reducing solar power generation in Europe | New Scientist",
+    "url": "https://www.newscientist.com/article/2582931-canadian-wildfires-are-reducing-solar-power-generation-in-europe/",
+    "description": "Lost solar power due to smoke blocking the sun cost Europe and North America nearly $2 billion in 2023 alone",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307283764.jpg"
+  },
+  {
     "title": "Parts of the UK endure first ever month without any rain | New Scientist",
     "url": "https://www.newscientist.com/article/2583057-parts-of-the-uk-endure-first-ever-month-without-any-rain/",
     "description": "For the first time since records began, there was no rain at all for parts of southern England and Wales in July, in a “truly exceptional” month of heat and sunshine",
@@ -38,13 +46,5 @@
     "author": "Alec Luhn",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_307004486.jpg"
-  },
-  {
-    "title": "Climate change may help eliminate malaria from West and Central Africa | New Scientist",
-    "url": "https://www.newscientist.com/article/2582737-climate-change-could-eliminate-malaria-from-west-and-central-africa/",
-    "description": "Global warming may make it too hot for malaria-carrying mosquitoes to survive in parts of Africa, but could also shift the problem to less affected areas",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306887915.jpg"
   }
 ]
