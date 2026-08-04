@@ -1,5 +1,13 @@
 [
   {
+    "title": "Parts of the UK endure first ever month without any rain | New Scientist",
+    "url": "https://www.newscientist.com/article/2583057-parts-of-the-uk-endure-first-ever-month-without-any-rain/",
+    "description": "For the first time since records began, there was no rain at all for parts of southern England and Wales in July, in a “truly exceptional” month of heat and sunshine",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307296228.jpg"
+  },
+  {
     "title": "Why winner of biggest prize in maths has decided to work on AI instead | New Scientist",
     "url": "https://www.newscientist.com/article/2582780-why-winner-of-biggest-prize-in-maths-has-decided-to-work-on-ai-instead/",
     "description": "Jacob Tsimerman won a Fields medal last month – now he is leaving mathematics to work on AI safety",
@@ -38,13 +46,5 @@
     "author": "Christa Lesté-Lasserre",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306887915.jpg"
-  },
-  {
-    "title": "Could eating less protein slow ageing? | New Scientist",
-    "url": "https://www.newscientist.com/article/2582717-high-protein-is-a-wellness-craze-but-could-restricting-it-be-anti-ageing/",
-    "description": "Protein is everywhere, but studies – mostly in non-human animals – suggest that limiting our intake could extend our lifespan",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306988537.jpg"
   }
 ]
