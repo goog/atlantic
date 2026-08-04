@@ -1,6 +1,22 @@
 [
   {
-    "title": "Suddenly, Communists Are Everywhere",
+    "title": "The Catholic Church’s New Schism",
+    "url": "https://www.theatlantic.com/culture/2026/08/catholic-church-sspx-schism/688166/",
+    "description": "The Vatican excommunicated 700 arch-traditionalist bishops and priests—a rupture that touches on broader disputes in the Church today.",
+    "author": "Luis Parrales",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/ZnwzuHMBy8lWBDpsQopjx2nsf0w=/227x0:2657x1620/210x140/media/img/mt/2026/08/2026_07_20_SSPX/original.jpg"
+  },
+  {
+    "title": "One Problem With Attacking the Smithsonian? Americans Like It.",
+    "url": "https://www.theatlantic.com/culture/2026/08/smithsonian-trump-trust/688165/",
+    "description": "Coming after a history museum may not be the base-galvanizing issue Trump thinks it is.",
+    "author": "Kelsey Ables",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/AujGPATwbNgyO9nYWuu_40rxKxE=/227x0:2657x1620/210x140/media/img/mt/2026/08/2026_07_29_Smithsonian/original.jpg"
+  },
+  {
+    "title": "The Danger of Trump’s Anti-Communist Rhetoric",
     "url": "https://www.theatlantic.com/national-security/2026/08/suddenly-communists-are-everywhere/688161/",
     "description": "The Trump administration would like you to worry like it’s 1979.",
     "author": "Vivian SalamaandJack Rodriquez-Vars",
@@ -142,21 +158,5 @@
     "author": "Adrienne LaFrance",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/NffcJtFVYFo6-uRorsL5vq75hMM=/115x0:1212x731/210x140/media/img/mt/2026/07/2026_07_31_dulles_mpg/original.gif"
-  },
-  {
-    "title": "Out Here",
-    "url": "https://www.theatlantic.com/books/2026/08/america-250th-homelessness-poems/687760/",
-    "description": "A view of America from its most exposed citizens",
-    "author": "The Black Seed Writers Group",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/jLEFUMIr4wVKDN0LMMoYqZiCnCI=/155x0:1842x1125/210x140/media/img/mt/2026/07/BlackSeedWriters/original.png"
-  },
-  {
-    "title": "Is Gen Z Really Saving Hollywood?",
-    "url": "https://www.theatlantic.com/culture/2026/08/gen-z-movies/688148/",
-    "description": "There’s a more complicated reality beneath the cheery headlines.",
-    "author": "Sophia Nguyen",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/QvHHxE9H00RcPhB7VL26Yq6mSHU=/155x0:1842x1125/210x140/media/img/mt/2026/07/2026_7_29_Why_Gen_Z_Isnt_Saving_Movies/original.jpg"
   }
 ]
