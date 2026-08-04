@@ -1,5 +1,21 @@
 [
   {
+    "title": "Most people prefer AI-written stories – and can't tell when they are made by humans | New Scientist",
+    "url": "https://www.newscientist.com/article/2583065-most-people-prefer-stories-written-by-ai-and-cant-tell-it-apart-from-human-work/",
+    "description": "People appear to prefer short stories created by AI over those written by humans. They are also no better than chance at telling which is which",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307363975.jpg"
+  },
+  {
+    "title": "Should you stop using preventive flea treatments on your pets? | New Scientist",
+    "url": "https://www.newscientist.com/article/2583235-should-you-stop-using-preventive-flea-treatments-on-your-pets/",
+    "description": "It has been assumed for decades that tick and flea treatments for pets pose no threat to wildlife or people, but there’s growing evidence that we have got it wrong",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307367735.jpg"
+  },
+  {
     "title": "Darwin proved right about gnat-trapping carnivorous plant | New Scientist",
     "url": "https://www.newscientist.com/article/2583122-darwin-proved-right-about-gnat-trapping-carnivorous-plant/",
     "description": "Botanists have finally proved what Charles Darwin was unable to nail down – that a genus of plants known to catch insects also digests them, suggesting the extent of plant carnivory has been underestimated",
@@ -30,21 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307267791.jpg"
-  },
-  {
-    "title": "OpenAI announces solutions to 10 longstanding maths problems | New Scientist",
-    "url": "https://www.newscientist.com/article/2582793-openai-announces-solutions-to-10-longstanding-maths-problems/",
-    "description": "Ten conundrums that stumped human mathematicians for years have been cracked by OpenAI's Astra model, continuing a hot streak of AI-driven breakthroughs that are shaking up the field",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307286335.jpg"
-  },
-  {
-    "title": "Why sitting under a parasol is barely cooler than being in the sun | New Scientist",
-    "url": "https://www.newscientist.com/article/2582754-why-sitting-under-a-parasol-is-barely-cooler-than-being-in-the-sun/",
-    "description": "A beach umbrella might protect you from sunburn, but when it comes to keeping you cool, it makes surprisingly little difference",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307269560.jpg"
   }
 ]
