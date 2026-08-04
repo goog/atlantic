@@ -1,5 +1,13 @@
 [
   {
+    "title": "Darwin proved right about gnat-trapping carnivorous plant | New Scientist",
+    "url": "https://www.newscientist.com/article/2583122-darwin-proved-right-about-gnat-trapping-carnivorous-plant/",
+    "description": "Botanists have finally proved what Charles Darwin was unable to nail down – that a genus of plants known to catch insects also digests them, suggesting the extent of plant carnivory has been underestimated",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307342588.jpg"
+  },
+  {
     "title": "Canadian wildfires are reducing solar power generation in Europe | New Scientist",
     "url": "https://www.newscientist.com/article/2582931-canadian-wildfires-are-reducing-solar-power-generation-in-europe/",
     "description": "Lost solar power due to smoke blocking the sun cost Europe and North America nearly $2 billion in 2023 alone",
@@ -38,13 +46,5 @@
     "author": "Michael Le Page",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307269560.jpg"
-  },
-  {
-    "title": "How Europe can make its landscapes more fire-resilient | New Scientist",
-    "url": "https://www.newscientist.com/article/2582716-how-europe-can-make-its-landscapes-more-fire-resilient/",
-    "description": "Paradoxically, suppressing wildfires has also made European countries more vulnerable to huge blazes like those seen in France and Spain this week. With global warming also amplifying the danger, some experts are calling for a change of strategy",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_307004486.jpg"
   }
 ]
