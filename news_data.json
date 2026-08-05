@@ -1,5 +1,13 @@
 [
   {
+    "title": "Three factors in midlife can delay the onset of dementia by 13 years | New Scientist",
+    "url": "https://www.newscientist.com/article/2583480-three-factors-in-midlife-can-delay-the-onset-of-dementia-by-13-years/",
+    "description": "A study involving 12,000 adults in the US suggests that taking action to prevent dementia during your 50s can make a big difference later in life",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307430695.jpg"
+  },
+  {
     "title": "Swallowing faecal capsules reduces peanut allergy in six adults | New Scientist",
     "url": "https://www.newscientist.com/article/2583300-swallowing-faecal-capsules-reduces-peanut-allergy-in-six-adults/",
     "description": "Altering the gut microbiomes of people with peanut allergy using faeces donated from an allergy-free individual improved their peanut tolerance in a clinical trial",
@@ -38,13 +46,5 @@
     "author": "Taylor Mitchell Brown",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307344165.jpg"
-  },
-  {
-    "title": "X rocket crashes into moon at 8700 kilometres per hour | New Scientist",
-    "url": "https://www.newscientist.com/article/2583318-spacex-rocket-crashes-into-moon-at-8700-kilometres-per-hour/",
-    "description": "A rocket launched last year is thought to have smashed into the lunar surface this morning, creating the moon's newest crater",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307426634.jpg"
   }
 ]
