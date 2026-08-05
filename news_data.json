@@ -1,5 +1,13 @@
 [
   {
+    "title": "Two dogs lack the protein that causes allergies thanks to gene editing | New Scientist",
+    "url": "https://www.newscientist.com/article/2583502-two-dogs-lack-the-protein-that-causes-allergies-thanks-to-gene-editing/",
+    "description": "A company has created dogs that do not have the main protein that provokes allergies, and hopes to get approval to start selling them",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307453764.jpg"
+  },
+  {
     "title": "Most-detailed-ever image of sun reveals roiling waves for first time | New Scientist",
     "url": "https://www.newscientist.com/article/2583404-most-detailed-ever-image-of-sun-reveals-roiling-waves-for-first-time/",
     "description": "Remarkable images of the sun show vortices on its surface that have never been seen before because they are so small",
@@ -38,13 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307363975.jpg"
-  },
-  {
-    "title": "Should you stop using preventive flea treatments on your pets? | New Scientist",
-    "url": "https://www.newscientist.com/article/2583235-should-you-stop-using-preventive-flea-treatments-on-your-pets/",
-    "description": "It has been assumed for decades that tick and flea treatments for pets pose no threat to wildlife or people, but there’s growing evidence that we have got it wrong",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307367735.jpg"
   }
 ]
