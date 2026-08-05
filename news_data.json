@@ -1,5 +1,13 @@
 [
   {
+    "title": "Swallowing faecal capsules reduces peanut allergy in six adults | New Scientist",
+    "url": "https://www.newscientist.com/article/2583300-swallowing-faecal-capsules-reduces-peanut-allergy-in-six-adults/",
+    "description": "Altering the gut microbiomes of people with peanut allergy using faeces donated from an allergy-free individual improved their peanut tolerance in a clinical trial",
+    "author": "Alice Klein",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307428817.jpg"
+  },
+  {
     "title": "Two dogs lack the protein that causes allergies thanks to gene editing | New Scientist",
     "url": "https://www.newscientist.com/article/2583502-two-dogs-lack-the-protein-that-causes-allergies-thanks-to-gene-editing/",
     "description": "A company has created dogs that do not have the main protein that provokes allergies, and hopes to get approval to start selling them",
@@ -38,13 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307426634.jpg"
-  },
-  {
-    "title": "Most people prefer AI-written stories – and can't tell when they are made by humans | New Scientist",
-    "url": "https://www.newscientist.com/article/2583065-most-people-prefer-stories-written-by-ai-and-cant-tell-it-apart-from-human-work/",
-    "description": "People appear to prefer short stories created by AI over those written by humans. They are also no better than chance at telling which is which",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307363975.jpg"
   }
 ]
