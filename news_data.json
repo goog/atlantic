@@ -1,5 +1,21 @@
 [
   {
+    "title": "Ancient Egyptians may have built a massive dam near the Red Pyramid | New Scientist",
+    "url": "https://www.newscientist.com/article/2583326-ancient-egyptians-may-have-built-a-massive-dam-near-the-red-pyramid/",
+    "description": "Large structures near the Red Pyramid may be the remnants of a major dam, suggesting that the Egyptians used water to help power their construction projects",
+    "author": "Taylor Mitchell Brown",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307344165.jpg"
+  },
+  {
+    "title": "X rocket crashes into moon at 8700 kilometres per hour | New Scientist",
+    "url": "https://www.newscientist.com/article/2583318-spacex-rocket-crashes-into-moon-at-8700-kilometres-per-hour/",
+    "description": "A rocket launched last year is thought to have smashed into the lunar surface this morning, creating the moon's newest crater",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307426634.jpg"
+  },
+  {
     "title": "Most people prefer AI-written stories – and can't tell when they are made by humans | New Scientist",
     "url": "https://www.newscientist.com/article/2583065-most-people-prefer-stories-written-by-ai-and-cant-tell-it-apart-from-human-work/",
     "description": "People appear to prefer short stories created by AI over those written by humans. They are also no better than chance at telling which is which",
@@ -30,21 +46,5 @@
     "author": "Michael Le Page",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307283764.jpg"
-  },
-  {
-    "title": "Parts of the UK endure first ever month without any rain | New Scientist",
-    "url": "https://www.newscientist.com/article/2583057-parts-of-the-uk-endure-first-ever-month-without-any-rain/",
-    "description": "For the first time since records began, there was no rain at all for parts of southern England and Wales in July, in a “truly exceptional” month of heat and sunshine",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307296228.jpg"
-  },
-  {
-    "title": "Why winner of biggest prize in maths has decided to work on AI instead | New Scientist",
-    "url": "https://www.newscientist.com/article/2582780-why-winner-of-biggest-prize-in-maths-has-decided-to-work-on-ai-instead/",
-    "description": "Jacob Tsimerman won a Fields medal last month – now he is leaving mathematics to work on AI safety",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307267791.jpg"
   }
 ]
