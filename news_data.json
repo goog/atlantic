@@ -1,5 +1,21 @@
 [
   {
+    "title": "Most-detailed-ever image of sun reveals roiling waves for first time | New Scientist",
+    "url": "https://www.newscientist.com/article/2583404-most-detailed-ever-image-of-sun-reveals-roiling-waves-for-first-time/",
+    "description": "Remarkable images of the sun show vortices on its surface that have never been seen before because they are so small",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307363282.jpg"
+  },
+  {
+    "title": "Large predators reduce car accidents by keeping deer off roads | New Scientist",
+    "url": "https://www.newscientist.com/article/2583449-large-predators-reduce-car-accidents-by-keeping-deer-off-roads/",
+    "description": "We already know wolves can make roads safer, and now it's been shown that the presence of cougars reduces deer collisions by 76 per cent",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307364618.jpg"
+  },
+  {
     "title": "Ancient Egyptians may have built a massive dam near the Red Pyramid | New Scientist",
     "url": "https://www.newscientist.com/article/2583326-ancient-egyptians-may-have-built-a-massive-dam-near-the-red-pyramid/",
     "description": "Large structures near the Red Pyramid may be the remnants of a major dam, suggesting that the Egyptians used water to help power their construction projects",
@@ -30,21 +46,5 @@
     "author": "Michael Le Page",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307367735.jpg"
-  },
-  {
-    "title": "Darwin proved right about gnat-trapping carnivorous plant | New Scientist",
-    "url": "https://www.newscientist.com/article/2583122-darwin-proved-right-about-gnat-trapping-carnivorous-plant/",
-    "description": "Botanists have finally proved what Charles Darwin was unable to nail down – that a genus of plants known to catch insects also digests them, suggesting the extent of plant carnivory has been underestimated",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307342588.jpg"
-  },
-  {
-    "title": "Canadian wildfires are reducing solar power generation in Europe | New Scientist",
-    "url": "https://www.newscientist.com/article/2582931-canadian-wildfires-are-reducing-solar-power-generation-in-europe/",
-    "description": "Lost solar power due to smoke blocking the sun cost Europe and North America nearly $2 billion in 2023 alone",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307283764.jpg"
   }
 ]
