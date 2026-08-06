@@ -1,5 +1,37 @@
 [
   {
+    "title": "Another Ill-Advised Trump Paint Job",
+    "url": "https://www.theatlantic.com/culture/2026/08/trump-eeob-paint/688200/",
+    "description": "The president would ruin an architectural gem because he thinks it doesn’t match the White House.",
+    "author": "Dorothy Robyn",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/GD-O9192fWjGUHSPpI4p25DoezQ=/435x0:3810x2250/210x140/media/img/mt/2026/08/2026_08_03_The_Inane_Plan_to_Repaint_EEOB_the_Building_Next_to_the_White_House_White_Dorothy_Robyn/original.jpg"
+  },
+  {
+    "title": "The Academics Who Caught Fire",
+    "url": "https://www.theatlantic.com/books/2026/08/emily-eakin-the-frenchmen-book-review/688197/",
+    "description": "The French theorists of the postwar era argued that the author’s life is irrelevant. Emily Eakin’s lively new book proves them wrong.",
+    "author": "Lynn Steger Strong",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/z7wXTDzir7hg8I30PR_vGAb2MMI=/227x0:2657x1620/210x140/media/img/mt/2026/08/2026_08_04_Poststructuralists/original.jpg"
+  },
+  {
+    "title": "AtlanticTrivia: Imposing Figures",
+    "url": "https://www.theatlantic.com/trivia/2026/08/6-al-qaeda-trump-reflecting-pool-airport-warrantless-search/688196/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/zgb57p3IZ9nkj7Yq7ODjc94WQCg=/152x0:1772x1080/210x140/media/img/mt/2026/08/1trivia_green/original.png"
+  },
+  {
+    "title": "Fed Up With Romance",
+    "url": "https://www.theatlantic.com/podcasts/2026/08/the-death-of-romance/688193/",
+    "description": "Why young people are giving up on love",
+    "author": "Hanna Rosin",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/IBB7WRSYlS1m2WjskoGj36C-7pg=/100x0:3475x2250/210x140/media/img/mt/2026/08/Radio_Atlantic_Horizontal-1/original.jpg"
+  },
+  {
     "title": "What El-Sayed Does Next Matters",
     "url": "https://www.theatlantic.com/politics/2026/08/el-sayed-michigan-rogers-senate/688195/",
     "description": "Abdul El-Sayed called out Democrats. Now he needs to bring them together.",
@@ -126,37 +158,5 @@
     "author": "Graeme Wood",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/BL-uSfGWK9vyDjjvc51CnRG8wgI=/155x0:1842x1125/210x140/media/img/2026/08/Al_QaedaWOODopenerHP/original.png"
-  },
-  {
-    "title": "Trump Tests the Definition ofInsider Trading",
-    "url": "https://www.theatlantic.com/newsletters/2026/08/trump-social-media-posts-policy-markets/688182/",
-    "description": "A new Truth Social subscription service is another way for the president to profit from his office.",
-    "author": "Will Gottsegen",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/5_LYilH49ZBnYHq__NzzdHwwANE=/313x0:3688x2250/210x140/media/newsletters/2026/08/2026_08_04_The_Daily_Trump_Truth_Social/original.jpg"
-  },
-  {
-    "title": "Trump’s Irrationality Is Dangerous",
-    "url": "https://www.theatlantic.com/ideas/2026/08/trump-reflecting-pool-irrationality/688180/",
-    "description": "The president’s recent rant is a sign of serious dysfunction in the Oval Office.",
-    "author": "Tom Nichols",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/bIVLCXlpZlazTd6byRGZxY5_3s4=/323x0:3779x2304/210x140/media/img/mt/2026/08/2026_08_04_Trumps_New_Word_Salad/original.jpg"
-  },
-  {
-    "title": "Now, Thanks to Sam Altman, You Never Have to Speak With Your Kids Again",
-    "url": "https://www.theatlantic.com/newsletters/2026/08/ai-kids-interactions-sam-altman/688175/",
-    "description": "AI can handle these kinds of pointless interactions.",
-    "author": "Alexandra Petri",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/F3XDZ4SSTBHp8I-NcQHV44N2NzE=/227x0:2657x1620/210x140/media/img/mt/2026/08/2026_08_04_AI_parents/original.jpg"
-  },
-  {
-    "title": "A Sibling Is Not Always a ‘Gift’",
-    "url": "https://www.theatlantic.com/family/2026/08/sibling-gift-language-problem/688158/",
-    "description": "The term assumes that adding a child to a family is for the best. But that’s not the case for everyone.",
-    "author": "Amanda Ruggeri",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/85IPJdqqh004Sa-U22vjYjRNpuw=/278x0:3403x2083/210x140/media/img/mt/2026/08/2026_08_03_StopCallingSiblingsGifts/original.jpg"
   }
 ]
