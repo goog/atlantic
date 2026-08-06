@@ -1,8 +1,24 @@
 [
   {
-    "title": "Another Ill-Advised Trump Paint Job",
+    "title": "The American West Knows How to Flee Fires",
+    "url": "https://www.theatlantic.com/health/2026/08/spokane-fires-evacation/688202/",
+    "description": "Evacuation has become a familiar, terrible summer ordeal.",
+    "author": "Joshua Partlow",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/lai7q1YmFWBJ1tf7yBtVFi_FZZc=/315x0:3690x2250/210x140/media/img/mt/2026/08/2026_08_06_Evacuations_Have_Become_a_Terrible_Summer_Ritual_Josh_Partlow/original.jpg"
+  },
+  {
+    "title": "A Shortage of Weapons Is Shaping the War With Iran",
+    "url": "https://www.theatlantic.com/national-security/2026/08/shortage-weapons-shaping-war-iran/688201/",
+    "description": "Trump fumed at subordinates who showed him the perils of escalation.",
+    "author": "Nancy A. Youssefand Jonathan Lemire",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/03MGYnchmood2rC-PJQIo7cJi80=/280x133:1702x1081/210x140/media/img/mt/2026/08/2026_08_06_US_Munitions/original.jpg"
+  },
+  {
+    "title": "Do Not Paint Granite!",
     "url": "https://www.theatlantic.com/culture/2026/08/trump-eeob-paint/688200/",
-    "description": "The president would ruin an architectural gem because he thinks it doesn’t match the White House.",
+    "description": "The latest Trump renovation project would violate a basic rule of building maintenance.",
     "author": "Dorothy Robyn",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/GD-O9192fWjGUHSPpI4p25DoezQ=/435x0:3810x2250/210x140/media/img/mt/2026/08/2026_08_03_The_Inane_Plan_to_Repaint_EEOB_the_Building_Next_to_the_White_House_White_Dorothy_Robyn/original.jpg"
@@ -142,21 +158,5 @@
     "author": "Leah C. Stokes",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/0zCU8BLRwGWXRbmbJf_RMo8w9UQ=/227x0:2657x1620/210x140/media/img/mt/2026/08/2026_08_02_the_ira_worked/original.jpg"
-  },
-  {
-    "title": "AtlanticTrivia: Insects Real and Fake",
-    "url": "https://www.theatlantic.com/trivia/2026/08/5-spiderman-brand-new-day-marvel-tick-disease-trump-communists/688176/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Drew Goins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/TAZ3FYxLV5j4i6fMLRLQWuaklsQ=/149x0:1770x1080/210x140/media/img/mt/2026/08/4trivia_peach/original.png"
-  },
-  {
-    "title": "What Happened to al-Qaeda?",
-    "url": "https://www.theatlantic.com/magazine/2026/09/al-qaeda-25-years-post-9-11/687965/",
-    "description": "Twenty-five years after 9/11, analysts can’t decide if the terrorist organization is all but defunct or more threatening than ever.",
-    "author": "Graeme Wood",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/BL-uSfGWK9vyDjjvc51CnRG8wgI=/155x0:1842x1125/210x140/media/img/2026/08/Al_QaedaWOODopenerHP/original.png"
   }
 ]

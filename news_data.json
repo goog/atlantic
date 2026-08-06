@@ -1,5 +1,21 @@
 [
   {
+    "title": "DeepMind AI gives an extra day of warning ahead of deadly cyclones | New Scientist",
+    "url": "https://www.newscientist.com/article/2583547-deepmind-ai-gives-an-extra-day-of-warning-ahead-of-deadly-cyclones/",
+    "description": "An AI model from DeepMind can predict cyclones three days ahead with a level of accuracy that previous models can only hit a day later",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307533951.jpg"
+  },
+  {
+    "title": "Do leftovers taste better the next day? Sometimes, according to science | New Scientist",
+    "url": "https://www.newscientist.com/article/2583650-do-leftovers-taste-better-the-next-day-sometimes-according-to-science/",
+    "description": "The widespread belief that some foods benefit from a night in the fridge has been put to the test, and it seems to be true for some curries, but not lasagne",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307526191.jpg"
+  },
+  {
     "title": "Three factors in midlife can delay the onset of dementia by 13 years | New Scientist",
     "url": "https://www.newscientist.com/article/2583480-three-factors-in-midlife-can-delay-the-onset-of-dementia-by-13-years/",
     "description": "A study involving 12,000 adults in the US suggests that taking action to prevent dementia during your 50s can make a big difference later in life",
@@ -30,21 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307363282.jpg"
-  },
-  {
-    "title": "Large predators reduce car accidents by keeping deer off roads | New Scientist",
-    "url": "https://www.newscientist.com/article/2583449-large-predators-reduce-car-accidents-by-keeping-deer-off-roads/",
-    "description": "We already know wolves can make roads safer, and now it's been shown that the presence of cougars reduces deer collisions by 76 per cent",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307364618.jpg"
-  },
-  {
-    "title": "Ancient Egyptians may have built a massive dam near the Red Pyramid | New Scientist",
-    "url": "https://www.newscientist.com/article/2583326-ancient-egyptians-may-have-built-a-massive-dam-near-the-red-pyramid/",
-    "description": "Large structures near the Red Pyramid may be the remnants of a major dam, suggesting that the Egyptians used water to help power their construction projects",
-    "author": "Taylor Mitchell Brown",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307344165.jpg"
   }
 ]
