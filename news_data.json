@@ -1,5 +1,13 @@
 [
   {
+    "title": "Postbiotic supplement boosts body's own GLP-1 and weight loss | New Scientist",
+    "url": "https://www.newscientist.com/article/2583831-postbiotic-supplement-boosts-bodys-own-glp-1-and-weight-loss/",
+    "description": "A small trial suggests a supplement containing dead bacteria could offer a cheaper alternative to weight-loss drugs such as semaglutide, but further evidence is needed",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307613957.jpg"
+  },
+  {
     "title": "X crash site on moon revealed by South Korean orbiter | New Scientist",
     "url": "https://www.newscientist.com/article/2583782-spacex-crash-site-on-moon-revealed-by-south-korean-orbiter/",
     "description": "An out-of-control SpaceX rocket that crashed into the moon earlier this week did, in fact, leave an impact crater, according to images from a Korea AeroSpace Administration lunar orbiter that caught before-and-after photographs",
@@ -38,13 +46,5 @@
     "author": "Madeleine Cuff",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307456371.jpg"
-  },
-  {
-    "title": "DeepMind AI gives an extra day of warning ahead of deadly cyclones | New Scientist",
-    "url": "https://www.newscientist.com/article/2583547-deepmind-ai-gives-an-extra-day-of-warning-ahead-of-deadly-cyclones/",
-    "description": "An AI model from DeepMind can predict cyclones three days ahead with a level of accuracy that previous models can only hit a day later",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307533951.jpg"
   }
 ]

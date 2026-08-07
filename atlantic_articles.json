@@ -1,14 +1,30 @@
 [
   {
-    "title": "Tina Peters Is Back",
+    "title": "The Most Basic Step of the Ebola Response Is Falling Short",
+    "url": "https://www.theatlantic.com/health/2026/08/ebola-testing/688215/",
+    "description": "Curbing the outbreak in the Democratic Republic of the Congo will require stepping up testing.",
+    "author": "Hana Kiros",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/wPxLBX9qy0CRE8F6h9l_12k62-Q=/460x0:5469x3340/210x140/media/img/mt/2026/08/2026_7_30_Were_About_to_Find_Out_How_Bad_the_Ebola_Epidemic_Is/original.png"
+  },
+  {
+    "title": "Photos of the Week: Fuego Volcano, Underwater Explosion, Pig Diver",
+    "url": "https://www.theatlantic.com/photography/2026/08/photos-week-fuego-volcano-underwater-explosion-pig-diver/688211/",
+    "description": "Scenes from the 2026 Commonwealth Games in Scotland, wildfires in Southern Europe, the European Aquatics Championships in Paris, a mass-wedding ceremony in the Netherlands, and much more",
+    "author": "Alan Taylor",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/3EIX1xqpIqZVUgBEMLemrPjGAE4=/0x331:4000x2998/210x140/media/img/mt/2026/08/a01_RC2BSMADXXVV/original.jpg"
+  },
+  {
+    "title": "MAGA’s Most Famous Prisoner Is Free",
     "url": "https://www.theatlantic.com/politics/2026/08/elections-2026-fraud-trump/688172/",
-    "description": "Newly out of prison, she is back to trying to prove election fraud.",
+    "description": "Newly out of prison, Tina Peters is back to trying to prove election fraud.",
     "author": "Yvonne Wingett Sanchez",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/w_OOc0pmz-6sOeLZXzSla3P8RQw=/315x0:3690x2250/210x140/media/img/mt/2026/08/tinapeters/original.jpg"
   },
   {
-    "title": "What True Crime Gets Wrong About Crime",
+    "title": "The Dishonesty of True Crime",
     "url": "https://www.theatlantic.com/ideas/2026/08/what-true-crime-gets-wrong-about-crime/688214/",
     "description": "The hit Netflix documentaryMaternal Instincttidies a far more complicated story.",
     "author": "Elizabeth Bruenig",
@@ -16,9 +32,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/N3_Zy-nLGEiYSWEQbVOI4cPFNQs=/227x0:2657x1620/210x140/media/img/mt/2026/08/2026_08_01_True_crime/original.jpg"
   },
   {
-    "title": "Why I Love Blue Books",
+    "title": "Bring Back the Blue-Book Exam",
     "url": "https://www.theatlantic.com/magazine/2026/09/higher-education-in-person-written-exams/687954/",
-    "description": "There’s no better way for students to show their professors what they’re capable of.",
+    "description": "The humble booklet is more than just a last redoubt against cheating. Staring down its empty pages, students discover what they’re capable of as writers and thinkers.",
     "author": "Walt Hunter",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/t9d_2seU905c4Q7Z6E-rCfqXUDo=/155x0:1842x1125/210x140/media/img/2026/08/0926_DIS_Hunter_BlueBooks_16x9-1/original.jpg"
@@ -40,7 +56,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/c-nPYvkRHPqjvBL7sCB6XHRzMrM=/310x0:3686x2250/210x140/media/img/mt/2026/08/2026_07_05_Jordan_and_the_Iran_War_Robert_Worth/original.jpg"
   },
   {
-    "title": "Ukraine’s Fleeting Turnaround",
+    "title": "Ukraine’s Short-Lived Comeback",
     "url": "https://www.theatlantic.com/national-security/2026/08/ukraine-war-zelensky-trump/688203/",
     "description": "The chorus of optimism has quieted on several fronts, including Zelensky’s struggle with corruption and his relations with Trump.",
     "author": "Missy RyanandSimon Shuster",
@@ -142,21 +158,5 @@
     "author": "David A. Graham",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/UoWHDykcJ9hZns1g_-EPsunyPtY=/313x0:3688x2250/210x140/media/newsletters/2026/08/2026_08_05_Mike_Johnson_The_Daily/original.jpg"
-  },
-  {
-    "title": "A Biopic That Ends Right When It’s Getting Started",
-    "url": "https://www.theatlantic.com/culture/2026/08/tony-anthony-bourdain-movie-review/688192/",
-    "description": "A new film about Anthony Bourdain uses its subject to examine how a young person comes to love cooking.",
-    "author": "David Sims",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Hiq1NcOSJIMrD4fWTxGb9B1Oryk=/175x0:2284x1406/210x140/media/img/mt/2026/08/2026_7_27_Tony_Review_TK/original.jpg"
-  },
-  {
-    "title": "An Unfortunate Surprise for BMW Owners",
-    "url": "https://www.theatlantic.com/technology/2026/08/bmw-spiderman-ad/688194/",
-    "description": "The luxury automaker is beaming aSpider-Manad into its cars.",
-    "author": "Andrew Moseman",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/N1ygHD8NuitgipTJIfgoA8Ylg_M=/227x0:2657x1620/210x140/media/img/mt/2026/08/2026_08_04_BMW/original.jpg"
   }
 ]
