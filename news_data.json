@@ -1,5 +1,13 @@
 [
   {
+    "title": "Drought and heat push Europe's power grid to breaking point | New Scientist",
+    "url": "https://www.newscientist.com/article/2583740-drought-and-heat-push-europes-power-grid-to-breaking-point/",
+    "description": "High temperatures and low water levels have forced several countries to shut down nuclear reactors just as citizens turn up their air conditioning, forcing energy prices to spike and raising the threat of blackouts",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307605664.jpg"
+  },
+  {
     "title": "4 ways to watch a solar eclipse without burning your eyes | New Scientist",
     "url": "https://www.newscientist.com/article/2582016-4-ways-to-watch-a-solar-eclipse-without-burning-your-eyes/",
     "description": "Even during a solar eclipse, it isn’t safe to look directly at the sun, but with a proper solar filter or a simple pinhole projector, you can still watch it disappear behind the moon",
@@ -38,13 +46,5 @@
     "author": "Carissa Wong",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307430695.jpg"
-  },
-  {
-    "title": "Swallowing faecal capsules reduces peanut allergy in six adults | New Scientist",
-    "url": "https://www.newscientist.com/article/2583300-swallowing-faecal-capsules-reduces-peanut-allergy-in-six-adults/",
-    "description": "Altering the gut microbiomes of people with peanut allergy using faeces donated from an allergy-free individual improved their peanut tolerance in a clinical trial",
-    "author": "Alice Klein",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307428817.jpg"
   }
 ]
