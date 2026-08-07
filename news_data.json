@@ -1,5 +1,13 @@
 [
   {
+    "title": "4 ways to watch a solar eclipse without burning your eyes | New Scientist",
+    "url": "https://www.newscientist.com/article/2582016-4-ways-to-watch-a-solar-eclipse-without-burning-your-eyes/",
+    "description": "Even during a solar eclipse, it isn’t safe to look directly at the sun, but with a proper solar filter or a simple pinhole projector, you can still watch it disappear behind the moon",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306777552_e85cc7.jpg"
+  },
+  {
     "title": "It’s good for the planet to scrap a new petrol car and buy electric | New Scientist",
     "url": "https://www.newscientist.com/article/2583523-its-good-for-the-planet-to-scrap-a-new-petrol-car-and-buy-electric/",
     "description": "Carbon savings from driving EVs are so large that it makes sense to scrap a working petrol car to make the switch",
@@ -38,13 +46,5 @@
     "author": "Alice Klein",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307428817.jpg"
-  },
-  {
-    "title": "Gene-edited dogs lack the protein that causes allergies | New Scientist",
-    "url": "https://www.newscientist.com/article/2583502-two-dogs-lack-the-protein-that-causes-allergies-thanks-to-gene-editing/",
-    "description": "A company has created dogs that do not have the main protein that provokes allergies, and hopes to get approval to start selling them",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307453764.jpg"
   }
 ]
