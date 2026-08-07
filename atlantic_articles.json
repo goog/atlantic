@@ -1,6 +1,14 @@
 [
   {
-    "title": "Cruelty and a Blue Bunny",
+    "title": "The Internet Is in Crisis",
+    "url": "https://www.theatlantic.com/culture/2026/08/perez-hilton-livestream/688223/",
+    "description": "For 15 minutes, the celebrity-gossip blogger Perez Hilton livestreamed his violent self-harm without anyone intervening.",
+    "author": "Sophie Gilbert",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/YaHfHsOOvzKR3aorQbKfDqyyjQI=/354x0:4151x2531/210x140/media/img/mt/2026/08/2026_08_07_Perez_Hilton/original.jpg"
+  },
+  {
+    "title": "Sadism and a Blue Bunny",
     "url": "https://www.theatlantic.com/ideas/2026/08/max-miller-emily-moreno-abuse-allegations/688218/",
     "description": "Not everyone who has a child is fit to love them.",
     "author": "Elizabeth Bruenig",
@@ -150,13 +158,5 @@
     "author": "Lynn Steger Strong",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/z7wXTDzir7hg8I30PR_vGAb2MMI=/227x0:2657x1620/210x140/media/img/mt/2026/08/2026_08_04_Poststructuralists/original.jpg"
-  },
-  {
-    "title": "AtlanticTrivia: Imposing Figures",
-    "url": "https://www.theatlantic.com/trivia/2026/08/6-al-qaeda-trump-reflecting-pool-airport-warrantless-search/688196/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Drew Goins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/zgb57p3IZ9nkj7Yq7ODjc94WQCg=/152x0:1772x1080/210x140/media/img/mt/2026/08/1trivia_green/original.png"
   }
 ]
