@@ -1,11 +1,35 @@
 [
   {
+    "title": "The Best Way to Learn Outside of the Classroom",
+    "url": "https://www.theatlantic.com/newsletters/2026/08/books-briefing-learn-outside-classroom-intellectual-biography/688230/",
+    "description": "As a busy adult, I approach foundational, complicated ideas with the help of the intellectual biography.",
+    "author": "Emma Sarappo",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/zyaLMw9NdQ9ZBefv1C4fg1jcCKk=/313x0:3688x2250/210x140/media/newsletters/2026/08/2026_08_07_The_Books_Briefing_Theory_and_Biography_Emma_Sarappo/original.jpg"
+  },
+  {
+    "title": "Pop Culture Has Its Teeth in You",
+    "url": "https://www.theatlantic.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-movie-review/688227/",
+    "description": "Jane Schoenbrun’s new film interrogates the relationship between what we watch and who we are.",
+    "author": "David Sims",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/O4LOPt4tTmEgkOsPSuKw0sHzeoE=/155x0:1842x1125/210x140/media/img/mt/2026/08/2026_7_30_Teenage_Sex_and_Death_at_Camp_Miasma/original.jpg"
+  },
+  {
     "title": "The Internet Is in Crisis",
     "url": "https://www.theatlantic.com/culture/2026/08/perez-hilton-livestream/688223/",
     "description": "For 15 minutes, the celebrity-gossip blogger Perez Hilton livestreamed his violent self-harm without anyone intervening.",
     "author": "Sophie Gilbert",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/YaHfHsOOvzKR3aorQbKfDqyyjQI=/354x0:4151x2531/210x140/media/img/mt/2026/08/2026_08_07_Perez_Hilton/original.jpg"
+  },
+  {
+    "title": "The Case for Calling People on the Phone",
+    "url": "https://www.theatlantic.com/newsletters/2026/08/call-people-on-phone/688228/",
+    "description": "We’ve never had more ways to keep in touch. So why are we talking to one another less?",
+    "author": "Rafaela Jinich",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/q4RUGHn4-MNq43Slga58qho-T0s=/191x374:4566x3291/210x140/media/img/mt/2026/08/GettyImages_953527996-1/original.jpg"
   },
   {
     "title": "Sadism and a Blue Bunny",
@@ -134,29 +158,5 @@
     "author": "Joshua Partlow",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/lai7q1YmFWBJ1tf7yBtVFi_FZZc=/315x0:3690x2250/210x140/media/img/mt/2026/08/2026_08_06_Evacuations_Have_Become_a_Terrible_Summer_Ritual_Josh_Partlow/original.jpg"
-  },
-  {
-    "title": "How the U.S. Squandered Its Strategic Advantage",
-    "url": "https://www.theatlantic.com/national-security/2026/08/shortage-weapons-shaping-war-iran/688201/",
-    "description": "Idle threats and munitions shortages have boxed Trump in.",
-    "author": "Nancy A. Youssefand Jonathan Lemire",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/03MGYnchmood2rC-PJQIo7cJi80=/280x133:1702x1081/210x140/media/img/mt/2026/08/2026_08_06_US_Munitions/original.jpg"
-  },
-  {
-    "title": "Do Not Paint Granite!",
-    "url": "https://www.theatlantic.com/culture/2026/08/trump-eeob-paint/688200/",
-    "description": "The latest Trump renovation project would violate a basic rule of building maintenance.",
-    "author": "Dorothy Robyn",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/GD-O9192fWjGUHSPpI4p25DoezQ=/435x0:3810x2250/210x140/media/img/mt/2026/08/2026_08_03_The_Inane_Plan_to_Repaint_EEOB_the_Building_Next_to_the_White_House_White_Dorothy_Robyn/original.jpg"
-  },
-  {
-    "title": "How Theory Took Over the World",
-    "url": "https://www.theatlantic.com/books/2026/08/emily-eakin-the-frenchmen-book-review/688197/",
-    "description": "The French writers of the postwar era argued that the author’s life is irrelevant. Emily Eakin’s lively new book proves them wrong.",
-    "author": "Lynn Steger Strong",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/z7wXTDzir7hg8I30PR_vGAb2MMI=/227x0:2657x1620/210x140/media/img/mt/2026/08/2026_08_04_Poststructuralists/original.jpg"
   }
 ]
