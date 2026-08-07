@@ -1,5 +1,21 @@
 [
   {
+    "title": "X crash site on moon revealed by South Korean orbiter | New Scientist",
+    "url": "https://www.newscientist.com/article/2583782-spacex-crash-site-on-moon-revealed-by-south-korean-orbiter/",
+    "description": "An out-of-control SpaceX rocket that crashed into the moon earlier this week did, in fact, leave an impact crater, according to images from a Korea AeroSpace Administration lunar orbiter that caught before-and-after photographs",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307613104.jpg"
+  },
+  {
+    "title": "Could geoengineering ‘ice arches’ help preserve Arctic sea ice? | New Scientist",
+    "url": "https://www.newscientist.com/article/2583296-could-geoengineering-ice-arches-help-preserve-arctic-sea-ice/",
+    "description": "Researchers are investigating whether artificially thickening ice blockages between Canada and Greenland could prevent huge amounts of sea ice from flowing south to melt",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307431927.jpg"
+  },
+  {
     "title": "Drought and heat push Europe's power grid to breaking point | New Scientist",
     "url": "https://www.newscientist.com/article/2583740-drought-and-heat-push-europes-power-grid-to-breaking-point/",
     "description": "High temperatures and low water levels have forced several countries to shut down nuclear reactors just as citizens turn up their air conditioning, forcing energy prices to spike and raising the threat of blackouts",
@@ -30,21 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307533951.jpg"
-  },
-  {
-    "title": "Do leftovers taste better the next day? Sometimes, according to science | New Scientist",
-    "url": "https://www.newscientist.com/article/2583650-do-leftovers-taste-better-the-next-day-sometimes-according-to-science/",
-    "description": "The widespread belief that some foods benefit from a night in the fridge has been put to the test, and it seems to be true for some curries, but not lasagne",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307526191.jpg"
-  },
-  {
-    "title": "Three factors in midlife can delay the onset of dementia by 13 years | New Scientist",
-    "url": "https://www.newscientist.com/article/2583480-three-factors-in-midlife-can-delay-the-onset-of-dementia-by-13-years/",
-    "description": "A study involving 12,000 adults in the US suggests that taking action to prevent dementia during your 50s can make a big difference later in life",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307430695.jpg"
   }
 ]
