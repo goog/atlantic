@@ -1,5 +1,29 @@
 [
   {
+    "title": "The Human-Origin Story Is Being Radically Revised",
+    "url": "https://www.theatlantic.com/science/2026/08/human-origins-dna-tools-earthworks/688225/",
+    "description": "New secrets from our past have been coming out in droves.",
+    "author": "Ross Andersen",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/iP-c-vajS_4hhIg1kiKWuI2DOQc=/241x0:2671x1620/210x140/media/img/mt/2026/08/2026_The_Deepening_Mystery_of_the_Human_Past_515588900/original.jpg"
+  },
+  {
+    "title": "A Culture War in the Bedroom",
+    "url": "https://www.theatlantic.com/culture/2026/08/i-want-your-sex-movie-gen-z-millennials/688209/",
+    "description": "A new film pokes fun at Gen Z’s inhibitions—erotic and otherwise.",
+    "author": "Faith Hill",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/y6zV7VPZzSCZYIu-8N9mwrARKTs=/227x0:2657x1620/210x140/media/img/mt/2026/08/2026_08_02_sex_in_the_age_of_boundaries/original.jpg"
+  },
+  {
+    "title": "Bad Luck, Bad Choices",
+    "url": "https://www.theatlantic.com/magazine/2026/09/richard-russo-fiction-under-the-falls/687958/",
+    "description": "Richard Russo is America’s portraitist of left-behind people in hollowed-out towns.",
+    "author": "Mark Oppenheimer",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Q6UqjIUPeV5qzwfEODI_g-doHJE=/0x530:2000x1863/210x140/media/img/2026/08/Russo3/original.png"
+  },
+  {
     "title": "Why MAGA Really Hates Fauci",
     "url": "https://www.theatlantic.com/ideas/2026/08/fauci-paul-covid-wuhan/688233/",
     "description": "In the aftermath of pandemics, people either try to forget them or find others to blame for them.",
@@ -134,29 +158,5 @@
     "author": "Drew Goins",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/A3Yaazu1ZldXptZ5GE0fVDvzsOg=/149x0:1770x1081/210x140/media/img/mt/2026/08/2trivia_purple/original.png"
-  },
-  {
-    "title": "Iran Goes Looking for Love in Jordan",
-    "url": "https://www.theatlantic.com/international/2026/08/iran-appeals-jordan-alliance/688205/",
-    "description": "Tehran wants the Arab public to balk at the cost of allying with the United States.",
-    "author": "Robert F. Worth",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/c-nPYvkRHPqjvBL7sCB6XHRzMrM=/310x0:3686x2250/210x140/media/img/mt/2026/08/2026_07_05_Jordan_and_the_Iran_War_Robert_Worth/original.jpg"
-  },
-  {
-    "title": "Ukraine’s Short-Lived Comeback",
-    "url": "https://www.theatlantic.com/national-security/2026/08/ukraine-war-zelensky-trump/688203/",
-    "description": "The chorus of optimism has quieted on several fronts, including Zelensky’s struggle with corruption and his relations with Trump.",
-    "author": "Missy RyanandSimon Shuster",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/oF6Awv0aVeap8mNKZkCmE5BJKp0=/155x0:1842x1125/210x140/media/img/mt/2026/08/2026_08_06_How_Ukraine_Won_Trump_Back/original.jpg"
-  },
-  {
-    "title": "Trump Is Asking the Private Sector to Save Him",
-    "url": "https://www.theatlantic.com/newsletters/2026/08/trump-economy-private-sector-oil-inflation/688212/",
-    "description": "Piecemeal price cuts won’t solve the Iran war’s effects on inflation.",
-    "author": "Will Gottsegen",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/EHjhl1TC0-jnT6sMGOYczFjuwQI=/114x0:1350x824/210x140/media/newsletters/2026/08/2026_08_06_The_Daily_Trumps_Economic_Blame_Game_Will_Gottsegen/original.jpg"
   }
 ]
