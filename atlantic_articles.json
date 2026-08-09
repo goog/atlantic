@@ -1,5 +1,13 @@
 [
   {
+    "title": "Stance",
+    "url": "https://www.theatlantic.com/magazine/2026/09/deborah-garrison-stance/687961/",
+    "description": "",
+    "author": "Deborah Garrison",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/mYYJ_JTAE-aKR5rLPUyx9M0Jvts=/82x0:4978x3264/210x140/media/img/2026/07/baseball/original.jpg"
+  },
+  {
     "title": "France’s Best Argument Against Racism Isn’t Working",
     "url": "https://www.theatlantic.com/ideas/2026/08/france-soccer-far-right-racism/688235/",
     "description": "The country’s most beloved men are paragons of diversity, but ethnic resentment is still winning.",
@@ -150,13 +158,5 @@
     "author": "Charlie Warzel",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/5031ZMNMeqdDPYh-mtI9CcSyAfc=/155x0:1842x1125/210x140/media/img/mt/2026/08/2026_8_7_GB_Kathryn_Jezer_Morton/original.jpg"
-  },
-  {
-    "title": "A Chatbot-Free Childhood Will Be a Status Symbol",
-    "url": "https://www.theatlantic.com/technology/2026/08/ultra-processed-childhood-ai/688217/",
-    "description": "AI is like ultra-processed food for developing brains.",
-    "author": "Dana Suskind",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/dYEefWrxhGgLVyBSBF8sRfh1ahM=/302x0:3542x2160/210x140/media/img/mt/2026/08/2026_08_07_Ultra_Processed_Childhoods/original.jpg"
   }
 ]
