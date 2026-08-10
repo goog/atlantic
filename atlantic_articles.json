@@ -1,5 +1,29 @@
 [
   {
+    "title": "AtlanticTrivia: Presidential Contenders",
+    "url": "https://www.theatlantic.com/trivia/2026/08/10-2028-contenders-wes-moore-mark-kelly-josh-shapiro/688224/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/zCALs_n-XkSj1tJaC9b_6BcTyXU=/151x0:1771x1080/210x140/media/img/mt/2026/08/3trivia_yellow-1/original.jpg"
+  },
+  {
+    "title": "The 108-Degree Eviction",
+    "url": "https://www.theatlantic.com/health/2026/08/vegas-heat-wave-homelessness/688160/",
+    "description": "Living outside is a more dreadful prospect during a heat wave.",
+    "author": "Meg Bernhard",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/WeIPagow8PRwDY9gaaVM9UTjDaU=/78x156:1872x1352/210x140/media/img/mt/2026/08/20260715_heat_move_vegas_0029_crop/original.jpg"
+  },
+  {
+    "title": "Confessions of a Token Black Professor",
+    "url": "https://www.theatlantic.com/magazine/2026/09/elite-academia-leadership-hypocrisy/687969/",
+    "description": "The insufferable hypocrisy of elite academia",
+    "author": "Tyler Austin Harper",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/zKVEAStYdwULEcwg1-HwrGCMf5k=/241x0:2298x1371/210x140/media/img/2026/08/1_Opener_Harper_16x9/original.png"
+  },
+  {
     "title": "The Death of Reliable Immigration Data",
     "url": "https://www.theatlantic.com/politics/2026/08/trump-dhs-deportation-data-ice/688220/",
     "description": "The Department of Homeland Security set up an independent office to provide statistics that lawmakers and the public could trust. Its director just quit.",
@@ -134,29 +158,5 @@
     "author": "Emma Sarappo",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/zyaLMw9NdQ9ZBefv1C4fg1jcCKk=/313x0:3688x2250/210x140/media/newsletters/2026/08/2026_08_07_The_Books_Briefing_Theory_and_Biography_Emma_Sarappo/original.jpg"
-  },
-  {
-    "title": "Pop Culture Has Its Teeth in You",
-    "url": "https://www.theatlantic.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-movie-review/688227/",
-    "description": "Jane Schoenbrun’s new film interrogates the relationship between what we watch and who we are.",
-    "author": "David Sims",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/O4LOPt4tTmEgkOsPSuKw0sHzeoE=/155x0:1842x1125/210x140/media/img/mt/2026/08/2026_7_30_Teenage_Sex_and_Death_at_Camp_Miasma/original.jpg"
-  },
-  {
-    "title": "The Internet Is in Crisis",
-    "url": "https://www.theatlantic.com/culture/2026/08/perez-hilton-livestream/688223/",
-    "description": "For 15 minutes, the celebrity-gossip blogger Perez Hilton livestreamed his violent self-harm without anyone intervening.",
-    "author": "Sophie Gilbert",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/YaHfHsOOvzKR3aorQbKfDqyyjQI=/354x0:4151x2531/210x140/media/img/mt/2026/08/2026_08_07_Perez_Hilton/original.jpg"
-  },
-  {
-    "title": "The Case for Calling People on the Phone",
-    "url": "https://www.theatlantic.com/newsletters/2026/08/call-people-on-phone/688228/",
-    "description": "We’ve never had more ways to keep in touch. So why are we talking to one another less?",
-    "author": "Rafaela Jinich",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/q4RUGHn4-MNq43Slga58qho-T0s=/191x374:4566x3291/210x140/media/img/mt/2026/08/GettyImages_953527996-1/original.jpg"
   }
 ]
