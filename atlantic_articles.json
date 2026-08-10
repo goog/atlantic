@@ -1,8 +1,24 @@
 [
   {
-    "title": "Summer-Haters Anonymous",
+    "title": "Photos: European Rivers Fall to Record Lows",
+    "url": "https://www.theatlantic.com/photography/2026/08/photos-european-rivers-fall-record-lows/688237/",
+    "description": "While Europe braces for yet another heat wave, prolonged drought conditions have dropped inland waterways to record-setting low levels, exposing long-submerged shipwrecks and affecting navigation.",
+    "author": "Alan Taylor",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/QiDO50NuChpJIxWehDZo9Rq3nxk=/0x0:6237x4158/210x140/media/img/mt/2026/08/a01_26222280045181/original.jpg"
+  },
+  {
+    "title": "Never Trump, Still a Republican",
+    "url": "https://www.theatlantic.com/podcasts/2026/08/ra-jeff-flake/688216/",
+    "description": "Why Jeff Flake still believes the spell over his party will break",
+    "author": "Adam Harris",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/hM7I0WbfmHx7muEO_wqD3cYaTzI=/0x0:3375x2250/210x140/media/img/mt/2026/08/Radio_Atlantic_Horizontal_Flake/original.jpg"
+  },
+  {
+    "title": "If Only This Could Last Forever",
     "url": "https://www.theatlantic.com/ideas/2026/08/pain-glory-summer/688229/",
-    "description": "It’s the worst season of all, and also the most beautiful.",
+    "description": "Summer is the worst season of all, and also the most beautiful.",
     "author": "Elizabeth Bruenig",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/oQW9sauJgryKUWzFA7FIFG5zFx4=/155x0:1842x1125/210x140/media/img/mt/2026/08/Bruenig_Aug26_2/original.jpg"
@@ -142,21 +158,5 @@
     "author": "Peter Wehner",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/uOpymXJIvS8deHzMM-REEG2MhYs=/245x0:3620x2250/210x140/media/img/mt/2026/08/2026_08_07_Theres_a_Reason_Republicans_Blame_Fauci_Pete_Whener/original.jpg"
-  },
-  {
-    "title": "What Mitch McConnell Did",
-    "url": "https://www.theatlantic.com/ideas/2026/08/mitch-mcconnell-gop-legacy/688221/",
-    "description": "The former Senate GOP leader’s legacy will make America harder to govern for years to come.",
-    "author": "Idrees Kahloon",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/VZSOKX0kmzYZ0-dg4ZJnzh0RPUo=/892x122:5184x2983/210x140/media/img/mt/2026/08/2026_08_07_Mitch_MCConnell/original.jpg"
-  },
-  {
-    "title": "The Color Recession May Be Permanent",
-    "url": "https://www.theatlantic.com/ideas/2026/08/colorless-gray-products-houses/688174/",
-    "description": "Consumers are so afraid of getting colors wrong, they don’t use them at all.",
-    "author": "Amogh Dimri",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/bQiEudPZKua0OHFC6LO3U-_9KO8=/140x0:1659x1013/210x140/media/img/mt/2026/08/2026_04_17_colors_mpg_landscape/original.gif"
   }
 ]
