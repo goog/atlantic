@@ -1,5 +1,21 @@
 [
   {
+    "title": "Your running style changes when you’re short of sleep | New Scientist",
+    "url": "https://www.newscientist.com/article/2583705-your-running-style-changes-when-youre-short-of-sleep/",
+    "description": "There are measurable changes in the way we run when we are short of sleep, which give us a clearer picture of how a lack of shut-eye affects our risk of injury",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307539104.jpg"
+  },
+  {
+    "title": "Earth extremophile can grow in near-Mars-like conditions | New Scientist",
+    "url": "https://www.newscientist.com/article/2583902-earth-extremophile-can-grow-in-near-mars-like-conditions/",
+    "description": "A salt-loving microorganism found in places like the Dead Sea can not just survive but actively grow in conditions close to those that may be found just under the Martian surface",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307885345.jpg"
+  },
+  {
     "title": "Quantum voting trickery could make elections more secure | New Scientist",
     "url": "https://www.newscientist.com/article/2583747-quantum-voting-trickery-could-make-elections-more-secure/",
     "description": "In an election, how can you make sure that everyone's votes are counted but also kept entirely secret? Quantum mechanics may have the answer",
@@ -30,21 +46,5 @@
     "author": "Alec Luhn",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307431927.jpg"
-  },
-  {
-    "title": "Drought and heat push Europe's power grid to breaking point | New Scientist",
-    "url": "https://www.newscientist.com/article/2583740-drought-and-heat-push-europes-power-grid-to-breaking-point/",
-    "description": "High temperatures and low water levels have forced several countries to shut down nuclear reactors just as citizens turn up their air conditioning, forcing energy prices to spike and raising the threat of blackouts",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307605664.jpg"
-  },
-  {
-    "title": "4 ways to watch a solar eclipse without burning your eyes | New Scientist",
-    "url": "https://www.newscientist.com/article/2582016-4-ways-to-watch-a-solar-eclipse-without-burning-your-eyes/",
-    "description": "Even during a solar eclipse, it isn’t safe to look directly at the sun, but with a proper solar filter or a simple pinhole projector, you can still watch it disappear behind the moon",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306777552_e85cc7.jpg"
   }
 ]

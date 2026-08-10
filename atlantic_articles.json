@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Pain and Glory of Summer",
+    "url": "https://www.theatlantic.com/ideas/2026/08/pain-glory-summer/688229/",
+    "description": "It’s the worst season of all, and also the most beautiful.",
+    "author": "Elizabeth Bruenig",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/oQW9sauJgryKUWzFA7FIFG5zFx4=/155x0:1842x1125/210x140/media/img/mt/2026/08/Bruenig_Aug26_2/original.jpg"
+  },
+  {
+    "title": "In Defense of Flock",
+    "url": "https://www.theatlantic.com/ideas/2026/08/flock-safety-cameras-ai-surevillance/688219/",
+    "description": "Police cameras can help make the criminal-justice system both fairer and less punitive—if we let them.",
+    "author": "Charles Fain Lehman",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/zmHiOczQlds6AuKnOUfxb8faPuY=/315x0:3690x2250/210x140/media/img/mt/2026/08/2026_07_05_Flock_for_Good_Charles_Lehman/original.jpg"
+  },
+  {
     "title": "AtlanticTrivia: Presidential Contenders",
     "url": "https://www.theatlantic.com/trivia/2026/08/10-2028-contenders-wes-moore-mark-kelly-josh-shapiro/688224/",
     "description": "Test your knowledge—and read our stories for a little extra help.",
@@ -32,9 +48,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/Z6LnSKRwzvHkLAvJXk4ptP2_EQA=/329x0:3856x2351/210x140/media/img/mt/2026/08/2026_08_09_The_Death_of_Reliable_Immigration_Enforcement_Data_Nick_Miroff/original.jpg"
   },
   {
-    "title": "The Internet Is More Image-Focused Than Ever",
+    "title": "Did the Internet Give Up on Body Positivity?",
     "url": "https://www.theatlantic.com/podcasts/2026/08/the-internet-is-more-image-focused-than-ever/688170/",
-    "description": "Just a few years ago, the body-positivity movement was going strong. What happened?",
+    "description": "Just a few years ago, the internet was fueling the body-positivity movement. Now it’s swung in the other direction. What happened?",
     "author": "Julie BeckandNatalie Brennan",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/dA14FDQT-t0MMIPgPZ-jYSboAGk=/155x0:1842x1125/210x140/media/img/mt/2026/08/2026_08_06_How_To_Touch_Grass_Body_Image/original.jpg"
@@ -142,21 +158,5 @@
     "author": "Amogh Dimri",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/bQiEudPZKua0OHFC6LO3U-_9KO8=/140x0:1659x1013/210x140/media/img/mt/2026/08/2026_04_17_colors_mpg_landscape/original.gif"
-  },
-  {
-    "title": "Trump’s Déjà-Vu Moment on Birthright Citizenship",
-    "url": "https://www.theatlantic.com/newsletters/2026/08/trump-birthright-citizenship-limits/688232/",
-    "description": "The president’s latest attempt to limit who is an American by birth is plagued by weak legal arguments and nonsensical claims.",
-    "author": "David A. Graham",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/2OqoELdlvUz3Ckg7Pm607EEx0mE=/225x0:2655x1620/210x140/media/newsletters/2026/08/2026_08_07_The_Daily_Trumps_Birthright_Citizenship_Orders_2288529681/original.jpg"
-  },
-  {
-    "title": "The Genre That’s a Shortcut to Wisdom",
-    "url": "https://www.theatlantic.com/newsletters/2026/08/books-briefing-learn-outside-classroom-intellectual-biography/688230/",
-    "description": "As a busy adult, I approach foundational, complicated ideas with the help of the intellectual biography.",
-    "author": "Emma Sarappo",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/zyaLMw9NdQ9ZBefv1C4fg1jcCKk=/313x0:3688x2250/210x140/media/newsletters/2026/08/2026_08_07_The_Books_Briefing_Theory_and_Biography_Emma_Sarappo/original.jpg"
   }
 ]
