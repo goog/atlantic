@@ -1,5 +1,21 @@
 [
   {
+    "title": "Denisovans may have dwarfed other ancient humans | New Scientist",
+    "url": "https://www.newscientist.com/article/2584088-denisovans-may-have-dwarfed-other-ancient-humans/",
+    "description": "Two leg bones found on the seabed near Taiwan have been identified as Denisovans, and their size suggests these hominins stood up to 190 centimetres tall",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307915275.jpg"
+  },
+  {
+    "title": "Where, when and how to watch the 2026 solar eclipse | New Scientist",
+    "url": "https://www.newscientist.com/article/2531639-where-when-and-how-to-watch-the-2026-solar-eclipse/",
+    "description": "A total solar eclipse is set to be visible across parts of Europe, while a partial eclipse will sweep across about a quarter of the planet – here’s how to catch it",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/06/25140600/SEI_3026843711.jpg"
+  },
+  {
     "title": "The proton is more quantum than we thought | New Scientist",
     "url": "https://www.newscientist.com/article/2583917-the-proton-is-more-quantum-than-we-thought/",
     "description": "Our understanding of the internal structure of protons is largely based on classical physics, but data compiled from accelerator experiments has uncovered quantum behaviour that has never been seen before",
@@ -30,21 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307616464.jpg"
-  },
-  {
-    "title": "Postbiotic supplement boosts body's own GLP-1 and weight loss | New Scientist",
-    "url": "https://www.newscientist.com/article/2583831-postbiotic-supplement-boosts-bodys-own-glp-1-and-weight-loss/",
-    "description": "A small trial suggests a supplement containing dead bacteria could offer a cheaper alternative to weight-loss drugs such as semaglutide, but further evidence is needed",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307613957.jpg"
-  },
-  {
-    "title": "X crash site on moon revealed by South Korean orbiter | New Scientist",
-    "url": "https://www.newscientist.com/article/2583782-spacex-crash-site-on-moon-revealed-by-south-korean-orbiter/",
-    "description": "An out-of-control SpaceX rocket that crashed into the moon earlier this week did, in fact, leave an impact crater, according to images from a Korea AeroSpace Administration lunar orbiter that caught before-and-after photographs",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307613104.jpg"
   }
 ]
