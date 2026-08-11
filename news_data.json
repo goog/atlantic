@@ -1,5 +1,13 @@
 [
   {
+    "title": "The proton is more quantum than we thought | New Scientist",
+    "url": "https://www.newscientist.com/article/2583917-the-proton-is-more-quantum-than-we-thought/",
+    "description": "Our understanding of the internal structure of protons is largely based on classical physics, but data compiled from accelerator experiments has uncovered quantum behaviour that has never been seen before",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307888887.jpg"
+  },
+  {
     "title": "Your running style changes when you’re short of sleep | New Scientist",
     "url": "https://www.newscientist.com/article/2583705-your-running-style-changes-when-youre-short-of-sleep/",
     "description": "There are measurable changes in the way we run when we are short of sleep, which give us a clearer picture of how a lack of shut-eye affects our risk of injury",
@@ -38,13 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307613104.jpg"
-  },
-  {
-    "title": "Could geoengineering ‘ice arches’ help preserve Arctic sea ice? | New Scientist",
-    "url": "https://www.newscientist.com/article/2583296-could-geoengineering-ice-arches-help-preserve-arctic-sea-ice/",
-    "description": "Researchers are investigating whether artificially thickening ice blockages between Canada and Greenland could prevent huge amounts of sea ice from flowing south to melt",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307431927.jpg"
   }
 ]
