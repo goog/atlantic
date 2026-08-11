@@ -1,5 +1,13 @@
 [
   {
+    "title": "Rainbows can be made from sounds – and we've created the best ones yet | New Scientist",
+    "url": "https://www.newscientist.com/article/2584057-weve-now-had-a-good-look-at-a-rainbow-made-from-sound/",
+    "description": "Two research teams have independently created devices within which sound waves could be separated by frequency, creating the most complete sound rainbows yet",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307968559.jpg"
+  },
+  {
     "title": "Denisovans may have dwarfed other ancient humans | New Scientist",
     "url": "https://www.newscientist.com/article/2584088-denisovans-may-have-dwarfed-other-ancient-humans/",
     "description": "Two leg bones found on the seabed near Taiwan have been identified as Denisovans, and their size suggests these hominins stood up to 190 centimetres tall",
@@ -38,13 +46,5 @@
     "author": "Michael Le Page",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307885345.jpg"
-  },
-  {
-    "title": "Quantum voting could make elections more secure | New Scientist",
-    "url": "https://www.newscientist.com/article/2583747-quantum-voting-trickery-could-make-elections-more-secure/",
-    "description": "In an election, how can you make sure that everyone's votes are counted but also kept entirely secret? Quantum mechanics may have the answer",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307616464.jpg"
   }
 ]
