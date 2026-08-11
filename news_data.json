@@ -1,5 +1,21 @@
 [
   {
+    "title": "CRISPR-armed phages help treat severe superbug infection | New Scientist",
+    "url": "https://www.newscientist.com/article/2584196-crispr-armed-phages-help-treat-severe-superbug-infection/",
+    "description": "Bacteria-killing phage viruses souped up with DNA-destroying CRISPR appear to have helped clear up a very serious infection caused by antibiotic-resistant E. coli",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307998646.jpg"
+  },
+  {
+    "title": "Heart surgery cured a man’s skin cancer – and gave him a bee allergy | New Scientist",
+    "url": "https://www.newscientist.com/article/2584182-heart-surgery-cured-a-mans-skin-cancer-and-gave-him-a-bee-allergy/",
+    "description": "Having surgery for a heart condition is thought to have triggered an immune response that put the patient into remission for his severe skin cancer, but also caused him to develop a serious allergy to bee stings",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307987738.jpg"
+  },
+  {
     "title": "Rainbows can be made from sounds – and we've created the best ones yet | New Scientist",
     "url": "https://www.newscientist.com/article/2584057-weve-now-had-a-good-look-at-a-rainbow-made-from-sound/",
     "description": "Two research teams have independently created devices within which sound waves could be separated by frequency, creating the most complete sound rainbows yet",
@@ -30,21 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307888887.jpg"
-  },
-  {
-    "title": "Your running style changes when you’re short of sleep | New Scientist",
-    "url": "https://www.newscientist.com/article/2583705-your-running-style-changes-when-youre-short-of-sleep/",
-    "description": "There are measurable changes in the way we run when we are short of sleep, which give us a clearer picture of how a lack of shut-eye affects our risk of injury",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307539104.jpg"
-  },
-  {
-    "title": "Earth extremophile can grow in near-Mars-like conditions | New Scientist",
-    "url": "https://www.newscientist.com/article/2583902-earth-extremophile-can-grow-in-near-mars-like-conditions/",
-    "description": "A salt-loving microorganism found in places like the Dead Sea can not just survive but actively grow in conditions close to those that may be found just under the Martian surface",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307885345.jpg"
   }
 ]
