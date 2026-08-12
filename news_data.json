@@ -1,5 +1,13 @@
 [
   {
+    "title": "Running with a stroller seems to reduce the risk of injuries | New Scientist",
+    "url": "https://www.newscientist.com/article/2584315-running-with-a-pram-seems-to-reduce-the-risk-of-injuries/",
+    "description": "Pushing a pram while running may reduce the force produced with each foot strike, decreasing the risk of injuries",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308064434.jpg"
+  },
+  {
     "title": "Live: Watch today's total solar eclipse | New Scientist",
     "url": "https://www.newscientist.com/article/2584442-live-watch-todays-total-solar-eclipse/",
     "description": "A total solar eclipse, Europe's first in 27 years, is set to be visible today. Watch it here",
@@ -38,13 +46,5 @@
     "author": "Leah Crane",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI308057735.jpg"
-  },
-  {
-    "title": "CRISPR-armed phages help treat severe superbug infection | New Scientist",
-    "url": "https://www.newscientist.com/article/2584196-crispr-armed-phages-help-treat-severe-superbug-infection/",
-    "description": "Bacteria-killing phage viruses souped up with DNA-destroying CRISPR appear to have helped clear up a very serious infection caused by antibiotic-resistant E. coli",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307998646.jpg"
   }
 ]
