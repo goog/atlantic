@@ -1,5 +1,13 @@
 [
   {
+    "title": "Mark Zuckerberg’s Convenient Truth",
+    "url": "https://www.theatlantic.com/technology/2026/08/mark-zuckerberg-ai-manifesto/688269/",
+    "description": "The Meta CEO has a new message now that his company is losing the AI race.",
+    "author": "Will Oremus",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/GKzAt7pPv-Sj8v9YnuZoKZs8Cpc=/227x0:2657x1620/210x140/media/img/mt/2026/08/2026_08_12_Zuckerberg_AI/original.jpg"
+  },
+  {
     "title": "It May Be Time to Panic About AI",
     "url": "https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/",
     "description": "Bots are starting to conspire with one another. Can they be reeled back in?",
@@ -150,13 +158,5 @@
     "author": "",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/35wdljv56K0H1-FQaEvLtS_lIMc=/0x336:1998x1668/210x140/media/img/2026/08/0926_Commons/original.jpg"
-  },
-  {
-    "title": "The Democrats Can’t Just Laugh Off ‘Woke 1’",
-    "url": "https://www.theatlantic.com/ideas/2026/08/aoc-democrats-wokeness-republicans/688241/",
-    "description": "Republicans have no incentive to let them forget past excesses.",
-    "author": "Idrees Kahloon",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/0WVaZps25Z5VwQD7vDhhUKpCNCI=/0x0:1350x900/210x140/media/img/mt/2026/08/2026_08_10_Woke_1/original.jpg"
   }
 ]
