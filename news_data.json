@@ -1,5 +1,29 @@
 [
   {
+    "title": "Breast-augmentation method uses your own fat in dissolving scaffolds | New Scientist",
+    "url": "https://www.newscientist.com/article/2584253-breast-augmentation-method-uses-your-own-fat-in-dissolving-scaffolds/",
+    "description": "A new approach to breast augmentation injects fat from elsewhere in the body into dissolvable scaffolds shaped like bra cups, which may lead to a more natural look and fewer complications",
+    "author": "Alice Klein",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308055333.jpg"
+  },
+  {
+    "title": "Three black holes discovered in a young galaxy for the first time | New Scientist",
+    "url": "https://www.newscientist.com/article/2584294-three-black-holes-discovered-in-a-young-galaxy-for-the-first-time/",
+    "description": "Three massive black holes have been found in a galaxy that existed during the earliest times of the universe",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308051730.jpg"
+  },
+  {
+    "title": "How to watch today's spectacular solar eclipse | New Scientist",
+    "url": "https://www.newscientist.com/article/2531639-where-when-and-how-to-watch-the-2026-solar-eclipse/",
+    "description": "A total solar eclipse is set to be visible across parts of Europe today, while a partial eclipse will sweep across about a quarter of the planet – here’s how to see it",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI308057735.jpg"
+  },
+  {
     "title": "CRISPR-armed phages help treat severe superbug infection | New Scientist",
     "url": "https://www.newscientist.com/article/2584196-crispr-armed-phages-help-treat-severe-superbug-infection/",
     "description": "Bacteria-killing phage viruses souped up with DNA-destroying CRISPR appear to have helped clear up a very serious infection caused by antibiotic-resistant E. coli",
@@ -22,29 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307968559.jpg"
-  },
-  {
-    "title": "Denisovans may have dwarfed other ancient humans | New Scientist",
-    "url": "https://www.newscientist.com/article/2584088-denisovans-may-have-dwarfed-other-ancient-humans/",
-    "description": "Two leg bones found on the seabed near Taiwan have been identified as Denisovans, and their size suggests these hominins stood up to 190 centimetres tall",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307915275.jpg"
-  },
-  {
-    "title": "Where, when and how to watch the 2026 solar eclipse | New Scientist",
-    "url": "https://www.newscientist.com/article/2531639-where-when-and-how-to-watch-the-2026-solar-eclipse/",
-    "description": "A total solar eclipse is set to be visible across parts of Europe, while a partial eclipse will sweep across about a quarter of the planet – here’s how to catch it",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/06/25140600/SEI_3026843711.jpg"
-  },
-  {
-    "title": "The proton is more quantum than we thought | New Scientist",
-    "url": "https://www.newscientist.com/article/2583917-the-proton-is-more-quantum-than-we-thought/",
-    "description": "Our understanding of the internal structure of protons is largely based on classical physics, but data compiled from accelerator experiments has uncovered quantum behaviour that has never been seen before",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307888887.jpg"
   }
 ]
