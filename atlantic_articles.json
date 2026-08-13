@@ -1,5 +1,13 @@
 [
   {
+    "title": "Our Last Wifi-Less Refuge is Gone",
+    "url": "https://www.theatlantic.com/health/2026/08/airplane-wifi-travel/688260/",
+    "description": "Sub-par airplane Wi-Fi was a gift, in a way.",
+    "author": "Nancy Walecki",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/AJeN83_Il1_nPP07lOwi03Ix_zQ=/155x0:1842x1125/210x140/media/img/mt/2026/08/2026_08_07_plane_mpg_1/original.jpg"
+  },
+  {
     "title": "A Perfect Album for a Frustrating Decade",
     "url": "https://www.theatlantic.com/culture/2026/08/phoebe-bridgers-lost-weekend-review/688268/",
     "description": "Phoebe Bridgers’s new record is heavy with post-pandemic disappointment.",
@@ -30,6 +38,14 @@
     "author": "Shirley Li",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/y4o3pnglimfVpdBzLJmNAcXvzrE=/155x0:1842x1125/210x140/media/img/mt/2026/08/2026_8_12_Pipeline_CountDown_Compressed_1/original.jpg"
+  },
+  {
+    "title": "What I Saw In Sinaloa",
+    "url": "https://www.theatlantic.com/international/2026/08/cartels-mexico-sinaloa-influencers-cesar-gastelum/688253/",
+    "description": "The U.S. is trying to destroy Mexican cartels. But so far, a turf war has only deepened.",
+    "author": "Kevin Sieff",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/RmMMvOnipZiP5jP7fuMOlxv6B8w=/260x0:3635x2250/210x140/media/img/mt/2026/08/2026_07_12_The_New_Cartel_War_Kevin_Sieff/original.jpg"
   },
   {
     "title": "The Fatal Combination of Ideology and Charisma",
@@ -142,21 +158,5 @@
     "author": "Will Gottsegen",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/siGNp0HPVyHx1O_8UhcTrd3L0yg=/221x0:2613x1595/210x140/media/newsletters/2026/08/2026_08_11_The_Daily_Trumps_Double_Down_2289111682/original.jpg"
-  },
-  {
-    "title": "Shopping Is Impossible",
-    "url": "https://www.theatlantic.com/technology/2026/08/online-shopping-inescapable/688254/",
-    "description": "It’s never been more exhausting to buy stuff.",
-    "author": "Rachel Sugar",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/jpUMjkr4I0RCr-zQGZ4776SdhLg=/151x0:1771x1080/210x140/media/img/mt/2026/08/2026_08_05_shopping/original.gif"
-  },
-  {
-    "title": "What DoSexandGenderEven Mean Now?",
-    "url": "https://www.theatlantic.com/ideas/2026/08/sex-gender-identity-definition-history/688252/",
-    "description": "The history of a semantic mess––and a way out of it",
-    "author": "Conor Friedersdorf",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/NXh3yFDQM8hxaL2yRUnhY4k7iL8=/155x0:1842x1125/210x140/media/img/mt/2026/08/genderandsex2/original.gif"
   }
 ]
