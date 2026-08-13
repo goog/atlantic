@@ -1,5 +1,13 @@
 [
   {
+    "title": "Quantum entanglement is key to solving 250-year-old maths problem | New Scientist",
+    "url": "https://www.newscientist.com/article/2584226-quantum-entanglement-is-key-to-solving-300-year-old-maths-problem/",
+    "description": "Analysis of a mathematical puzzle that Leonhard Euler deemed unsolvable in the 1700s reveals that the crucial ingredient for cracking it after all is quantum entanglement",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308082391.jpg"
+  },
+  {
     "title": "The most breathtaking photos of the total solar eclipse | New Scientist",
     "url": "https://www.newscientist.com/article/2584532-the-best-photos-of-the-total-solar-eclipse/",
     "description": "Photographers in Spain captured spectacular images of the rare alignment of the moon and the sun, as it cast a dark shadow over much of the country",
@@ -38,13 +46,5 @@
     "author": "New Scientist",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI308056766.jpg"
-  },
-  {
-    "title": "Mission to save NASA telescope back on track after loss of control | New Scientist",
-    "url": "https://www.newscientist.com/article/2584337-mission-to-save-nasa-telescope-back-on-track-after-loss-of-control/",
-    "description": "Katalyst’s LINK spacecraft might still be able to save NASA’s ailing Swift telescope from doom, despite a significant mishap",
-    "author": "Jonathan O’Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308053073.jpg"
   }
 ]
