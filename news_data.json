@@ -1,5 +1,13 @@
 [
   {
+    "title": "'Remarkable' discovery upends our understanding of how brains store memories | New Scientist",
+    "url": "https://www.newscientist.com/article/2584638-remarkable-discovery-upends-our-understanding-of-how-brains-store-memories/",
+    "description": "Memories in mice persisted even after they lost the connections that we thought were needed for recall, expanding our knowledge of memory in the mammalian brain",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308195965.jpg"
+  },
+  {
     "title": "DNA reveals a society organised around women in pre-Roman Britain | New Scientist",
     "url": "https://www.newscientist.com/article/2584364-dna-reveals-a-society-organised-around-women-in-pre-roman-britain/",
     "description": "Descent passed from mother to daughter rather than from father to son, a study of more than 500 Iron Age individuals from north-east England suggests",
@@ -38,13 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307993659.jpg"
-  },
-  {
-    "title": "Running with a stroller seems to reduce the risk of injuries | New Scientist",
-    "url": "https://www.newscientist.com/article/2584315-running-with-a-pram-seems-to-reduce-the-risk-of-injuries/",
-    "description": "Pushing a pram while running may reduce the force produced with each foot strike, decreasing the risk of injuries",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308064434.jpg"
   }
 ]
