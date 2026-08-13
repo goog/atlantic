@@ -1,11 +1,35 @@
 [
   {
+    "title": "The Lesson Watergate Was Supposed to Teach",
+    "url": "https://www.theatlantic.com/newsletters/2026/08/watergate-schlesinger-nixon-presidential-scandals/688282/",
+    "description": "Arthur M. Schlesinger Jr. thought Nixon’s downfall would restrain presidents for generations. Instead, Watergate helped write the script for the scandals that followed.",
+    "author": "Jake Lundberg",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/E7Ua5KPuk_AZILbwteGFa65zZlI=/156x0:1843x1125/210x140/media/newsletters/2026/08/2026_08_12_Time_Travel_mpg/original.jpg"
+  },
+  {
+    "title": "Trump’s New Plan to Get His Name Back on the Kennedy Center",
+    "url": "https://www.theatlantic.com/culture/2026/08/kennedy-center-trump-board/688276/",
+    "description": "The center’s board voted—again—to shut down for a renovation. It threw in a design tweak.",
+    "author": "Janay Kingsberry",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/sw8p49iP0W2pJcHqiAwuTCo8IXE=/176x0:2606x1620/210x140/media/img/mt/2026/08/2026_08_13_Donald_Trump_Cannot_Let_the_Kennedy_Center_Go_2280720644/original.jpg"
+  },
+  {
     "title": "Hunger Games, MAGA Style",
     "url": "https://www.theatlantic.com/politics/2026/08/patriot-games-trump-freedom-250/688273/",
     "description": "A gym-class-style competition might be the oddest 250th celebration yet.",
     "author": "Matt Viser",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/q5xUzfHb-9IOvdmIaEJEQ0ROZ5Y=/625x0:4000x2250/210x140/media/img/mt/2026/08/2026_08_13_The_Freedom250_Patriot_Games_Michael_Scherer_Matt_Viser/original.jpg"
+  },
+  {
+    "title": "What I Saw In Sinaloa",
+    "url": "https://www.theatlantic.com/international/2026/08/cartels-mexico-sinaloa-influencers-cesar-gastelum/688253/",
+    "description": "The U.S. is trying to destroy Mexican cartels. But so far, a turf war has only deepened.",
+    "author": "Kevin Sieff",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/RmMMvOnipZiP5jP7fuMOlxv6B8w=/260x0:3635x2250/210x140/media/img/mt/2026/08/2026_07_12_The_New_Cartel_War_Kevin_Sieff/original.jpg"
   },
   {
     "title": "Our Last Wi-Fi-Less Refuge Is Gone",
@@ -46,14 +70,6 @@
     "author": "Shirley Li",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/y4o3pnglimfVpdBzLJmNAcXvzrE=/155x0:1842x1125/210x140/media/img/mt/2026/08/2026_8_12_Pipeline_CountDown_Compressed_1/original.jpg"
-  },
-  {
-    "title": "What I Saw In Sinaloa",
-    "url": "https://www.theatlantic.com/international/2026/08/cartels-mexico-sinaloa-influencers-cesar-gastelum/688253/",
-    "description": "The U.S. is trying to destroy Mexican cartels. But so far, a turf war has only deepened.",
-    "author": "Kevin Sieff",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/RmMMvOnipZiP5jP7fuMOlxv6B8w=/260x0:3635x2250/210x140/media/img/mt/2026/08/2026_07_12_The_New_Cartel_War_Kevin_Sieff/original.jpg"
   },
   {
     "title": "The Fatal Combination of Ideology and Charisma",
@@ -142,21 +158,5 @@
     "author": "Olga Khazan",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/udb08JOdEsRC2dqJFbSnmlhEvfk=/155x0:1842x1125/210x140/media/img/mt/2026/08/2026_08_12_The_Great_Testosterone_Decline/original.jpg"
-  },
-  {
-    "title": "AtlanticTrivia: Faith and Science",
-    "url": "https://www.theatlantic.com/trivia/2026/08/12-catholic-schism-spain-eclipse-freud-psychoanalysis/688249/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Drew Goins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/AZ8PijZWcER3tGIIvK8tiM31K3w=/152x0:1772x1080/210x140/media/img/mt/2026/08/1trivia_green-3/original.png"
-  },
-  {
-    "title": "Trump’s New Strategy of Nothing",
-    "url": "https://www.theatlantic.com/national-security/2026/08/trump-iran-economic-pressure/688250/",
-    "description": "How long can the impulsive, reactive president show restraint?",
-    "author": "Jonathan Lemire",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/woZnEjHJ0kFVHd6Itpfx5tEmShI=/305x0:3563x2172/210x140/media/img/mt/2026/08/2026_07_11_Trump_Attempts_Patience_Jonathan_Lemire/original.jpg"
   }
 ]
