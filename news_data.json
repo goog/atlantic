@@ -1,5 +1,13 @@
 [
   {
+    "title": "The best photos of the total solar eclipse | New Scientist",
+    "url": "https://www.newscientist.com/article/2584532-the-best-photos-of-the-total-solar-eclipse/",
+    "description": "Photographers in Spain captured spectacular images of the rare alignment of the moon and the sun, casting a dark shadow over much of the country",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308167856.jpg"
+  },
+  {
     "title": "Fate of the AMOC may depend on how quickly CO2 rises | New Scientist",
     "url": "https://www.newscientist.com/article/2584353-fate-of-the-amoc-may-depend-on-how-quickly-co2-rises/",
     "description": "The critical current could remain stable beyond 5°C of warming, but only if the warming happens very slowly ",
@@ -38,13 +46,5 @@
     "author": "Jonathan O’Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308053073.jpg"
-  },
-  {
-    "title": "Breast-augmentation method uses your own fat in dissolving scaffolds | New Scientist",
-    "url": "https://www.newscientist.com/article/2584253-breast-augmentation-method-uses-your-own-fat-in-dissolving-scaffolds/",
-    "description": "A new approach to breast augmentation injects fat from elsewhere in the body into dissolvable scaffolds shaped like bra cups, which may lead to a more natural look and fewer complications",
-    "author": "Alice Klein",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308055333.jpg"
   }
 ]
