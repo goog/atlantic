@@ -1,5 +1,37 @@
 [
   {
+    "title": "The Next Great American Songwriter Would Prefer to Stay Home",
+    "url": "https://www.theatlantic.com/culture/2026/08/phoebe-bridgers-lost-weekend-review/688268/",
+    "description": "Phoebe Bridgers’s new record is heavy with post-pandemic disappointment.",
+    "author": "Spencer Kornhaber",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/xwcgjcnFZ8CfhycDIwSu77fve0o=/155x0:1842x1125/210x140/media/img/mt/2026/08/2026_8_12_Phoebe_Bridgers/original.png"
+  },
+  {
+    "title": "AtlanticTrivia: Our Greatest Debate",
+    "url": "https://www.theatlantic.com/trivia/2026/08/13-rfkjr-ultraprocessed-food-odyssey-rating-mpa-higher-education-testing/688270/",
+    "description": "Test your knowledge—and read our stories for a little extra help.",
+    "author": "Drew Goins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/swu7Yh5pzppsVCluLs5zyMcCiRE=/149x0:1770x1081/210x140/media/img/mt/2026/08/2trivia_purple-1/original.png"
+  },
+  {
+    "title": "Tehran Has to Make a Choice",
+    "url": "https://www.theatlantic.com/international/2026/08/iran-muslim-countries-defense-pact/688265/",
+    "description": "A new regional pact highlights Iran’s isolation.",
+    "author": "Arash Azizi",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/lope6CbiqHt9nDi0WP5F_9uhBOY=/396x7:5154x3179/210x140/media/img/mt/2026/08/2026_08_11_Mecca_Pact-1/original.jpg"
+  },
+  {
+    "title": "The Internet-to-Hollywood Pipeline Isn’t What It Seems",
+    "url": "https://www.theatlantic.com/culture/2026/08/youtube-reddit-hollywood-movies-backrooms-obsession/688258/",
+    "description": "The film industry is looking online for its next big hit, but it has a lot to learn about turning virality into box-office success.",
+    "author": "Shirley Li",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/y4o3pnglimfVpdBzLJmNAcXvzrE=/155x0:1842x1125/210x140/media/img/mt/2026/08/2026_8_12_Pipeline_CountDown_Compressed_1/original.jpg"
+  },
+  {
     "title": "The Jonestown Style of Politics",
     "url": "https://www.theatlantic.com/ideas/2026/08/jonestown-cult-radical-politics/688257/",
     "description": "Revulsion over an infamous 1978 massacre obscures the event’s continuing relevance.",
@@ -126,37 +158,5 @@
     "author": "Conor Friedersdorf",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/NXh3yFDQM8hxaL2yRUnhY4k7iL8=/155x0:1842x1125/210x140/media/img/mt/2026/08/genderandsex2/original.gif"
-  },
-  {
-    "title": "A Deeply Layered Novel About Masculinity",
-    "url": "https://www.theatlantic.com/books/2026/08/a-tender-age-chang-rae-lee-masculinity-book-review/688239/",
-    "description": "Chang-rae Lee’s new novel examines a young man’s attempt to be tough—and its far-reaching consequences.",
-    "author": "Lily Meyer",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/vbNEL44CvArtTD_4EoBYHRSoeVw=/0x0:3327x2218/210x140/media/img/mt/2026/08/2026_08_11_The_Long_Tail_of_Boyhood_Lily_Meyer/original.jpg"
-  },
-  {
-    "title": "Spain Is Ready for an Extraordinary Run of Eclipses",
-    "url": "https://www.theatlantic.com/science/2026/08/spain-eclipse/688243/",
-    "description": "Tomorrow’s eclipse will be the country’s first in a century. Next year’s will be even more dramatic.",
-    "author": "Hana Kiros",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/qSx77xrwIr6QzmH7jRB6uLMldu4=/473x0:5536x3375/210x140/media/img/mt/2026/08/2026_08_10_Spain_Solar_Eclipse/original.jpg"
-  },
-  {
-    "title": "AtlanticTrivia: Color Theory",
-    "url": "https://www.theatlantic.com/trivia/2026/08/11-colorless-gray-products-housing-beige-ford/688242/",
-    "description": "Test your knowledge—and read our stories for a little extra help.",
-    "author": "Drew Goins",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/18fKVw81n8hVwiWVugw0mlsRSdw=/149x0:1770x1080/210x140/media/img/mt/2026/08/4trivia_peach-1/original.png"
-  },
-  {
-    "title": "Are Men to Blame for the Birth-Rate Collapse?",
-    "url": "https://www.theatlantic.com/ideas/2026/08/fertility-men-housework-goldin/688238/",
-    "description": "Whether dads do their fair share of the housework appears to have no effect on fertility.",
-    "author": "Marc Novicoff",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/W9n7_MXrQRAddwa8gCvLsMDZo6c=/155x0:1842x1125/210x140/media/img/mt/2026/08/2026_08_10_Novicoff_Its_The_Men_Theory_final/original.png"
   }
 ]
