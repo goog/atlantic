@@ -1,5 +1,13 @@
 [
   {
+    "title": "How bad is the UK drought and how long will it continue? | New Scientist",
+    "url": "https://www.newscientist.com/article/2584619-how-bad-is-the-uk-drought-and-how-long-will-it-continue/",
+    "description": "Almost three-quarters of England is now in drought conditions, resulting in restrictions on water use in many areas and severe wildfires – here's how it's affecting farming, wildlife and trees",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308198316.jpg"
+  },
+  {
     "title": "Monsoon-driven wildfires may have shaped human evolution | New Scientist",
     "url": "https://www.newscientist.com/article/2584578-monsoon-driven-wildfires-may-have-shaped-human-evolution/",
     "description": "A reconstruction of East Africa's environment 1.75 million years ago suggests wildfires spiked during wetter times, which may have influenced human evolution",
@@ -38,13 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308167856.jpg"
-  },
-  {
-    "title": "Fate of the AMOC may depend on how quickly CO2 rises | New Scientist",
-    "url": "https://www.newscientist.com/article/2584353-fate-of-the-amoc-may-depend-on-how-quickly-co2-rises/",
-    "description": "The critical current could remain stable beyond 5°C of warming, but only if the warming happens very slowly ",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308081143.jpg"
   }
 ]
