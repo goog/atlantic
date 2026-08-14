@@ -1,5 +1,13 @@
 [
   {
+    "title": "Monsoon-driven wildfires may have shaped human evolution | New Scientist",
+    "url": "https://www.newscientist.com/article/2584578-monsoon-driven-wildfires-may-have-shaped-human-evolution/",
+    "description": "A reconstruction of East Africa's environment 1.75 million years ago suggests wildfires spiked during wetter times, which may have influenced human evolution",
+    "author": "James Urquhart",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308061496.jpg"
+  },
+  {
     "title": "'Remarkable' discovery upends our understanding of how brains store memories | New Scientist",
     "url": "https://www.newscientist.com/article/2584638-remarkable-discovery-upends-our-understanding-of-how-brains-store-memories/",
     "description": "Memories in mice persisted even after they lost the connections that we thought were needed for recall, expanding our knowledge of memory in the mammalian brain",
@@ -38,13 +46,5 @@
     "author": "Madeleine Cuff",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308081143.jpg"
-  },
-  {
-    "title": "Mammal ancestors were giving birth to live young 236 million years ago | New Scientist",
-    "url": "https://www.newscientist.com/article/2584319-mammal-ancestors-were-giving-birth-to-live-young-236-million-years-ago/",
-    "description": "Almost all mammals give birth rather than laying eggs, and we have new clues about when they began to do so",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307993659.jpg"
   }
 ]
