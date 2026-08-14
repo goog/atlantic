@@ -1,5 +1,13 @@
 [
   {
+    "title": "THC in cannabis may reduce nightmares in people with PTSD | New Scientist",
+    "url": "https://www.newscientist.com/article/2584744-thc-in-cannabis-may-reduce-nightmares-in-people-with-ptsd/",
+    "description": "A drug made up of THC, the main psychoactive component of cannabis, reduced the severity and incidence of nightmares in people with PTSD",
+    "author": "Mattha Busby",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308173108.jpg"
+  },
+  {
     "title": "Fishers detonate a bomb every hour on one Indonesian coral reef | New Scientist",
     "url": "https://www.newscientist.com/article/2584701-fishers-detonate-a-bomb-every-hour-on-one-indonesian-coral-reef/",
     "description": "The use of explosives to kill fish is widespread across the tropics, and acoustic monitoring in an Indonesian archipelago detected more than 3500 explosions in 483 days",
@@ -38,13 +46,5 @@
     "author": "Michael Le Page",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308186686_d4ce22.jpg"
-  },
-  {
-    "title": "Quantum entanglement is key to solving 250-year-old maths problem | New Scientist",
-    "url": "https://www.newscientist.com/article/2584226-quantum-entanglement-is-key-to-solving-300-year-old-maths-problem/",
-    "description": "Analysis of a mathematical puzzle that Leonhard Euler deemed unsolvable in the 1700s reveals that the crucial ingredient for cracking it after all is quantum entanglement",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308082391.jpg"
   }
 ]
