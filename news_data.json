@@ -1,5 +1,13 @@
 [
   {
+    "title": "Our blood's body clock may be causing anaemia cases to be missed | New Scientist",
+    "url": "https://www.newscientist.com/article/2584965-our-bloods-body-clock-may-be-causing-anaemia-cases-to-be-missed/",
+    "description": "Blood tests may give different results depending on when in the day, or the year, they are taken, which could result in people missing out on an anaemia diagnosis",
+    "author": "Linda Geddes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308295201.jpg"
+  },
+  {
     "title": "Weightlifting makes older women leaner, stronger and more mobile | New Scientist",
     "url": "https://www.newscientist.com/article/2584910-weightlifting-makes-older-women-leaner-stronger-and-more-mobile/",
     "description": "Lifting at least 50 kilograms twice a week improved older women's muscle mass, mobility and balance",
@@ -38,13 +46,5 @@
     "author": "Mattha Busby",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308173108.jpg"
-  },
-  {
-    "title": "Fishers detonate a bomb every hour on one Indonesian coral reef | New Scientist",
-    "url": "https://www.newscientist.com/article/2584701-fishers-detonate-a-bomb-every-hour-on-one-indonesian-coral-reef/",
-    "description": "The use of explosives to kill fish is widespread across the tropics, and acoustic monitoring in an Indonesian archipelago detected more than 3500 explosions in 483 days",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308280914.jpg"
   }
 ]
