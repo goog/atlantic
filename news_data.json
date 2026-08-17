@@ -1,5 +1,13 @@
 [
   {
+    "title": "Britain's only desalination plant remains idle during drought | New Scientist",
+    "url": "https://www.newscientist.com/article/2585005-britains-only-desalination-plant-remains-idle-during-drought/",
+    "description": "Water flow in the river Thames has dropped low enough to warrant the use of England’s only large-scale desalination plant, but it hasn’t been switched on at all this year",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308664894.jpg"
+  },
+  {
     "title": "Our blood's body clock may be causing anaemia cases to be missed | New Scientist",
     "url": "https://www.newscientist.com/article/2584965-our-bloods-body-clock-may-be-causing-anaemia-cases-to-be-missed/",
     "description": "Blood tests may give different results depending on when in the day, or the year, they are taken, which could result in people missing out on an anaemia diagnosis",
@@ -38,13 +46,5 @@
     "author": "Chris Stokel-Walker",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308171282.jpg"
-  },
-  {
-    "title": "THC in cannabis may reduce nightmares in people with PTSD | New Scientist",
-    "url": "https://www.newscientist.com/article/2584744-thc-in-cannabis-may-reduce-nightmares-in-people-with-ptsd/",
-    "description": "A drug made up of THC, the main psychoactive component of cannabis, reduced the severity and incidence of nightmares in people with PTSD",
-    "author": "Mattha Busby",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308173108.jpg"
   }
 ]
