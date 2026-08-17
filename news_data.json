@@ -1,5 +1,13 @@
 [
   {
+    "title": "Weightlifting makes older women leaner, stronger and more mobile | New Scientist",
+    "url": "https://www.newscientist.com/article/2584910-weightlifting-makes-older-women-leaner-stronger-and-more-mobile/",
+    "description": "Lifting at least 50 kilograms twice a week improved older women's muscle mass, mobility and balance",
+    "author": "Alice Klein",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308638138.jpg"
+  },
+  {
     "title": "Quantum computing may be facing a replication crisis | New Scientist",
     "url": "https://www.newscientist.com/article/2584476-quantum-computing-may-be-facing-a-replication-crisis/",
     "description": "A review of thousands of scientific papers about quantum computers finds that most don’t provide codes that can be tested on independent devices or that those codes don’t work",
@@ -38,13 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308280914.jpg"
-  },
-  {
-    "title": "How bad is the UK drought and how long will it continue? | New Scientist",
-    "url": "https://www.newscientist.com/article/2584619-how-bad-is-the-uk-drought-and-how-long-will-it-continue/",
-    "description": "Almost three-quarters of England is now in drought conditions, resulting in restrictions on water use in many areas and severe wildfires – here's how it's affecting farming, wildlife and trees",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308198316.jpg"
   }
 ]
