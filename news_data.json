@@ -1,5 +1,13 @@
 [
   {
+    "title": "Quantum computing may be facing a replication crisis | New Scientist",
+    "url": "https://www.newscientist.com/article/2584476-quantum-computing-may-be-facing-a-replication-crisis/",
+    "description": "A review of thousands of scientific papers about quantum computers finds that most don’t provide codes that can be tested on independent devices or that those codes don’t work",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308174944.jpg"
+  },
+  {
     "title": "Rogue hacking AIs have changed the cybersecurity landscape | New Scientist",
     "url": "https://www.newscientist.com/article/2583927-rogue-hacking-ais-have-changed-the-cybersecurity-landscape/",
     "description": "Attackers with no technical skills can now use AI models to find and exploit loopholes quickly and they can deploy them on a massive scale, raising fears that organisations without large budgets for cyber defence will be much more vulnerable",
@@ -38,13 +46,5 @@
     "author": "Madeleine Cuff",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308198316.jpg"
-  },
-  {
-    "title": "Monsoon-driven wildfires may have shaped human evolution | New Scientist",
-    "url": "https://www.newscientist.com/article/2584578-monsoon-driven-wildfires-may-have-shaped-human-evolution/",
-    "description": "A reconstruction of East Africa's environment 1.75 million years ago suggests wildfires spiked during wetter times, which may have influenced human evolution",
-    "author": "James Urquhart",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308061496.jpg"
   }
 ]
