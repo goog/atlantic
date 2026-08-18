@@ -1,5 +1,13 @@
 [
   {
+    "title": "Planes flying over the Atlantic will be re-routed to avoid contrails | New Scientist",
+    "url": "https://www.newscientist.com/article/2585091-planes-flying-over-the-atlantic-will-be-re-routed-to-avoid-contrails/",
+    "description": "Operation Blue Skies is the world’s first trial to deploy contrail avoidance measures across an entire airspace, aiming to lower the climate impact of flights on a large scale ",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308675226.jpg"
+  },
+  {
     "title": "Physicists may have solved a 30-year mystery over missing neutrinos | New Scientist",
     "url": "https://www.newscientist.com/article/2584689-physicists-may-have-solved-a-30-year-mystery-over-missing-neutrinos/",
     "description": "Since the 1990s, researchers have wondered if unexpected results from gallium-based neutrino detectors are a sign of a new kind of particle, but a new study suggests that revising their calculations could explain the anomaly",
@@ -38,13 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308174944.jpg"
-  },
-  {
-    "title": "Rogue hacking AIs have changed the cybersecurity landscape | New Scientist",
-    "url": "https://www.newscientist.com/article/2583927-rogue-hacking-ais-have-changed-the-cybersecurity-landscape/",
-    "description": "Attackers with no technical skills can now use AI models to find and exploit loopholes quickly and they can deploy them on a massive scale, raising fears that organisations without large budgets for cyber defence will be much more vulnerable",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308069689.jpg"
   }
 ]
