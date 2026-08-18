@@ -1,5 +1,13 @@
 [
   {
+    "title": "Did humans evolve to be active throughout the day and night? | New Scientist",
+    "url": "https://www.newscientist.com/article/2584951-did-humans-evolve-to-be-active-throughout-the-day-and-night/",
+    "description": "Evidence from hunter-gatherers suggests humans aren't diurnal but cathemeral, with bouts of activity at nighttime – a sleep pattern similar to some lemurs",
+    "author": "Michael Marshall",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308290189.jpg"
+  },
+  {
     "title": "Planes flying over the Atlantic will be re-routed to avoid contrails | New Scientist",
     "url": "https://www.newscientist.com/article/2585091-planes-flying-over-the-atlantic-will-be-re-routed-to-avoid-contrails/",
     "description": "Operation Blue Skies is the world’s first trial to deploy contrail avoidance measures across an entire airspace, aiming to lower the climate impact of flights on a large scale ",
@@ -38,13 +46,5 @@
     "author": "Alice Klein",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308638138.jpg"
-  },
-  {
-    "title": "Quantum computing may be facing a replication crisis | New Scientist",
-    "url": "https://www.newscientist.com/article/2584476-quantum-computing-may-be-facing-a-replication-crisis/",
-    "description": "A review of thousands of scientific papers about quantum computers finds that most don’t provide code that can be tested on independent devices or that the code doesn’t work",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308174944.jpg"
   }
 ]
