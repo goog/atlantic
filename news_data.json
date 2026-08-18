@@ -1,5 +1,13 @@
 [
   {
+    "title": "Female clones created from the blood of male mice | New Scientist",
+    "url": "https://www.newscientist.com/article/2585076-female-clones-created-from-the-blood-of-male-mice/",
+    "description": "A CRISPR-based tool can perform sex reversal on male mouse embryos, reliably turning them into healthy females – a feat that could be valuable for conservation",
+    "author": "Chris Simms",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308726176.jpg"
+  },
+  {
     "title": "Postbiotic could reduce the risk of brain damage after a concussion | New Scientist",
     "url": "https://www.newscientist.com/article/2585112-postbiotic-could-reduce-the-risk-of-brain-damage-after-a-concussion/",
     "description": "Giving mice a byproduct produced by gut bacteria reduced their risk of severe brain damage and cognitive difficulties after a traumatic brain injury",
@@ -38,13 +46,5 @@
     "author": "Madeleine Cuff",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308664894.jpg"
-  },
-  {
-    "title": "Our blood's body clock may be causing anaemia cases to be missed | New Scientist",
-    "url": "https://www.newscientist.com/article/2584965-our-bloods-body-clock-may-be-causing-anaemia-cases-to-be-missed/",
-    "description": "Blood tests may give different results depending on when in the day, or the year, they are taken, which could result in people missing out on an anaemia diagnosis",
-    "author": "Linda Geddes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308295201.jpg"
   }
 ]
