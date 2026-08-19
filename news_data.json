@@ -1,8 +1,40 @@
 [
   {
+    "title": "AI could lower the cost of designing more efficient airplane wings | New Scientist",
+    "url": "https://www.newscientist.com/article/2585337-ai-could-lower-the-cost-of-designing-more-efficient-airplane-wings/",
+    "description": "AI agents devised a way to reduce friction of an airplane wing model even without access to a costly computer simulation",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308813329.jpg"
+  },
+  {
+    "title": "Supercentenarians have hypervigilant immune systems that fight off cancer | New Scientist",
+    "url": "https://www.newscientist.com/article/2585352-supercentenarians-have-an-abundance-of-immune-cells-that-ward-off-cancer/",
+    "description": "People aged 110 or older seem to have a disproportionately high number of immune cells that fight off cancer and infections",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308732944.jpg"
+  },
+  {
+    "title": "5-year-old brain organoids can sense the passing of time | New Scientist",
+    "url": "https://www.newscientist.com/article/2585540-5-year-old-brain-organoids-can-sense-the-passing-of-time/",
+    "description": "Brain organoids have been grown and studied for five years, the longest time to date, and their activity suggests they had a sense of time going by",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308814902.jpg"
+  },
+  {
+    "title": "We may now know which neurons dictate when it is time to go to sleep | New Scientist",
+    "url": "https://www.newscientist.com/article/2585546-we-may-now-know-which-neurons-dictate-when-it-is-time-to-go-to-sleep/",
+    "description": "Two clusters of neurons in the mouse brain seem to create the drive to get some shut-eye, potentially hinting at a new target for sleep disorder treatments",
+    "author": "Chris Simms",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308826076.jpg"
+  },
+  {
     "title": "World may warm by 25 per cent more than current projections suggest | New Scientist",
     "url": "https://www.newscientist.com/article/2585248-world-may-warm-by-25-per-cent-more-than-current-projections-suggest/",
-    "description": "'Official' projections for how much the world will warm are already catastrophic, and now it appears they significantly underestimate future warming",
+    "description": "Official projections for how much the world will warm are already catastrophic, and now it appears they significantly underestimate future warming",
     "author": "Michael Le Page",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308748132.jpg"
@@ -14,37 +46,5 @@
     "author": "Chris Simms",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308726176.jpg"
-  },
-  {
-    "title": "Postbiotic could reduce the risk of brain damage after a concussion | New Scientist",
-    "url": "https://www.newscientist.com/article/2585112-postbiotic-could-reduce-the-risk-of-brain-damage-after-a-concussion/",
-    "description": "Giving mice a byproduct produced by gut bacteria reduced their risk of severe brain damage and cognitive difficulties after a traumatic brain injury",
-    "author": "Rachel Melegrito",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308666026.jpg"
-  },
-  {
-    "title": "Did humans evolve to be active throughout the day and night? | New Scientist",
-    "url": "https://www.newscientist.com/article/2584951-did-humans-evolve-to-be-active-throughout-the-day-and-night/",
-    "description": "Evidence from hunter-gatherers suggests humans aren't diurnal but cathemeral, with bouts of activity at nighttime – a sleep pattern similar to some lemurs",
-    "author": "Michael Marshall",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308290189.jpg"
-  },
-  {
-    "title": "Planes flying over the Atlantic will be re-routed to avoid contrails | New Scientist",
-    "url": "https://www.newscientist.com/article/2585091-planes-flying-over-the-atlantic-will-be-re-routed-to-avoid-contrails/",
-    "description": "Operation Blue Skies is the world’s first trial to deploy contrail avoidance measures across an entire airspace, aiming to lower the climate impact of flights on a large scale ",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308675226.jpg"
-  },
-  {
-    "title": "Physicists may have solved a 30-year mystery over missing neutrinos | New Scientist",
-    "url": "https://www.newscientist.com/article/2584689-physicists-may-have-solved-a-30-year-mystery-over-missing-neutrinos/",
-    "description": "Since the 1990s, researchers have wondered if unexpected results from gallium-based neutrino detectors are a sign of a new kind of particle, but a new study suggests that revising their calculations could explain the anomaly",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308318508.jpg"
   }
 ]
