@@ -1,6 +1,14 @@
 [
   {
-    "title": "AI could lower the cost of designing more efficient airplane wings | New Scientist",
+    "title": "Newly discovered immune hubs in our skull may keep our brain healthy | New Scientist",
+    "url": "https://www.newscientist.com/article/2585558-newly-discovered-immune-hubs-in-our-skull-may-keep-our-brain-healthy/",
+    "description": "We may have clusters of immune cells at the back of our skull that help ward off conditions like brain cancer",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308824193.jpg"
+  },
+  {
+    "title": "AI could offer a shortcut for designing more efficient airplane wings | New Scientist",
     "url": "https://www.newscientist.com/article/2585337-ai-could-lower-the-cost-of-designing-more-efficient-airplane-wings/",
     "description": "AI agents devised a way to reduce friction of an airplane wing model even without access to a costly computer simulation",
     "author": "Karmela Padavic-Callaghan",
@@ -26,7 +34,7 @@
   {
     "title": "We may now know which neurons dictate when it is time to go to sleep | New Scientist",
     "url": "https://www.newscientist.com/article/2585546-we-may-now-know-which-neurons-dictate-when-it-is-time-to-go-to-sleep/",
-    "description": "Two clusters of neurons in the mouse brain seem to create the drive to get some shut-eye, potentially hinting at a new target for sleep disorder treatments",
+    "description": "Two clusters of neurons in the brains of mice seem to create the drive to get some shuteye, potentially hinting at a new target for sleep disorder treatments",
     "author": "Chris Simms",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308826076.jpg"
@@ -38,13 +46,5 @@
     "author": "Michael Le Page",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308748132.jpg"
-  },
-  {
-    "title": "Female clones created from the blood of male mice | New Scientist",
-    "url": "https://www.newscientist.com/article/2585076-female-clones-created-from-the-blood-of-male-mice/",
-    "description": "A CRISPR-based tool can perform sex reversal on male mouse embryos, reliably turning them into healthy females – a feat that could be valuable for conservation",
-    "author": "Chris Simms",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308726176.jpg"
   }
 ]
