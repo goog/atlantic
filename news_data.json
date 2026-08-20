@@ -1,5 +1,13 @@
 [
   {
+    "title": "Strange gamma-ray signal could unlock dark matter’s secrets | New Scientist",
+    "url": "https://www.newscientist.com/article/2585656-strange-gamma-ray-signal-could-unlock-dark-matters-secrets/",
+    "description": "Researchers spotted an unusual gamma-ray signal in three galaxy clusters, which may be a telltale sign of dark matter – or some even more exotic phenomenon",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308914049_637a72.jpg"
+  },
+  {
     "title": "Will personalised mRNA vaccines transform cancer treatments? | New Scientist",
     "url": "https://www.newscientist.com/article/2585809-will-personalised-mrna-vaccines-transform-cancer-treatments/",
     "description": "A personalised mRNA cancer vaccine has produced positive results in a final-stage trial involving skin cancer, raising hopes that this approach could work against many cancers",
@@ -38,13 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308808886.jpg"
-  },
-  {
-    "title": "Newly discovered immune hubs in our skull may keep our brain healthy | New Scientist",
-    "url": "https://www.newscientist.com/article/2585558-newly-discovered-immune-hubs-in-our-skull-may-keep-our-brain-healthy/",
-    "description": "We may have clusters of immune cells at the back of our skull that help ward off conditions like brain cancer",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308824193.jpg"
   }
 ]
