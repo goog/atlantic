@@ -1,5 +1,13 @@
 [
   {
+    "title": "Will personalised mRNA vaccines transform cancer treatments? | New Scientist",
+    "url": "https://www.newscientist.com/article/2585809-will-personalised-mrna-vaccines-transform-cancer-treatments/",
+    "description": "A personalised mRNA cancer vaccine has produced positive results in a final-stage trial involving skin cancer, raising hopes that this approach could work against many cancers",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308925555.jpg"
+  },
+  {
     "title": "Two emerging tick viruses that can be deadly are spreading in the US | New Scientist",
     "url": "https://www.newscientist.com/article/2585662-two-emerging-tick-viruses-that-can-be-deadly-are-spreading-in-the-us/",
     "description": "Heartland virus and Bourbon virus, which are transmitted by lone star ticks, have killed at least seven people in the US",
@@ -38,13 +46,5 @@
     "author": "Carissa Wong",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308824193.jpg"
-  },
-  {
-    "title": "AI could offer a shortcut for designing more efficient airplane wings | New Scientist",
-    "url": "https://www.newscientist.com/article/2585337-ai-could-lower-the-cost-of-designing-more-efficient-airplane-wings/",
-    "description": "AI agents devised a way to reduce friction of an airplane wing model even without access to a costly computer simulation",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308813329.jpg"
   }
 ]
