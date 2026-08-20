@@ -1,5 +1,13 @@
 [
   {
+    "title": "Depression doesn't shrink the brain like we thought it did | New Scientist",
+    "url": "https://www.newscientist.com/article/2585479-depression-doesnt-shrink-the-brain-like-we-thought-it-did/",
+    "description": "For the past decade, depression has been linked to a shrunken hippocampus, which has a vital role in memory. But a large study using up-to-date scanning techniques suggests this may not be the case",
+    "author": "Chioma Eve",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308285036.jpg"
+  },
+  {
     "title": "NASA calls off rescue effort to save doomed telescope | New Scientist",
     "url": "https://www.newscientist.com/article/2585668-nasa-calls-off-rescue-effort-to-save-doomed-telescope/",
     "description": "The Swift observatory will now re-enter Earth’s atmosphere in a few months, after a mission to boost it higher failed",
@@ -38,13 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308732944.jpg"
-  },
-  {
-    "title": "5-year-old brain organoids can sense the passing of time | New Scientist",
-    "url": "https://www.newscientist.com/article/2585540-5-year-old-brain-organoids-can-sense-the-passing-of-time/",
-    "description": "Brain organoids have been grown and studied for five years, the longest time to date, and their activity suggests they had a sense of time going by",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308814902.jpg"
   }
 ]
