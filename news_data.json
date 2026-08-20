@@ -1,5 +1,13 @@
 [
   {
+    "title": "Two emerging tick viruses that can be deadly are spreading in the US | New Scientist",
+    "url": "https://www.newscientist.com/article/2585662-two-emerging-tick-viruses-that-can-be-deadly-are-spreading-in-the-us/",
+    "description": "Heartland virus and Bourbon virus, which are transmitted by lone star ticks, have killed at least seven people in the US",
+    "author": "Alice Klein",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308899267.jpg"
+  },
+  {
     "title": "Depression doesn't shrink the brain like we thought it did | New Scientist",
     "url": "https://www.newscientist.com/article/2585479-depression-doesnt-shrink-the-brain-like-we-thought-it-did/",
     "description": "For the past decade, depression has been linked to a shrunken hippocampus, which has a vital role in memory. But a large study using up-to-date scanning techniques suggests this may not be the case",
@@ -38,13 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308813329.jpg"
-  },
-  {
-    "title": "Supercentenarians have hypervigilant immune systems that fight off cancer | New Scientist",
-    "url": "https://www.newscientist.com/article/2585352-supercentenarians-have-an-abundance-of-immune-cells-that-ward-off-cancer/",
-    "description": "People aged 110 or older seem to have a disproportionately high number of immune cells that fight off cancer and infections",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308732944.jpg"
   }
 ]
