@@ -1,5 +1,13 @@
 [
   {
+    "title": "'Off the charts' El Niño is already the strongest since records began | New Scientist",
+    "url": "https://www.newscientist.com/article/2586031-off-the-charts-el-nino-is-already-the-strongest-since-records-began/",
+    "description": "Renowned climate scientist James Hansen says the developing super El Niño has already \"blown past\" previous events with months to go before it peaks",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309030472.jpg"
+  },
+  {
     "title": "Greenland meltwater is intensifying European heatwaves | New Scientist",
     "url": "https://www.newscientist.com/article/2585659-greenland-meltwater-is-intensifying-european-heatwaves/",
     "description": "The cooling of the North Atlantic is creating waviness in the jet stream and high-pressure ridging over Europe, a study finds",
@@ -38,13 +46,5 @@
     "author": "Michael Le Page",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308925555.jpg"
-  },
-  {
-    "title": "Two emerging tick viruses that can be deadly are spreading in the US | New Scientist",
-    "url": "https://www.newscientist.com/article/2585662-two-emerging-tick-viruses-that-can-be-deadly-are-spreading-in-the-us/",
-    "description": "Heartland virus and Bourbon virus, which are transmitted by lone star ticks, have killed at least seven people in the US",
-    "author": "Alice Klein",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308899267.jpg"
   }
 ]
