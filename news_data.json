@@ -1,5 +1,13 @@
 [
   {
+    "title": "Burns improve more rapidly after treatment with fish skin | New Scientist",
+    "url": "https://www.newscientist.com/article/2586000-burns-heal-more-rapidly-after-treatment-with-fish-skin/",
+    "description": "Severe burns are often treated with synthetic products ahead of skin graft surgery, but there is evidence that a product made from minimally processed cod skin is more effective",
+    "author": "Alexandra Thompson",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309025637.jpg"
+  },
+  {
     "title": "Super El Niño could lead to mega CO2 emissions from fires in Indonesia | New Scientist",
     "url": "https://www.newscientist.com/article/2585948-super-el-nino-could-lead-to-mega-co2-emissions-from-indonesian-fires/",
     "description": "Intense fires are already burning in Indonesia, and there could be much worse to come as the Super El Niño ramps up",
@@ -38,13 +46,5 @@
     "author": "Chioma Eve",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308285036.jpg"
-  },
-  {
-    "title": "NASA calls off rescue effort to save doomed telescope | New Scientist",
-    "url": "https://www.newscientist.com/article/2585668-nasa-calls-off-rescue-effort-to-save-doomed-telescope/",
-    "description": "The Swift observatory will now re-enter Earth’s atmosphere in a few months, after a mission to boost it higher failed",
-    "author": "Jonathan O’Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308888991.jpg"
   }
 ]
