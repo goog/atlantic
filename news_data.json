@@ -1,5 +1,21 @@
 [
   {
+    "title": "Diabetes drug metformin may halve the risk of dementia | New Scientist",
+    "url": "https://www.newscientist.com/article/2586113-diabetes-drug-metformin-may-halve-the-risk-of-dementia/",
+    "description": "Taking metformin, a type 2 diabetes drug, has been linked to a lower risk of dementia over the following decades, but the association isn't conclusive",
+    "author": "Michael Marshall",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309376731.jpg"
+  },
+  {
+    "title": "Dice discovered that solve decade-long mathematical problem | New Scientist",
+    "url": "https://www.newscientist.com/article/2585488-dice-discovered-that-solve-decade-long-mathematical-problem/",
+    "description": "After years of searching, mathematicians have found dice that can allow five players to fairly decide who moves first in a board game, with a winner guaranteed from just a single roll",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309038172.jpg"
+  },
+  {
     "title": "Plastic bottles can be turned into edible, vanilla-flavour cookies | New Scientist",
     "url": "https://www.newscientist.com/article/2585463-plastic-bottles-can-be-turned-into-edible-vanilla-flavour-cookies/",
     "description": "Hundreds of millions of tonnes of plastic pollution are created each year. One option may be to turn the pollution into food, but critics voice concerns",
@@ -30,21 +46,5 @@
     "author": "Alexandra Thompson",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309025637.jpg"
-  },
-  {
-    "title": "Super El Niño could lead to mega CO2 emissions from fires in Indonesia | New Scientist",
-    "url": "https://www.newscientist.com/article/2585948-super-el-nino-could-lead-to-mega-co2-emissions-from-indonesian-fires/",
-    "description": "Intense fires are already burning in Indonesia, and there could be much worse to come as the Super El Niño ramps up",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309008119.jpg"
-  },
-  {
-    "title": "Strange gamma-ray signal could be most direct evidence of dark matter yet | New Scientist",
-    "url": "https://www.newscientist.com/article/2585656-strange-gamma-ray-signal-could-unlock-dark-matters-secrets/",
-    "description": "Researchers spotted an unusual gamma-ray signal in three galaxy clusters, which may be a telltale sign of dark matter – or some even more exotic phenomenon",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308914049_637a72.jpg"
   }
 ]
