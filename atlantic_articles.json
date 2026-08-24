@@ -1,5 +1,13 @@
 [
   {
+    "title": "I Lost the Password to My Password’s Password",
+    "url": "https://www.theatlantic.com/technology/2026/08/password-manager-login-difficulty/688396/",
+    "description": "Logging in was never supposed to be this complicated.",
+    "author": "Will Oremus",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/9_mo-aAFgALgf_qrZ59CaaUV588=/116x0:1382x844/210x140/media/img/mt/2026/08/2026_08_21_login_mpg/original.gif"
+  },
+  {
     "title": "Where Do America’s Colleges Go From Here?",
     "url": "https://www.theatlantic.com/podcasts/2026/08/ra-back-to-school/688371/",
     "description": "The Trump administration has a new series of questions for colleges about affordability, curriculum, and “national service”—how will they respond? And: W. E. B. Du Bois and Booker T. Washington in a d",
@@ -150,13 +158,5 @@
     "author": "Michael Scherer",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/QhLKp0JEHeGOCPBNZfwp1CQil10=/315x0:3690x2250/210x140/media/img/mt/2026/08/2026_08_21_Pulte_Purge_Rattles_the_Housing_Market_Isaac_Stanley_Becker_Michael_Scherer/original.jpg"
-  },
-  {
-    "title": "Thank You for Your Inattention to This Matter",
-    "url": "https://www.theatlantic.com/newsletters/2026/08/trump-inattention-iran-war/688381/",
-    "description": "The good news is that the world has stopped responding breathlessly to Donald Trump’s every empty provocation. That’s also the bad news.",
-    "author": "David A. Graham",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/hfS-1r96Ds-WwPL_v5S-4pamrmQ=/225x0:2655x1620/210x140/media/newsletters/2026/08/2026_08_21_The_Daily_The_World_Isnt_Listening_to_Trump_Anymore_2224957287/original.jpg"
   }
 ]
