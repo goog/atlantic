@@ -1,5 +1,13 @@
 [
   {
+    "title": "Plastic bottles can be turned into edible, vanilla-flavour cookies | New Scientist",
+    "url": "https://www.newscientist.com/article/2585463-plastic-bottles-can-be-turned-into-edible-vanilla-flavour-cookies/",
+    "description": "Hundreds of millions of tonnes of plastic pollution are created each year. One option may be to turn the pollution into food, but critics voice concerns",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309008441.jpg"
+  },
+  {
     "title": "'Off the charts' El Niño is already the strongest since records began | New Scientist",
     "url": "https://www.newscientist.com/article/2586031-off-the-charts-el-nino-is-already-the-strongest-since-records-began/",
     "description": "Renowned climate scientist James Hansen says the developing super El Niño has already \"blown past\" previous events with months to go before it peaks",
@@ -38,13 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308914049_637a72.jpg"
-  },
-  {
-    "title": "Will personalised mRNA vaccines transform cancer treatments? | New Scientist",
-    "url": "https://www.newscientist.com/article/2585809-will-personalised-mrna-vaccines-transform-cancer-treatments/",
-    "description": "A personalised mRNA cancer vaccine has produced positive results in a final-stage trial involving skin cancer, raising hopes that this approach could work against many cancers",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308925555.jpg"
   }
 ]
