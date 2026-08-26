@@ -1,5 +1,21 @@
 [
   {
+    "title": "5 graphs that show how the record-breaking El Niño will affect the world | New Scientist",
+    "url": "https://www.newscientist.com/article/2586328-5-graphs-that-show-how-the-record-breaking-el-nino-will-affect-the-world/",
+    "description": "A stronger El Niño means more extreme weather, including droughts and wildfires in some places and flooding and tropical storms in others",
+    "author": "Alec LuhnandJacklin Kwan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309544625.jpg"
+  },
+  {
+    "title": "Nanoparticles ease Alzheimer's by making neurons from other cells | New Scientist",
+    "url": "https://www.newscientist.com/article/2586426-nanoparticles-ease-alzheimers-by-making-neurons-from-other-cells/",
+    "description": "A drug made up of a cage of nanoparticles and antibodies created neurons from another type of brain cell, which relieved symptoms of Alzheimer's disease in mice",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549347.jpg"
+  },
+  {
     "title": "A glacier collapse is most likely cause of the Nepal disaster | New Scientist",
     "url": "https://www.newscientist.com/article/2586497-a-glacier-collapse-is-most-likely-cause-of-the-nepal-disaster/",
     "description": "Melting snow appears to have weakened a steep glacier at an altitude of 5 kilometres, causing it to plummet around a kilometre into the river valley below",
@@ -30,21 +46,5 @@
     "author": "Carissa Wong",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309449846.jpg"
-  },
-  {
-    "title": "Lack of sleep may cause anxiety by making us less adaptable to threats | New Scientist",
-    "url": "https://www.newscientist.com/article/2586177-lack-of-sleep-may-cause-anxiety-by-making-us-less-adaptable-to-threats/",
-    "description": "People who were deprived of sleep overnight didn't seem to adapt to being in a potentially threatening space, which may help explain the link between a lack of shuteye and anxiety",
-    "author": "Tosin Thompson",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308905889.jpg"
-  },
-  {
-    "title": "Risk of dementia could be halved with use of metformin | New Scientist",
-    "url": "https://www.newscientist.com/article/2586113-diabetes-drug-metformin-may-halve-the-risk-of-dementia/",
-    "description": "Taking metformin, a type 2 diabetes drug, has been linked to a lower risk of dementia over the following decades, but the association isn't conclusive",
-    "author": "Michael Marshall",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309376731.jpg"
   }
 ]
