@@ -1,5 +1,13 @@
 [
   {
+    "title": "Richard Feynman’s 80-year-old quantum postulate has now been validated | New Scientist",
+    "url": "https://www.newscientist.com/article/2586608-richard-feynmans-80-year-old-quantum-postulate-has-now-been-validated/",
+    "description": "Decades after it has been posited as a foundational principle of quantum physics, Richard Feynman’s “path integral” has been directly measured in an experiment for the first time.",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309575998.jpg"
+  },
+  {
     "title": "5 graphs that show how the record-breaking El Niño will affect the world | New Scientist",
     "url": "https://www.newscientist.com/article/2586328-5-graphs-that-show-how-the-record-breaking-el-nino-will-affect-the-world/",
     "description": "A stronger El Niño means more extreme weather, including droughts and wildfires in some places and flooding and tropical storms in others",
@@ -38,13 +46,5 @@
     "author": "Chris Simms",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309451690.jpg"
-  },
-  {
-    "title": "Shingles vaccine may lower risk of stroke and heart failure | New Scientist",
-    "url": "https://www.newscientist.com/article/2586346-shingles-vaccine-may-lower-risk-of-stroke-and-heart-failure/",
-    "description": "Being vaccinated against shingles has been linked to a lower risk of cardiovascular disease before, but now a study suggests that the vaccine that is currently being used reduces the odds more than earlier versions of the shot",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309449846.jpg"
   }
 ]
