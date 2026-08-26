@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hot weather in the UK is now almost as deadly as a cold snap | New Scientist",
+    "url": "https://www.newscientist.com/article/2586455-hot-weather-in-the-uk-is-now-almost-as-deadly-as-a-cold-snap/",
+    "description": "Cold weather has always killed more people than hot weather in England and Wales – that's about to change  ",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309546666.jpg"
+  },
+  {
     "title": "Workout patch delivers some of the benefits of exercise with no exertion | New Scientist",
     "url": "https://www.newscientist.com/article/2586265-workout-patch-delivers-some-of-the-benefits-of-exercise-with-no-exertion/",
     "description": "Injecting muscle cells beneath the skin of mice led to a patch of self-contracting cells that boosted their muscle mass, bone density and even markers of good brain, immune and liver function",
@@ -38,13 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309038172.jpg"
-  },
-  {
-    "title": "Plastic bottles can be turned into edible, vanilla-flavour cookies | New Scientist",
-    "url": "https://www.newscientist.com/article/2585463-plastic-bottles-can-be-turned-into-edible-vanilla-flavour-cookies/",
-    "description": "Hundreds of millions of tonnes of plastic pollution are created each year. One option may be to turn the pollution into food, but critics voice concerns",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309008441.jpg"
   }
 ]
