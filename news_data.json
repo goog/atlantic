@@ -1,5 +1,13 @@
 [
   {
+    "title": "A glacier collapse is most likely cause of the Nepal disaster | New Scientist",
+    "url": "https://www.newscientist.com/article/2586497-a-glacier-collapse-is-most-likely-cause-of-the-nepal-disaster/",
+    "description": "Melting snow appears to have weakened a steep glacier at an altitude of 5 kilometres, causing it to plummet around a kilometre into the river valley below",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309559746.jpg"
+  },
+  {
     "title": "Hot weather in the UK is now almost as deadly as a cold snap | New Scientist",
     "url": "https://www.newscientist.com/article/2586455-hot-weather-in-the-uk-is-now-almost-as-deadly-as-a-cold-snap/",
     "description": "Cold weather has always killed more people than hot weather in England and Wales – but that's about to change  ",
@@ -38,13 +46,5 @@
     "author": "Michael Marshall",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309376731.jpg"
-  },
-  {
-    "title": "Dice discovered that solve decade-long mathematical problem | New Scientist",
-    "url": "https://www.newscientist.com/article/2585488-dice-discovered-that-solve-decade-long-mathematical-problem/",
-    "description": "After years of searching, mathematicians have found dice that can allow five players to fairly decide who moves first in a board game, with a winner guaranteed from just a single roll",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309038172.jpg"
   }
 ]
