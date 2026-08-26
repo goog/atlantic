@@ -1,5 +1,21 @@
 [
   {
+    "title": "Workout patch delivers some of the benefits of exercise with no exertion | New Scientist",
+    "url": "https://www.newscientist.com/article/2586265-workout-patch-delivers-some-of-the-benefits-of-exercise-with-no-exertion/",
+    "description": "Injecting muscle cells beneath the skin of mice led to a patch of self-contracting cells that boosted their muscle mass, bone density and even markers of good brain, immune and liver function",
+    "author": "Chris Simms",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309451690.jpg"
+  },
+  {
+    "title": "Shingles vaccine may lower risk of stroke and heart failure | New Scientist",
+    "url": "https://www.newscientist.com/article/2586346-shingles-vaccine-may-lower-risk-of-stroke-and-heart-failure/",
+    "description": "Being vaccinated against shingles has been linked to a lower risk of cardiovascular disease before, but now a study suggests that the vaccine that is currently being used reduces the odds more than earlier versions of the shot",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309449846.jpg"
+  },
+  {
     "title": "Lack of sleep may cause anxiety by making us less adaptable to threats | New Scientist",
     "url": "https://www.newscientist.com/article/2586177-lack-of-sleep-may-cause-anxiety-by-making-us-less-adaptable-to-threats/",
     "description": "People who were deprived of sleep overnight didn't seem to adapt to being in a potentially threatening space, which may help explain the link between a lack of shuteye and anxiety",
@@ -30,21 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309008441.jpg"
-  },
-  {
-    "title": "'Off the charts' El Niño is already the strongest since records began | New Scientist",
-    "url": "https://www.newscientist.com/article/2586031-off-the-charts-el-nino-is-already-the-strongest-since-records-began/",
-    "description": "Renowned climate scientist James Hansen says the developing super El Niño has already \"blown past\" previous events with months to go before it peaks",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309030472.jpg"
-  },
-  {
-    "title": "Greenland meltwater is intensifying European heatwaves | New Scientist",
-    "url": "https://www.newscientist.com/article/2585659-greenland-meltwater-is-intensifying-european-heatwaves/",
-    "description": "The cooling of the North Atlantic is creating waviness in the jet stream and high-pressure ridging over Europe, a study finds",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308998450.jpg"
   }
 ]
