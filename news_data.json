@@ -1,5 +1,37 @@
 [
   {
+    "title": "Exercise may create new neurons by making other brain cells contract | New Scientist",
+    "url": "https://www.newscientist.com/article/2586505-exercise-may-create-new-neurons-by-making-other-brain-cells-contract/",
+    "description": "Physical activity causes a type of brain cell called astrocytes to contract, which then leads to the formation of new neurons, according to a study in mice",
+    "author": "Helen Thomson",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549206.jpg"
+  },
+  {
+    "title": "Driving data can predict crash black spots before accidents happen | New Scientist",
+    "url": "https://www.newscientist.com/article/2586721-driving-data-predicts-crash-black-spots-before-accidents-happen/",
+    "description": "An analysis of data collected from hundreds of thousands of cars in Australia offers an insight into driving behaviour that can be used to identify sections of road where crashes may occur in the future",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549209.jpg"
+  },
+  {
+    "title": "Huge progress made in attempt to upgrade standard model of particles | New Scientist",
+    "url": "https://www.newscientist.com/article/2586411-huge-progress-made-in-attempt-to-upgrade-standard-model-of-particles/",
+    "description": "A challenging mathematical effort undertaken by a team of undergraduates has put bounds on a promising set of ways to break and upgrade the standard model of particle physics",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309553154.jpg"
+  },
+  {
+    "title": "Glaciers in the Alps are on track for record-breaking ice loss | New Scientist",
+    "url": "https://www.newscientist.com/article/2586209-glaciers-in-the-alps-are-on-track-for-record-breaking-ice-loss/",
+    "description": "Glacier loss could break the 2022 record after a series of heatwaves this summer, raising the risk of falling river levels and deadly ice avalanches",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309541914.jpg"
+  },
+  {
     "title": "Richard Feynman’s 80-year-old quantum postulate has now been validated | New Scientist",
     "url": "https://www.newscientist.com/article/2586608-richard-feynmans-80-year-old-quantum-postulate-has-now-been-validated/",
     "description": "Decades after it was posited as a foundational principle of quantum physics, Richard Feynman’s “path integral” has been directly measured in an experiment for the first time",
@@ -14,37 +46,5 @@
     "author": "Alec LuhnandJacklin Kwan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309544625.jpg"
-  },
-  {
-    "title": "Nanoparticles ease Alzheimer's by making neurons from other cells | New Scientist",
-    "url": "https://www.newscientist.com/article/2586426-nanoparticles-ease-alzheimers-by-making-neurons-from-other-cells/",
-    "description": "A drug made up of a cage of nanoparticles and antibodies created neurons from another type of brain cell, which relieved symptoms of Alzheimer's disease in mice",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549347.jpg"
-  },
-  {
-    "title": "A glacier collapse is most likely cause of the Nepal disaster | New Scientist",
-    "url": "https://www.newscientist.com/article/2586497-a-glacier-collapse-is-most-likely-cause-of-the-nepal-disaster/",
-    "description": "Melting snow appears to have weakened a steep glacier at an altitude of 5 kilometres, causing it to plummet around a kilometre into the river valley below",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309559746.jpg"
-  },
-  {
-    "title": "Hot weather in the UK is now almost as deadly as a cold snap | New Scientist",
-    "url": "https://www.newscientist.com/article/2586455-hot-weather-in-the-uk-is-now-almost-as-deadly-as-a-cold-snap/",
-    "description": "Cold weather has always killed more people than hot weather in England and Wales – but that's about to change  ",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309546666.jpg"
-  },
-  {
-    "title": "Workout patch delivers some of the benefits of exercise with no exertion | New Scientist",
-    "url": "https://www.newscientist.com/article/2586265-workout-patch-delivers-some-of-the-benefits-of-exercise-with-no-exertion/",
-    "description": "Injecting muscle cells beneath the skin of mice led to a patch of self-contracting cells that boosted their muscle mass, bone density and even markers of good brain, immune and liver function",
-    "author": "Chris Simms",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309451690.jpg"
   }
 ]
