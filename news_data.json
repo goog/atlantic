@@ -1,5 +1,29 @@
 [
   {
+    "title": "Galapagos corals suggest climate change drives stronger El Niños | New Scientist",
+    "url": "https://www.newscientist.com/article/2586758-galapagos-corals-suggest-climate-change-drives-stronger-el-ninos/",
+    "description": "Coral records from the Galapagos Islands indicate El Niños have been gathering strength over the past 40 years, in line with rising global temperatures ",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309669877.jpg"
+  },
+  {
+    "title": "Astonishing whale feeding frenzy seen off the eastern coast of Greenland | New Scientist",
+    "url": "https://www.newscientist.com/article/2586630-astonishing-whale-feeding-frenzy-seen-off-the-eastern-coast-of-greenland/",
+    "description": "The population of baleen whales along eastern Greenland has boomed in recent decades, and reporter Leah Crane recounts a profound experience of seeing them",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309681078.jpg"
+  },
+  {
+    "title": "Octopuses released into Adriatic Sea to tackle invasive crabs | New Scientist",
+    "url": "https://www.newscientist.com/article/2586778-octopuses-released-into-adriatic-sea-to-tackle-invasive-crabs/",
+    "description": "Atlantic blue crabs have moved into the Mediterranean and Adriatic seas, where they are a problem both for ecosystems and local economies, but octopuses might offer a solution",
+    "author": "Alessio Cozzolino",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309444627.jpg"
+  },
+  {
     "title": "Exercise may create new neurons by making other brain cells contract | New Scientist",
     "url": "https://www.newscientist.com/article/2586505-exercise-may-create-new-neurons-by-making-other-brain-cells-contract/",
     "description": "Physical activity causes a type of brain cell called astrocytes to contract, which then leads to the formation of new neurons, according to a study in mice",
@@ -22,29 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309553154.jpg"
-  },
-  {
-    "title": "Glaciers in the Alps are on track for record-breaking ice loss | New Scientist",
-    "url": "https://www.newscientist.com/article/2586209-glaciers-in-the-alps-are-on-track-for-record-breaking-ice-loss/",
-    "description": "Glacier loss could break the 2022 record after a series of heatwaves this summer, raising the risk of falling river levels and deadly ice avalanches",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309541914.jpg"
-  },
-  {
-    "title": "Richard Feynman’s 80-year-old quantum postulate has now been validated | New Scientist",
-    "url": "https://www.newscientist.com/article/2586608-richard-feynmans-80-year-old-quantum-postulate-has-now-been-validated/",
-    "description": "Decades after it was posited as a foundational principle of quantum physics, Richard Feynman’s “path integral” has been directly measured in an experiment for the first time",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309575998.jpg"
-  },
-  {
-    "title": "5 graphs that show how the record-breaking El Niño will affect the world | New Scientist",
-    "url": "https://www.newscientist.com/article/2586328-5-graphs-that-show-how-the-record-breaking-el-nino-will-affect-the-world/",
-    "description": "A stronger El Niño means more extreme weather, including droughts and wildfires in some places and flooding and tropical storms in others",
-    "author": "Alec LuhnandJacklin Kwan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309544625.jpg"
   }
 ]
