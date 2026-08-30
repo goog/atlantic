@@ -1,8 +1,24 @@
 [
   {
-    "title": "The Dishonor Code",
+    "title": "Red Death",
+    "url": "https://www.theatlantic.com/culture/2026/08/poem-dorothea-lasky-red-death/688439/",
+    "description": "",
+    "author": "Dorothea Lasky",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/7ighcaDb2kdn9mDnLFoD6PSk9fE=/162x0:2592x1620/210x140/media/img/mt/2026/08/image/original.png"
+  },
+  {
+    "title": "What to Read to Wake Up Your Brain",
+    "url": "https://www.theatlantic.com/books/2026/08/what-to-read-fall-school-focus/688455/",
+    "description": "These books can ease readers into a season of work and hard thinking.",
+    "author": "Sophia Stewart",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/8F3cWWHXz8peU2yNb7rptgiuyY4=/155x0:1842x1125/210x140/media/img/mt/2026/08/six_books_to_wake_up_your_brain_emma_sarappo/original.jpg"
+  },
+  {
+    "title": "A Society of Cheats",
     "url": "https://www.theatlantic.com/ideas/2026/08/ai-use-college-cheat/688451/",
-    "description": "Students are coming to accept cheating as a way of life.",
+    "description": "Students’ use of AI is teaching them a knack for cutting corners, a disdain for community rules, and an assumption that a spirit of integrity is the reserve of suckers and wimps.",
     "author": "John Paul Rollert",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/hdTkv_haDZ209Mx9YzRaojegtq4=/243x0:1930x1125/210x140/media/img/mt/2026/08/2026_08_26_Rollert_dishonor_code_final-2/original.png"
@@ -32,23 +48,23 @@
     "image": "https://cdn.theatlantic.com/thumbor/fyLJuzs8Be21O5rs6odIV2W71L0=/241x0:1678x958/210x140/media/newsletters/2026/08/3EAFPFN/original.jpg"
   },
   {
-    "title": "My Weekend at Adult Summer Camp",
+    "title": "The Golden Girls, but in a Camp Cabin",
     "url": "https://www.theatlantic.com/health/2026/08/adult-summer-camp/688463/",
-    "description": "We swam. We painted. We talked about mortality, then we danced to Smash Mouth.",
+    "description": "My weekend at adult summer camp",
     "author": "Nancy Walecki",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/T9JW1aEiywY-lFjH1fk4Fpy6qss=/558x220:2336x1406/210x140/media/img/mt/2026/08/2026_08_26_adult_summer_camp6/original.jpg"
   },
   {
-    "title": "Will the Real Dan Sullivan Please Stand Up?",
+    "title": "Which Dan Sullivan Will These Dan Sullivans Vote For?",
     "url": "https://www.theatlantic.com/politics/2026/08/dan-sullivan-alaska-senate-midterms/688456/",
-    "description": "A U.S. Senate race has revealed just how many Alaskan men have the same name.",
+    "description": "The Alaska Senate race has become complicated by two candidates with the same name.",
     "author": "Matt Viser",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/dTr35WmhhfIimHE4qMB72KN88rk=/137x0:2567x1620/210x140/media/img/mt/2026/08/2026_08_29_DanSullivan/original.jpg"
   },
   {
-    "title": "El Niño Has Become a Doom Loop",
+    "title": "This El Niño Will Be Unlike Any in the Past Eight Decades",
     "url": "https://www.theatlantic.com/science/2026/08/el-nino-effects/688429/",
     "description": "Die-offs and floods have started already, a prelude to supercharged storms and droughts.",
     "author": "Joshua Partlow",
@@ -142,21 +158,5 @@
     "author": "Sebastian Smee",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/hZmpgsMr60VRAvCaIVjfDEgE9dE=/117x126:2759x1887/210x140/media/img/mt/2026/08/2026_08_27_yoyai_kusama_lede_936988/original.jpg"
-  },
-  {
-    "title": "What Dolly Parton Knew About Reading",
-    "url": "https://www.theatlantic.com/newsletters/2026/08/what-dolly-parton-knew-about-reading/688450/",
-    "description": "She wanted to be remembered, most of all, as the “book lady.”",
-    "author": "Emma Sarappo",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/RL1CLu0tKeew8jH69k67u3E_kwc=/225x0:2655x1620/210x140/media/img/mt/2026/08/2026_08_26_Dolly/original.jpg"
-  },
-  {
-    "title": "The AI Backlash Gets Professional",
-    "url": "https://www.theatlantic.com/technology/2026/08/irreplaceable-climate-activists-ai-backlash/688404/",
-    "description": "A new group is targeting tech companies and the government with the climate movement’s playbook.",
-    "author": "Matteo Wong",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/eAMM7TJY12ic6wQJ-1CJy9eO1Gc=/0x0:1687x1125/210x140/media/img/mt/2026/08/aiclimate/original.png"
   }
 ]
