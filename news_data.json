@@ -1,5 +1,29 @@
 [
   {
+    "title": "The first signs of dark matter particles may finally have been spotted | New Scientist",
+    "url": "https://www.newscientist.com/article/2587086-the-first-signs-of-dark-matter-particles-may-finally-have-been-spotted/",
+    "description": "Most of the matter in the universe is dark matter, but for decades physicists haven’t been able to directly observe it – that may have just changed",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310233316.jpg"
+  },
+  {
+    "title": "The UK just had its hottest summer ever | New Scientist",
+    "url": "https://www.newscientist.com/article/2587200-the-uk-just-had-its-hottest-summer-ever/",
+    "description": "The average temperature in the UK in June, July and August 2026 has eclipsed the record set in summer 2025, and the record-breaking heat was made 130 times more likely by human-caused climate change ",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310251909.jpg"
+  },
+  {
+    "title": "Mountain warming means there will be more disasters like the Nepal flood | New Scientist",
+    "url": "https://www.newscientist.com/article/2587073-mountain-warming-means-there-will-be-more-disasters-like-the-nepal-flood/",
+    "description": "Mountainous regions across the planet are warming especially fast, melting the ice that glues rocky slopes and glaciers together",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_309798787.jpg"
+  },
+  {
     "title": "Healed fang wound found on 520-million-year-old apex predator | New Scientist",
     "url": "https://www.newscientist.com/article/2586883-healed-fang-wound-found-on-520-million-year-old-apex-predator/",
     "description": "Something took a bite out of one of the biggest predators in Cambrian seas, an extraordinary fossil shows – and it could well be cannibalism",
@@ -22,29 +46,5 @@
     "author": "Leah Crane",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309765879.jpg"
-  },
-  {
-    "title": "Where and when to see 2027’s ‘solar eclipse of the century’ | New Scientist",
-    "url": "https://www.newscientist.com/article/2586640-where-and-when-to-see-2027s-solar-eclipse-of-the-century/",
-    "description": "The total solar eclipse on 2 August 2027 is due to be the longest one until the year 2114, and researchers, eclipse chasers and tourists alike are on the edge of their seats",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309648588.jpg"
-  },
-  {
-    "title": "Exclusive video of world’s first echidna puggle to be born at a university | New Scientist",
-    "url": "https://www.newscientist.com/article/2586728-a-baby-echidna-has-been-born-in-a-university-for-the-first-time/",
-    "description": "Echidnas are a difficult animal to breed in captivity, but scientists in Sydney have now managed it, which could improve our understanding of the evolution of pregnancy in mammals",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309653536.jpg"
-  },
-  {
-    "title": "Galapagos corals suggest climate change drives stronger El Niños | New Scientist",
-    "url": "https://www.newscientist.com/article/2586758-galapagos-corals-suggest-climate-change-drives-stronger-el-ninos/",
-    "description": "Coral records from the Galapagos Islands indicate El Niños have been gathering strength over the past 40 years, in line with rising global temperatures ",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309669877.jpg"
   }
 ]

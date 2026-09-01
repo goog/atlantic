@@ -1,5 +1,37 @@
 [
   {
+    "title": "Pied-à-Temper-Tantrum",
+    "url": "https://www.theatlantic.com/ideas/2026/09/zohran-mamdani-property-tax-new-york/688368/",
+    "description": "Outrage over New York City’s new tax is a tempest in a walk-in closet.",
+    "author": "Annie Lowrey",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/VIqGht2_RiUaZRO5wF8zxSquOrg=/150x0:1837x1125/210x140/media/img/mt/2026/08/2026_08_21_tax_mpg/original.png"
+  },
+  {
+    "title": "Woodstock, Lilith Fair, and Taco Bell Rolled Into One",
+    "url": "https://www.theatlantic.com/culture/2026/09/olivia-rodrigo-daisy-chain-festival-review/688477/",
+    "description": "Cutesy aesthetics met calls for revolution at Olivia Rodrigo’s new music festival.",
+    "author": "Spencer Kornhaber",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/qi_DWpB0KJ0F_u0AsrQ4tOfD96I=/155x0:1842x1125/210x140/media/img/mt/2026/08/2026_8_31_Daisy_Chain_Fields/original.jpg"
+  },
+  {
+    "title": "What Howard Zinn Got Wrong",
+    "url": "https://www.theatlantic.com/books/2026/09/what-howard-zinn-got-wrong-david-zirin-biography-book-review/688476/",
+    "description": "The historian believed that empowering the people would improve society. History hasn’t always proved him right.",
+    "author": "Heath W. Carter",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Wwjm1lXPBYoTjdirw7Dlq4m6Z6w=/265x0:3155x1927/210x140/media/img/mt/2026/08/2026_08_31_Howard_Zinn_Review/original.jpg"
+  },
+  {
+    "title": "The Growing Lawlessness in California’s Forests",
+    "url": "https://www.theatlantic.com/science/2026/09/frog-biologists-kidnapping-california-national-forest/688445/",
+    "description": "Two frog biologists were kidnapped in the woods. More bizarre situations may come.",
+    "author": "Joshua Partlow",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/y_i8W93enh-orhHrbe0mzUdH6H8=/403x0:4791x2925/210x140/media/img/mt/2026/08/2026_08_12_The_Frog_Biologists_Kidnapping/original.jpg"
+  },
+  {
     "title": "Hegseth’s Pentagon Lurches off the Rails",
     "url": "https://www.theatlantic.com/ideas/2026/08/hegseth-driscoll/688480/",
     "description": "The resignation of Army Secretary Dan Driscoll is the latest sign of severe dysfunction in the Defense Department.",
@@ -11,7 +43,7 @@
     "title": "Dan Driscoll’s Parting Shot",
     "url": "https://www.theatlantic.com/national-security/2026/08/driscoll-hegseth-military-resignation/688479/",
     "description": "The Army secretary told Trump about problems in the Army and his friction with Hegseth, then resigned.",
-    "author": "Nancy A. Youssef,Missy Ryan,andMichael Scherer",
+    "author": "Nancy A. Youssef,Missy Ryan,  andMichael Scherer",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/mzFWGzzCysxdrwJInv14JVHcT4M=/353x0:4131x2519/210x140/media/img/mt/2026/08/2026_08_31_With_Driscolls_Resignation_Its_Pete_Hegseths_Pentagon_Now/original.jpg"
   },
@@ -126,37 +158,5 @@
     "author": "Tom Bartlett",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/YOSGWl1mekjaGtI5QwdQNtGBzms=/228x0:2664x1624/210x140/media/img/mt/2026/08/2026_08_30_MeaslesPA/original.jpg"
-  },
-  {
-    "title": "Red Death",
-    "url": "https://www.theatlantic.com/culture/2026/08/poem-dorothea-lasky-red-death/688439/",
-    "description": "",
-    "author": "Dorothea Lasky",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/7ighcaDb2kdn9mDnLFoD6PSk9fE=/162x0:2592x1620/210x140/media/img/mt/2026/08/image/original.png"
-  },
-  {
-    "title": "What to Read to Wake Up Your Brain",
-    "url": "https://www.theatlantic.com/books/2026/08/what-to-read-fall-school-focus/688455/",
-    "description": "These books can ease readers into a season of work and hard thinking.",
-    "author": "Sophia Stewart",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/8F3cWWHXz8peU2yNb7rptgiuyY4=/155x0:1842x1125/210x140/media/img/mt/2026/08/six_books_to_wake_up_your_brain_emma_sarappo/original.jpg"
-  },
-  {
-    "title": "A Society of Cheats",
-    "url": "https://www.theatlantic.com/ideas/2026/08/ai-use-college-cheat/688451/",
-    "description": "Students’ use of AI is teaching them to cut corners, disdain rules, and believe that integrity is for suckers and wimps.",
-    "author": "John Paul Rollert",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/hdTkv_haDZ209Mx9YzRaojegtq4=/243x0:1930x1125/210x140/media/img/mt/2026/08/2026_08_26_Rollert_dishonor_code_final-2/original.png"
-  },
-  {
-    "title": "Why Are So Many People Listening to a Podcast About Living in a Convent?",
-    "url": "https://www.theatlantic.com/culture/2026/08/dominican-sisters-podcast/688395/",
-    "description": "Dominican Sisters Open Michas gone viral, in part because of its hosts’ unabashed joy.",
-    "author": "Luis Parrales",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/3qm5clPfSN3HAZjfWKoUWrwy1Lw=/155x0:1842x1125/210x140/media/img/mt/2026/08/2026_08_20_Paralles_Dominican_Sisters_final/original.png"
   }
 ]
