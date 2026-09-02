@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Guard That Won’t Be Changing",
+    "url": "https://www.theatlantic.com/politics/2026/09/moulton-markey-primary-massachusetts/688492/",
+    "description": "Massachusetts Democrats chose progressivism over relative youth.",
+    "author": "Russell Berman",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/avVq-lbhkl4siq6UrX9PUAm5xCU=/315x0:3690x2250/210x140/media/img/mt/2026/09/2026_09_01_Massachusetts_Senate_Primary_Russell_Berman/original.jpg"
+  },
+  {
+    "title": "The Singularity Is Not What It Seems",
+    "url": "https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/",
+    "description": "Whatever the AI future is, we’re in it right now.",
+    "author": "Matteo WongandCharlie Warzel",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/i3Pl7Z165ZR1nA15iYnsCCv9p_A=/95x0:1106x674/210x140/media/img/mt/2026/09/2026_08_28_AI_mpg/original.gif"
+  },
+  {
     "title": "Why the Flock Backlash Has Gotten So Intense",
     "url": "https://www.theatlantic.com/newsletters/2026/09/behind-sudden-anger-flock-cameras/688491/",
     "description": "The sudden anger about these cameras seems to reflect more than just wariness about the surveillance system.",
@@ -142,21 +158,5 @@
     "author": "Gal Beckerman",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/pIOgPH-YWfKNmM98Im8j10Yp7y4=/155x0:1842x1125/210x140/media/img/mt/2026/08/2026_08_26_fiction_mpg/original.jpg"
-  },
-  {
-    "title": "The Fight Between Texas and Minnesota Should Never Have Gotten This Far",
-    "url": "https://www.theatlantic.com/ideas/2026/08/castro-ice-abbott-minnesota/688465/",
-    "description": "A legal battle over one ICE agent’s future is a sign of serious strain between red and blue America.",
-    "author": "Quinta Jurecic",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/g5ns9gLCD1ZPfJL-LTew27aRi58=/227x0:2657x1620/210x140/media/img/mt/2026/08/2026_08_30_ICE_Extradition/original.jpg"
-  },
-  {
-    "title": "What Happened to Yoga?",
-    "url": "https://www.theatlantic.com/culture/2026/08/yoga-america-culture-decline/688461/",
-    "description": "It used to be the peak symbol of wellness. Now many studios can barely stay open.",
-    "author": "Rheana Murray",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/ydkURYjjbXvcnSnCFcB-i8F85ys=/155x0:1842x1125/210x140/media/img/mt/2026/08/2026_08_28_Murray_American_Yoga_final-2/original.png"
   }
 ]
