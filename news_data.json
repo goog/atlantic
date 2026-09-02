@@ -1,5 +1,21 @@
 [
   {
+    "title": "Saturn has a big, weird decagon around its south pole | New Scientist",
+    "url": "https://www.newscientist.com/article/2587345-saturn-has-a-big-weird-decagon-around-its-south-pole/",
+    "description": "A decagon – a geometric polygon with 10 sides and 10 angles – has been found on Saturn, and nobody is quite sure how it got there",
+    "author": "Jonathan O’Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310348374.jpg"
+  },
+  {
+    "title": "Venus may have had a moon for nearly 2 billion years | New Scientist",
+    "url": "https://www.newscientist.com/article/2587329-venus-may-have-had-a-moon-for-nearly-2-billion-years/",
+    "description": "A moon may once have been consumed by Venus, after existing alongside the planet for up to 1.7 billion years",
+    "author": "Jonathan O’Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310351470.jpg"
+  },
+  {
     "title": "A nuclear reactor is being installed a mile underground in Kansas | New Scientist",
     "url": "https://www.newscientist.com/article/2587049-a-nuclear-reactor-is-being-installed-a-mile-underground-in-kansas/",
     "description": "Deep Fission has just received safety approval from the US Department of Energy for a reactor design that it plans to install at the bottom of a deep hole",
@@ -30,21 +46,5 @@
     "author": "Leah Crane",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310233316.jpg"
-  },
-  {
-    "title": "The UK just had its hottest summer ever | New Scientist",
-    "url": "https://www.newscientist.com/article/2587200-the-uk-just-had-its-hottest-summer-ever/",
-    "description": "The average temperature in the UK in June, July and August 2026 has eclipsed the record set in summer 2025, and the record-breaking heat was made 130 times more likely by human-caused climate change ",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310251909.jpg"
-  },
-  {
-    "title": "Mountain warming means there will be more disasters like the Nepal flood | New Scientist",
-    "url": "https://www.newscientist.com/article/2587073-mountain-warming-means-there-will-be-more-disasters-like-the-nepal-flood/",
-    "description": "Mountainous regions across the planet are warming especially fast, melting the ice that glues rocky slopes and glaciers together",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_309798787.jpg"
   }
 ]
