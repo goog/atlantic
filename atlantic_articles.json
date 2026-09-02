@@ -1,5 +1,13 @@
 [
   {
+    "title": "The Met’s Other Failure",
+    "url": "https://www.theatlantic.com/culture/2026/09/met-gala-museum-john-galliano-canceled/688501/",
+    "description": "The museum’s John Galliano exhibition had problems beyond his past transgressions.",
+    "author": "Kimberly Chrisman-Campbell",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/7wF4Ltm6QhqJd0xB9s0ALlq0yDE=/246x0:2879x1755/210x140/media/img/mt/2026/09/2026_09_02_The_Met_Galliano/original.jpg"
+  },
+  {
     "title": "The MAGA Right Is Only Pretending to Be Censored",
     "url": "https://www.theatlantic.com/ideas/2026/09/censorship-industrial-complex-conspiracy/688490/",
     "description": "The conspiracy theory that persists even though no evidence supports it",
@@ -10,7 +18,7 @@
   {
     "title": "How Trump Lost Asia",
     "url": "https://www.theatlantic.com/podcasts/2026/09/david-frum-show-malcolm-turnbull-australia-pacific-china/688500/",
-    "description": "Former Australian Prime Minister Malcolm Turnbull on how Donald Trump is abandoning America’s historic allies and abandoning the Pacific to China. Plus: What could happen to Trump’s ill-gotten wealth,",
+    "description": "Former Australian Prime Minister Malcolm Turnbull on how Donald Trump is abandoning America’s historic allies and abandoning the Pacific to China.",
     "author": "David Frum",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/3-fyZ5h3dEcydhYNqDBYG1q10vo=/151x0:1771x1080/210x140/media/img/mt/2026/09/2026_6_23_Vivian_Salama_The_David_Frum_Podcast_3/original.jpg"
@@ -150,13 +158,5 @@
     "author": "Tom Nichols",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/6x-UeO-oEG-16iXSn8-YSVAkqGU=/0x0:5063x3375/210x140/media/img/mt/2026/08/2026_08_31_Hegseths_Mess/original.jpg"
-  },
-  {
-    "title": "Dan Driscoll’s Parting Shot",
-    "url": "https://www.theatlantic.com/national-security/2026/08/driscoll-hegseth-military-resignation/688479/",
-    "description": "The Army secretary told Trump about problems in the Army and his friction with Hegseth, then resigned.",
-    "author": "Nancy A. Youssef,Missy Ryan,andMichael Scherer",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/mzFWGzzCysxdrwJInv14JVHcT4M=/353x0:4131x2519/210x140/media/img/mt/2026/08/2026_08_31_With_Driscolls_Resignation_Its_Pete_Hegseths_Pentagon_Now/original.jpg"
   }
 ]
