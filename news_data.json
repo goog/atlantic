@@ -1,5 +1,13 @@
 [
   {
+    "title": "Can we really reverse global warming after overshooting 1.5°C? | New Scientist",
+    "url": "https://www.newscientist.com/article/2587239-can-we-really-reverse-global-warming-after-overshooting-1-5c/",
+    "description": "A UN report says it’s possible to get global temperatures back down to 1.5°C above pre-industrial levels by the end of the century, but many researchers regard this scenario as highly unlikely",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310266094.jpg"
+  },
+  {
     "title": "The first signs of dark matter particles may finally have been spotted | New Scientist",
     "url": "https://www.newscientist.com/article/2587086-the-first-signs-of-dark-matter-particles-may-finally-have-been-spotted/",
     "description": "Most of the matter in the universe is dark matter, but for decades physicists haven’t been able to directly observe it – that may have just changed",
@@ -38,13 +46,5 @@
     "author": "Leah Crane",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309673819.jpg"
-  },
-  {
-    "title": "Fastest star ever spotted at the centre of our galaxy | New Scientist",
-    "url": "https://www.newscientist.com/article/2586889-fastest-star-ever-spotted-at-the-centre-of-our-galaxy/",
-    "description": "A newfound star called S301 is both the fastest ever seen and the closest to a supermassive black hole –and it could make bafflingly difficult tests of gravity possible at last",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309765879.jpg"
   }
 ]
