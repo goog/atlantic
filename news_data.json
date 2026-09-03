@@ -1,5 +1,13 @@
 [
   {
+    "title": "Pig kidney kept a man off dialysis for nine months in world first | New Scientist",
+    "url": "https://www.newscientist.com/article/2587510-pig-kidney-kept-a-man-off-dialysis-for-nine-months-in-world-first/",
+    "description": "A pig kidney transplant worked for a record nine months. This enabled the recipient to stay off dialysis for longer while waiting for a suitable human donor's kidney to become available",
+    "author": "Chris Simms",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310534034.jpg"
+  },
+  {
     "title": "Psilocybin could prevent common and debilitating chemotherapy side effect | New Scientist",
     "url": "https://www.newscientist.com/article/2587451-psilocybin-prevents-common-and-debilitating-chemotherapy-side-effect/",
     "description": "Many people who have chemotherapy develop numbness, tingling and pain in their hands and feet, which can disrupt their treatment. But research suggests that psilocybin, the psychedelic in magic mushrooms, could prevent this side effect",
@@ -38,13 +46,5 @@
     "author": "Jonathan O’Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310348374.jpg"
-  },
-  {
-    "title": "Venus may have had a moon for nearly 2 billion years | New Scientist",
-    "url": "https://www.newscientist.com/article/2587329-venus-may-have-had-a-moon-for-nearly-2-billion-years/",
-    "description": "A moon may once have been consumed by Venus, after existing alongside the planet for up to 1.7 billion years",
-    "author": "Jonathan O’Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310351470.jpg"
   }
 ]
