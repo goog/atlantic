@@ -1,5 +1,29 @@
 [
   {
+    "title": "Psilocybin could prevent common and debilitating chemotherapy side effect | New Scientist",
+    "url": "https://www.newscientist.com/article/2587451-psilocybin-prevents-common-and-debilitating-chemotherapy-side-effect/",
+    "description": "Many people who have chemotherapy develop numbness, tingling and pain in their hands and feet, which can disrupt their treatment. But research suggests that psilocybin, the psychedelic in magic mushrooms, could prevent this side effect",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310395142.jpg"
+  },
+  {
+    "title": "Rapid climate change brings wildfire threat to new corners of Europe | New Scientist",
+    "url": "https://www.newscientist.com/article/2587499-rapid-climate-change-brings-wildfire-threat-to-new-corners-of-europe/",
+    "description": "Scorching conditions this year have triggered wildfires in European countries that are normally considered to be damp and cool",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310528974.jpg"
+  },
+  {
+    "title": "Pygmy raccoons teach each other to make toys out of paper and sand | New Scientist",
+    "url": "https://www.newscientist.com/article/2587479-pygmy-raccoons-teach-each-other-to-make-toys-out-of-paper-and-sand/",
+    "description": "Critically endangered pygmy raccoons on Cozumel Island in Mexico have shown remarkable creativity by making balls out of rubbish at beach clubs",
+    "author": "Matt von Hippel",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310252570.jpg"
+  },
+  {
     "title": "'Not-quite primordial' black holes may explain baffling JWST discovery | New Scientist",
     "url": "https://www.newscientist.com/article/2587559-not-quite-primordial-black-holes-may-explain-baffling-jwst-discovery/",
     "description": "The James Webb Space Telescope seems to have discovered more ancient black holes than theory had predicted, and now we have a new way to explain why",
@@ -22,29 +46,5 @@
     "author": "Jonathan O’Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310351470.jpg"
-  },
-  {
-    "title": "A nuclear reactor is being installed a mile underground in Kansas | New Scientist",
-    "url": "https://www.newscientist.com/article/2587049-a-nuclear-reactor-is-being-installed-a-mile-underground-in-kansas/",
-    "description": "Deep Fission has just received safety approval from the US Department of Energy for a reactor design that it plans to install at the bottom of a deep hole",
-    "author": "Vanessa Bates Ramirez",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309653598.jpg"
-  },
-  {
-    "title": "Groundbreaking laser of ghostly particles may be impossible to build | New Scientist",
-    "url": "https://www.newscientist.com/article/2587066-ground-breaking-laser-of-ghostly-particles-may-be-impossible-to-build/",
-    "description": "A year ago, researchers made a splash with a wildly creative idea for building a laser from notoriously elusive particles, but a new analysis shows this is probably impossible",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309786881.jpg"
-  },
-  {
-    "title": "Can we really reverse global warming after overshooting 1.5°C? | New Scientist",
-    "url": "https://www.newscientist.com/article/2587239-can-we-really-reverse-global-warming-after-overshooting-1-5c/",
-    "description": "A UN report says it’s possible to get global temperatures back down to 1.5°C above pre-industrial levels by the end of the century, but many researchers regard this scenario as highly unlikely",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310266094.jpg"
   }
 ]
