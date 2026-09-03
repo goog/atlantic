@@ -1,5 +1,13 @@
 [
   {
+    "title": "'Not-quite primordial' black holes may explain baffling JWST discovery | New Scientist",
+    "url": "https://www.newscientist.com/article/2587559-not-quite-primordial-black-holes-may-explain-baffling-jwst-discovery/",
+    "description": "The James Webb Space Telescope seems to have discovered more ancient black holes than theory had predicted, and now we have a new way to explain why",
+    "author": "Matt von Hippel",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310514425.jpg"
+  },
+  {
     "title": "Saturn has a big, weird decagon around its south pole | New Scientist",
     "url": "https://www.newscientist.com/article/2587345-saturn-has-a-big-weird-decagon-around-its-south-pole/",
     "description": "A decagon – a geometric polygon with 10 sides and 10 angles – has been found on Saturn, and nobody is quite sure how it got there",
@@ -38,13 +46,5 @@
     "author": "Michael Le Page",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310266094.jpg"
-  },
-  {
-    "title": "The first signs of dark matter particles may finally have been spotted | New Scientist",
-    "url": "https://www.newscientist.com/article/2587086-the-first-signs-of-dark-matter-particles-may-finally-have-been-spotted/",
-    "description": "Most of the matter in the universe is dark matter, but for decades physicists haven’t been able to directly observe it – that may have just changed",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310233316.jpg"
   }
 ]
