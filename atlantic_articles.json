@@ -1,8 +1,32 @@
 [
   {
-    "title": "The Problem With Putting Sexual Deception on Trial",
+    "title": "The Failed Promise of Computers",
+    "url": "https://www.theatlantic.com/newsletters/2026/09/early-computers-1984-apple/688515/",
+    "description": "The technology was once seen as countercultural. What happened?",
+    "author": "Jake Lundberg",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/YY-rxo6dqS-xG2ns-QiuFh1Um6s=/156x0:1843x1125/210x140/media/newsletters/2026/09/2026_09_02_Time_Travel_mpg/original.jpg"
+  },
+  {
+    "title": "The Hasan Piker Question",
+    "url": "https://www.theatlantic.com/politics/2026/09/hasan-piker-midterms-democrats-michigan/688504/",
+    "description": "Many Democrats would like him to go away.",
+    "author": "Elaine Godfrey",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Aubsrr3WH5vu7tZT_dz3LNqQKjE=/227x0:2657x1620/210x140/media/img/mt/2026/09/2026_08_31_Hasan_Piker_has_become_a_litmus_test_for_Democrats_/original.jpg"
+  },
+  {
+    "title": "An Alien Scholar’s Notes on Trump’s Washington",
+    "url": "https://www.theatlantic.com/newsletters/2026/09/an-alien-scholars-notes-on-trumps-washington/688511/",
+    "description": "Why did he hate one pool so much?",
+    "author": "Alexandra Petri",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/xrCrVWPG64m0lsOdNPXJsLE5Flo=/312x0:1999x1125/210x140/media/img/mt/2026/09/2026_9_2_Post_Trump_Wasteland/original.jpg"
+  },
+  {
+    "title": "The Sexual Politics of the ‘Bed Trick’",
     "url": "https://www.theatlantic.com/books/2026/09/sexual-deception-trial-the-bed-trick-izabella-scott-book-review/688510/",
-    "description": "A new book about a “bed trick” case asks how the stories we tell can define our relationships.",
+    "description": "A new book about an infamous trial asks how the stories we tell can define our relationships.",
     "author": "Sarah Weinman",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/qIyxvb-F0MIF8CWUE8aPamUkNnU=/227x0:2657x1620/210x140/media/img/mt/2026/09/2026_09_02_How_Do_You_Litigate_Sexual_Deception/original.jpg"
@@ -134,29 +158,5 @@
     "author": "Shane Harris",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/EyChVKHQw1hLj3IBlxINzS0GYGE=/227x0:2657x1620/210x140/media/img/mt/2026/09/2026_09_01_Swalwell-1/original.jpg"
-  },
-  {
-    "title": "Inside a Conservative Operation to Hijack Your Social-Media Feed",
-    "url": "https://www.theatlantic.com/politics/2026/09/conservative-hijack-social-media/688447/",
-    "description": "A service run from Latvia offers payment for short, social-media-friendly clips designed to look like grassroots GOP support.",
-    "author": "Ali Breland",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/gYZR4giRoPG4VK4SIVxZJ8O3-UU=/155x0:1842x1125/210x140/media/img/mt/2026/09/clippersStill/original.png"
-  },
-  {
-    "title": "The Guard That Won’t Be Changing",
-    "url": "https://www.theatlantic.com/politics/2026/09/moulton-markey-primary-massachusetts/688492/",
-    "description": "Massachusetts Democrats chose progressivism over relative youth.",
-    "author": "Russell Berman",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/avVq-lbhkl4siq6UrX9PUAm5xCU=/315x0:3690x2250/210x140/media/img/mt/2026/09/2026_09_01_Massachusetts_Senate_Primary_Russell_Berman/original.jpg"
-  },
-  {
-    "title": "The Singularity Is Not What It Seems",
-    "url": "https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/",
-    "description": "Whatever the AI future is, we’re in it right now.",
-    "author": "Matteo WongandCharlie Warzel",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/i3Pl7Z165ZR1nA15iYnsCCv9p_A=/95x0:1106x674/210x140/media/img/mt/2026/09/2026_08_28_AI_mpg/original.gif"
   }
 ]
