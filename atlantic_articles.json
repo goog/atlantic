@@ -1,8 +1,24 @@
 [
   {
+    "title": "‘Everything We Do Matters’",
+    "url": "https://www.theatlantic.com/ideas/2026/09/everything-we-do-matters/688514/",
+    "description": "Gloria Steinem on what older people can teach America",
+    "author": "Gloria Steinem",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/cDPQxryPa3TkbH9-3AsM1zHRbiI=/199x0:4528x2886/210x140/media/img/mt/2026/09/Gloria_Steinem416_1/original.jpg"
+  },
+  {
+    "title": "Am I Talking to You, or ChatGPT?",
+    "url": "https://www.theatlantic.com/technology/2026/09/chatgpt-imessage-ai-texting/688507/",
+    "description": "The “Dead Internet” theory is back.",
+    "author": "Kaitlyn Tiffany",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/lKrnuCSTfSkhHYhkccObUoQN4os=/227x0:2657x1620/210x140/media/img/mt/2026/09/2026_08_31_AI_texting_panic_2/original.gif"
+  },
+  {
     "title": "Trump’s Antitrust Gambit May Backfire",
     "url": "https://www.theatlantic.com/ideas/2026/09/live-nation-trump-antitrust-monopolies/688508/",
-    "description": "What the Live Nation Case Says About the Fate of Monopolies Now.",
+    "description": "What the Live Nation case says about the fate of monopolies now",
     "author": "James Surowiecki",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/gU5Z7VxXPcMLbLa412RalgsaG_8=/0x0:1687x1125/210x140/media/img/mt/2026/09/2026_08_28_doj_trump_mpg/original.jpg"
@@ -142,21 +158,5 @@
     "author": "Alan Taylor",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/S9gDwFbnF9Nj_hRHQvknrZD6fbw=/1x4:3497x2335/210x140/media/img/mt/2026/09/a01_Bisson/original.jpg"
-  },
-  {
-    "title": "The Court’s Ballroom Decision Is a Sign of Deeper Problems",
-    "url": "https://www.theatlantic.com/ideas/2026/09/scotus-separation-powers-ballroom-trump/688499/",
-    "description": "The conservative justices have separation of powers exactly backwards.",
-    "author": "Leah Litman",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/KHuucPNb6JR95nGZMBKuZ2_IZn4=/192x0:2691x1666/210x140/media/img/mt/2026/09/2026_09_01_scotus_ballroom_trump_2/original.jpg"
-  },
-  {
-    "title": "The White House Wants to Make the Smithsonian a Pariah",
-    "url": "https://www.theatlantic.com/culture/2026/09/smithsonian-interior-letter/688498/",
-    "description": "A renewed threat underscores the museum complex’s isolation—and the limits of Trump’s pressure campaign.",
-    "author": "Kelsey Ables",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/hpwhohvyd809FqcbqeyA5usDM98=/409x0:4860x2967/210x140/media/img/mt/2026/09/Gutman_TheAtlantic_SmithsonianMuseums_25/original.jpg"
   }
 ]

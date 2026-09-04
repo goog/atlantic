@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nations and big tech to train AI using ‘gold dust’ data from Ukraine | New Scientist",
+    "url": "https://www.newscientist.com/article/2587197-nations-and-big-tech-using-gold-dust-data-from-ukraine-to-train-ai/",
+    "description": "Foreign states and technology firms are scrambling for data from the Ukraine war so they can train the next-generation of AI models that might be used in defence and national security",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310541908.jpg"
+  },
+  {
     "title": "Pig kidney kept a man off dialysis for nine months in world first | New Scientist",
     "url": "https://www.newscientist.com/article/2587510-pig-kidney-kept-a-man-off-dialysis-for-nine-months-in-world-first/",
     "description": "A pig kidney transplant worked for a record nine months. This enabled the recipient to stay off dialysis for longer while waiting for a suitable human donor's kidney to become available",
@@ -38,13 +46,5 @@
     "author": "Matt von Hippel",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310514425.jpg"
-  },
-  {
-    "title": "Saturn has a big, weird decagon around its south pole | New Scientist",
-    "url": "https://www.newscientist.com/article/2587345-saturn-has-a-big-weird-decagon-around-its-south-pole/",
-    "description": "A decagon – a geometric polygon with 10 sides and 10 angles – has been found on Saturn, and nobody is quite sure how it got there",
-    "author": "Jonathan O’Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310348374.jpg"
   }
 ]
