@@ -1,5 +1,13 @@
 [
   {
+    "title": "How worried should we be about the invasive mosquitoes in the UK? | New Scientist",
+    "url": "https://www.newscientist.com/article/2587789-how-worried-should-we-be-about-the-invasive-mosquitoes-in-the-uk/",
+    "description": "Invasive mosquitoes that can carry viruses like dengue, chikungunya and Zika have been found breeding in east London",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310691631.jpg"
+  },
+  {
     "title": "Super El Niño could have unexpected effect on UK winter | New Scientist",
     "url": "https://www.newscientist.com/article/2587719-super-el-nino-could-have-unexpected-effect-on-uk-winter/",
     "description": "An El Niño is usually expected to herald a cold end to winter in the UK – but this year could be different ",
@@ -38,13 +46,5 @@
     "author": "Carissa Wong",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310395142.jpg"
-  },
-  {
-    "title": "Rapid climate change brings wildfire threat to new corners of Europe | New Scientist",
-    "url": "https://www.newscientist.com/article/2587499-rapid-climate-change-brings-wildfire-threat-to-new-corners-of-europe/",
-    "description": "Scorching conditions this year have triggered wildfires in European countries that are normally considered to be damp and cool",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310528974.jpg"
   }
 ]

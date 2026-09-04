@@ -1,5 +1,37 @@
 [
   {
+    "title": "OpenAI Wants to Talk AboutThe Federalist Papers",
+    "url": "https://www.theatlantic.com/technology/2026/09/openai-constitution-dean-ball/688524/",
+    "description": "The AI giant is worried about what all-powerful bots could mean for our constitutional rights.",
+    "author": "Matteo Wong",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/ogJDc8M85j_brYTaxr0IJIXcp3I=/155x0:1842x1125/210x140/media/img/mt/2026/09/2026_09_01_open_ai_founding_fathers_QA_final/original.jpg"
+  },
+  {
+    "title": "Why So Many Men Are Unraveling",
+    "url": "https://www.theatlantic.com/podcasts/2026/09/why-so-many-men-are-unraveling/688520/",
+    "description": "The disinhibited men looking for purpose in all the wrong places",
+    "author": "Charlie Warzel",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/tAiHLI9dOGe_ajBpRlJDY25ad-w=/155x0:1842x1125/210x140/media/img/mt/2026/09/2026_9_4_GB_Jon_Ronson/original.png"
+  },
+  {
+    "title": "A Movie Can’t Be Just Its Own Thing Anymore",
+    "url": "https://www.theatlantic.com/culture/2026/09/onslaught-movie-review-a24-adam-wingard/688521/",
+    "description": "Onslaughtis a victim of Hollywood’s obsession with turning everything into a franchise.",
+    "author": "David Sims",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/9eO-eHZi8EWfC4_J_reglxi7hQY=/133x0:1399x844/210x140/media/img/mt/2026/09/2026_09_04_Onslaught_Review_TK/original.jpg"
+  },
+  {
+    "title": "Introducing:The Permanent Questions With David Brooks",
+    "url": "https://www.theatlantic.com/podcasts/2026/09/introducing-the-permanent-questions/688438/",
+    "description": "Conversations from the deep end",
+    "author": "David Brooks",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/_ImxT06QsS2Q7RQHAMW3eKdBX30=/49x18:1152x753/210x140/media/img/mt/2026/09/Ollie_Art_launch/original.png"
+  },
+  {
     "title": "Photos of the Week: Nomad Games, Pushkin Puppet, Lunar Simulation",
     "url": "https://www.theatlantic.com/photography/2026/09/photos-of-the-week-nomad-games-pushkin-puppet-lunar-simulation/688512/",
     "description": "A 90-year-old bodybuilding champion in Japan, a memorial for King Harald V of Norway, a kite festival in Indonesia, a marching-band performance in Atlanta, and much more.",
@@ -29,7 +61,7 @@
     "description": "Gloria Steinem on what older people can teach America",
     "author": "Gloria Steinem",
     "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/cDPQxryPa3TkbH9-3AsM1zHRbiI=/199x0:4528x2886/210x140/media/img/mt/2026/09/Gloria_Steinem416_1/original.jpg"
+    "image": "https://cdn.theatlantic.com/thumbor/mYOMwMznzx8bj2oUyC0JeMTkoK8=/312x0:3684x2248/210x140/media/img/mt/2026/09/2026_08_04_Excerpt_What_We_Learn_from_Hard_Beginnings_Gloria_Steinem_Final_sub/original.jpg"
   },
   {
     "title": "The Dead-Internet Theory Is Back",
@@ -126,37 +158,5 @@
     "author": "Eric Schlosser",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/f3E9nwEQoxP72gOEFrhUDdyuM-k=/1644x504:4740x2568/210x140/media/img/mt/2026/09/2026_09_02_Back_To_The_Jungle-1/original.jpg"
-  },
-  {
-    "title": "Creating the Perfect Female Monster",
-    "url": "https://www.theatlantic.com/podcasts/2026/09/furious-perfect-female-monster/688485/",
-    "description": "Furioustakes revenge on a fictional Jeffrey Epstein.",
-    "author": "Hanna Rosin",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/yZgUCXC8EdmVxp6QkVHHO75EyNs=/0x0:3375x2250/210x140/media/img/mt/2026/09/2026_09_02_RA_Furious_Horizontal/original.jpg"
-  },
-  {
-    "title": "How ‘Somatics’ Became the Solution to Modern Life",
-    "url": "https://www.theatlantic.com/culture/2026/09/somatic-trend-classes/688210/",
-    "description": "The word isn’t new—but lately, it’s everywhere.",
-    "author": "Faith Hill",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/k2w9JYGoElrexJWLhe3cmk8qWX8=/227x0:2657x1620/210x140/media/img/mt/2026/08/2026_06_18_Somatic/original.jpg"
-  },
-  {
-    "title": "An Inflection Point for Prediction Markets",
-    "url": "https://www.theatlantic.com/newsletters/2026/09/kalshi-polymarket-insider-trading-santos/688505/",
-    "description": "The crackdown on insider trading has exposed the platforms’ fundamental contradictions.",
-    "author": "Will Gottsegen",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/P4O9y5ihLhsQXOfswreOHC0L8Ak=/477x0:5629x3435/210x140/media/newsletters/2026/09/2026_09_02_prediction_markets/original.jpg"
-  },
-  {
-    "title": "The Met’s Other Failure",
-    "url": "https://www.theatlantic.com/culture/2026/09/met-gala-museum-john-galliano-canceled/688501/",
-    "description": "The museum’s John Galliano exhibition had problems beyond the designer’s past transgressions.",
-    "author": "Kimberly Chrisman-Campbell",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/7wF4Ltm6QhqJd0xB9s0ALlq0yDE=/246x0:2879x1755/210x140/media/img/mt/2026/09/2026_09_02_The_Met_Galliano/original.jpg"
   }
 ]
