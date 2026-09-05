@@ -1,5 +1,13 @@
 [
   {
+    "title": "Fermat's last theorem formalised by AI agents in just 11 days | New Scientist",
+    "url": "https://www.newscientist.com/article/2587839-fermats-last-theorem-formalised-by-ai-agents-in-just-11-days/",
+    "description": "Converting the proof of Fermat's last theorem into code that computers can check was expected to take years. Anthropic's Claude AI managed it in less than two weeks",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/2N9GXNJ1.jpg"
+  },
+  {
     "title": "How worried should we be about the invasive mosquitoes in the UK? | New Scientist",
     "url": "https://www.newscientist.com/article/2587789-how-worried-should-we-be-about-the-invasive-mosquitoes-in-the-uk/",
     "description": "Invasive mosquitoes that can carry viruses like dengue, chikungunya and Zika have been found breeding in east London",
@@ -38,13 +46,5 @@
     "author": "Chris Simms",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310534034.jpg"
-  },
-  {
-    "title": "Psilocybin could prevent common and debilitating chemotherapy side effect | New Scientist",
-    "url": "https://www.newscientist.com/article/2587451-psilocybin-prevents-common-and-debilitating-chemotherapy-side-effect/",
-    "description": "Many people who have chemotherapy develop numbness, tingling and pain in their hands and feet, which can disrupt their treatment. But research suggests that psilocybin, the psychedelic in magic mushrooms, could prevent this side effect",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310395142.jpg"
   }
 ]
