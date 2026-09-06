@@ -1,5 +1,45 @@
 [
   {
+    "title": "This Tiny E-Reader Is the Single Best Piece of Technology in Years",
+    "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+    "description": "The $70 Xteink X3 puts Silicon Valley to shame.",
+    "author": "Saahil Desai",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/oETtOrTChJ2orGIQjPJiwXf_wL4=/155x0:1842x1125/210x140/media/img/mt/2026/09/2026_9_4_3_inch_e_reader/original.gif"
+  },
+  {
+    "title": "What’s the Matter With Moderation?",
+    "url": "https://www.theatlantic.com/ideas/2026/09/adam-hamilton-kansas-senate-race/688531/",
+    "description": "Hoping to break a 94-year losing streak, Kansas Democrats have turned to Adam Hamilton, a Methodist pastor whose mood may not match his party’s.",
+    "author": "David Von Drehle",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/km8_k-RXyrg-h0Umpe6ugxjzZlE=/227x0:2657x1620/210x140/media/img/mt/2026/09/2026_08_09_AdamHamilton/original.jpg"
+  },
+  {
+    "title": "Six Movies to Get You in the Fall Mood",
+    "url": "https://www.theatlantic.com/newsletters/2026/09/six-movies-to-get-you-in-fall-mood/688527/",
+    "description": "From cozy classics to unlikely favorites,The Atlantic’s writers and editors share their seasonal picks.",
+    "author": "Rafaela Jinich",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/e8fSOq-OEvCOFXgoFXm3TpdbBjg=/451x0:4171x2480/210x140/media/img/mt/2026/09/3D5TH1C/original.jpg"
+  },
+  {
+    "title": "AI Is Already Making Us Less Human",
+    "url": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
+    "description": "As we learn to think more and more highly of the bots, we will learn to think less and less highly of our fellow humans.",
+    "author": "David Brooks",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/WDqzb95_ODWWkU-I_AzMLEwYp30=/158x0:1845x1125/210x140/media/img/mt/2026/09/AnthropomorphismNew/original.png"
+  },
+  {
+    "title": "Japan’s Strategic Turn",
+    "url": "https://www.theatlantic.com/ideas/2026/09/japan-defense-nuclear-threat/688517/",
+    "description": "The country is taking once-unthinkable steps to ensure its own defense.",
+    "author": "Eliot A. Cohen",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/y4eafp50lz5wMEFx2w-buh0ea94=/0x0:3375x2250/210x140/media/img/mt/2026/09/2026_09_04_Japans_Strategic_Turn_Eliot_Cohen/original.jpg"
+  },
+  {
     "title": "The Backlash Against Data Centers",
     "url": "https://www.theatlantic.com/national/2026/09/backlash-ai-washington-week/688540/",
     "description": "TheAtlanticstaff writer Josh Tyrangiel joined for a special edition ofWashington Week With The Atlanticto discuss the future of AI.",
@@ -118,45 +158,5 @@
     "author": "Alan Taylor",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/YUOEUmbSs_zyoShSrUujaZTPk6I=/0x0:2000x1333/210x140/media/img/mt/2026/09/a01_G_2291919705/original.jpg"
-  },
-  {
-    "title": "The Dark Side of Mindfulness",
-    "url": "https://www.theatlantic.com/ideas/2026/09/meditation-willoughby-britton-downsides/688474/",
-    "description": "A prominent psychologist and meditation teacher set out to research the benefits of the practice. What she found alarmed her.",
-    "author": "Olga Khazan",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/6dqIH0Y71qTazOvR4QhvFpj9Y-4=/271x0:3224x1969/210x140/media/img/mt/2026/08/2026_07_09_what_if_meditation_was_bad_h/original.jpg"
-  },
-  {
-    "title": "The Missing Ingredient of Modern Life",
-    "url": "https://www.theatlantic.com/magazine/2026/10/modern-life-maxxing-antidote/688344/",
-    "description": "",
-    "author": "Ian Bogost",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/QyzIJ8MvzU9Zvh5BDNpJ0E1W1Bo=/155x0:1842x1125/210x140/media/img/2026/09/1026_DIS_Bogost_Wonder/original.jpg"
-  },
-  {
-    "title": "‘Everything We Do Matters’",
-    "url": "https://www.theatlantic.com/ideas/2026/09/everything-we-do-matters/688514/",
-    "description": "Gloria Steinem on what older people can teach America",
-    "author": "Gloria Steinem",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/mYOMwMznzx8bj2oUyC0JeMTkoK8=/312x0:3684x2248/210x140/media/img/mt/2026/09/2026_08_04_Excerpt_What_We_Learn_from_Hard_Beginnings_Gloria_Steinem_Final_sub/original.jpg"
-  },
-  {
-    "title": "The Dead-Internet Theory Is Back",
-    "url": "https://www.theatlantic.com/technology/2026/09/chatgpt-imessage-ai-texting/688507/",
-    "description": "Am I talking to you, or ChatGPT?",
-    "author": "Kaitlyn Tiffany",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/lKrnuCSTfSkhHYhkccObUoQN4os=/227x0:2657x1620/210x140/media/img/mt/2026/09/2026_08_31_AI_texting_panic_2/original.gif"
-  },
-  {
-    "title": "Trump’s Antitrust Gambit May Backfire",
-    "url": "https://www.theatlantic.com/ideas/2026/09/live-nation-trump-antitrust-monopolies/688508/",
-    "description": "What the Live Nation case says about the fate of monopolies now",
-    "author": "James Surowiecki",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/gU5Z7VxXPcMLbLa412RalgsaG_8=/0x0:1687x1125/210x140/media/img/mt/2026/09/2026_08_28_doj_trump_mpg/original.jpg"
   }
 ]
