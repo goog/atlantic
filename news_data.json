@@ -1,5 +1,13 @@
 [
   {
+    "title": "Super El Niño set to cause 'terribly dangerous' drought in the Amazon | New Scientist",
+    "url": "https://www.newscientist.com/article/2587998-super-el-nino-set-to-cause-terribly-dangerous-amazon-drought/",
+    "description": "The El Niño phase now under way will be the most damaging on record for the Amazon, scientists warn, raising the risk of catastrophic wildfires ",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311208563.jpg"
+  },
+  {
     "title": "Laughter therapy may help people with chronic lung disease | New Scientist",
     "url": "https://www.newscientist.com/article/2587748-laughter-therapy-may-help-people-with-chronic-lung-disease/",
     "description": "An eight-week course of self-administered laughter therapy helped a small number of people with chronic obstructive pulmonary disease breathe more easily",
@@ -38,13 +46,5 @@
     "author": "Emma Young",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310551185.jpg"
-  },
-  {
-    "title": "Nations and big tech to train AI using ‘gold dust’ data from Ukraine | New Scientist",
-    "url": "https://www.newscientist.com/article/2587197-nations-and-big-tech-using-gold-dust-data-from-ukraine-to-train-ai/",
-    "description": "Foreign states and technology firms are scrambling for data from the Ukraine war so they can train the next-generation of AI models that might be used in defence and national security",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310541908.jpg"
   }
 ]
