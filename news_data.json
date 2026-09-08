@@ -1,5 +1,13 @@
 [
   {
+    "title": "Major breakthrough made on famous Millennium maths problem | New Scientist",
+    "url": "https://www.newscientist.com/article/2588115-major-breakthrough-made-on-famous-millennium-maths-problem/",
+    "description": "Three key findings produced in collaboration between humans and AI bring us closer to a solution to the infamous Navier-Stokes puzzle",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311299849.jpg"
+  },
+  {
     "title": "Super El Niño set to cause 'terribly dangerous' drought in the Amazon | New Scientist",
     "url": "https://www.newscientist.com/article/2587998-super-el-nino-set-to-cause-terribly-dangerous-amazon-drought/",
     "description": "The El Niño phase now under way will be the most damaging on record for the Amazon, scientists warn, raising the risk of catastrophic wildfires ",
@@ -38,13 +46,5 @@
     "author": "Madeleine Cuff",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310672430.jpg"
-  },
-  {
-    "title": "Lucid dreams induced via multisensory stimulation | New Scientist",
-    "url": "https://www.newscientist.com/article/2587692-lucid-dreams-induced-via-multisensory-stimulation/",
-    "description": "Lucid dreams, when a person is aware they're dreaming and can often control them, could be induced in people who rarely experience them",
-    "author": "Emma Young",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310551185.jpg"
   }
 ]

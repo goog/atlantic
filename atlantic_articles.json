@@ -1,14 +1,38 @@
 [
   {
-    "title": "What I Learned From 400 Focus Groups",
+    "title": "The Novel That Looks Death in the Eye",
+    "url": "https://www.theatlantic.com/books/2026/09/emma-clines-anti-escapist-novel-switzy-book-review/688538/",
+    "description": "Emma Cline’sSwitzymight not make readers happy, but it could strike them with moments of sublime clarity.",
+    "author": "Hillary Kelly",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/ogpEgy6xeKXp3q81vGy0QzSR5Tc=/155x0:1842x1125/210x140/media/img/mt/2026/09/a_003-1/original.jpg"
+  },
+  {
+    "title": "The Myth of Perfect Knowledge",
+    "url": "https://www.theatlantic.com/ideas/2026/09/science-objectivity-myth-physics/688532/",
+    "description": "Science will never be able to give a completely objective description of the world. That should make us humbler—and wiser.",
+    "author": "Carlo Rovelli",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/XCPhwRzELyt-Wvk_oMI0nsfs0Ps=/600x0:3840x2160/210x140/media/img/mt/2026/09/2026_09_07_The_Myth_of_Disembodied_Reason/original.jpg"
+  },
+  {
+    "title": "Zoos Are Doubling Down on Very Unnatural Habitats",
+    "url": "https://www.theatlantic.com/science/2026/09/zoo-animals-technology/688416/",
+    "description": "Could high-tech toys help captive animals act more wild?",
+    "author": "Katherine J. Wu",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/J66eQlwscqG9KgSOvuUVDL8r518=/115x530:2760x2293/210x140/media/img/mt/2026/08/2026_08_27_stone_zoo_0699/original.jpg"
+  },
+  {
+    "title": "Voters Have a Message for Democrats",
     "url": "https://www.theatlantic.com/ideas/2026/09/democrats-voters-focus-groups/688519/",
-    "description": "Democratic voters have a clear message for their party: Fight harder.",
+    "description": "",
     "author": "Sarah Longwell",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/jh1fv-SkGNWZ5br-_S1sT9D6Awk=/302x0:3542x2160/210x140/media/img/mt/2026/09/2026_09_04_What_Voters_Want_From_the_Democratic_Party/original.jpg"
   },
   {
-    "title": "Misunderstanding Norman Rockwell",
+    "title": "Misunder­standing Norman Rockwell",
     "url": "https://www.theatlantic.com/culture/2026/09/norman-rockwell-four-freedoms-david-lynch/688518/",
     "description": "His paintings evoked an American innocence that didn’t exist—and that the nation couldn’t live up to.",
     "author": "Sebastian Smee",
@@ -134,29 +158,5 @@
     "author": "Rafaela Jinich",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/Svm4AAQtLiK4tx-o_zfwRpcFdcE=/85x57:2032x1355/210x140/media/img/mt/2026/09/GettyImages_1388143283_6-1/original.jpg"
-  },
-  {
-    "title": "Why Wendell Berry Didn’t Worry About the Future",
-    "url": "https://www.theatlantic.com/culture/2026/09/wendell-berry-obit-legacy/688530/",
-    "description": "His life as a writer and farmer was informed by a simple, clarifying idea: Forget tomorrow, and work toward what is good today.",
-    "author": "Joe Fassler",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/RuoI1EhYib5kcEfVPVopU3BimR8=/309x1:3685x2252/210x140/media/img/mt/2026/09/2026_09_05_Why_Wendell_Berry_Didnt_Worry_About_the_Future_Joe_Fassler/original.jpg"
-  },
-  {
-    "title": "J. D. Vance’s Disingenuous Defense of Tucker Carlson",
-    "url": "https://www.theatlantic.com/ideas/2026/09/vance-carlson-political-friendship/688533/",
-    "description": "The vice president’s relationship with a conspiracy theorist is, at bottom, a political partnership, not a personal friendship.",
-    "author": "Jonathan Chait",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/yQf0akCZYh9CV4852O0fijazEhE=/314x0:3667x2235/210x140/media/img/mt/2026/09/2026_09_08_JD_Vance_and_Tucker_Carlson_Jonathan_Chait-2/original.jpg"
-  },
-  {
-    "title": "The Rush-Job Presidency",
-    "url": "https://www.theatlantic.com/culture/2026/09/trump-ballroom-arch-rush/688523/",
-    "description": "Trump wants his ballroom and arch done while he’s in office. There’s a risk.",
-    "author": "Janay Kingsberry",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Gc6RVE6eetOH3YmgnVwu5oEVK2E=/316x0:3690x2249/210x140/media/img/mt/2026/09/2026_09_04_The_Rush_Job_Presidency_Janay_Kingsberry/original.jpg"
   }
 ]
