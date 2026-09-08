@@ -1,5 +1,37 @@
 [
   {
+    "title": "Medicine Needs to Get Serious About AI",
+    "url": "https://www.theatlantic.com/health/2026/09/artificial-intelligence-autonomous-doctor-medicine/688543/",
+    "description": "Let the robots try being doctors.",
+    "author": "Ezekiel J. EmanuelandVinod Kholsa",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/RluN2pVuqrOYGn-U0Uy0nyW5ZD0=/155x0:1842x1125/210x140/media/img/mt/2026/09/2026_09_03_Emmanuel_Khosla_Doctors_AI_final/original.jpg"
+  },
+  {
+    "title": "Cereal Has Strayed Too Far",
+    "url": "https://www.theatlantic.com/health/2026/09/cereal-dye-sugar-coated/688526/",
+    "description": "Marion NestleandLisa Sutherland12:44 PM ET",
+    "author": "Marion NestleandLisa Sutherland",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/5Mlq6hN2OIOYNJ8525ZKn1INnpY=/77x0:4405x2886/210x140/media/img/mt/2026/09/2026_09_04_Cereal_Nestle/original.jpg"
+  },
+  {
+    "title": "When Mothers Get Arrested for Mothering",
+    "url": "https://www.theatlantic.com/ideas/2026/09/karyann-parkinson-children-indpendence/688541/",
+    "description": "Raising independent kids shouldn’t be this hard.",
+    "author": "Elizabeth Bruenig",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/k_uUJEvIxc9dUhls2jDIqv2-tks=/380x0:3755x2250/210x140/media/img/mt/2026/09/2026_08_07_Area_Mom_Punished_for_Letting_Child_Play_Walk_Liz_Bruenig/original.jpg"
+  },
+  {
+    "title": "Lonnie Bunch Is Leaving the Smithsonian",
+    "url": "https://www.theatlantic.com/culture/2026/09/lonnie-bunch-will-leave-smithsonian/688544/",
+    "description": "After months of clashes with the White House, the historian and leader of the institution is retiring later this year.",
+    "author": "Kelsey Ables",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/Nx80a4X2sZiz4h5V4ayQQDPhk9Y=/532x0:6229x3798/210x140/media/img/mt/2026/09/2026_09_08_Lonnie_Bunch/original.jpg"
+  },
+  {
     "title": "The Novel That Looks Death in the Eye",
     "url": "https://www.theatlantic.com/books/2026/09/emma-clines-anti-escapist-novel-switzy-book-review/688538/",
     "description": "Emma Cline’sSwitzymight not make readers happy, but it could strike them with moments of sublime clarity.",
@@ -48,9 +80,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/WVBpO_RwdZQRi8AWseE7hVJJiwI=/315x0:3690x2250/210x140/media/img/mt/2026/09/2026_09_05_Trump_and_Iranian_Assassination_Threats_Michael_Scherer/original.jpg"
   },
   {
-    "title": "The Prodigy Problem",
+    "title": "The 24-Year-Old Who Lost Billions",
     "url": "https://www.theatlantic.com/ideas/2026/09/aschenbrenner-ai-future/688493/",
-    "description": "Leopold Aschenbrenner claimed to know the future of AI. His investors lost billions.",
+    "description": "Leo Aschenbrenner claimed to know the future of AI.",
     "author": "Theo Baker",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/CcSZmhzOmJaHbW5zI7Cfy94erfs=/310x0:3686x2250/210x140/media/img/mt/2026/09/2026_09_04_The_Culture_That_Produced_Leopold_Aschenbrenner_Theo_Baker/original.jpg"
@@ -126,37 +158,5 @@
     "author": "Rafaela Jinich",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/e8fSOq-OEvCOFXgoFXm3TpdbBjg=/451x0:4171x2480/210x140/media/img/mt/2026/09/3D5TH1C/original.jpg"
-  },
-  {
-    "title": "AI Is Already Changing What It Means to Be Human",
-    "url": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
-    "description": "As we learn to think more and more highly of the bots, we will learn to think less and less highly of our fellow humans.",
-    "author": "David Brooks",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/WDqzb95_ODWWkU-I_AzMLEwYp30=/158x0:1845x1125/210x140/media/img/mt/2026/09/AnthropomorphismNew/original.png"
-  },
-  {
-    "title": "Japan’s Strategic Turn",
-    "url": "https://www.theatlantic.com/ideas/2026/09/japan-defense-nuclear-threat/688517/",
-    "description": "The country is taking once-unthinkable steps to ensure its own defense.",
-    "author": "Eliot A. Cohen",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/y4eafp50lz5wMEFx2w-buh0ea94=/0x0:3375x2250/210x140/media/img/mt/2026/09/2026_09_04_Japans_Strategic_Turn_Eliot_Cohen/original.jpg"
-  },
-  {
-    "title": "The Backlash Against Data Centers",
-    "url": "https://www.theatlantic.com/national/2026/09/backlash-ai-washington-week/688540/",
-    "description": "TheAtlanticstaff writer Josh Tyrangiel joined for a special edition ofWashington Week With The Atlanticto discuss the future of AI.",
-    "author": "The Editors",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/b1nRDRdDoIceHElGPN1lCCd9knM=/91x0:2277x1458/210x140/media/img/mt/2026/09/Screenshot_2026_09_05_at_9.39.14AM/original.png"
-  },
-  {
-    "title": "Rediscover the Ordinary",
-    "url": "https://www.theatlantic.com/newsletters/2026/09/find-wonder-in-ordinary/688536/",
-    "description": "A case for finding wonder in familiar things",
-    "author": "Rafaela Jinich",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Svm4AAQtLiK4tx-o_zfwRpcFdcE=/85x57:2032x1355/210x140/media/img/mt/2026/09/GettyImages_1388143283_6-1/original.jpg"
   }
 ]
