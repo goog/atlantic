@@ -1,5 +1,13 @@
 [
   {
+    "title": "Common painkiller use in early pregnancy linked to smaller ovaries and testes | New Scientist",
+    "url": "https://www.newscientist.com/article/2588178-common-painkiller-use-in-early-pregnancy-linked-to-smaller-ovaries-and-testes/",
+    "description": "Taking the painkiller paracetamol (acetaminophen) during pregnancy has been linked to smaller ovaries and testes in baby girls and boys, but that doesn't mean it directly caused them or affects fertility",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311333246.jpg"
+  },
+  {
     "title": "OpenAI has solved the Navier-Stokes Millennium problem using $15m of AI effort | New Scientist",
     "url": "https://www.newscientist.com/article/2588063-openai-has-solved-the-navier-stokes-millennium-problem-using-15m-of-ai-effort/",
     "description": "One of the trickiest problems in mathematics has now fallen to AI after just days of work. The groundbreaking result was announced amid rumour after similar, but less complete work, also created with AI, was announced just hours before",
@@ -38,13 +46,5 @@
     "author": "Madeleine Cuff",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311208563.jpg"
-  },
-  {
-    "title": "Laughter therapy may help people with chronic lung disease | New Scientist",
-    "url": "https://www.newscientist.com/article/2587748-laughter-therapy-may-help-people-with-chronic-lung-disease/",
-    "description": "An eight-week course of self-administered laughter therapy helped a small number of people with chronic obstructive pulmonary disease breathe more easily",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310661272.jpg"
   }
 ]
