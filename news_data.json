@@ -1,5 +1,13 @@
 [
   {
+    "title": "Why is there controversy around OpenAI's Millennium Prize maths breakthrough? | New Scientist",
+    "url": "https://www.newscientist.com/article/2588288-why-is-there-controversy-around-openais-millennium-prize-maths-breakthrough/",
+    "description": "8 September should have been an exciting day of celebration for mathematicians worldwide. Instead, it became a confusing, salacious and intriguing drama. Why was the solution to one of the world's toughest mathematical problems embroiled in controversy?",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311491782.jpg"
+  },
+  {
     "title": "Paracetamol (acetaminophen) use in early pregnancy linked to smaller ovaries and testes | New Scientist",
     "url": "https://www.newscientist.com/article/2588178-common-painkiller-use-in-early-pregnancy-linked-to-smaller-ovaries-and-testes/",
     "description": "Taking the painkiller paracetamol (acetaminophen) during pregnancy has been linked to smaller ovaries and testes in baby girls and boys, but that doesn't mean it directly caused them or affects fertility",
@@ -10,7 +18,7 @@
   {
     "title": "OpenAI has solved the Navier-Stokes Millennium problem using $15m of AI effort | New Scientist",
     "url": "https://www.newscientist.com/article/2588063-openai-has-solved-the-navier-stokes-millennium-problem-using-15m-of-ai-effort/",
-    "description": "One of the trickiest problems in mathematics has now fallen to AI after just days of work. The groundbreaking result was announced amid rumour after similar, but less complete work, also created with AI, was announced just hours before",
+    "description": "One of the trickiest problems in mathematics has now fallen to AI after just days of work. The groundbreaking result was announced after similar, but less complete work, also created with AI, was announced just hours before",
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311327716.jpg"
@@ -38,13 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311299849.jpg"
-  },
-  {
-    "title": "Super El Niño set to cause 'terribly dangerous' drought in the Amazon | New Scientist",
-    "url": "https://www.newscientist.com/article/2587998-super-el-nino-set-to-cause-terribly-dangerous-amazon-drought/",
-    "description": "The El Niño phase now under way will be the most damaging on record for the Amazon, scientists warn, raising the risk of catastrophic wildfires ",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311208563.jpg"
   }
 ]
