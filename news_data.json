@@ -1,5 +1,13 @@
 [
   {
+    "title": "August was the joint hottest month on record | New Scientist",
+    "url": "https://www.newscientist.com/article/2588520-august-was-the-joint-hottest-month-on-record/",
+    "description": "Global warming and a record El Niño have pushed Earth’s temperature more than 1.5°C above the preindustrial average, and further heat is on the way",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311513474.jpg"
+  },
+  {
     "title": "Earliest evidence of habitual drug use found in teeth in Indonesia | New Scientist",
     "url": "https://www.newscientist.com/article/2588277-earliest-evidence-of-habitual-drug-use-found-in-teeth-in-indonesia/",
     "description": "Strange, rounded grooves in prehistoric teeth are thought to have been made by regularly sucking whole betel nuts to extract a pain-relieving compound. This marks the earliest known example of probable substance addiction",
@@ -38,13 +46,5 @@
     "author": "Jonathan O’Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311473233.jpg"
-  },
-  {
-    "title": "Denisovan tools from cave in China shows how mysterious humans lived | New Scientist",
-    "url": "https://www.newscientist.com/article/2588304-denisovan-tools-from-cave-in-china-shows-how-mysterious-humans-lived/",
-    "description": "A site in China is just the third to give us an insight into the way the enigmatic Denisovans lived. The archaeology at the site suggests the ancient humans were skilled hunters, although their stone tools were relatively simple",
-    "author": "Michael Marshall",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311348058.jpg"
   }
 ]
