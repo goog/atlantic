@@ -1,50 +1,50 @@
 [
   {
+    "title": "Gamma ray burst may have been two supernovae in one | New Scientist",
+    "url": "https://www.newscientist.com/article/2588728-gamma-ray-burst-may-have-been-two-supernovae-in-one/",
+    "description": "A group of astronomers proposes that a series of events in a distant galaxy formed both a black hole and a pulsar, but other experts say the conclusion is premature",
+    "author": "Matt von Hippel",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311507648.jpg"
+  },
+  {
+    "title": "Exquisite 66-million-year-old bird feather preserved in dinosaur dropping | New Scientist",
+    "url": "https://www.newscientist.com/article/2588673-exquisite-66-million-year-old-bird-feather-preserved-in-dinosaur-dropping/",
+    "description": "A dinosaur, possibly a young Tyrannosaurus rex, excreted a bird 66 million years ago, and one of its feathers is exquisitely preserved in the fossilised dropping",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311173665.jpg"
+  },
+  {
+    "title": "Here is how to understand OpenAI’s major mathematical breakthrough | New Scientist",
+    "url": "https://www.newscientist.com/article/2588781-here-is-how-to-understand-openais-major-mathematical-breakthrough/",
+    "description": "Since OpenAI announced its solution to one of the prestigious Millennium Prize Problems, mathematicians have been urgently trying to unpick what it means",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311681995.jpg"
+  },
+  {
+    "title": "The world’s biggest carbon sink may start emitting CO2 after net zero | New Scientist",
+    "url": "https://www.newscientist.com/article/2588269-the-worlds-biggest-carbon-sink-may-start-emitting-co2-after-net-zero/",
+    "description": "If the carbon dioxide in the atmosphere declines, the Southern Ocean is likely to begin emitting more carbon than it absorbs, prolonging global warming",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311470659.jpg"
+  },
+  {
+    "title": "What's next for mathematics now that AI is upending the field? | New Scientist",
+    "url": "https://www.newscientist.com/article/2588333-whats-next-for-mathematics-now-that-ai-is-upending-the-field/",
+    "description": "Famous and challenging problems in mathematics are falling to AI at a rapid pace. Where does this leave mathematicians, and what will the field look like in coming years?",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311668111.jpg"
+  },
+  {
     "title": "August was the joint hottest month on record | New Scientist",
     "url": "https://www.newscientist.com/article/2588520-august-was-the-joint-hottest-month-on-record/",
     "description": "Global warming and a record El Niño have pushed Earth’s temperature more than 1.5°C above the pre-industrial average, and further heat is on the way",
     "author": "Alec Luhn",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311513474.jpg"
-  },
-  {
-    "title": "Earliest evidence of habitual drug use found in teeth in Indonesia | New Scientist",
-    "url": "https://www.newscientist.com/article/2588277-earliest-evidence-of-habitual-drug-use-found-in-teeth-in-indonesia/",
-    "description": "Strange, rounded grooves in prehistoric teeth are thought to have been made by regularly sucking whole betel nuts to extract a pain-relieving compound. This marks the earliest known example of probable substance addiction",
-    "author": "Alice Klein",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311297665.jpg"
-  },
-  {
-    "title": "Heat spikes over Tibet may help explain severe Californian flooding | New Scientist",
-    "url": "https://www.newscientist.com/article/2588424-heat-spikes-over-tibet-may-be-to-blame-for-catastrophic-californian-flooding/",
-    "description": "Unusually high temperatures over the mountainous region can kick-start a chain of events that ultimately leads to a severe deluge on the US West Coast, scientists say ",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311513514.jpg"
-  },
-  {
-    "title": "Bursts of ‘pink noise’ during sleep seem to help clear waste from brain | New Scientist",
-    "url": "https://www.newscientist.com/article/2588451-bursts-of-pink-noise-during-sleep-seem-to-help-flush-waste-from-brain/",
-    "description": "The human brain flushes out waste products while we sleep and now it seems that certain sounds might enhance the process",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311500576.jpg"
-  },
-  {
-    "title": "Terence Tao: AI companies are harming mathematics | New Scientist",
-    "url": "https://www.newscientist.com/article/2588329-terence-tao-ai-companies-are-harming-mathematics/",
-    "description": "AI firms are making new mathematical discoveries at a rapid pace, but not sticking around to help unpick the new proofs. That is not the way to advance our understanding, says mathematician Terence Tao",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311503987.jpg"
-  },
-  {
-    "title": "NASA’s next major telescope might see alien oceans and rainbows | New Scientist",
-    "url": "https://www.newscientist.com/article/2588439-nasas-next-major-telescope-might-see-alien-oceans-and-rainbows/",
-    "description": "The upcoming Habitable Worlds Observatory should be able to spot the glint of water on habitable planets, and maybe more",
-    "author": "Jonathan O’Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311473233.jpg"
   }
 ]
