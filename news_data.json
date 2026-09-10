@@ -1,5 +1,21 @@
 [
   {
+    "title": "Natural feedbacks will warm world an extra 20 per cent this century | New Scientist",
+    "url": "https://www.newscientist.com/article/2588740-natural-feedbacks-will-add-20-per-cent-extra-global-warming/",
+    "description": "Ecosystems like wetlands emit more carbon as temperatures rise. By 2100, such feedback loops will increase warming by 20 to 30 per cent more than anticipated",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311669823.jpg"
+  },
+  {
+    "title": "We may finally know what kick-starts muscle contractions in childbirth | New Scientist",
+    "url": "https://www.newscientist.com/article/2588577-immune-cells-donate-their-mitochondria-to-womb-muscle-to-kick-start-birth/",
+    "description": "An influx of immune cells into the uterus may be what initiates childbirth. These grab on to muscle cells via tiny tubes and send across mitochondria to provide energy for contractions",
+    "author": "Alice Klein",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311661021.jpg"
+  },
+  {
     "title": "Gamma ray burst may have been two supernovae in one | New Scientist",
     "url": "https://www.newscientist.com/article/2588728-gamma-ray-burst-may-have-been-two-supernovae-in-one/",
     "description": "A group of astronomers proposes that a series of events in a distant galaxy formed both a black hole and a pulsar, but other experts say the conclusion is premature",
@@ -30,21 +46,5 @@
     "author": "Alec Luhn",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311470659.jpg"
-  },
-  {
-    "title": "What's next for mathematics now that AI is upending the field? | New Scientist",
-    "url": "https://www.newscientist.com/article/2588333-whats-next-for-mathematics-now-that-ai-is-upending-the-field/",
-    "description": "Famous and challenging problems in mathematics are falling to AI at a rapid pace. Where does this leave mathematicians, and what will the field look like in coming years?",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311668111.jpg"
-  },
-  {
-    "title": "August was the joint hottest month on record | New Scientist",
-    "url": "https://www.newscientist.com/article/2588520-august-was-the-joint-hottest-month-on-record/",
-    "description": "Global warming and a record El Niño have pushed Earth’s temperature more than 1.5°C above the pre-industrial average, and further heat is on the way",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311513474.jpg"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "title": "What Colin Powell Did on 9/11",
+    "url": "https://www.theatlantic.com/national-security/2026/09/colin-powell-911-democracy/688566/",
+    "description": "His insistence during an overseas trip on championing democracy in foreign policy is now a relic.",
+    "author": "Missy Ryan",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/9yM9xKk5VJMF1WPDw0eGl32g9hE=/155x0:1842x1125/210x140/media/img/mt/2026/09/2026_09_09_powell_mpg/original.jpg"
+  },
+  {
+    "title": "The Fantasy of the End of the World",
+    "url": "https://www.theatlantic.com/ideas/2026/09/ai-destroy-world-apocalypse/688575/",
+    "description": "An Anthropic researcher quit his job because he believes AI will destroy humanity. His story is going viral because you want to believe too.",
+    "author": "Ian Bogost",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/oGMt1FmWB6x5lEOLzHpKI7ddpXo=/378x0:4428x2700/210x140/media/img/mt/2026/09/2026_09_10_Why_The_Ai_Apocaplypse_is_So_Appealing_new/original.jpg"
+  },
+  {
+    "title": "What the Failure to Convict the Alleged 9/11 Mastermind Reveals",
+    "url": "https://www.theatlantic.com/ideas/2026/09/9-11-lessons-bush-trump/688572/",
+    "description": "The George W. Bush administration circumvented the law to persecute alleged September 11 perpetrators. It backfired.",
+    "author": "David A. Graham",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/WxK_9_62HX3xqJyJB-Ne4xrsSTw=/227x0:2657x1620/210x140/media/img/mt/2026/09/2026_09_08_The_Daily_911_14493/original.jpg"
+  },
+  {
     "title": "Trump’s Dream World in Dallas",
     "url": "https://www.theatlantic.com/politics/2026/09/trump-midterms-dallas-convention/688568/",
     "description": "At a midterm convention, Trump tries to defy the odds one last time.",
@@ -134,29 +158,5 @@
     "author": "Sebastian Smee",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/14lVJYE8olb0YllvO1CLvizS0rY=/227x0:2657x1620/210x140/media/img/mt/2026/09/2026_09_08_Lonnie_Bunch-1/original.jpg"
-  },
-  {
-    "title": "A Great Novel Becomes a Bad Show",
-    "url": "https://www.theatlantic.com/culture/2026/09/the-shards-tv-show-hulu-bret-easton-ellis-novel/688546/",
-    "description": "Don’t watchThe Shards. Go read the book instead.",
-    "author": "Jeremy Gordon",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/iXEUt_CTy2ZDcg-Sb3-qhMLkaTc=/84x0:954x580/210x140/media/img/mt/2026/09/2026_09_08_The_Shards/original.jpg"
-  },
-  {
-    "title": "The Sadness of Being the ‘Last Man’",
-    "url": "https://www.theatlantic.com/books/2026/09/francis-fukuyama-in-the-realm-of-the-last-man-memoir-book-review/688548/",
-    "description": "Francis Fukuyama has long been considered a naive triumphalist. He now wants to set the record straight.",
-    "author": "Gal Beckerman",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/Nxqa9hmGlnLWoNa13JJG99Pq2s8=/227x0:2657x1620/210x140/media/img/mt/2026/09/2026_09_04_Fukuyamas_Self_Revision_1432891845/original.jpg"
-  },
-  {
-    "title": "This Was a Good Sculpture",
-    "url": "https://www.theatlantic.com/culture/2026/09/kennedy-center-blue-shapiro/688549/",
-    "description": "Washington, D.C., is full of cords of connection. By removing a Joel Shapiro work, the Kennedy Center severed one.",
-    "author": "Tom Healy",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/7WRnK2k1SljfyGuG4ZudWCeVskA=/160x0:1024x576/210x140/media/img/mt/2026/09/2026_09_01_the_kennedy_center_is_removing_a_sculpture_that_trump_reportedly_hates_janay_kingsberry_1024/original.jpg"
   }
 ]
