@@ -1,5 +1,21 @@
 [
   {
+    "title": "Earliest alligator flourished in the wake of the dinosaur extinction | New Scientist",
+    "url": "https://www.newscientist.com/article/2588998-earliest-alligator-flourished-in-the-wake-of-the-dinosaur-extinction/",
+    "description": "Just a few hundred thousand years after an asteroid wiped out most dinosaurs, large alligators were thriving in North America",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311471380.jpg"
+  },
+  {
+    "title": "AI is both the best and worst thing to ever happen to mathematics | New Scientist",
+    "url": "https://www.newscientist.com/article/2588857-ai-is-both-the-best-and-worst-thing-to-ever-happen-to-mathematics/",
+    "description": "Mathematicians now have a formidable tool for breaking open challenging problems, but working out how best to use it isn't going to be easy",
+    "author": "Timothy Revell",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311871371.jpg"
+  },
+  {
     "title": "Natural feedbacks will warm world an extra 20 per cent this century | New Scientist",
     "url": "https://www.newscientist.com/article/2588740-natural-feedbacks-will-add-20-per-cent-extra-global-warming/",
     "description": "Ecosystems like wetlands emit more carbon as temperatures rise. By 2100, such feedback loops will increase warming by 20 to 30 per cent more than anticipated",
@@ -30,21 +46,5 @@
     "author": "Christa Lesté-Lasserre",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311173665.jpg"
-  },
-  {
-    "title": "Here is how to understand OpenAI’s major mathematical breakthrough | New Scientist",
-    "url": "https://www.newscientist.com/article/2588781-here-is-how-to-understand-openais-major-mathematical-breakthrough/",
-    "description": "Since OpenAI announced its solution to one of the prestigious Millennium Prize Problems, mathematicians have been urgently trying to unpick what it means",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311681995.jpg"
-  },
-  {
-    "title": "The world’s biggest carbon sink may start emitting CO2 after net zero | New Scientist",
-    "url": "https://www.newscientist.com/article/2588269-the-worlds-biggest-carbon-sink-may-start-emitting-co2-after-net-zero/",
-    "description": "If the carbon dioxide in the atmosphere declines, the Southern Ocean is likely to begin emitting more carbon than it absorbs, prolonging global warming",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311470659.jpg"
   }
 ]
