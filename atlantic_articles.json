@@ -1,6 +1,46 @@
 [
   {
-    "title": "A Quarter Century of Panic",
+    "title": "Postscript to American Ground: Unbuilding the World Trade Center",
+    "url": "https://www.theatlantic.com/national/2026/09/afterword-american-ground-unbuilding-world-trade-center/688570/",
+    "description": "William Langewiesche10:33 AM ET",
+    "author": "William Langewiesche",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/lAf4tYwTY86i3BIltG_Xr6Z5HFo=/310x0:3622x2208/210x140/media/img/mt/2026/09/ARCHIVAL_Afterword_of_American_Ground_Unbuilding_the_World_Trade_Center_1/original.jpg"
+  },
+  {
+    "title": "Rules Designed to Create Chaos",
+    "url": "https://www.theatlantic.com/ideas/2026/09/mail-voting-usps-trump/688585/",
+    "description": "The Trump administration is hoping to put so many restrictions on mail-in balloting that people simply won’t be able to vote that way at all.",
+    "author": "Quinta Jurecic",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/_rwZyrDXstVsEQ2RtIdG08Pmc1I=/155x0:1842x1125/210x140/media/img/mt/2026/09/MailInBallotsEdit/original.png"
+  },
+  {
+    "title": "Photos of the Week: Night Harvest, Heavy Surf, Pumpkin Kong",
+    "url": "https://www.theatlantic.com/photography/2026/09/photos-of-the-week-night-harvest-heavy-surf-pumpkin-kong/688573/",
+    "description": "A dog fashion show in the Philippines, the West Indian Day Parade in Brooklyn, an ice cave in the French Alps, a traditional rodeo in Mexico City, and much more",
+    "author": "Alan Taylor",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/HoxFOdVA4GgrD6OwbIaZaSOJFUQ=/0x0:3000x2000/210x140/media/img/mt/2026/09/a01_G_2294507332/original.jpg"
+  },
+  {
+    "title": "America Has Forfeited Its Greatest Strength",
+    "url": "https://www.theatlantic.com/ideas/2026/09/september-11-trust-america/688580/",
+    "description": "Osama bin Laden wanted to eradicate faith in American power. Twenty-five years later, his dream is on the verge of coming true.",
+    "author": "Ali Soufan",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/j1HY4BFBG8iqNtrPJR4TIYs-sSs=/253x70:1768x1080/210x140/media/img/mt/2026/09/Soufan_1/original.jpg"
+  },
+  {
+    "title": "How to Kill a Franchise Before It Even Starts",
+    "url": "https://www.theatlantic.com/culture/2026/09/hope-movie-review/688589/",
+    "description": "The new monster movieHopecan’t live up to its own epic aspirations.",
+    "author": "David Sims",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/1cwwLSxlhkQYr3tmSpZzgozeRHw=/170x0:1988x1212/210x140/media/img/mt/2026/09/2026_09_03_Hope02-3/original.jpg"
+  },
+  {
+    "title": "A Quarter Century of Pain",
     "url": "https://www.theatlantic.com/ideas/2026/09/anniversary-war-on-terror/688571/",
     "description": "After 9/11, the U.S. government was over-focused on fighting terrorism, losing sight of other threats. Americans are still living with the consequences.",
     "author": "Tom Nichols",
@@ -8,9 +48,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/eaMMp0h2G5vYOd9TJ11QFU2-1Jk=/146x1409:2036x2669/210x140/media/img/mt/2026/09/BT_9_11_Final/original.jpg"
   },
   {
-    "title": "Chatbots Should Not Use the First Person",
+    "title": "The Original Sin of AI",
     "url": "https://www.theatlantic.com/ideas/2026/09/meta-settlement-social-media-addiction-youth/688567/",
-    "description": "The harms of AI are clear enough to do something about them now.",
+    "description": "The harms of chatbots are clear enough to do something about them now.",
     "author": "Sherry Turkle",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/H5LWFPuwg7ul2nPwZJ4K5xzvLk0=/155x0:1842x1125/210x140/media/img/mt/2026/09/2026_9_10_The_Meta_Settlement_Sets_a_Bad_Precedent_for_AI/original.jpg"
@@ -40,7 +80,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/wCOwmIdd5lj1zpqB_vm0CQPNyao=/156x0:1843x1125/210x140/media/newsletters/2026/09/2026_9_9_Time_Travel_Thursdays_Tennis/original.jpg"
   },
   {
-    "title": "What Bush Understood That Trump Doesn’t",
+    "title": "Bush Understood Something Trump Doesn’t",
     "url": "https://www.theatlantic.com/ideas/2026/09/bush-trump-mamdani-giuliani-islam/688582/",
     "description": "The leaders of the American right have embraced the false idea that the United States is at war with Islam.",
     "author": "Jonathan Chait",
@@ -56,7 +96,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/qxPftN1c5MWIE9zB4WhL_IddkaQ=/155x0:1842x1125/210x140/media/img/mt/2026/09/football_Jetlagv3/original.jpg"
   },
   {
-    "title": "What Colin Powell Did on 9/11",
+    "title": "How Colin Powell Spent 9/11",
     "url": "https://www.theatlantic.com/national-security/2026/09/colin-powell-911-democracy/688566/",
     "description": "His insistence during an overseas trip on championing democracy in foreign policy is now a relic.",
     "author": "Missy Ryan",
@@ -72,9 +112,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/TZLpobQslT22T4ArdYlC1qJVqQU=/486x0:4536x2700/210x140/media/img/mt/2026/09/2026_09_10_Why_The_Ai_Apocaplypse_is_So_Appealing_new/original.jpg"
   },
   {
-    "title": "What the Failure to Convict the Alleged 9/11 Mastermind Reveals",
+    "title": "The George W. Bush Administration’s Lesson for the Trump Era",
     "url": "https://www.theatlantic.com/ideas/2026/09/9-11-lessons-bush-trump/688572/",
-    "description": "The George W. Bush administration circumvented the law to persecute alleged September 11 perpetrators. It backfired.",
+    "description": "They circumvented the law to persecute alleged Sept 11 perpetrators. It backfired.",
     "author": "David A. Graham",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/WxK_9_62HX3xqJyJB-Ne4xrsSTw=/227x0:2657x1620/210x140/media/img/mt/2026/09/2026_09_08_The_Daily_911_14493/original.jpg"
@@ -88,7 +128,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/FVjm-k4JI02-AGs0uuxdOmu_4Wk=/75x1238:2192x2649/210x140/media/img/mt/2026/09/2026_09_10_rnc_convention_27/original.jpg"
   },
   {
-    "title": "What Russia Is Really Up To in Europe",
+    "title": "Russia’s Real Strategy in Europe",
     "url": "https://www.theatlantic.com/international/2026/09/putin-russia-europe-trump-war/688565/",
     "description": "Moscow doesn’t want a conventional war, but it is busy fighting a hybrid one.",
     "author": "Andrew Ryvkin",
@@ -118,45 +158,5 @@
     "author": "Clint Smith",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/c0k9YBVj7l3ABZ_X5RCoiCYb1wU=/580x0:6790x4140/210x140/media/img/mt/2026/09/2026_09_09_Lonnie_Bunch_Clint_Smith/original.jpg"
-  },
-  {
-    "title": "Sarah Longwell’s Playbook for Defeating MAGA",
-    "url": "https://www.theatlantic.com/podcasts/2026/09/a-playbook-for-defeating-maga/688542/",
-    "description": "The Bulwarkpublisher and author ofHow to Eat an Elephanton what voters want to hear",
-    "author": "Hanna Rosin",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/hKf4ANZHmsm7JpGNZvnvfGd2EFk=/0x0:3375x2250/210x140/media/img/mt/2026/09/2026_09_09_RA_Sarah_Longwell_defeat_Trump_horizontal/original.jpg"
-  },
-  {
-    "title": "The Election Deniers’ Long Game",
-    "url": "https://www.theatlantic.com/magazine/2026/10/big-lie-local-elections-midterms/688359/",
-    "description": "Right-wing activists have slowly taken control of a significant part of America’s local election apparatus. The country isn’t prepared for what they might do.",
-    "author": "Toluse Olorunnipa",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/alrdBGoiSp9vZKrgxj-Vi5pHHow=/125x96:2968x1991/210x140/media/img/2026/09/GettyImages_2220498075webrecrop/original.jpg"
-  },
-  {
-    "title": "What the Aftermath of 9/11 Taught Me",
-    "url": "https://www.theatlantic.com/ideas/2026/09/9-11-first-responders-care/688554/",
-    "description": "Government should be about producing results for people.",
-    "author": "Hillary Rodham Clinton",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/_osAu5kRLRf4ywWxh184mhiJ-Tg=/312x0:1999x1125/210x140/media/img/mt/2026/09/2026_09_09_Clinton_what_911_taught_me_final_horizontal/original.jpg"
-  },
-  {
-    "title": "Okay, Sure, a Folding iPhone",
-    "url": "https://www.theatlantic.com/technology/2026/09/apple-folding-iphone/688562/",
-    "description": "Apple needs to learn to take risks again.",
-    "author": "Will Oremus",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/KugmLeWAiFnXhel9SvfX8OztSO8=/310x0:3686x2250/210x140/media/img/mt/2026/09/2026_09_08_How_Long_Can_Apple_Go_on_Like_This_Will_Oremus/original.jpg"
-  },
-  {
-    "title": "Why Trump Has It Out for Canada",
-    "url": "https://www.theatlantic.com/newsletters/2026/09/why-trump-hates-canada/688561/",
-    "description": "When the president is frustrated, he lashes out at friends harder than he does enemies.",
-    "author": "Tom Nichols",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/EgqGaml4pYHf8TeMvmF-hW5pCf8=/667x0:4267x2400/210x140/media/newsletters/2026/09/2026_09_09_The_Daily_Trump_Hates_Canada/original.jpg"
   }
 ]
