@@ -1,5 +1,21 @@
 [
   {
+    "title": "A Quarter Century of Panic",
+    "url": "https://www.theatlantic.com/ideas/2026/09/anniversary-war-on-terror/688571/",
+    "description": "After 9/11, the U.S. government was over-focused on fighting terrorism, losing sight of other threats. Americans are still living with the consequences.",
+    "author": "Tom Nichols",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/eaMMp0h2G5vYOd9TJ11QFU2-1Jk=/146x1409:2036x2669/210x140/media/img/mt/2026/09/BT_9_11_Final/original.jpg"
+  },
+  {
+    "title": "Chatbots Should Not Use the First Person",
+    "url": "https://www.theatlantic.com/ideas/2026/09/meta-settlement-social-media-addiction-youth/688567/",
+    "description": "The harms of AI are clear enough to do something about them now.",
+    "author": "Sherry Turkle",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/H5LWFPuwg7ul2nPwZJ4K5xzvLk0=/155x0:1842x1125/210x140/media/img/mt/2026/09/2026_9_10_The_Meta_Settlement_Sets_a_Bad_Precedent_for_AI/original.jpg"
+  },
+  {
     "title": "Trump’s Weird Loyalty Pledge",
     "url": "https://www.theatlantic.com/ideas/2026/09/trump-convention-speech/688583/",
     "description": "In a night of wild emotions and odd ideas, one moment stood out.",
@@ -142,21 +158,5 @@
     "author": "Tom Nichols",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/EgqGaml4pYHf8TeMvmF-hW5pCf8=/667x0:4267x2400/210x140/media/newsletters/2026/09/2026_09_09_The_Daily_Trump_Hates_Canada/original.jpg"
-  },
-  {
-    "title": "New York, 25 Years Later",
-    "url": "https://www.theatlantic.com/politics/2026/09/new-york-world-trade-center-25-years/688556/",
-    "description": "The September 11 attacks inspired a sense of national unity that has since been shattered.",
-    "author": "Jonathan Lemire",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/gOy5Ihwf2xlhXknWGsAvPWH68dg=/0x0:2304x1536/210x140/media/img/mt/2026/09/2026_09_08_lemire_911_0253/original.jpg"
-  },
-  {
-    "title": "All the Places Trump Was on 9/11",
-    "url": "https://www.theatlantic.com/politics/2026/09/trump-stories-september-911/688557/",
-    "description": "The president’s latest version doesn’t square with the facts.",
-    "author": "Marie-Rose Sheinerman",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/yWosjkdhVltB9h8MTlP-v2t0DmQ=/474x0:5550x3384/210x140/media/img/mt/2026/09/2026_09_09_Trumps_Shifting_Stories_on_9_11/original.jpg"
   }
 ]
