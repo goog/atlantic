@@ -1,5 +1,13 @@
 [
   {
+    "title": "XAI data centre may have led to Mississippi air pollution spike | New Scientist",
+    "url": "https://www.newscientist.com/article/2588786-spacexai-data-centre-may-have-led-to-mississippi-air-pollution-spike/",
+    "description": "Elon Musk firm’s Colossus 2 data centre – the largest in the US – has been spewing out nitrogen oxide emissions from trailer-mounted gas turbines, an analysis suggests",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311839403.jpg"
+  },
+  {
     "title": "Earliest alligator flourished in the wake of the dinosaur extinction | New Scientist",
     "url": "https://www.newscientist.com/article/2588998-earliest-alligator-flourished-in-the-wake-of-the-dinosaur-extinction/",
     "description": "Just a few hundred thousand years after an asteroid wiped out most dinosaurs, large alligators were thriving in North America",
@@ -38,13 +46,5 @@
     "author": "Matt von Hippel",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311507648.jpg"
-  },
-  {
-    "title": "Exquisite 66-million-year-old bird feather preserved in dinosaur dropping | New Scientist",
-    "url": "https://www.newscientist.com/article/2588673-exquisite-66-million-year-old-bird-feather-preserved-in-dinosaur-dropping/",
-    "description": "A dinosaur, possibly a young Tyrannosaurus rex, excreted a bird 66 million years ago, and one of its feathers is exquisitely preserved in the fossilised dropping",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311173665.jpg"
   }
 ]
