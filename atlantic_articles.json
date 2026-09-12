@@ -1,11 +1,19 @@
 [
   {
+    "title": "AI’s Code-Red Moment",
+    "url": "https://www.theatlantic.com/technology/2026/09/dario-amodei-slow-down-ai-save-humanity/688610/",
+    "description": "Anthropic’s CEO says that AI companies must slow down for the good of humanity.",
+    "author": "Will Oremus",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/mjNF0FKmsJCkhZMo7gmJY286w2g=/266x0:3530x2176/210x140/media/img/mt/2026/09/2026_09_12_Amodei-1/original.jpg"
+  },
+  {
     "title": "AI Is Running Laps Around Our Political System",
     "url": "https://www.theatlantic.com/politics/2026/09/ai-dario-amodei-essay/688596/",
     "description": "The technology is moving faster than elected officials can handle—and Anthropic’s CEO says the industry should slow down.",
     "author": "Toluse Olorunnipa",
     "category": "",
-    "image": ""
+    "image": "https://cdn.theatlantic.com/thumbor/EOUrKLmHqJfB2gKCM3eet5W2Mss=/119x0:1384x843/210x140/media/img/mt/2026/09/2026_09_11_AI_politic_mpg-1/original.gif"
   },
   {
     "title": "Remembering 9/11, 25 Years Later",
@@ -150,13 +158,5 @@
     "author": "David Sims",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/1cwwLSxlhkQYr3tmSpZzgozeRHw=/170x0:1988x1212/210x140/media/img/mt/2026/09/2026_09_03_Hope02-3/original.jpg"
-  },
-  {
-    "title": "A Quarter Century of Pain",
-    "url": "https://www.theatlantic.com/ideas/2026/09/anniversary-war-on-terror/688571/",
-    "description": "After 9/11, the U.S. government was over-focused on fighting terrorism, losing sight of other threats. Americans are still living with the consequences.",
-    "author": "Tom Nichols",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/eaMMp0h2G5vYOd9TJ11QFU2-1Jk=/146x1409:2036x2669/210x140/media/img/mt/2026/09/BT_9_11_Final/original.jpg"
   }
 ]
