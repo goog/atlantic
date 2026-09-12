@@ -1,5 +1,21 @@
 [
   {
+    "title": "AI Is Running Laps Around Our Political System",
+    "url": "https://www.theatlantic.com/politics/2026/09/ai-dario-amodei-essay/688596/",
+    "description": "The technology is moving faster than elected officials can handle—and Anthropic’s CEO says the industry should slow down.",
+    "author": "Toluse Olorunnipa",
+    "category": "",
+    "image": ""
+  },
+  {
+    "title": "Remembering 9/11, 25 Years Later",
+    "url": "https://www.theatlantic.com/national/2026/09/remembering-9-11-washington-week/688609/",
+    "description": "",
+    "author": "The Editors",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/dfr0jegQdbw8f8YTIJsZ67NcHnI=/130x0:3007x1918/210x140/media/img/mt/2026/09/Screenshot_2026_09_12_at_9.56.58AM/original.png"
+  },
+  {
     "title": "Mario-a-Lago Kart, Anyone?",
     "url": "https://www.theatlantic.com/newsletters/2026/09/white-house-arcade-games-parody/688602/",
     "description": "The White House made a bunch of parody video games. We have more suggestions.",
@@ -142,21 +158,5 @@
     "author": "Tom Nichols",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/eaMMp0h2G5vYOd9TJ11QFU2-1Jk=/146x1409:2036x2669/210x140/media/img/mt/2026/09/BT_9_11_Final/original.jpg"
-  },
-  {
-    "title": "The Original Sin of AI",
-    "url": "https://www.theatlantic.com/ideas/2026/09/meta-settlement-social-media-addiction-youth/688567/",
-    "description": "The harms of chatbots are clear enough to do something about them now.",
-    "author": "Sherry Turkle",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/H5LWFPuwg7ul2nPwZJ4K5xzvLk0=/155x0:1842x1125/210x140/media/img/mt/2026/09/2026_9_10_The_Meta_Settlement_Sets_a_Bad_Precedent_for_AI/original.jpg"
-  },
-  {
-    "title": "Trump’s Weird Loyalty Pledge",
-    "url": "https://www.theatlantic.com/ideas/2026/09/trump-convention-speech/688583/",
-    "description": "In a night of wild emotions and odd ideas, one moment stood out.",
-    "author": "Tom Nichols",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/e2otXI_HxIws9eMmBwdRHwBP3pk=/310x0:3686x2250/210x140/media/img/mt/2026/09/2026_09_10_Trump_Speech_Tom_Nichols/original.jpg"
   }
 ]
