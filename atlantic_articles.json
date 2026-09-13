@@ -1,8 +1,32 @@
 [
   {
-    "title": "What It Means for a Woman to Shout ‘No’",
+    "title": "What Is the Good Life?",
+    "url": "https://www.theatlantic.com/podcasts/2026/09/what-is-the-good-life/688591/",
+    "description": "The philosophy professor Meghan Sullivan doesn’t just want to teach her students about virtue; she wants to make them better human beings.",
+    "author": "David Brooks",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/hpsVTtYe3rj1PnHRmlZM5zSjM0Y=/79x5:1842x1180/210x140/media/img/mt/2026/09/Permanent_Questions_Ollie_Sullivan/original.png"
+  },
+  {
+    "title": "Facing the Music",
+    "url": "https://www.theatlantic.com/magazine/2026/10/boris-dralyuk-facing-the-music/688345/",
+    "description": "",
+    "author": "Boris Dralyuk",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/9TWDq0qV2cCaFyazQAAbtEgqNB0=/90x0:1777x1125/210x140/media/img/2026/09/facingthemusic/original.jpg"
+  },
+  {
+    "title": "Look Closer: Edward Steichen’s Sunflower",
+    "url": "https://www.theatlantic.com/magazine/2026/10/edward-steichen-le-tournesol-the-sunflower/688347/",
+    "description": "Before the photographer left painting behind forever, he attempted to refocus it on nature.",
+    "author": "Susan Tallman",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/GP3AzrjcdRzfHIbADmIV4o6zaHA=/155x0:1842x1125/210x140/media/img/2026/08/BoB_Tallman_SteichenHP-1/original.png"
+  },
+  {
+    "title": "This Is What Women’s Self-Defense Looks Like",
     "url": "https://www.theatlantic.com/family/2026/09/women-self-defense-class/688593/",
-    "description": "It’s not just about denial or self-protection. It’s about living a bigger life.",
+    "description": "It’s not just about protection. It’s about living a bigger life.",
     "author": "Anna Holmes",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/xanLeO4QmuzaBB9ZlrnJL4PKVQY=/150x0:3172x2015/210x140/media/img/mt/2026/09/2026_09_10_What_It_Means_for_a_Woman_to_Shout_No/original.jpg"
@@ -24,7 +48,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/70s7qLXfzm8B71xNwyJEL6CeXN4=/0x0:1687x1125/210x140/media/img/mt/2026/09/FloridaPropertyTax/original.png"
   },
   {
-    "title": "The Legal Right’s Unofficial Birthday",
+    "title": "The Birth of the New Legal Right",
     "url": "https://www.theatlantic.com/ideas/2026/09/federalist-society-conference-conservative-court/688555/",
     "description": "Forty-four years ago, a conservative legal convention offered disaffected students an identity—and hope.",
     "author": "Alex Wagner",
@@ -134,29 +158,5 @@
     "author": "Alan Taylor",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/A6fs4h8iTWFU6tuLU9XXmSZXIYc=/0x0:6848x4565/210x140/media/img/mt/2026/09/a01_G_2293882571/original.jpg"
-  },
-  {
-    "title": "AI Writing Has Entered Its Post-Shame Era",
-    "url": "https://www.theatlantic.com/podcasts/2026/09/is-ai-writing-inevitable/688578/",
-    "description": "Media already have a trust problem.",
-    "author": "Charlie Warzel",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/MK26SMMl2A0qtF6tJkU4LdbS7f4=/155x0:1842x1125/210x140/media/img/mt/2026/09/2026_9_10_GB_AI_Writing/original.png"
-  },
-  {
-    "title": "The Spectacle of 1980s Hollywood",
-    "url": "https://www.theatlantic.com/newsletters/2026/09/the-books-briefing-jackie-collins-la-novelist/688595/",
-    "description": "Jackie Collins wrote flashy Hollywood thrillers, but isn’t often thought of as a canonical Los Angeles writer.",
-    "author": "Boris Kachka",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/xh_AAOUPID5Raa3_8IFYoT0D5S0=/156x0:1843x1125/210x140/media/newsletters/2026/09/BB_Jackie_Collins_LA/original.jpg"
-  },
-  {
-    "title": "Trump Loses the Other Strait",
-    "url": "https://www.theatlantic.com/international/2026/09/trump-iran-houthis-yemen/688592/",
-    "description": "The Houthi advance is bad news for the U.S., and even worse news for Saudi Arabia.",
-    "author": "Robert F. Worth",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/q4T3y7JyE8br5TxIOdbfNvnDWlo=/365x0:4342x2652/210x140/media/img/mt/2026/09/2026_09_11_Houthis/original.jpg"
   }
 ]
