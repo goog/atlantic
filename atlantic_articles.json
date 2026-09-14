@@ -1,5 +1,45 @@
 [
   {
+    "title": "Americans Don’t Understand Who’s Rich",
+    "url": "https://www.theatlantic.com/ideas/2026/09/everywhere-millionaires-tax-code/688584/",
+    "description": "The small-business owners with curiously large fortunes",
+    "author": "Owen Zidarand Eric Zwick",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/KfGitp27SqpPHhGWVWfOBNPoWZ4=/155x0:1842x1125/210x140/media/img/mt/2026/09/2026_9_11_EXCERPT_Americans_Dont_Understand_Whos_Rich/original.jpg"
+  },
+  {
+    "title": "George Lucas’s Next Great Epic Is an Art Museum",
+    "url": "https://www.theatlantic.com/magazine/2026/10/george-lucas-museum-narrative-art/688348/",
+    "description": "Inside theStar Warscreator’s temple to storytelling",
+    "author": "James Parker",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/yJD4yMrV7WISYdE9sVJiUO-vyIk=/191x0:2236x1363/210x140/media/img/2026/09/16x9_Parker_Lucas/original.png"
+  },
+  {
+    "title": "What Trump Doesn’t Understand About Xi",
+    "url": "https://www.theatlantic.com/international/2026/09/trump-xi-china-negotiation/688600/",
+    "description": "The Chinese leader cares very little about personal rapport.",
+    "author": "Jonathan A. Czin",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/SAuPd63ZvZuevSS1dhFhe_cHm2I=/315x0:3690x2250/210x140/media/img/mt/2026/09/2026_09_14_Trump_Xi_Meeting_Jonathan_A._Czin/original.jpg"
+  },
+  {
+    "title": "The Biggest Obstacle to Universal Child Care: Babies",
+    "url": "https://www.theatlantic.com/family/2026/09/baby-child-care-pay-stay-home/688590/",
+    "description": "Infant care is incredibly expensive to provide. But one solution could reduce the burden on both states and parents.",
+    "author": "Kendra Hurley",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/JmNutZYRp8cdCJYGsqlrOk3Rb-Q=/168x0:1855x1125/210x140/media/img/mt/2026/09/2026_09_07_baby_mpg/original.jpg"
+  },
+  {
+    "title": "MAGA Is Making the World Safe for Corruption",
+    "url": "https://www.theatlantic.com/magazine/2026/10/maga-foreign-policy/688352/",
+    "description": "Far-right ideologues have transformed American foreign policy into a tool of private gain and antidemocratic reaction.",
+    "author": "Anne Applebaum",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/VG0Zg1U9lyuP6MHKZk4-1W8z4XI=/0x718:2490x2378/210x140/media/img/2026/08/WEL_Applebaum_PredatorOpener-1/original.png"
+  },
+  {
     "title": "What Is the Good Life?",
     "url": "https://www.theatlantic.com/podcasts/2026/09/what-is-the-good-life/688591/",
     "description": "The philosophy professor Meghan Sullivan doesn’t just want to teach her students about virtue; she wants to make them better human beings.",
@@ -118,45 +158,5 @@
     "author": "Michael O’Donnell",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/gbHoDwkyp2hr_kbT5UURYZQdLm0=/0x522:2000x1855/210x140/media/img/2026/08/CC_ODonnell_McCarthy/original.png"
-  },
-  {
-    "title": "Trump Will Never Mail the $5,000 Checks",
-    "url": "https://www.theatlantic.com/ideas/2026/09/trump-5000-rebate-checks/688599/",
-    "description": "Deconstructing a policy proposal that makes no sense on any level",
-    "author": "Jonathan Chait",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/SR7ZwwqEbVb4uS0gMPbdGuJLQns=/227x0:2657x1620/210x140/media/img/mt/2026/09/2026_09_11_5k_checks_18/original.jpg"
-  },
-  {
-    "title": "Everything Trump Wants to Do Causes Inflation",
-    "url": "https://www.theatlantic.com/newsletters/2026/09/trump-5k-inflation-republican-midterm-convention/688603/",
-    "description": "Does he not understand, or does he just not care?",
-    "author": "David A. Graham",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/5PG-O1N4god34X0Ijau3TRCl4GM=/193x0:2279x1391/210x140/media/newsletters/2026/09/2026_09_11_the_daily_32/original.jpg"
-  },
-  {
-    "title": "A Recap of a Surreal Midterm Convention",
-    "url": "https://www.theatlantic.com/newsletters/2026/09/trump-republican-midterm-convention-speeches/688606/",
-    "description": "It isn’t over until the president’s tenor sings.",
-    "author": "Alexandra Petri",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/9gjND2lQ8zDxsd1AWvZUWLKilQ8=/155x0:1842x1125/210x140/media/img/mt/2026/09/2026_09_11_rep_mpg/original.jpg"
-  },
-  {
-    "title": "The AI Pandemic Isn’t On Its Way",
-    "url": "https://www.theatlantic.com/health/2026/09/ai-virus-nature-pandemic/688569/",
-    "description": "Yet plenty of others might be, thanks to evolution.",
-    "author": "Katherine J. Wu",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/6AJ2s3D3PLyDICRAX1U8zVEY5Sc=/155x0:1842x1125/210x140/media/img/mt/2026/09/2026_09_10_virus_mpg/original.jpg"
-  },
-  {
-    "title": "Photos: 9/11 Memorials",
-    "url": "https://www.theatlantic.com/photography/2026/09/photos-911-memorials/688574/",
-    "description": "Remembrance and reflection, 25 years later",
-    "author": "Alan Taylor",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/A6fs4h8iTWFU6tuLU9XXmSZXIYc=/0x0:6848x4565/210x140/media/img/mt/2026/09/a01_G_2293882571/original.jpg"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "title": "Scientists call for ‘emergency’ measures to save sea life from El Niño | New Scientist",
+    "url": "https://www.newscientist.com/article/2589023-scientists-call-for-emergency-measures-to-save-sea-life-from-el-nino/",
+    "description": "Reducing fishing quotas, rescuing endangered species from the water and testing geoengineering could help soften ocean heat impacts from the record El Niño, some oceanographers argue",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312399289.jpg"
+  },
+  {
+    "title": "Why is everyone suddenly worried about the risks of AI? | New Scientist",
+    "url": "https://www.newscientist.com/article/2589033-why-is-everyone-suddenly-worried-about-the-risks-of-ai/",
+    "description": "AI experts put the chance of models rising up and killing us all at greater than 10 per cent – but are the risks real? And can anything be done if they are?",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312424732.jpg"
+  },
+  {
+    "title": "Two bizarre new forms of ice discovered that could exist deep inside planets | New Scientist",
+    "url": "https://www.newscientist.com/article/2589025-two-bizarre-new-forms-of-ice-discovered-that-could-exist-deep-inside-planets/",
+    "description": "Crushing water to pressures in the millions of atmospheres has revealed two strange types of ice, which may form deep inside Neptune and Uranus",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312403005.jpg"
+  },
+  {
     "title": "XAI data centre may have led to Mississippi air pollution spike | New Scientist",
     "url": "https://www.newscientist.com/article/2588786-spacexai-data-centre-may-have-led-to-mississippi-air-pollution-spike/",
     "description": "Elon Musk firm’s Colossus 2 data centre – the largest in the US – has been spewing out nitrogen oxide emissions from trailer-mounted gas turbines, an analysis suggests",
@@ -22,29 +46,5 @@
     "author": "Timothy Revell",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311871371.jpg"
-  },
-  {
-    "title": "Natural feedbacks will warm world an extra 20 per cent this century | New Scientist",
-    "url": "https://www.newscientist.com/article/2588740-natural-feedbacks-will-add-20-per-cent-extra-global-warming/",
-    "description": "Ecosystems like wetlands emit more carbon as temperatures rise. By 2100, such feedback loops will increase warming by 20 to 30 per cent more than anticipated",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311669823.jpg"
-  },
-  {
-    "title": "We may finally know what kick-starts muscle contractions in childbirth | New Scientist",
-    "url": "https://www.newscientist.com/article/2588577-immune-cells-donate-their-mitochondria-to-womb-muscle-to-kick-start-birth/",
-    "description": "An influx of immune cells into the uterus may be what initiates childbirth. These grab on to muscle cells via tiny tubes and send across mitochondria to provide energy for contractions",
-    "author": "Alice Klein",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311661021.jpg"
-  },
-  {
-    "title": "Gamma ray burst may have been two supernovae in one | New Scientist",
-    "url": "https://www.newscientist.com/article/2588728-gamma-ray-burst-may-have-been-two-supernovae-in-one/",
-    "description": "A group of astronomers proposes that a series of events in a distant galaxy formed both a black hole and a pulsar, but other experts say the conclusion is premature",
-    "author": "Matt von Hippel",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311507648.jpg"
   }
 ]
