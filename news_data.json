@@ -1,5 +1,21 @@
 [
   {
+    "title": "Brain implant lets people with paralysis speak and gesture at the same time | New Scientist",
+    "url": "https://www.newscientist.com/article/2589210-brain-implant-lets-people-with-paralysis-speak-and-gesture-at-the-same-time/",
+    "description": "Previous brain implants have enabled people with paralysis to either speak or move, but a new, larger one enabled them to do both simultaneously via an avatar",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312425487.jpg"
+  },
+  {
+    "title": "Jet-powered drones pose a new threat to Ukraine – can they be stopped? | New Scientist",
+    "url": "https://www.newscientist.com/article/2587763-jet-powered-drones-pose-a-new-threat-to-ukraine-can-they-be-stopped/",
+    "description": "Ukraine is racing to design faster, more capable interceptor drones to tackle Russia's new generation of jet-powered Shahed attack drones",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312426907.jpg"
+  },
+  {
     "title": "Scientists call for ‘emergency’ measures to save sea life from El Niño | New Scientist",
     "url": "https://www.newscientist.com/article/2589023-scientists-call-for-emergency-measures-to-save-sea-life-from-el-nino/",
     "description": "Reducing fishing quotas, rescuing endangered species from the water and testing geoengineering could help soften ocean heat impacts from the record El Niño, some oceanographers argue",
@@ -30,21 +46,5 @@
     "author": "Madeleine Cuff",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311839403.jpg"
-  },
-  {
-    "title": "Earliest alligator flourished in the wake of the dinosaur extinction | New Scientist",
-    "url": "https://www.newscientist.com/article/2588998-earliest-alligator-flourished-in-the-wake-of-the-dinosaur-extinction/",
-    "description": "Just a few hundred thousand years after an asteroid wiped out most dinosaurs, large alligators were thriving in North America",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311471380.jpg"
-  },
-  {
-    "title": "AI is both the best and worst thing to ever happen to mathematics | New Scientist",
-    "url": "https://www.newscientist.com/article/2588857-ai-is-both-the-best-and-worst-thing-to-ever-happen-to-mathematics/",
-    "description": "Mathematicians now have a formidable tool for breaking open challenging problems, but working out how best to use it isn't going to be easy",
-    "author": "Timothy Revell",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311871371.jpg"
   }
 ]
