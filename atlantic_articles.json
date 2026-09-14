@@ -1,5 +1,37 @@
 [
   {
+    "title": "How Long Can the U.S. Escape an Atlantic Hurricane?",
+    "url": "https://www.theatlantic.com/newsletters/2026/09/trumps-hurricane-luck-fema/688621/",
+    "description": "The government doesn’t seem ready for a major disaster.",
+    "author": "David A. Graham",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/yl1eybBd9zwkJ3R1GR1tTPre-c8=/304x0:3595x2194/210x140/media/newsletters/2026/09/2026_09_14_The_Daily_Hurricanes/original.jpg"
+  },
+  {
+    "title": "Trump’s Kennedy Center Shakedown",
+    "url": "https://www.theatlantic.com/ideas/2026/09/trump-kennedy-center/688618/",
+    "description": "The only appropriate option is to refuse to accede to his demands.",
+    "author": "Tom Nichols",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/NTkdb1qLkVMrudAhEssKgDEJkE4=/615x0:7302x4458/210x140/media/img/mt/2026/09/2026_09_14_Ken_Cen_Shakedown-1/original.jpg"
+  },
+  {
+    "title": "A Bigoted Outburst Against Texas Sports Fans",
+    "url": "https://www.theatlantic.com/ideas/2026/09/bigoted-outburst-against-texas-sports-fans/688619/",
+    "description": "Bo French’s xenophobia should force Republicans to confront the prejudice in their ranks.",
+    "author": "Conor Friedersdorf",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/mMj5ip2IENXE3jBFSIraMoGp5sU=/348x0:4139x2527/210x140/media/img/mt/2026/09/2026_09_14_Stop_Judging_People_by_the_Color_of_Their_Skin/original.jpg"
+  },
+  {
+    "title": "Gas Prices Could Cost Republicans the Midterms",
+    "url": "https://www.theatlantic.com/politics/2026/09/trump-midterms-gas-prices/688616/",
+    "description": "Many voters understand that the president isn’t directly responsible for the price of oil. Except this time, he is.",
+    "author": "Marc Novicoff",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/j-uLQZZXWU0mVbJ9ZuXbdjpPNkk=/250x0:1937x1125/210x140/media/img/mt/2026/09/TrumpGasPrices/original.png"
+  },
+  {
     "title": "Who Needs Regulation When Trump Is President?",
     "url": "https://www.theatlantic.com/ideas/2026/09/trump-ai/688612/",
     "description": "The president is turning the charge of personalism into a promise.",
@@ -126,37 +158,5 @@
     "author": "Ashley ParkerandMichael Scherer",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/003ffB6PqgDkYv8Ve1XEsshaazY=/55x0:1742x1125/210x140/media/img/mt/2026/09/2026_09_10_cabinet_travel_mpg/original.jpg"
-  },
-  {
-    "title": "AI’s Code-Red Moment",
-    "url": "https://www.theatlantic.com/technology/2026/09/dario-amodei-slow-down-ai-save-humanity/688610/",
-    "description": "Anthropic’s CEO warns that the makers of artificial intelligence “owe it to humanity to try” to slow down.",
-    "author": "Will Oremus",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/mjNF0FKmsJCkhZMo7gmJY286w2g=/266x0:3530x2176/210x140/media/img/mt/2026/09/2026_09_12_Amodei-1/original.jpg"
-  },
-  {
-    "title": "AI Is Running Laps Around Our Political System",
-    "url": "https://www.theatlantic.com/politics/2026/09/ai-dario-amodei-essay/688596/",
-    "description": "The technology is moving faster than elected officials can handle—and Anthropic’s CEO says the industry should slow down.",
-    "author": "Toluse Olorunnipa",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/EOUrKLmHqJfB2gKCM3eet5W2Mss=/119x0:1384x843/210x140/media/img/mt/2026/09/2026_09_11_AI_politic_mpg-1/original.gif"
-  },
-  {
-    "title": "Remembering 9/11, 25 Years Later",
-    "url": "https://www.theatlantic.com/national/2026/09/remembering-9-11-washington-week/688609/",
-    "description": "",
-    "author": "The Editors",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/dfr0jegQdbw8f8YTIJsZ67NcHnI=/130x0:3007x1918/210x140/media/img/mt/2026/09/Screenshot_2026_09_12_at_9.56.58AM/original.png"
-  },
-  {
-    "title": "Mario-a-Lago Kart, Anyone?",
-    "url": "https://www.theatlantic.com/newsletters/2026/09/white-house-arcade-games-parody/688602/",
-    "description": "The White House made a bunch of parody video games. We have more suggestions.",
-    "author": "Emily BresslerandKelley Greene",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/So3kgE1dJKMoGsQ0Sw6MUX3nz-0=/155x0:1842x1125/210x140/media/img/mt/2026/09/whArcade-1/original.gif"
   }
 ]

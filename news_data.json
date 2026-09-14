@@ -1,5 +1,13 @@
 [
   {
+    "title": "Reading for pleasure boosts memory, empathy and mental health | New Scientist",
+    "url": "https://www.newscientist.com/article/2589065-reading-for-pleasure-boosts-memory-attention-and-mental-health/",
+    "description": "Fewer people are reading for pleasure, but getting lost in a good book has repeatedly been linked to substantial cognitive benefits",
+    "author": "Clarissa Brincat",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312400576.jpg"
+  },
+  {
     "title": "Brain implant lets people with paralysis speak and gesture at the same time | New Scientist",
     "url": "https://www.newscientist.com/article/2589210-brain-implant-lets-people-with-paralysis-speak-and-gesture-at-the-same-time/",
     "description": "Previous brain implants have enabled people with paralysis to either speak or move, but a new, larger one enabled them to do both simultaneously via an avatar",
@@ -38,13 +46,5 @@
     "author": "Leah Crane",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312403005.jpg"
-  },
-  {
-    "title": "XAI data centre may have led to Mississippi air pollution spike | New Scientist",
-    "url": "https://www.newscientist.com/article/2588786-spacexai-data-centre-may-have-led-to-mississippi-air-pollution-spike/",
-    "description": "Elon Musk firm’s Colossus 2 data centre – the largest in the US – has been spewing out nitrogen oxide emissions from trailer-mounted gas turbines, an analysis suggests",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311839403.jpg"
   }
 ]
