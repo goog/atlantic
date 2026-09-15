@@ -1,5 +1,21 @@
 [
   {
+    "title": "‘The Flood is the Point’",
+    "url": "https://www.theatlantic.com/podcasts/2026/09/the-canadians-have-had-enough-of-this-nonsense/688614/",
+    "description": "As the midterms approach, the president can’t stop picking fights.",
+    "author": "Adam Harris",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/N4GXJbiE6XNK-vJWyGdOpyt_Efg=/20x0:3395x2250/210x140/media/img/mt/2026/09/Radio_Atlantic_Horizontal/original.jpg"
+  },
+  {
+    "title": "Trump’s See-No-Evil AI Policy",
+    "url": "https://www.theatlantic.com/politics/2026/09/trump-ai-policy-anthropic/688620/",
+    "description": "Lawmakers from both parties are worried. But the president isn’t listening.",
+    "author": "Jonathan LemireandToluse Olorunnipa",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/9EDAkrDKdEYA_ju1ImbK0vF6YWM=/231x0:2704x1649/210x140/media/img/mt/2026/09/2026_09_AIWhiteHouse/original.jpg"
+  },
+  {
     "title": "How Long Can the U.S. Escape an Atlantic Hurricane?",
     "url": "https://www.theatlantic.com/newsletters/2026/09/trumps-hurricane-luck-fema/688621/",
     "description": "The government doesn’t seem ready for a major disaster.",
@@ -10,7 +26,7 @@
   {
     "title": "Trump’s Kennedy Center Shakedown",
     "url": "https://www.theatlantic.com/ideas/2026/09/trump-kennedy-center/688618/",
-    "description": "The only appropriate option is to refuse to accede to his demands.",
+    "description": "The only appropriate response is to refuse to accede to his demands.",
     "author": "Tom Nichols",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/NTkdb1qLkVMrudAhEssKgDEJkE4=/615x0:7302x4458/210x140/media/img/mt/2026/09/2026_09_14_Ken_Cen_Shakedown-1/original.jpg"
@@ -142,21 +158,5 @@
     "author": "Annie Lowrey",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/70s7qLXfzm8B71xNwyJEL6CeXN4=/0x0:1687x1125/210x140/media/img/mt/2026/09/FloridaPropertyTax/original.png"
-  },
-  {
-    "title": "The Birth of the New Legal Right",
-    "url": "https://www.theatlantic.com/ideas/2026/09/federalist-society-conference-conservative-court/688555/",
-    "description": "Forty-four years ago, a conservative legal convention offered disaffected students an identity—and hope.",
-    "author": "Alex Wagner",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/NnU8Icf2xrjNWemzhFSQb1Y07hA=/315x0:3690x2250/210x140/media/img/mt/2026/09/2026_09_13_Book_excerpt_The_Three_Day_Conference_that_Changed_the_World_Alex_Wagner/original.jpg"
-  },
-  {
-    "title": "Trump’s Secret Points System for Cabinet Members",
-    "url": "https://www.theatlantic.com/politics/2026/09/trump-cabinet-travel-midterms/688560/",
-    "description": "The White House held a summer contest to see who could appear in the most congressional districts and states with competitive midterm elections.",
-    "author": "Ashley ParkerandMichael Scherer",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/003ffB6PqgDkYv8Ve1XEsshaazY=/55x0:1742x1125/210x140/media/img/mt/2026/09/2026_09_10_cabinet_travel_mpg/original.jpg"
   }
 ]
