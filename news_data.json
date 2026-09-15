@@ -1,5 +1,21 @@
 [
   {
+    "title": "We may finally have a way to rate a quantum computer’s usefulness | New Scientist",
+    "url": "https://www.newscientist.com/article/2589378-we-may-finally-have-a-way-to-rate-a-quantum-computers-usefulness/",
+    "description": "Determining how useful different quantum computers are has been a long running challenge – now researchers appear to have the answer",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312576967.jpg"
+  },
+  {
+    "title": "Roman roads weren't so straight after all | New Scientist",
+    "url": "https://www.newscientist.com/article/2589330-roman-roads-werent-so-straight-after-all/",
+    "description": "Detailed data on the Roman Empire’s entire road network is offering fresh insight into how Romans built their infrastructure and how it influenced the future geography of Europe",
+    "author": "James Urquhart",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312552640.jpg"
+  },
+  {
     "title": "LSD could be approved for anxiety in the US in 2027 | New Scientist",
     "url": "https://www.newscientist.com/article/2589271-lsd-could-be-approved-for-anxiety-in-2027/",
     "description": "The psychedelic drug LSD eased anxiety in a late-stage trial, paving the way for a probable approval in the US within the next two years",
@@ -30,21 +46,5 @@
     "author": "Carissa Wong",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312425487.jpg"
-  },
-  {
-    "title": "Jet-powered drones pose a new threat to Ukraine – can they be stopped? | New Scientist",
-    "url": "https://www.newscientist.com/article/2587763-jet-powered-drones-pose-a-new-threat-to-ukraine-can-they-be-stopped/",
-    "description": "Ukraine is racing to design faster, more capable interceptor drones to tackle Russia's new generation of jet-powered Shahed attack drones",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312426907.jpg"
-  },
-  {
-    "title": "Scientists call for ‘emergency’ measures to save sea life from El Niño | New Scientist",
-    "url": "https://www.newscientist.com/article/2589023-scientists-call-for-emergency-measures-to-save-sea-life-from-el-nino/",
-    "description": "Reducing fishing quotas, rescuing endangered species from the water and testing geoengineering could help soften ocean heat impacts from the record El Niño, some oceanographers argue",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312399289.jpg"
   }
 ]
