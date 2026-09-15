@@ -1,5 +1,13 @@
 [
   {
+    "title": "LSD could be approved for anxiety in the US in 2027 | New Scientist",
+    "url": "https://www.newscientist.com/article/2589271-lsd-could-be-approved-for-anxiety-in-2027/",
+    "description": "The psychedelic drug LSD eased anxiety in a late-stage trial, paving the way for a probable approval in the US within the next two years",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312407519.jpg"
+  },
+  {
     "title": "One of the fundamental forces is stronger than we thought | New Scientist",
     "url": "https://www.newscientist.com/article/2589002-one-of-the-fundamental-forces-is-stronger-than-we-thought/",
     "description": "The most precise calculation yet of the electroweak force could help fix cracks in the standard model of particle physics",
@@ -18,7 +26,7 @@
   {
     "title": "Brain implant lets people with paralysis speak and gesture at the same time | New Scientist",
     "url": "https://www.newscientist.com/article/2589210-brain-implant-lets-people-with-paralysis-speak-and-gesture-at-the-same-time/",
-    "description": "Previous brain implants have enabled people with paralysis to either speak or move, but a new, larger one enabled them to do both simultaneously via an avatar",
+    "description": "Previous brain implants have enabled people with paralysis to either speak or move, but a new, larger one let them do both simultaneously via an avatar",
     "author": "Carissa Wong",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312425487.jpg"
@@ -38,13 +46,5 @@
     "author": "Alec Luhn",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312399289.jpg"
-  },
-  {
-    "title": "Why is everyone suddenly worried about the risks of AI? | New Scientist",
-    "url": "https://www.newscientist.com/article/2589033-why-is-everyone-suddenly-worried-about-the-risks-of-ai/",
-    "description": "AI experts put the chance of models rising up and killing us all at greater than 10 per cent – but are the risks real? And can anything be done if they are?",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312424732.jpg"
   }
 ]
