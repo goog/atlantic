@@ -1,5 +1,13 @@
 [
   {
+    "title": "Math Can’t Go On Like This",
+    "url": "https://www.theatlantic.com/technology/2026/09/math-crisis-openai-millennium-prize/688631/",
+    "description": "AI just solved one of the world’s hardest math problems.",
+    "author": "Kai Williams",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/4jrZQn8oLoPzfs2xkybHbD_aQWs=/227x0:2657x1620/210x140/media/img/mt/2026/09/2026_09_14_AI_Math/original.gif"
+  },
+  {
     "title": "Trump’s Position on AI Makes No Sense",
     "url": "https://www.theatlantic.com/ideas/2026/09/trump-ai-china/688629/",
     "description": "If the president is so concerned about staying ahead in the AI race, why is he letting Chinese companies buy American chips?",
@@ -72,7 +80,7 @@
     "image": "https://cdn.theatlantic.com/thumbor/t1wGsZ4vkQdWfVIkjeNBKJyjtis=/315x0:3690x2250/210x140/media/img/mt/2026/09/2026_09_14_The_Supreme_Court_Recognizes_the_Danger_of_Trumps_Election_Plan_Quinta_Jurecic_/original.jpg"
   },
   {
-    "title": "‘The Flood is the Point’",
+    "title": "‘The Flood Is the Point’",
     "url": "https://www.theatlantic.com/podcasts/2026/09/the-canadians-have-had-enough-of-this-nonsense/688614/",
     "description": "As the midterms approach, the president can’t stop picking fights.",
     "author": "Adam Harris",
@@ -150,13 +158,5 @@
     "author": "Owen Zidarand Eric Zwick",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/KfGitp27SqpPHhGWVWfOBNPoWZ4=/155x0:1842x1125/210x140/media/img/mt/2026/09/2026_9_11_EXCERPT_Americans_Dont_Understand_Whos_Rich/original.jpg"
-  },
-  {
-    "title": "George Lucas’s Next Great Epic Is an Art Museum",
-    "url": "https://www.theatlantic.com/magazine/2026/10/george-lucas-museum-narrative-art/688348/",
-    "description": "Inside theStar Warscreator’s temple to storytelling",
-    "author": "James Parker",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/yJD4yMrV7WISYdE9sVJiUO-vyIk=/191x0:2236x1363/210x140/media/img/2026/09/16x9_Parker_Lucas/original.png"
   }
 ]
