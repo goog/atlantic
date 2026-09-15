@@ -1,5 +1,13 @@
 [
   {
+    "title": "The Parthenon's architectural illusions are a myth | New Scientist",
+    "url": "https://www.newscientist.com/article/2589400-the-parthenons-architectural-illusions-are-a-myth/",
+    "description": "Optical illusions thought to have influenced the design of the Parthenon in ancient Greece are not backed up by evidence or are too small to have an effect",
+    "author": "Chris Simms",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312585147.jpg"
+  },
+  {
     "title": "We may finally have a way to rate a quantum computer’s usefulness | New Scientist",
     "url": "https://www.newscientist.com/article/2589378-we-may-finally-have-a-way-to-rate-a-quantum-computers-usefulness/",
     "description": "Determining how useful different quantum computers are has been a long running challenge – now researchers appear to have the answer",
@@ -38,13 +46,5 @@
     "author": "Clarissa Brincat",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312400576.jpg"
-  },
-  {
-    "title": "Brain implant lets people with paralysis speak and gesture at the same time | New Scientist",
-    "url": "https://www.newscientist.com/article/2589210-brain-implant-lets-people-with-paralysis-speak-and-gesture-at-the-same-time/",
-    "description": "Previous brain implants have enabled people with paralysis to either speak or move, but a new, larger one let them do both simultaneously via an avatar",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312425487.jpg"
   }
 ]
