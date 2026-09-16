@@ -1,5 +1,29 @@
 [
   {
+    "title": "Asteroid hit the moon and flung rocks 120 kilometres from the crater | New Scientist",
+    "url": "https://www.newscientist.com/article/2589435-asteroid-hit-the-moon-and-flung-debris-120-kilometres-from-the-crater/",
+    "description": "Researchers have watched a huge crater form on the lunar surface, and its widespread effects could help inform future exploration of the moon and other similar places",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312715757.jpg"
+  },
+  {
+    "title": "Earth is getting less dusty – which is both good and bad | New Scientist",
+    "url": "https://www.newscientist.com/article/2589493-earth-is-getting-less-dusty-which-is-both-good-and-bad/",
+    "description": "The amount of dust in the atmosphere has fallen, which is good for our lungs, but is a loss for ecosystems that depend on wind-borne nutrients",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312685035.jpg"
+  },
+  {
+    "title": "T. rex teeth show the enormous predatory dinosaur was warm-blooded | New Scientist",
+    "url": "https://www.newscientist.com/article/2589534-t-rex-teeth-show-the-enormous-predatory-dinosaur-was-warm-blooded/",
+    "description": "Analysis of the chemistry of ancient T. rex tooth enamel adds weight to the idea that the fierce Cretaceous predator controlled its body temperature",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312582694.jpg"
+  },
+  {
     "title": "Why it is time to restate the case for the importance of research on animals | New Scientist",
     "url": "https://www.newscientist.com/article/2589298-__trashed-126/",
     "description": "Recent progress on alternatives to animal testing is hugely welcome. But talk of \"phasing out\" animal research completely is misleading and could even be dangerous to scientists",
@@ -22,29 +46,5 @@
     "author": "Linda Geddes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311823646_c54c29.jpg"
-  },
-  {
-    "title": "Human organoids restore cognition in mice with half a brain | New Scientist",
-    "url": "https://www.newscientist.com/article/2589612-human-organoids-restore-cognition-in-mice-with-half-a-brain/",
-    "description": "Mice with half a brain experienced significant improvements in their cognition and movement when they received brain organoids made from human stem cells",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312701622.jpg"
-  },
-  {
-    "title": "Humpback whale mother with stillborn calf shows 'grief-like' behaviour | New Scientist",
-    "url": "https://www.newscientist.com/article/2589441-whale-mother-displays-grief-like-behaviour-with-stillborn-calf/",
-    "description": "For the first time, researchers have seen a humpback mother interacting with her stillborn calf, reporting that she stayed close to it for at least two days",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312680219.jpg"
-  },
-  {
-    "title": "Nuclear fusion experiment produces the brightest X-rays on Earth yet | New Scientist",
-    "url": "https://www.newscientist.com/article/2589237-nuclear-fusion-experiment-produces-the-brightest-x-rays-on-earth-yet/",
-    "description": "A new twist on nuclear fusion ignition emitted X-rays that are as bright as some stars, which could enable other extreme experiments",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312550456.jpg"
   }
 ]
