@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nuclear fusion experiment produces the brightest X-rays on Earth yet | New Scientist",
+    "url": "https://www.newscientist.com/article/2589237-nuclear-fusion-experiment-produces-the-brightest-x-rays-on-earth-yet/",
+    "description": "A new twist on nuclear fusion ignition emitted X-rays that are as bright as some stars, which could enable other extreme experiments",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312550456.jpg"
+  },
+  {
     "title": "Wild chimpanzees teach youngsters by handing them tools | New Scientist",
     "url": "https://www.newscientist.com/article/2589364-wild-chimpanzees-teach-youngsters-by-handing-them-tools/",
     "description": "Adult chimpanzees have been observed passing tools to their younger relatives, helping them learn the skills needed for fishing for ants or algae",
@@ -38,13 +46,5 @@
     "author": "Carissa Wong",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312407519.jpg"
-  },
-  {
-    "title": "One of the fundamental forces is stronger than we thought | New Scientist",
-    "url": "https://www.newscientist.com/article/2589002-one-of-the-fundamental-forces-is-stronger-than-we-thought/",
-    "description": "The most precise calculation yet of the electroweak force could help fix cracks in the standard model of particle physics",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311889062.jpg"
   }
 ]
