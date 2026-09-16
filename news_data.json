@@ -1,5 +1,13 @@
 [
   {
+    "title": "Wild chimpanzees teach youngsters by handing them tools | New Scientist",
+    "url": "https://www.newscientist.com/article/2589364-wild-chimpanzees-teach-youngsters-by-handing-them-tools/",
+    "description": "Adult chimpanzees have been observed passing tools to their younger relatives, helping them learn the skills needed for fishing for ants or algae",
+    "author": "Chris Simms",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312570747.jpg"
+  },
+  {
     "title": "The Parthenon's architectural illusions are a myth | New Scientist",
     "url": "https://www.newscientist.com/article/2589400-the-parthenons-architectural-illusions-are-a-myth/",
     "description": "Optical illusions thought to have influenced the design of the Parthenon in ancient Greece are not backed up by evidence or are too small to have an effect",
@@ -38,13 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311889062.jpg"
-  },
-  {
-    "title": "Reading for pleasure boosts memory, empathy and mental health | New Scientist",
-    "url": "https://www.newscientist.com/article/2589065-reading-for-pleasure-boosts-memory-attention-and-mental-health/",
-    "description": "Fewer people are reading for pleasure, but getting lost in a good book has repeatedly been linked to substantial cognitive benefits",
-    "author": "Clarissa Brincat",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312400576.jpg"
   }
 ]
