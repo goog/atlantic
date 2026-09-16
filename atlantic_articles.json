@@ -1,5 +1,29 @@
 [
   {
+    "title": "The Atrocities That Shaped the Modern Middle East",
+    "url": "https://www.theatlantic.com/podcasts/2026/09/david-frum-show-simon-sebag-montefiore-middle-east/688646/",
+    "description": "The historian Simon Sebag Montefiore on his latest book,The Cauldron, and how violence forged the modern Middle East",
+    "author": "David Frum",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/PgIbW5-xfQ464IxQGVwGfpZB_Jc=/151x0:1771x1080/210x140/media/img/mt/2026/09/2026_6_23_Vivian_Salama_The_David_Frum_Podcast_4-2/original.jpg"
+  },
+  {
+    "title": "The Knives Are Out for Bill Belichick",
+    "url": "https://www.theatlantic.com/culture/2026/09/bill-belichick-north-carolina-investigation/688648/",
+    "description": "The celebrated coach’s football program at the University of North Carolina is under investigation. It’s hard to know what is of substance—and what is noise.",
+    "author": "Sally Jenkins",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/ZEYoy3ngBNrEoMuVDV_B7kh2j3w=/155x0:1842x1125/210x140/media/img/mt/2026/09/BillB/original.png"
+  },
+  {
+    "title": "Pennsylvania’s Measles Outbreak Is Enormous",
+    "url": "https://www.theatlantic.com/health/2026/09/measles-deaths-pennsylvania-outbreak-kennedy/688647/",
+    "description": "The two latest deaths suggest that the true number of infections is much larger than reported.",
+    "author": "Tom Bartlett",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/QaAabo7LnF-PT2HKhKe9FwtTa0c=/315x0:3690x2250/210x140/media/img/mt/2026/09/2026_09_15_Americas_Incontrovertible_Measles_Crisis_Tom_Bartlett/original.jpg"
+  },
+  {
     "title": "Destroying Humanity Is Against the Law",
     "url": "https://www.theatlantic.com/ideas/2026/09/ai-risk-criminal-law/688615/",
     "description": "Don’t wait for a mass-extinction event before holding AI developers accountable.",
@@ -8,9 +32,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/eg2dCtJkRitiP4HOR3e0W_f5_9E=/155x0:1842x1125/210x140/media/img/mt/2026/09/2026_09_24_Destroying_Humanity_Is_Against_the_Law/original.jpg"
   },
   {
-    "title": "In Praise of Adult Silliness",
+    "title": "An Ingredient That’s All Too Rare in Adult Life",
     "url": "https://www.theatlantic.com/culture/2026/09/adult-silliness-praise-bocking-play/688623/",
-    "description": "A new play reminds us of an ingredient that’s all too rare in grown-up life.",
+    "description": "Whatever happened to being silly?",
     "author": "Lily Meyer",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/oa0CrU55vDGNyskFsj2wtA9Fmis=/320x0:3695x2250/210x140/media/img/mt/2026/09/2026_09_15_In_Praise_of_Adult_Silliness_Lily_Meyer/original.jpg"
@@ -134,29 +158,5 @@
     "author": "Lily Meyer",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/H3v3aWuRrj6El8u1-Ym9j5oAvcA=/227x1167:4157x3787/210x140/media/img/mt/2026/09/2026_09_11_The_Real_Reason_We_Fight_new/original.jpg"
-  },
-  {
-    "title": "Sons and Mothers",
-    "url": "https://www.theatlantic.com/magazine/2026/10/nancy-huddleston-motherhood-writing/688360/",
-    "description": "My mother devoted her life to teaching writers. Becoming one meant escaping the story she had written for me.",
-    "author": "George Packer",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/wlF1qdpVUNf9CDnKLIg-OIK_ACk=/233x222:1681x1187/210x140/media/img/2026/09/Elkins_Atlantic_09/original.jpg"
-  },
-  {
-    "title": "‘Feminism Is the Consequence of the “Man Problem,” Not Its Cause’",
-    "url": "https://www.theatlantic.com/magazine/2026/10/the-commons/688355/",
-    "description": "Readers respond to our June 2026 cover story and more.",
-    "author": "",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/3ZnLeNr_EpV2xdG_LwKF0rd3nTg=/88x427:2107x1773/210x140/media/img/2026/09/1026CommonsSpread/original.jpg"
-  },
-  {
-    "title": "What Comes After America",
-    "url": "https://www.theatlantic.com/magazine/2026/10/exit-party-emily-st-john-mandel/688349/",
-    "description": "Emily St. John Mandel’s latest work of science fiction considers the tenuousness of any possible future.",
-    "author": "Adam Begley",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/tfUUFXhJy4348oYZfAyTJTOJfps=/107x1681:2308x3148/210x140/media/img/2026/08/1026_Begley/original.jpg"
   }
 ]
