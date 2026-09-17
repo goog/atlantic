@@ -1,5 +1,21 @@
 [
   {
+    "title": "Short bursts of exercise can boost your cognition | New Scientist",
+    "url": "https://www.newscientist.com/article/2589563-short-bursts-of-exercise-can-boost-your-cognition/",
+    "description": "Just a couple of minutes of walking around or stretching every hour can improve memory and attention span",
+    "author": "Chris Simms",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312402242.jpg"
+  },
+  {
+    "title": "Ancient skeleton shows woman in imperial China had her nose amputated | New Scientist",
+    "url": "https://www.newscientist.com/article/2589480-ancient-skeleton-shows-woman-in-imperial-china-had-her-nose-amputated/",
+    "description": "Texts from imperial China suggest that some crimes were punishable with unusual amputations and a 700-year-old skeleton appears to offer the first physical evidence of the practice",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312426152.jpg"
+  },
+  {
     "title": "Plug-in solar panels still have safety risks in the UK despite legalisation | New Scientist",
     "url": "https://www.newscientist.com/article/2587873-plug-in-solar-panels-still-have-safety-risks-in-the-uk-despite-legalisation/",
     "description": "Plug-in solar panels offer reduced bills and can help boost renewable energy on Great Britain's grid, but concerns around their safety remain",
@@ -30,21 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312582694.jpg"
-  },
-  {
-    "title": "Why it is time to restate the case for the importance of research on animals | New Scientist",
-    "url": "https://www.newscientist.com/article/2589298-__trashed-126/",
-    "description": "Recent progress on alternatives to animal testing is hugely welcome. But talk of \"phasing out\" animal research completely is misleading and could even be dangerous to scientists",
-    "author": "New Scientist",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310501763.jpg"
-  },
-  {
-    "title": "Satellite data gives clearer picture of how ice sheets are losing mass | New Scientist",
-    "url": "https://www.newscientist.com/article/2589537-satellite-data-gives-clearer-picture-of-how-ice-sheets-are-losing-mass/",
-    "description": "The longest satellite record ever compiled shows the vast majority of ice loss from Greenland and Antarctica is due to glaciers flowing faster, rather than warmer air temperatures melting them at the surface",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312708671.jpg"
   }
 ]
