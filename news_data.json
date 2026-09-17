@@ -1,5 +1,13 @@
 [
   {
+    "title": "See the dazzling images that won Astronomy Photographer of the Year | New Scientist",
+    "url": "https://www.newscientist.com/article/2589489-see-the-dazzling-images-that-won-astronomy-photographer-of-the-year/",
+    "description": "Stunning pictures of nebulae, stars, the moon and more took top prizes in this year's astrophotography competition, organised by the Royal Observatory in London",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312686957.jpg"
+  },
+  {
     "title": "Robots clash in first naval engagement between uncrewed sea drones | New Scientist",
     "url": "https://www.newscientist.com/article/2589842-robots-clash-in-first-ever-naval-engagement-between-uncrewed-crafts/",
     "description": "Earlier this month, the Ukrainian Navy used an uncrewed vessel to attack and sink an uncrewed naval robot operated by Russian forces",
@@ -38,13 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312685605.jpg"
-  },
-  {
-    "title": "Asteroid hit the moon and flung rocks 120 kilometres from the crater | New Scientist",
-    "url": "https://www.newscientist.com/article/2589435-asteroid-hit-the-moon-and-flung-debris-120-kilometres-from-the-crater/",
-    "description": "Researchers have watched a huge crater form on the lunar surface, and its widespread effects could help inform future exploration of the moon and other similar places",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312715757.jpg"
   }
 ]
