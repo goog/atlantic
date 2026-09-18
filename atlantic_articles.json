@@ -1,5 +1,29 @@
 [
   {
+    "title": "We Haven’t Survived. ‘We AreSurviving.’",
+    "url": "https://www.theatlantic.com/ideas/2026/09/atlantic-festival-journalism-press-freedom/688702/",
+    "description": "Jeffrey Goldberg, Amna Nawaz, and Joe Kahn discussed how to sustain a free press in an era of public distrust, social-media punditry, and a hostile federal government.",
+    "author": "Amogh Dimri",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/DZ1v642oa0KMapl2l5OCk_sTZUU=/151x0:1771x1080/210x140/media/img/mt/2026/09/TAF26_TAF_Nawaz_Kahn_Smith_Goldberg/original.jpg"
+  },
+  {
+    "title": "Lina Khan on Doomer Panic and Ending AI Exceptionalism",
+    "url": "https://www.theatlantic.com/podcasts/2026/09/lina-khan-on-the-ai-safety-panic/688693/",
+    "description": "Why the AI-alarmism conversation feels off",
+    "author": "Charlie Warzel",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/8a1kepUdvYZpptCmiFljIzg7AMQ=/155x0:1842x1125/210x140/media/img/mt/2026/09/2026_9_17_GB_Lina_Khan_interview/original.png"
+  },
+  {
+    "title": "The Books You Should Read About the Bomb",
+    "url": "https://www.theatlantic.com/newsletters/2026/09/books-briefing-books-you-should-read-about-bomb/688704/",
+    "description": "The more we know about the world’s most powerful weapons, the better our chances of containing them.",
+    "author": "Emma Sarappo",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/njhiamedJR3j_B-qOTww6_kB1pA=/55x0:2883x1885/210x140/media/newsletters/2026/09/2026_09_18_Books_Briefing_Nuclear_Books/original.jpg"
+  },
+  {
     "title": "The Other Way AI Impairs Our Thinking",
     "url": "https://www.theatlantic.com/ideas/2026/09/ai-apocalypse-despair-focus/688689/",
     "description": "Suddenly the technology is sapping people’s concentration in a new way, one that abstaining from AI won’t fix.",
@@ -8,9 +32,9 @@
     "image": "https://cdn.theatlantic.com/thumbor/B1niCDrvEry7vteHshfBtkx1yts=/116x0:1296x787/210x140/media/img/mt/2026/09/2026_09_17_brain_AI_mpg/original.gif"
   },
   {
-    "title": "‘An Infinite Sea of Rats’",
+    "title": "City Rats Are Going on Birth Control",
     "url": "https://www.theatlantic.com/science/2026/09/city-rats-birth-control/688688/",
-    "description": "D.C. is trying to deal with its rats by putting them on birth control.",
+    "description": "Contraceptives are kinder than poison.",
     "author": "Emma Marris",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/XrV8CWdmlWBZK-i9CGym-ucqa3A=/155x0:1842x1125/210x140/media/img/mt/2026/09/2026_09_18_rat_birth_control/original.png"
@@ -134,29 +158,5 @@
     "author": "Scott W. Stern",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/Jr_7E_bt5wpZOYZThxQGNGDLzVs=/152x0:1780x1086/210x140/media/img/mt/2026/09/IMG_2779/original.jpg"
-  },
-  {
-    "title": "Who Made America Poorer and Dirtier?",
-    "url": "https://www.theatlantic.com/ideas/2026/09/vance-speech-immigrants-democrats/688656/",
-    "description": "The people in charge are really hoping you’ll blame someone else.",
-    "author": "Adam Serwer",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/8tHdL1XWgnspi2P9LxR9AOU6Jtg=/227x0:2657x1620/210x140/media/img/mt/2026/09/2026_09_16_Poorer_and_Dirtier_1/original.jpg"
-  },
-  {
-    "title": "The Dead Silence of AI Therapy",
-    "url": "https://www.theatlantic.com/technology/2026/09/ai-therapy-without-a-therapist/688633/",
-    "description": "What happens when our therapists are no longer able to feel?",
-    "author": "Steven Barrie-Anthony",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/PddMjG464Gb87BwFeBx6c93naiA=/590x0:3830x2160/210x140/media/img/mt/2026/09/a._wires_of_support_copy/original.jpg"
-  },
-  {
-    "title": "A Plan to Pay Married Mothers Not to Work",
-    "url": "https://www.theatlantic.com/ideas/2026/09/vance-married-mothers-child-care/688645/",
-    "description": "J. D. Vance has a terrible proposal.",
-    "author": "Annie Lowrey",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/ReCxwpHYZ06My3IMboLbpiY_Bdw=/315x0:3690x2250/210x140/media/img/mt/2026/09/2026_09_16_TK_Vances_Bad_Plan_for_Parents_Annie_Lowrey/original.jpg"
   }
 ]
