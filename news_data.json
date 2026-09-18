@@ -1,5 +1,29 @@
 [
   {
+    "title": "Physicists are scrambling to make sense of possible dark matter signal | New Scientist",
+    "url": "https://www.newscientist.com/article/2589737-physicists-are-scrambling-to-make-sense-of-possible-dark-matter-signal/",
+    "description": "Following the possible recent detection of a dark matter particle, researchers have already come up with a veritable cornucopia of possible models for what sort of particle it might have been",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310543559.jpg"
+  },
+  {
+    "title": "Fishapod fossil shows early elbows came in a variety of forms | New Scientist",
+    "url": "https://www.newscientist.com/article/2589938-fishapod-fossil-shows-early-elbows-came-in-a-variety-of-forms/",
+    "description": "The fish that preceded the first four-legged land animals came in a wider variety of forms than we had thought, and fossils show that one had an elbow joint that moved in an oddly restrictive way",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312707974.jpg"
+  },
+  {
+    "title": "Our brain evolved from two primitive nervous systems that merged | New Scientist",
+    "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+    "description": "The front and back parts of our brain come from different progenitor cells in embryos, which suggests they evolved as separate entities",
+    "author": "Alice Klein",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312848573.jpg"
+  },
+  {
     "title": "See the dazzling images that won Astronomy Photographer of the Year | New Scientist",
     "url": "https://www.newscientist.com/article/2589489-see-the-dazzling-images-that-won-astronomy-photographer-of-the-year/",
     "description": "Stunning pictures of nebulae, stars, the moon and more took top prizes in this year's astrophotography competition, organised by the Royal Observatory in London",
@@ -22,29 +46,5 @@
     "author": "Chris Simms",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312819149.jpg"
-  },
-  {
-    "title": "Short bursts of exercise can boost your cognition | New Scientist",
-    "url": "https://www.newscientist.com/article/2589563-short-bursts-of-exercise-can-boost-your-cognition/",
-    "description": "Just a couple of minutes of walking around or stretching every hour can improve memory and attention span",
-    "author": "Chris Simms",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312402242.jpg"
-  },
-  {
-    "title": "Ancient skeleton shows woman in imperial China had her nose amputated | New Scientist",
-    "url": "https://www.newscientist.com/article/2589480-ancient-skeleton-shows-woman-in-imperial-china-had-her-nose-amputated/",
-    "description": "Texts from imperial China suggest that some crimes were punishable with unusual amputations and a 700-year-old skeleton appears to offer the first physical evidence of the practice",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312426152.jpg"
-  },
-  {
-    "title": "Plug-in solar panels still have safety risks in the UK despite legalisation | New Scientist",
-    "url": "https://www.newscientist.com/article/2587873-plug-in-solar-panels-still-have-safety-risks-in-the-uk-despite-legalisation/",
-    "description": "Plug-in solar panels offer reduced bills and can help boost renewable energy on Great Britain's grid, but concerns around their safety remain",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312685605.jpg"
   }
 ]
