@@ -1,5 +1,13 @@
 [
   {
+    "title": "Pinballing",
+    "url": "https://www.theatlantic.com/books/2026/09/poem-jan-beatty-pinballing/688667/",
+    "description": "",
+    "author": "Jan Beatty",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/lyDNfinMXwb_TMPEexGwm2kSifw=/0x1445:1721x2592/210x140/media/img/mt/2026/09/2026_09_16_Pinballing_Poem/original.jpg"
+  },
+  {
     "title": "What Is Humanity’s Place in the Cosmos?",
     "url": "https://www.theatlantic.com/podcasts/2026/09/what-is-humanitys-place-in-the-cosmos/688668/",
     "description": "A lifelong fascination with terra incognita led the astrophysicist Priyamvada Natarajan to map out the universe’s most enigmatic phenomena.",
@@ -150,13 +158,5 @@
     "author": "David A. Graham",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/k3fPFmN5cXIlxCr80d7-Ex5X9vs=/415x0:4897x2988/210x140/media/newsletters/2026/09/2026_09_18_The_Daily_Recent_Fractures_in_The_Trump_Coalition/original.jpg"
-  },
-  {
-    "title": "Researchers Say They’ve Found the Truth About Thomas Jefferson",
-    "url": "https://www.theatlantic.com/ideas/2026/09/thomas-jefferson-genome-children/688635/",
-    "description": "A secret 15-year effort has produced genetic evidence that one of the nation’s Founders fathered children with a woman he enslaved.",
-    "author": "Andrew Lawler",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/yKPG9wJMxiqxW7pGCpzpaIkGFik=/155x0:1842x1125/210x140/media/img/mt/2026/09/JeffersonSally/original.png"
   }
 ]
