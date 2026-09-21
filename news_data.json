@@ -1,5 +1,13 @@
 [
   {
+    "title": "Swimmer made of quantum light breaks Newton's third law | New Scientist",
+    "url": "https://www.newscientist.com/article/2589721-swimmer-made-of-quantum-light-breaks-newtons-third-law/",
+    "description": "According to Newton’s third law, all actions are paired with reciprocal reactions. But breaking this principle allowed an artificial swimmer to move upstream in a quantum stream of light",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312724370.jpg"
+  },
+  {
     "title": "X's Starship will orbit Earth for first time during next flight | New Scientist",
     "url": "https://www.newscientist.com/article/2589461-spacexs-starship-will-orbit-earth-for-first-time-during-next-flight/",
     "description": "Starship's next test flight will be its first orbital mission. The craft will also release working Starlink V3 satellites for the first time, making the flight the first commercially useful Starship mission",
@@ -38,13 +46,5 @@
     "author": "Leah Crane",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312686957.jpg"
-  },
-  {
-    "title": "Robots clash in first naval engagement between uncrewed sea drones | New Scientist",
-    "url": "https://www.newscientist.com/article/2589842-robots-clash-in-first-ever-naval-engagement-between-uncrewed-crafts/",
-    "description": "Earlier this month, the Ukrainian Navy used an uncrewed vessel to attack and sink an uncrewed naval robot operated by Russian forces",
-    "author": "David Hambling",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312813537.jpg"
   }
 ]

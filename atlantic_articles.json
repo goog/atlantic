@@ -1,5 +1,45 @@
 [
   {
+    "title": "Photos: Wildflowers Bloom in the Atacama Desert",
+    "url": "https://www.theatlantic.com/photography/2026/09/photos-wildflowers-bloom-atacama-desert/688728/",
+    "description": "Javier Torres, a photojournalist with AFP, recently visited the Atacama Desert in Chile, capturing images of a desert in bloom after a spell of unusually wet weather.",
+    "author": "Alan Taylor",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/1IiFrQP52reFxJyYEGtkfL_TkT8=/47x0:3945x2598/210x140/media/img/mt/2026/09/a01_G_2295314599/original.jpg"
+  },
+  {
+    "title": "What Were My Dreams Trying to Tell Me?",
+    "url": "https://www.theatlantic.com/magazine/2026/11/ayad-akhtar-dreams-meditation/688676/",
+    "description": "To make sense of my deepest experiences, I needed a new way of talking about the soul.",
+    "author": "Ayad Akhtar",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/e9j0FnhP-roeJADhc2zFdanFQKw=/1x1992:2275x3508/210x140/media/img/2026/09/Theatlantic_heleneblanc_Soul_1_3-1/original.jpg"
+  },
+  {
+    "title": "In Defense of Guilt by Association",
+    "url": "https://www.theatlantic.com/ideas/2026/09/vance-sayed-piker-carlson-friendships/688657/",
+    "description": "The wisdom of judging politicians by the company they keep",
+    "author": "James Kirchick",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/4opP5z0u678nxTK-xHsMTZ1fKp0=/200x0:1887x1125/210x140/media/img/mt/2026/09/2026_09_16_Kirchick_guilt_by_association_final/original.jpg"
+  },
+  {
+    "title": "The Book Claiming to Teach Couples How to Select Their Baby’s Sex",
+    "url": "https://www.theatlantic.com/family/2026/09/babydust-boy-girl/688722/",
+    "description": "The Babydust Methodfeatures advice debunked decades ago. Why have tens of thousands of people bought in?",
+    "author": "Olga Khazan",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/rP0MNyROovsclThpDkfJpV3NV6U=/227x0:2657x1620/210x140/media/img/mt/2026/09/2026_09_08_TikToks_Bizarre_Pseudoscientific_Advice_for_How_to_Ensure_Having_a_Girl/original.jpg"
+  },
+  {
+    "title": "The Curious Left-Wing Argument Against New AI Regulations",
+    "url": "https://www.theatlantic.com/ideas/2026/09/ai-regulation-anti-monopoly-challenge/688707/",
+    "description": "The governing challenges raised by AI expose several unfortunate tendencies in the populist anti-monopoly movement.",
+    "author": "Jonathan Chait",
+    "category": "",
+    "image": "https://cdn.theatlantic.com/thumbor/17LPA2pnPIZo4gUxBJsl8o4BoFw=/435x0:3810x2250/210x140/media/img/mt/2026/09/2026_09_18_The_Curious_Left_Wing_Case_Against_AI_Regulation_Jonathan_Chait/original.jpg"
+  },
+  {
     "title": "How to Regulate the Ghosts",
     "url": "https://www.theatlantic.com/ideas/2026/09/ai-regulation-trump/688726/",
     "description": "You don’t have to know everything to do something.",
@@ -8,12 +48,12 @@
     "image": "https://cdn.theatlantic.com/thumbor/CpokFfBU7iTEGffPEt7LptAGceQ=/227x0:2657x1620/210x140/media/img/mt/2026/09/2026_09_20_AI_regulation/original.jpg"
   },
   {
-    "title": "Professors Are Tearing Their Hair Out Over AI Detectors",
+    "title": "The Pangram Backlash Unfolding on College Campuses",
     "url": "https://www.theatlantic.com/technology/2026/09/college-professors-ai-detectors-pangram/688727/",
-    "description": "Colleges still have no good options for chatbots.",
+    "description": "Professors are tearing their hair out over AI detectors.",
     "author": "Will Oremus",
     "category": "",
-    "image": ""
+    "image": "https://cdn.theatlantic.com/thumbor/G_bzbRfXBefv6OIvwRPqGQBuo1M=/0x0:810x540/210x140/media/img/mt/2026/09/2026_09_16_Oremus_AiDetection_final_2/original.gif"
   },
   {
     "title": "Don’t Ask How This War Ends",
@@ -26,7 +66,7 @@
   {
     "title": "The Northern Passage",
     "url": "https://www.theatlantic.com/politics/2026/09/haitians-canada-tps-ice/688684/",
-    "description": "Hunted by ICE, Haitians flee across the border to hide in Canada.",
+    "description": "ICE is targeting Haitians with new intensity. Now some are fleeing the United States for Canada.",
     "author": "Nick Miroff",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/M6kfUjhF9WNtEsqKQ9MN_V067Ls=/117x82:2764x1847/210x140/media/img/mt/2026/09/2026_09_18_canada_haitian_ice_0002/original.jpg"
@@ -118,45 +158,5 @@
     "author": "Charlie Warzel",
     "category": "",
     "image": "https://cdn.theatlantic.com/thumbor/Al5Mz9fhGXz0qHs4ca3r6qxVCMw=/315x0:3690x2250/210x140/media/img/mt/2026/09/2026_09_16_everyone_is_right_and_wrong_about_ai/original.jpg"
-  },
-  {
-    "title": "Kara Swisher: AI Isn’t Going to Destroy Humanity—But the People Building It Might",
-    "url": "https://www.theatlantic.com/technology/2026/09/kara-swisher-ai-destroy-humanity-atlantic-festival/688721/",
-    "description": "The longtime tech journalist says she’s seen Silicon Valley make the same mistakes again and again.",
-    "author": "Victoria Feng",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/it1zKllzj-elwBt_w3liVoChk9M=/315x0:3690x2250/210x140/media/img/mt/2026/09/2026_09_18_Kara_Swisher_w_Adrienne_LaFrance_TAF/original.jpg"
-  },
-  {
-    "title": "What AI Anxiety Looks Like in China",
-    "url": "https://www.theatlantic.com/international/2026/09/beijing-ai-popularity-regulation/688597/",
-    "description": "A top-down tech revolution is harder to manage than a bottom-up one.",
-    "author": "Michael Schuman",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/ENtoWz0VxaQ1QYHwR_bQaWhWbQY=/378x0:4428x2700/210x140/media/img/mt/2026/09/This_is_What_AI_Anxiety_Looks_Like_in_China/original.jpg"
-  },
-  {
-    "title": "Emily Wilson Can’t LetThe OdysseyGo",
-    "url": "https://www.theatlantic.com/books/2026/09/emily-wilson-odyssey-christopher-nolan-new-translation-q-and-a-atlantic-festival/688718/",
-    "description": "The translator spoke about her desire to retranslate the epic—and her harsh review of the recent film.",
-    "author": "Gal Beckerman",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/JS-T-MS0BFi40XHYPGXtIadnrb8=/302x0:3542x2160/210x140/media/img/mt/2026/09/2026_09_18_TAF_Emily_Wilson_Gal_Beckerman/original.jpg"
-  },
-  {
-    "title": "The Republicans Distancing Themselves From Trump",
-    "url": "https://www.theatlantic.com/national/2026/09/republicans-distancing-trump-washington-week/688719/",
-    "description": "Panelists joined to discuss how some Republicans are responding to the president ahead of the midterms.",
-    "author": "The Editors",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/js-DS0CzdNVNnfl-QFhT-IZ3oiY=/101x0:2299x1466/210x140/media/img/mt/2026/09/Screenshot_2026_09_19_at_7.28.43AM/original.png"
-  },
-  {
-    "title": "The Wisdom of Uncertainty",
-    "url": "https://www.theatlantic.com/newsletters/2026/09/wisdom-of-accepting-uncertainty/688714/",
-    "description": "Why accepting what we don’t know can change how we see the world",
-    "author": "Rafaela Jinich",
-    "category": "",
-    "image": "https://cdn.theatlantic.com/thumbor/z8LGPV6IokbZv5Sz7RUb9MfV8e0=/162x279:3835x2728/210x140/media/img/mt/2026/09/GettyImages_1294493102-1/original.jpg"
   }
 ]
