@@ -1,5 +1,13 @@
 [
   {
+    "title": "Worried about an AI apocalypse? Here's how to think about the risk of doom | New Scientist",
+    "url": "https://www.newscientist.com/article/2590164-worried-about-an-ai-apocalypse-heres-how-to-think-about-the-risk-of-doom/",
+    "description": "Commentators say the probability of machines wiping us out ranges from 0 to over 95 per cent. Columnist Jacob Aron explains why you shouldn't trust any of those numbers",
+    "author": "Jacob Aron",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313425504.jpg"
+  },
+  {
     "title": "Swimmer made of quantum light breaks Newton's third law | New Scientist",
     "url": "https://www.newscientist.com/article/2589721-swimmer-made-of-quantum-light-breaks-newtons-third-law/",
     "description": "According to Newton’s third law, all actions are paired with reciprocal reactions. But breaking this principle allowed an artificial swimmer to move upstream in a quantum stream of light",
@@ -38,13 +46,5 @@
     "author": "Alice Klein",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312848573.jpg"
-  },
-  {
-    "title": "See the dazzling images that won Astronomy Photographer of the Year | New Scientist",
-    "url": "https://www.newscientist.com/article/2589489-see-the-dazzling-images-that-won-astronomy-photographer-of-the-year/",
-    "description": "Stunning pictures of nebulae, stars, the moon and more took top prizes in this year's astrophotography competition, organised by the Royal Observatory in London",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312686957.jpg"
   }
 ]
