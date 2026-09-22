@@ -1,5 +1,21 @@
 [
   {
+    "title": "Fire amoeba breaks heat tolerance record for complex life | New Scientist",
+    "url": "https://www.newscientist.com/article/2590054-fire-amoeba-breaks-heat-tolerance-record-for-complex-life/",
+    "description": "An amoeba living in a Californian hot spring is thriving above 60°C, a threshold previously thought deadly to complex life",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312960872.jpg"
+  },
+  {
+    "title": "Should we use GLP-1 drugs to treat obesity in children? | New Scientist",
+    "url": "https://www.newscientist.com/article/2590267-should-we-use-glp-1-drugs-to-treat-obesity-in-children/",
+    "description": "Children as young as 8 in the US are being prescribed off-label GLP-1 weight-loss drugs, sparking debate about the potential long-term health effects",
+    "author": "Alice Klein",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313511345.jpg"
+  },
+  {
     "title": "Worried about an AI apocalypse? Here's how to think about the risk of doom | New Scientist",
     "url": "https://www.newscientist.com/article/2590164-worried-about-an-ai-apocalypse-heres-how-to-think-about-the-risk-of-doom/",
     "description": "Commentators say the probability of machines wiping us out ranges from 0 to over 95 per cent. Columnist Jacob Aron explains why you shouldn't trust any of those numbers",
@@ -30,21 +46,5 @@
     "author": "Leah Crane",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310543559.jpg"
-  },
-  {
-    "title": "Fishapod fossil shows early elbows came in a variety of forms | New Scientist",
-    "url": "https://www.newscientist.com/article/2589938-fishapod-fossil-shows-early-elbows-came-in-a-variety-of-forms/",
-    "description": "The fish that preceded the first four-legged land animals came in a wider variety of forms than we had thought, and fossils show that one had an elbow joint that moved in an oddly restrictive way",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312707974.jpg"
-  },
-  {
-    "title": "Our brain evolved from two primitive nervous systems that merged | New Scientist",
-    "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-    "description": "The front and back parts of our brain come from different progenitor cells in embryos, which suggests they evolved as separate entities",
-    "author": "Alice Klein",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312848573.jpg"
   }
 ]
