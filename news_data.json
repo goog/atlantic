@@ -1,5 +1,21 @@
 [
   {
+    "title": "Is AI really getting dangerously out of control? | New Scientist",
+    "url": "https://www.newscientist.com/article/2590038-is-ai-dangerously-out-of-control-or-about-to-be/",
+    "description": "Grim warnings of the existential risk posed by AI are all over the news, but there is very little evidence to back them up",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313537973.jpg"
+  },
+  {
+    "title": "El Niño heat could kill half a million people by February | New Scientist",
+    "url": "https://www.newscientist.com/article/2590260-el-nino-heat-could-kill-half-a-million-by-february-and-more-after-that/",
+    "description": "Higher temperatures around the world due to the record-breaking El Niño will lead to an estimated 450,000 extra deaths by February unless swift action is taken, warn researchers",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313519870.jpg"
+  },
+  {
     "title": "Fire amoeba breaks heat tolerance record for complex life | New Scientist",
     "url": "https://www.newscientist.com/article/2590054-fire-amoeba-breaks-heat-tolerance-record-for-complex-life/",
     "description": "An amoeba living in a Californian hot spring is thriving above 60°C, a threshold previously thought deadly to complex life",
@@ -30,21 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312724370.jpg"
-  },
-  {
-    "title": "X's Starship will orbit Earth for first time during next flight | New Scientist",
-    "url": "https://www.newscientist.com/article/2589461-spacexs-starship-will-orbit-earth-for-first-time-during-next-flight/",
-    "description": "Starship's next test flight will be its first orbital mission. The craft will also release working Starlink V3 satellites for the first time, making the flight the first commercially useful Starship mission",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312823359.jpg"
-  },
-  {
-    "title": "Physicists are scrambling to make sense of possible dark matter signal | New Scientist",
-    "url": "https://www.newscientist.com/article/2589737-physicists-are-scrambling-to-make-sense-of-possible-dark-matter-signal/",
-    "description": "Following the possible recent detection of a dark matter particle, researchers have already come up with a veritable cornucopia of possible models for what sort of particle it might have been",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310543559.jpg"
   }
 ]
