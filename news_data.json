@@ -1,5 +1,21 @@
 [
   {
+    "title": "Lifestyle changes may be as effective as therapy at easing depression | New Scientist",
+    "url": "https://www.newscientist.com/article/2590434-lifestyle-changes-may-be-as-effective-as-therapy-at-easing-depression/",
+    "description": "Advice about mindful eating, enjoying exercise and getting good-quality sleep was at least as effective for treating depression as cognitive behavioural therapy",
+    "author": "Mary West",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313668501.jpg"
+  },
+  {
+    "title": "Severe meningitis outbreak caused by bacteria that took genes from microbiome | New Scientist",
+    "url": "https://www.newscientist.com/article/2590470-severe-meningitis-outbreak-caused-by-bacteria-that-took-genes-from-microbiome/",
+    "description": "An unprecedented meningitis outbreak that occurred in Kent, UK, in March seems to have been driven by a bacterial strain taking genes from harmless microbes",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313669329.jpg"
+  },
+  {
     "title": "Is AI really getting dangerously out of control? | New Scientist",
     "url": "https://www.newscientist.com/article/2590038-is-ai-dangerously-out-of-control-or-about-to-be/",
     "description": "Grim warnings of the existential risk posed by AI are all over the news, but there is very little evidence to back them up",
@@ -30,21 +46,5 @@
     "author": "Alice Klein",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313511345.jpg"
-  },
-  {
-    "title": "Worried about an AI apocalypse? Here's how to think about the risk of doom | New Scientist",
-    "url": "https://www.newscientist.com/article/2590164-worried-about-an-ai-apocalypse-heres-how-to-think-about-the-risk-of-doom/",
-    "description": "Commentators say the probability of machines wiping us out ranges from 0 to over 95 per cent. Columnist Jacob Aron explains why you shouldn't trust any of those numbers",
-    "author": "Jacob Aron",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313425504.jpg"
-  },
-  {
-    "title": "Swimmer made of quantum light breaks Newton's third law | New Scientist",
-    "url": "https://www.newscientist.com/article/2589721-swimmer-made-of-quantum-light-breaks-newtons-third-law/",
-    "description": "According to Newton’s third law, all actions are paired with reciprocal reactions. But breaking this principle allowed an artificial swimmer to move upstream in a quantum stream of light",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312724370.jpg"
   }
 ]
