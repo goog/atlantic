@@ -1,5 +1,37 @@
 [
   {
+    "title": "Dogs pay more attention to consonants than vowels when we speak | New Scientist",
+    "url": "https://www.newscientist.com/article/2590694-dogs-pay-more-attention-to-consonants-than-vowels-when-we-speak/",
+    "description": "Hooking up dogs to non-invasive EEG monitors has helped identify exactly which component of human speech the animals are most attuned to",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313658415.jpg"
+  },
+  {
+    "title": "Copying others can help young orangutans build a broad diet | New Scientist",
+    "url": "https://www.newscientist.com/article/2590803-copying-others-helps-young-orangutans-build-a-broad-diet/",
+    "description": "The rainforest-dwelling apes spend more than 8 years learning how to cope on their own and now we have a clearer idea of how they work out which foods to incorporate into their diet",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313824482.jpg"
+  },
+  {
+    "title": "Backpack massages muscles when it detects they're fatigued | New Scientist",
+    "url": "https://www.newscientist.com/article/2590732-backpack-massages-muscles-when-it-detects-theyre-fatigued/",
+    "description": "A backpack consisting of electrodes, cables and a soft massage head kneads muscles in the back when it picks up on them being fatigued",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313806661.jpg"
+  },
+  {
+    "title": "Taking HRT in perimenopause may ward off cardiovascular disease | New Scientist",
+    "url": "https://www.newscientist.com/article/2590688-taking-hrt-in-perimenopause-may-ward-off-cardiovascular-disease/",
+    "description": "Hormone replacement therapies may reduce the risk of heart attacks and stroke, but the timing of when they are started could be critical",
+    "author": "Starre Vartan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312814290.jpg"
+  },
+  {
     "title": "Skin patch that collects sweat could predict ovulation | New Scientist",
     "url": "https://www.newscientist.com/article/2590644-skin-patch-that-collects-sweat-could-predict-ovulation/",
     "description": "A patch that measures levels of two reproductive hormones in sweat has shown promise for predicting ovulation in a small study",
@@ -14,37 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/Social-Image-Link.jpg"
-  },
-  {
-    "title": "Future of Amazon rainforest may hinge on Brazil presidential election | New Scientist",
-    "url": "https://www.newscientist.com/article/2590554-future-of-amazon-rainforest-may-hinge-on-brazil-presidential-election/",
-    "description": "A general election in Brazil next month is widely seen as a choice between Luiz Inácio Lula da Silva and Flávio Bolsonaro, son of former president Jair Bolsonaro",
-    "author": "Luke Taylor",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312679229.jpg"
-  },
-  {
-    "title": "When will the AMOC collapse? We don't know, but should still prepare | New Scientist",
-    "url": "https://www.newscientist.com/article/2590281-when-will-the-amoc-collapse-we-dont-know-but-should-still-prepare/",
-    "description": "Uncertainty about when or even if the Atlantic Meridional Overturning Circulation, a vital ocean current, might collapse has been an excuse to ignore the risk, but that actually makes it even more important that we act now",
-    "author": "New Scientist",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313418678.jpg"
-  },
-  {
-    "title": "Lifestyle changes may be as effective as therapy at easing depression | New Scientist",
-    "url": "https://www.newscientist.com/article/2590434-lifestyle-changes-may-be-as-effective-as-therapy-at-easing-depression/",
-    "description": "Advice about mindful eating, enjoying exercise and getting good-quality sleep was at least as effective for treating depression as cognitive behavioural therapy",
-    "author": "Mary West",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313668501.jpg"
-  },
-  {
-    "title": "Severe meningitis outbreak caused by bacteria that took genes from microbiome | New Scientist",
-    "url": "https://www.newscientist.com/article/2590470-severe-meningitis-outbreak-caused-by-bacteria-that-took-genes-from-microbiome/",
-    "description": "An unprecedented meningitis outbreak that occurred in Kent, UK, in March seems to have been driven by a bacterial strain taking genes from harmless microbes",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313669329.jpg"
   }
 ]
