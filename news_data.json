@@ -1,5 +1,21 @@
 [
   {
+    "title": "Skin patch that collects sweat could predict ovulation | New Scientist",
+    "url": "https://www.newscientist.com/article/2590644-skin-patch-that-collects-sweat-could-predict-ovulation/",
+    "description": "A patch that measures levels of two reproductive hormones in sweat has shown promise for predicting ovulation in a small study",
+    "author": "Rachel Melegrito",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313699628.jpg"
+  },
+  {
+    "title": "OpenAI agent hacked an Australian government healthcare website | New Scientist",
+    "url": "https://www.newscientist.com/article/2590599-openai-agent-hacked-an-australian-government-healthcare-website/",
+    "description": "There has been a string of incidents reported over the past few months where AI agents have hacked companies. Now, a case involving a government website has been revealed for the first time",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/Social-Image-Link.jpg"
+  },
+  {
     "title": "Future of Amazon rainforest may hinge on Brazil presidential election | New Scientist",
     "url": "https://www.newscientist.com/article/2590554-future-of-amazon-rainforest-may-hinge-on-brazil-presidential-election/",
     "description": "A general election in Brazil next month is widely seen as a choice between Luiz Inácio Lula da Silva and Flávio Bolsonaro, son of former president Jair Bolsonaro",
@@ -30,21 +46,5 @@
     "author": "Carissa Wong",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313669329.jpg"
-  },
-  {
-    "title": "Is AI really getting dangerously out of control? | New Scientist",
-    "url": "https://www.newscientist.com/article/2590038-is-ai-dangerously-out-of-control-or-about-to-be/",
-    "description": "Grim warnings of the existential risk posed by AI are all over the news, but there is very little evidence to back them up",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313537973.jpg"
-  },
-  {
-    "title": "El Niño heat could kill half a million people by February | New Scientist",
-    "url": "https://www.newscientist.com/article/2590260-el-nino-heat-could-kill-half-a-million-by-february-and-more-after-that/",
-    "description": "Higher temperatures around the world due to the record-breaking El Niño will lead to an estimated 450,000 extra deaths by February unless swift action is taken, warn researchers",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313519870.jpg"
   }
 ]
