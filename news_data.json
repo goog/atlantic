@@ -1,5 +1,13 @@
 [
   {
+    "title": "Mathematician discovers rare eight-faced shape | New Scientist",
+    "url": "https://www.newscientist.com/article/2590747-eight-face-shape-with-three-holes-is-new-to-science/",
+    "description": "It isn't easy to demonstrate that a new geometric shape can actually exist in the real world, but one researcher argues that the genus-3 polyhedron can",
+    "author": "Chris Stokel-Walker",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313696618.jpg"
+  },
+  {
     "title": "Dogs pay more attention to consonants than vowels when we speak | New Scientist",
     "url": "https://www.newscientist.com/article/2590694-dogs-pay-more-attention-to-consonants-than-vowels-when-we-speak/",
     "description": "Hooking up dogs to non-invasive EEG monitors has helped identify exactly which component of human speech the animals are most attuned to",
@@ -38,13 +46,5 @@
     "author": "Rachel Melegrito",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313699628.jpg"
-  },
-  {
-    "title": "OpenAI agent hacked an Australian government healthcare website | New Scientist",
-    "url": "https://www.newscientist.com/article/2590599-openai-agent-hacked-an-australian-government-healthcare-website/",
-    "description": "There has been a string of incidents reported over the past few months where AI agents have hacked companies. Now, a case involving a government website has been revealed for the first time",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/Social-Image-Link.jpg"
   }
 ]
