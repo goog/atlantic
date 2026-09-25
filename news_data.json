@@ -1,5 +1,13 @@
 [
   {
+    "title": "Is China catching up to the US and SpaceX on reusable rockets? | New Scientist",
+    "url": "https://www.newscientist.com/article/2589931-is-china-catching-up-to-the-us-and-spacex-on-reusable-rockets/",
+    "description": "The next space race is not about making rockets faster, bigger or more capacious, but about reusing them reliably and cheaply. The US is well ahead, but can China catch up?",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313702443.jpg"
+  },
+  {
     "title": "Mathematician discovers rare eight-faced shape | New Scientist",
     "url": "https://www.newscientist.com/article/2590747-eight-face-shape-with-three-holes-is-new-to-science/",
     "description": "It isn't easy to demonstrate that a new geometric shape can actually exist in the real world, but one researcher argues that the genus-3 polyhedron can",
@@ -38,13 +46,5 @@
     "author": "Starre Vartan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312814290.jpg"
-  },
-  {
-    "title": "Skin patch that collects sweat could predict ovulation | New Scientist",
-    "url": "https://www.newscientist.com/article/2590644-skin-patch-that-collects-sweat-could-predict-ovulation/",
-    "description": "A patch that measures levels of two reproductive hormones in sweat has shown promise for predicting ovulation in a small study",
-    "author": "Rachel Melegrito",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313699628.jpg"
   }
 ]
