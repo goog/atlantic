@@ -1,5 +1,13 @@
 [
   {
+    "title": "Virtual green spaces and classical music reduce blood pressure in hospital | New Scientist",
+    "url": "https://www.newscientist.com/article/2590932-virtual-green-spaces-and-classical-music-reduce-blood-pressure-in-hospital/",
+    "description": "Watching a river flow via a virtual-reality headset while listening to classical music seems to quickly bring people's blood pressure down from a dangerously high level in hospital",
+    "author": "Chris Simms",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313999483.jpg"
+  },
+  {
     "title": "Is China catching up to the US and SpaceX on reusable rockets? | New Scientist",
     "url": "https://www.newscientist.com/article/2589931-is-china-catching-up-to-the-us-and-spacex-on-reusable-rockets/",
     "description": "The next space race is not about making rockets faster, bigger or more capacious, but about reusing them reliably and cheaply. The US is well ahead, but can China catch up?",
@@ -38,13 +46,5 @@
     "author": "Christa Lesté-Lasserre",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313806661.jpg"
-  },
-  {
-    "title": "Taking HRT in perimenopause may ward off cardiovascular disease | New Scientist",
-    "url": "https://www.newscientist.com/article/2590688-taking-hrt-in-perimenopause-may-ward-off-cardiovascular-disease/",
-    "description": "Hormone replacement therapies may reduce the risk of heart attacks and stroke, but the timing of when they are started could be critical",
-    "author": "Starre Vartan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312814290.jpg"
   }
 ]
