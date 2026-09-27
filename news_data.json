@@ -1,5 +1,13 @@
 [
   {
+    "title": "Blood test could gauge if a baby has a dangerous infection in 15 minutes | New Scientist",
+    "url": "https://www.newscientist.com/article/2590894-blood-test-could-gauge-if-a-baby-has-a-dangerous-infection-in-15-minutes/",
+    "description": "Feverish babies in hospital are often assumed to have a serious bacterial infection and are treated with antibiotics. But a test that gauges whether the infection is bacterial or viral, which tend to be milder, could prevent unnecessary drug use",
+    "author": "Michael Marshall",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314004871.jpg"
+  },
+  {
     "title": "Virtual green spaces and classical music reduce blood pressure in hospital | New Scientist",
     "url": "https://www.newscientist.com/article/2590932-virtual-green-spaces-and-classical-music-reduce-blood-pressure-in-hospital/",
     "description": "Watching a river flow via a virtual-reality headset while listening to classical music seems to quickly bring people's blood pressure down from a dangerously high level in hospital",
@@ -38,13 +46,5 @@
     "author": "Christa Lesté-Lasserre",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313824482.jpg"
-  },
-  {
-    "title": "Backpack massages muscles when it detects they're fatigued | New Scientist",
-    "url": "https://www.newscientist.com/article/2590732-backpack-massages-muscles-when-it-detects-theyre-fatigued/",
-    "description": "A backpack consisting of electrodes, cables and a soft massage head kneads muscles in the back when it picks up on them being fatigued",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313806661.jpg"
   }
 ]
