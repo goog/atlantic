@@ -1,5 +1,37 @@
 [
   {
+    "title": "Scientists can’t stop using AI, even when forbidden from doing so | New Scientist",
+    "url": "https://www.newscientist.com/article/2590949-scientists-cant-stop-using-ai-even-when-forbidden-from-doing-so/",
+    "description": "When scientists were asked to review papers for a conference without using AI tools, many of them ignored the request and used AI anyway",
+    "author": "Chris Stokel-Walker",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313973770.jpg"
+  },
+  {
+    "title": "Our food system is vulnerable to El Niño, warns UK climate minister | New Scientist",
+    "url": "https://www.newscientist.com/article/2590994-our-food-system-is-vulnerable-to-el-nino-warns-uk-climate-minister/",
+    "description": "Extreme weather could damage harvests worldwide, but the answer is more local food production, not stockpiling, Katie White said in an interview with New Scientist",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314031889.jpg"
+  },
+  {
+    "title": "AI finds 3D shape that fills all space with a never-repeating pattern | New Scientist",
+    "url": "https://www.newscientist.com/article/2589966-ai-finds-3d-shape-that-fills-all-space-with-a-never-repeating-pattern/",
+    "description": "A 3D shape that can tile 3D space, leaving no gaps and never forming a repeating pattern, has been discovered using an AI model. The researcher behind the findings, who has no academic background in the area, says his work has angered professional mathematicians",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313987774.jpg"
+  },
+  {
+    "title": "Why is this monster El Niño so strong? | New Scientist",
+    "url": "https://www.newscientist.com/article/2590917-what-has-made-this-monster-el-nino-so-strong/",
+    "description": "Though the El Niño is still months from its peak, it is already breaking many records. Two main factors are behind how it became so powerful",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314424523.jpg"
+  },
+  {
     "title": "Blood test could gauge if a baby has a dangerous infection in 15 minutes | New Scientist",
     "url": "https://www.newscientist.com/article/2590894-blood-test-could-gauge-if-a-baby-has-a-dangerous-infection-in-15-minutes/",
     "description": "Feverish babies in hospital are often assumed to have a serious bacterial infection and are treated with antibiotics. But a test that gauges whether the infection is bacterial or viral, which tend to be milder, could prevent unnecessary drug use",
@@ -14,37 +46,5 @@
     "author": "Chris Simms",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313999483.jpg"
-  },
-  {
-    "title": "Is China catching up to the US and SpaceX on reusable rockets? | New Scientist",
-    "url": "https://www.newscientist.com/article/2589931-is-china-catching-up-to-the-us-and-spacex-on-reusable-rockets/",
-    "description": "The next space race is not about making rockets faster, bigger or more capacious, but about reusing them reliably and cheaply. The US is well ahead, but can China catch up?",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313702443.jpg"
-  },
-  {
-    "title": "Mathematician discovers rare eight-faced shape | New Scientist",
-    "url": "https://www.newscientist.com/article/2590747-eight-face-shape-with-three-holes-is-new-to-science/",
-    "description": "It isn't easy to demonstrate that a new geometric shape can actually exist in the real world, but one researcher argues that the genus-3 polyhedron can",
-    "author": "Chris Stokel-Walker",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313696618.jpg"
-  },
-  {
-    "title": "Dogs pay more attention to consonants than vowels when we speak | New Scientist",
-    "url": "https://www.newscientist.com/article/2590694-dogs-pay-more-attention-to-consonants-than-vowels-when-we-speak/",
-    "description": "Hooking up dogs to non-invasive EEG monitors has helped identify exactly which component of human speech the animals are most attuned to",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313658415.jpg"
-  },
-  {
-    "title": "Copying others can help young orangutans build a broad diet | New Scientist",
-    "url": "https://www.newscientist.com/article/2590803-copying-others-helps-young-orangutans-build-a-broad-diet/",
-    "description": "Orangutans spend more than eight years learning how to cope on their own, and now we have a clearer idea of how they work out which foods to incorporate into their diet",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313824482.jpg"
   }
 ]
