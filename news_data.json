@@ -1,5 +1,29 @@
 [
   {
+    "title": "Urban trees in south-east England can't cope with the changing climate | New Scientist",
+    "url": "https://www.newscientist.com/article/2591183-urban-trees-in-south-east-england-cant-cope-with-the-changing-climate/",
+    "description": "In cities such as London, trees are already struggling with hot and dry summers. Botanists warn that we need to start replacing them with drought-adapted species",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314565781.jpg"
+  },
+  {
+    "title": "Spectacular feathered dinosaur fossil shows bird-like adaptations | New Scientist",
+    "url": "https://www.newscientist.com/article/2591243-spectacular-feathered-dinosaur-fossil-shows-bird-like-adaptations/",
+    "description": "An exquisitely preserved fossil found in China shows that many anatomical features seen in birds also evolved independently in another group of dinosaurs",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314568253.jpg"
+  },
+  {
+    "title": "How will El Niño affect the world? | New Scientist",
+    "url": "https://www.newscientist.com/article/2591216-how-will-el-nino-affect-the-world/",
+    "description": "From Australia to California, the UK to Peru, turbulent weather is on the way",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314025606.jpg"
+  },
+  {
     "title": "Scientists can’t stop using AI, even when forbidden from doing so | New Scientist",
     "url": "https://www.newscientist.com/article/2590949-scientists-cant-stop-using-ai-even-when-forbidden-from-doing-so/",
     "description": "When scientists were asked to review papers for a conference without using AI tools, many of them ignored the request and used AI anyway",
@@ -22,29 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313987774.jpg"
-  },
-  {
-    "title": "Why is this monster El Niño so strong? | New Scientist",
-    "url": "https://www.newscientist.com/article/2590917-what-has-made-this-monster-el-nino-so-strong/",
-    "description": "Though the El Niño is still months from its peak, it is already breaking many records. Two main factors are behind how it became so powerful",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314424523.jpg"
-  },
-  {
-    "title": "Blood test could gauge if a baby has a dangerous infection in 15 minutes | New Scientist",
-    "url": "https://www.newscientist.com/article/2590894-blood-test-could-gauge-if-a-baby-has-a-dangerous-infection-in-15-minutes/",
-    "description": "Feverish babies in hospital are often assumed to have a serious bacterial infection and are treated with antibiotics. But a test that gauges whether the infection is bacterial or viral, which tend to be milder, could prevent unnecessary drug use",
-    "author": "Michael Marshall",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314004871.jpg"
-  },
-  {
-    "title": "Virtual green spaces and classical music reduce blood pressure in hospital | New Scientist",
-    "url": "https://www.newscientist.com/article/2590932-virtual-green-spaces-and-classical-music-reduce-blood-pressure-in-hospital/",
-    "description": "Watching a river flow via a virtual-reality headset while listening to classical music seems to quickly bring people's blood pressure down from a dangerously high level in hospital",
-    "author": "Chris Simms",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313999483.jpg"
   }
 ]
