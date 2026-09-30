@@ -1,5 +1,13 @@
 [
   {
+    "title": "Explainer: What is El Niño? | New Scientist",
+    "url": "https://www.newscientist.com/article/2590080-explainer-what-is-el-nino/",
+    "description": "Every few years, a disturbance in the Pacific Ocean is amplified by feedback mechanisms in the atmosphere, unleashing heat and extreme weather around the globe",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/elnino_sen6_20260608_lrg_1350.jpg"
+  },
+  {
     "title": "Urban trees in south-east England can't cope with the changing climate | New Scientist",
     "url": "https://www.newscientist.com/article/2591183-urban-trees-in-south-east-england-cant-cope-with-the-changing-climate/",
     "description": "In cities such as London, trees are already struggling with hot and dry summers. Botanists warn that we need to start replacing them with drought-adapted species",
@@ -38,13 +46,5 @@
     "author": "Alec Luhn",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314031889.jpg"
-  },
-  {
-    "title": "AI finds 3D shape that fills all space with a never-repeating pattern | New Scientist",
-    "url": "https://www.newscientist.com/article/2589966-ai-finds-3d-shape-that-fills-all-space-with-a-never-repeating-pattern/",
-    "description": "A 3D shape that can tile 3D space, leaving no gaps and never forming a repeating pattern, has been discovered using an AI model. The researcher behind the findings, who has no academic background in the area, says his work has angered professional mathematicians",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313987774.jpg"
   }
 ]
