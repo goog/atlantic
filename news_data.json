@@ -1,5 +1,29 @@
 [
   {
+    "title": "Why a modern approach to healthcare must consider more than illness | New Scientist",
+    "url": "https://www.newscientist.com/article/2591137-why-a-modern-approach-to-healthcare-must-consider-more-than-illness/",
+    "description": "Pills and other medications may seem like the most rigorous way to treat illness, but we increasingly know that our health must revolve around the whole mind and body",
+    "author": "New Scientist",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314454007.jpg"
+  },
+  {
+    "title": "Slashing sugar intake before antibiotics may save your microbiome | New Scientist",
+    "url": "https://www.newscientist.com/article/2591436-slashing-sugar-intake-before-antibiotics-may-save-your-microbiome/",
+    "description": "Antibiotics can reduce the diversity of microbes in your gut and lead to health problems, but a study in people with cancer has identified a potential solution",
+    "author": "Chris Simms",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314709758.jpg"
+  },
+  {
+    "title": "'Astonishing' weight loss when GLP-1 drug used with second medication | New Scientist",
+    "url": "https://www.newscientist.com/article/2591430-astonishing-weight-loss-when-glp1-drug-used-with-second-medication/",
+    "description": "Tirzepatide, sold as Mounjaro and Zepbound, is our most potent weight-loss drug, but it can have an even greater effect when combined with a complementary medicine",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314688651.jpg"
+  },
+  {
     "title": "Explainer: What is El Niño? | New Scientist",
     "url": "https://www.newscientist.com/article/2590080-explainer-what-is-el-nino/",
     "description": "Every few years, a disturbance in the Pacific Ocean is amplified by feedback mechanisms in the atmosphere, unleashing heat and extreme weather around the globe",
@@ -22,29 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314568253.jpg"
-  },
-  {
-    "title": "How will El Niño affect the world? | New Scientist",
-    "url": "https://www.newscientist.com/article/2591216-how-will-el-nino-affect-the-world/",
-    "description": "From Australia to California, the UK to Peru, turbulent weather is on the way",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314025606.jpg"
-  },
-  {
-    "title": "Scientists can’t stop using AI, even when forbidden from doing so | New Scientist",
-    "url": "https://www.newscientist.com/article/2590949-scientists-cant-stop-using-ai-even-when-forbidden-from-doing-so/",
-    "description": "When scientists were asked to review papers for a conference without using AI tools, many of them ignored the request and used AI anyway",
-    "author": "Chris Stokel-Walker",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313973770.jpg"
-  },
-  {
-    "title": "Our food system is vulnerable to El Niño, warns UK climate minister | New Scientist",
-    "url": "https://www.newscientist.com/article/2590994-our-food-system-is-vulnerable-to-el-nino-warns-uk-climate-minister/",
-    "description": "Extreme weather could damage harvests worldwide, but the answer is more local food production, not stockpiling, Katie White said in an interview with New Scientist",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314031889.jpg"
   }
 ]
