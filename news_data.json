@@ -1,5 +1,21 @@
 [
   {
+    "title": "’s geographic poles wander more than we had thought | New Scientist",
+    "url": "https://www.newscientist.com/article/2591587-earths-geographic-poles-wander-more-than-we-had-thought/",
+    "description": "A phenomenon known as true polar wander, different to the movement of the magnetic poles, may be more common and more dramatic than previously known",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314815439.jpg"
+  },
+  {
+    "title": "Ukraine rolls out drone-stopping razor fence to thwart attacks | New Scientist",
+    "url": "https://www.newscientist.com/article/2591491-ukraine-technology-thwarts-drones-by-cutting-their-control-cables/",
+    "description": "Most of the drones being used by Russia in the war with Ukraine are controlled by cables several tens of kilometres long. A new defensive tool cuts the cables to stop the drones",
+    "author": "David Hambling",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313981883.jpg"
+  },
+  {
     "title": "Elephants imitate each other when they produce deep rumbling sounds | New Scientist",
     "url": "https://www.newscientist.com/article/2591745-elephants-imitate-each-other-when-they-produce-deep-rumbling-sounds/",
     "description": "African savannah elephants use a variety of calls to communicate, and now machine learning has shown that they tune their deepest sounds to match those of other nearby elephants",
@@ -30,21 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314680170.jpg"
-  },
-  {
-    "title": "Why a modern approach to healthcare must consider more than illness | New Scientist",
-    "url": "https://www.newscientist.com/article/2591137-why-a-modern-approach-to-healthcare-must-consider-more-than-illness/",
-    "description": "Pills and other medications may seem like the most rigorous way to treat illness, but we increasingly know that our health must revolve around the whole mind and body",
-    "author": "New Scientist",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314454007.jpg"
-  },
-  {
-    "title": "Slashing sugar intake before antibiotics may save your microbiome | New Scientist",
-    "url": "https://www.newscientist.com/article/2591436-slashing-sugar-intake-before-antibiotics-may-save-your-microbiome/",
-    "description": "Antibiotics can reduce the diversity of microbes in your gut and lead to health problems, but a study in people with cancer has identified a potential solution",
-    "author": "Chris Simms",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314709758.jpg"
   }
 ]
