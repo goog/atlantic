@@ -1,5 +1,29 @@
 [
   {
+    "title": "Elephants imitate each other when they produce deep rumbling sounds | New Scientist",
+    "url": "https://www.newscientist.com/article/2591745-elephants-imitate-each-other-when-they-produce-deep-rumbling-sounds/",
+    "description": "African savannah elephants use a variety of calls to communicate, and now machine learning has shown that they tune their deepest sounds to match those of other nearby elephants",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314591420.jpg"
+  },
+  {
+    "title": "Placenta wrap hastens erection recovery after prostate surgery | New Scientist",
+    "url": "https://www.newscientist.com/article/2591588-placenta-wrap-hastens-erection-recovery-after-prostate-surgery/",
+    "description": "Dried amniotic membranes from donated placentas can be wrapped around delicate nerves during prostate cancer surgery to hasten the time to a first erection after the procedure",
+    "author": "Alice Klein",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314824725.jpg"
+  },
+  {
+    "title": "A lack of rockets is creating a crisis for space technology companies | New Scientist",
+    "url": "https://www.newscientist.com/article/2591502-a-lack-of-rockets-is-creating-a-crisis-for-space-technology-companies/",
+    "description": "SpaceX’s changing priorities, the war in Ukraine and a lack of competitors are all causing a launch crisis that might last years",
+    "author": "Jonathan O’Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314693797.jpg"
+  },
+  {
     "title": "Anglo-Saxons got special treatment in medieval Rome | New Scientist",
     "url": "https://www.newscientist.com/article/2591306-anglo-saxons-got-special-treatment-in-medieval-rome/",
     "description": "A small hoard of medieval English coins found near the Vatican in Rome suggests that early English residents held a privileged status in the holy city",
@@ -22,29 +46,5 @@
     "author": "Chris Simms",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314709758.jpg"
-  },
-  {
-    "title": "'Astonishing' weight loss when GLP-1 drug used with second medication | New Scientist",
-    "url": "https://www.newscientist.com/article/2591430-astonishing-weight-loss-when-glp1-drug-used-with-second-medication/",
-    "description": "Tirzepatide, sold as Mounjaro and Zepbound, is our most potent weight-loss drug, but it can have an even greater effect when combined with a complementary medicine",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314688651.jpg"
-  },
-  {
-    "title": "Explainer: What is El Niño? | New Scientist",
-    "url": "https://www.newscientist.com/article/2590080-explainer-what-is-el-nino/",
-    "description": "Every few years, a disturbance in the Pacific Ocean is amplified by feedback mechanisms in the atmosphere, unleashing heat and extreme weather around the globe",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/elnino_sen6_20260608_lrg_1350.jpg"
-  },
-  {
-    "title": "Urban trees in south-east England can't cope with the changing climate | New Scientist",
-    "url": "https://www.newscientist.com/article/2591183-urban-trees-in-south-east-england-cant-cope-with-the-changing-climate/",
-    "description": "In cities such as London, trees are already struggling with hot and dry summers. Botanists warn that we need to start replacing them with drought-adapted species",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314565781.jpg"
   }
 ]
