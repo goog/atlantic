@@ -1,5 +1,21 @@
 [
   {
+    "title": "Fossil mammal with reptile-like teeth changes picture of our evolution | New Scientist",
+    "url": "https://www.newscientist.com/article/2591803-fossil-mammal-with-reptile-like-teeth-changes-picture-of-our-evolution/",
+    "description": "Unlike most modern mammals, which get just two sets of teeth in their lifetime, an ancient species from the Cretaceous, found in China, appears to have had the ability to replace its teeth throughout its life",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314972990.jpg"
+  },
+  {
+    "title": "Mathematicians and AI in behind-the-scenes battle over what's true | New Scientist",
+    "url": "https://www.newscientist.com/article/2591256-mathematicians-and-ai-are-in-a-behind-the-scenes-battle-over-whats-true/",
+    "description": "AI models are solving mathematics problems with increasing pace, and a technique called formalisation is key to demonstrating that their claimed solutions are indeed correct. But can we trust the formalisation process?",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314586106.jpg"
+  },
+  {
     "title": "First week of life seems crucial for future allergy and eczema risk | New Scientist",
     "url": "https://www.newscientist.com/article/2591816-first-week-of-life-seems-critical-for-future-allergy-and-eczema-risk/",
     "description": "The mainstream view is that there are no particularly critical phases in the development of the immune system, but a study of hundreds of infants suggests otherwise",
@@ -30,21 +46,5 @@
     "author": "David Hambling",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313981883.jpg"
-  },
-  {
-    "title": "Elephants imitate each other when they produce deep rumbling sounds | New Scientist",
-    "url": "https://www.newscientist.com/article/2591745-elephants-imitate-each-other-when-they-produce-deep-rumbling-sounds/",
-    "description": "African savannah elephants use a variety of calls to communicate, and now machine learning has shown that they tune their deepest sounds to match those of other nearby elephants",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314591420.jpg"
-  },
-  {
-    "title": "Placenta wrap hastens erection recovery after prostate surgery | New Scientist",
-    "url": "https://www.newscientist.com/article/2591588-placenta-wrap-hastens-erection-recovery-after-prostate-surgery/",
-    "description": "Dried amniotic membranes from donated placentas can be wrapped around delicate nerves during prostate cancer surgery to hasten the time to a first erection after the procedure",
-    "author": "Alice Klein",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314824725.jpg"
   }
 ]
