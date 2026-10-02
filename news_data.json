@@ -1,5 +1,21 @@
 [
   {
+    "title": "First week of life seems crucial for future allergy and eczema risk | New Scientist",
+    "url": "https://www.newscientist.com/article/2591816-first-week-of-life-seems-critical-for-future-allergy-and-eczema-risk/",
+    "description": "The mainstream view is that there are no particularly critical phases in the development of the immune system, but a study of hundreds of infants suggests otherwise",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314823189.jpg"
+  },
+  {
+    "title": "Brain area discovered that may be critical for viable pregnancies | New Scientist",
+    "url": "https://www.newscientist.com/article/2591599-brain-area-discovered-that-may-be-critical-for-viable-pregnancies/",
+    "description": "A newly discovered part of the brain is essential for successful embryo implantation in mice. It may help to explain why some pregnancies and IVF attempts fail",
+    "author": "Alice Klein",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314837110.jpg"
+  },
+  {
     "title": "’s geographic poles wander more than we had thought | New Scientist",
     "url": "https://www.newscientist.com/article/2591587-earths-geographic-poles-wander-more-than-we-had-thought/",
     "description": "A phenomenon known as true polar wander, different to the movement of the magnetic poles, may be more common and more dramatic than previously known",
@@ -30,21 +46,5 @@
     "author": "Alice Klein",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314824725.jpg"
-  },
-  {
-    "title": "A lack of rockets is creating a crisis for space technology companies | New Scientist",
-    "url": "https://www.newscientist.com/article/2591502-a-lack-of-rockets-is-creating-a-crisis-for-space-technology-companies/",
-    "description": "SpaceX’s changing priorities, the war in Ukraine and a lack of competitors are all causing a launch crisis that might last years",
-    "author": "Jonathan O’Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314693797.jpg"
-  },
-  {
-    "title": "Anglo-Saxons got special treatment in medieval Rome | New Scientist",
-    "url": "https://www.newscientist.com/article/2591306-anglo-saxons-got-special-treatment-in-medieval-rome/",
-    "description": "A small hoard of medieval English coins found near the Vatican in Rome suggests that early English residents held a privileged status in the holy city",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314680170.jpg"
   }
 ]
