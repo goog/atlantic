@@ -1,5 +1,21 @@
 [
   {
+    "title": "The most ambitious ideas to save the world from El Niño | New Scientist",
+    "url": "https://www.newscientist.com/article/2592044-the-most-ambitious-ideas-to-save-the-world-from-el-nino/",
+    "description": "A monster El Niño is brewing in the Pacific Ocean – but there may be ways we can stop the worst impacts from occurring",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315420680.jpg"
+  },
+  {
+    "title": "Nobel prize in physics awarded for discovery of high-energy neutrinos | New Scientist",
+    "url": "https://www.newscientist.com/article/2592237-nobel-prize-in-physics-awarded-for-discovery-of-high-energy-neutrinos/",
+    "description": "The 2026 Nobel prize in physics has been won by Francis Halzen for his work on neutrinos, which serve as 'ghost-like messengers from the cosmos'",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315508364.jpg"
+  },
+  {
     "title": "Extinct yak relative discovered from DNA in Denisova cave | New Scientist",
     "url": "https://www.newscientist.com/article/2591962-extinct-yak-relative-discovered-from-dna-in-denisova-cave/",
     "description": "Genetic analysis of hundreds of tiny bone fragments found in the same cave that yielded the first fossil remains of the Denisovans has revealed that the region was once also home to a previously unknown species of yak",
@@ -30,21 +46,5 @@
     "author": "Alec Luhn",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315013815.jpg"
-  },
-  {
-    "title": "Compressing bones releases molecules that ease traumatic brain injuries | New Scientist",
-    "url": "https://www.newscientist.com/article/2591964-compressing-bones-releases-molecules-that-ease-traumatic-brain-injuries/",
-    "description": "Pressing down on shin bones improved cognitive and motor symptoms in mice and pigs with traumatic brain injuries",
-    "author": "Tosin Thompson",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314818390.jpg"
-  },
-  {
-    "title": "Nobel prize for medicine goes to trio who developed optogenetics | New Scientist",
-    "url": "https://www.newscientist.com/article/2591980-nobel-prize-for-medicine-goes-to-trio-who-developed-optogenetics/",
-    "description": "The 2026 Nobel prize in physiology or medicine has gone to Karl Deisseroth, Peter Hegemann and Georg Nagel for the development of techniques for controlling brain cells with light",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315391953.jpg"
   }
 ]
