@@ -1,5 +1,13 @@
 [
   {
+    "title": "Shoes may change the structure of our ankle bones | New Scientist",
+    "url": "https://www.newscientist.com/article/2592375-shoes-may-change-the-shape-of-our-ankle-bones/",
+    "description": "Wearing shoes seems to affect the density and volume of a spongy network within a bone in our ankles, which could affect the validity of previous research into the evolution of walking",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315505706.jpg"
+  },
+  {
     "title": "The most ambitious ideas to save the world from El Niño | New Scientist",
     "url": "https://www.newscientist.com/article/2592044-the-most-ambitious-ideas-to-save-the-world-from-el-nino/",
     "description": "A monster El Niño is brewing in the Pacific Ocean – but there may be ways we can stop the worst impacts from occurring",
@@ -38,13 +46,5 @@
     "author": "Michael Le Page",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315416593.jpg"
-  },
-  {
-    "title": "What disasters will El Niño bring over the next year? | New Scientist",
-    "url": "https://www.newscientist.com/article/2591903-what-disasters-could-el-nino-bring-over-the-next-year/",
-    "description": "From wildfires to landslides to coral bleaching, past trends suggest what extreme weather the record El Niño will bring – but the world isn’t prepared",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315013815.jpg"
   }
 ]
