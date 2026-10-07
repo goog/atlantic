@@ -1,8 +1,24 @@
 [
   {
+    "title": "OpenAI announces 722 mathematical discoveries in one go | New Scientist",
+    "url": "https://www.newscientist.com/article/2592421-openai-announces-722-mathematical-discoveries-in-one-go/",
+    "description": "AI has been growing ever more capable in mathematics and OpenAI has now released hundreds of papers at the same time – to the astonishment of mathematicians",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315638405.jpg"
+  },
+  {
+    "title": "Nobel prize in chemistry awarded for work on mirror molecules | New Scientist",
+    "url": "https://www.newscientist.com/article/2592434-nobel-prize-in-chemistry-awarded-for-work-on-mirror-molecules/",
+    "description": "Henri Kagan and Kenso Soai have been honoured for their work on making molecules form the correct mirror images",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315643697.jpg"
+  },
+  {
     "title": "Shoes may change the structure of our ankle bones | New Scientist",
     "url": "https://www.newscientist.com/article/2592375-shoes-may-change-the-shape-of-our-ankle-bones/",
-    "description": "Wearing shoes seems to affect the density and volume of a spongy network within a bone in our ankles, which could affect the validity of previous research into the evolution of walking",
+    "description": "Wearing shoes seems to affect the volume of a spongy network within a bone in our ankles, which could affect the validity of previous research into the evolution of walking",
     "author": "Christa Lesté-Lasserre",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315505706.jpg"
@@ -30,21 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315388092.jpg"
-  },
-  {
-    "title": "AI finds bafflingly complex but beautiful symmetrical Venn diagram | New Scientist",
-    "url": "https://www.newscientist.com/article/2591415-ai-finds-bafflingly-complex-but-beautiful-symmetrical-venn-diagram/",
-    "description": "Creating rotationally symmetrical Venn diagrams of increasing size is a long-standing mathematical challenge - now an amateur has used AI to generate the largest ones yet",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315416853.jpg"
-  },
-  {
-    "title": "Nearly 200 people isolated after lab worker in Russia dies of plague | New Scientist",
-    "url": "https://www.newscientist.com/article/2592051-nearly-200-people-isolated-after-lab-worker-in-russia-dies-of-plague/",
-    "description": "A lab accident is said to have led to the death of a woman from pneumonic plague in the Irkutsk region of Siberia, leading to nearly 200 possible contacts being put under observation",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315416593.jpg"
   }
 ]
