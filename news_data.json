@@ -1,5 +1,29 @@
 [
   {
+    "title": "Record El Niño threatens Great Barrier Reef with ecological shift | New Scientist",
+    "url": "https://www.newscientist.com/article/2592422-record-el-nino-threatens-great-barrier-reef-with-ecological-shift/",
+    "description": "Researchers are worried about the impact the strongest-known El Niño will have on the Great Barrier Reef, and whether anything can be done to avert the World Heritage Area’s demise",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315639854.jpg"
+  },
+  {
+    "title": "The world may never go back to how it was after this monster El Niño | New Scientist",
+    "url": "https://www.newscientist.com/article/2592450-the-world-may-never-go-back-to-how-it-was-after-this-monster-el-nino/",
+    "description": "This El Niño is forecast to end around June next year after smashing all records, but its impacts could persist indefinitely in some parts of the world",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315648517.jpg"
+  },
+  {
+    "title": "The most interesting mathematical discoveries in OpenAI's 722 new papers | New Scientist",
+    "url": "https://www.newscientist.com/article/2592703-the-most-interesting-mathematical-discoveries-in-openais-722-new-papers/",
+    "description": "OpenAI has released hundreds of papers claiming to make progress on the biggest open problems in mathematics – here are some with the most potential",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315747551.jpg"
+  },
+  {
     "title": "194-year-old tortoise has exceptional DNA repair systems that fight off ageing | New Scientist",
     "url": "https://www.newscientist.com/article/2592213-secrets-of-longevity-of-jonathan-the-nearly-200-year-old-tortoise/",
     "description": "The genome of Jonathan the giant tortoise, a 194-year-old resident of St Helena island, has been probed to understand how he has been alive for more than double his species’ average life expectancy",
@@ -22,29 +46,5 @@
     "author": "New Scientist",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314991680.jpg"
-  },
-  {
-    "title": "Colonisation of Australia led to big increase in wildfire danger | New Scientist",
-    "url": "https://www.newscientist.com/article/2592220-colonisation-of-australia-led-to-big-increase-in-wildfire-danger/",
-    "description": "An analysis of lake sediments in south-eastern Australia has revealed that the expulsion of Indigenous communities in the 19th century resulted in an explosion of tree cover and more devastating wildfires",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315511975.jpg"
-  },
-  {
-    "title": "Stunning early mammal fossil sheds light on the evolution of suckling | New Scientist",
-    "url": "https://www.newscientist.com/article/2592252-stunning-early-mammal-fossil-sheds-light-on-the-evolution-of-suckling/",
-    "description": "A predecessor of modern mammals that lived in the Jurassic has been found in China with its throat anatomy preserved, allowing researchers to examine the earliest evidence for the evolution of suckling",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315508551.jpg"
-  },
-  {
-    "title": "OpenAI announces 722 mathematical discoveries in one go | New Scientist",
-    "url": "https://www.newscientist.com/article/2592421-openai-announces-722-mathematical-discoveries-in-one-go/",
-    "description": "AI has been growing ever more capable in mathematics and OpenAI has now released hundreds of papers at the same time – to the astonishment of mathematicians",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315638405.jpg"
   }
 ]
