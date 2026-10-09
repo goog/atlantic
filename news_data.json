@@ -1,5 +1,13 @@
 [
   {
+    "title": "Number of known species of giant waterlilies almost doubles | New Scientist",
+    "url": "https://www.newscientist.com/article/2592896-the-number-of-known-species-of-giant-waterlilies-just-doubled/",
+    "description": "A new species of giant waterlily identified with the help of social media and satellite photos is just one of three discovered in the past few years",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315677397.jpg"
+  },
+  {
     "title": "The big unanswered question about Russia's 'plague' death | New Scientist",
     "url": "https://www.newscientist.com/article/2592786-the-big-unanswered-question-about-russias-plague-death/",
     "description": "Russia says it is winding down precautionary measures taken after a lab worker at a plague research institute died. But what made officials think these were needed at all?",
@@ -38,13 +46,5 @@
     "author": "Leah Crane",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315747551.jpg"
-  },
-  {
-    "title": "194-year-old tortoise has exceptional DNA repair systems that fight off ageing | New Scientist",
-    "url": "https://www.newscientist.com/article/2592213-secrets-of-longevity-of-jonathan-the-nearly-200-year-old-tortoise/",
-    "description": "The genome of Jonathan the giant tortoise, a 194-year-old resident of St Helena island, has been probed to understand how he has been alive for more than double his species’ average life expectancy",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315501016_8ca075.jpg"
   }
 ]
