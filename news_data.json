@@ -1,5 +1,29 @@
 [
   {
+    "title": "Two large asteroids found spinning as fast as a fairground ride | New Scientist",
+    "url": "https://www.newscientist.com/article/2593044-two-large-asteroids-found-spinning-as-fast-as-fairground-ride/",
+    "description": "Rocks in the asteroid belt rotating at ultra-fast speeds suggest our understanding of asteroid structure might be wrong",
+    "author": "Jonathan O’Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315887083.jpg"
+  },
+  {
+    "title": "Does each new covid-19 variant pose a significant threat? | New Scientist",
+    "url": "https://www.newscientist.com/article/2593098-does-each-new-covid-19-variant-pose-a-significant-threat/",
+    "description": "Most covid-19 cases are caused by a particular type of variant, but do we need to worry every time a new one emerges?",
+    "author": "Jo Marchant",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315912545.jpg"
+  },
+  {
+    "title": "Tattoos could be turned on and off with light | New Scientist",
+    "url": "https://www.newscientist.com/article/2592938-tattoos-could-be-turned-on-and-off-with-light/",
+    "description": "A new type of ink could overcome one of the main downsides of tattoos: the inability to make them invisible",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315879829.jpg"
+  },
+  {
     "title": "Nearly 1 in 10 young adults could have fatty, narrow arteries | New Scientist",
     "url": "https://www.newscientist.com/article/2592977-nearly-1-in-10-young-adults-could-have-fatty-narrow-arteries/",
     "description": "Atherosclerosis, the build-up of fatty plaque in arteries, usually affects people older than 50, but a \"meaningful\" proportion of younger adults also have the condition",
@@ -22,29 +46,5 @@
     "author": "Michael Le Page",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315677397.jpg"
-  },
-  {
-    "title": "The big unanswered question about Russia's 'plague' death | New Scientist",
-    "url": "https://www.newscientist.com/article/2592786-the-big-unanswered-question-about-russias-plague-death/",
-    "description": "Russia says it is winding down precautionary measures taken after a lab worker at a plague research institute died. But what made officials think these were needed at all?",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315768267.jpg"
-  },
-  {
-    "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof | New Scientist",
-    "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
-    "description": "When OpenAI announced its surprise solution to the Navier-Stokes problem, it produced one proof for humans and one for computers – however, they don't match",
-    "author": "Jacob Aron",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315777268.jpg"
-  },
-  {
-    "title": "Record El Niño threatens Great Barrier Reef with ecological shift | New Scientist",
-    "url": "https://www.newscientist.com/article/2592422-record-el-nino-threatens-great-barrier-reef-with-ecological-shift/",
-    "description": "Researchers are worried about the impact the strongest-known El Niño will have on the Great Barrier Reef, and whether anything can be done to avert the World Heritage Area’s demise",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315639854.jpg"
   }
 ]
