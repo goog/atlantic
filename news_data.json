@@ -1,5 +1,21 @@
 [
   {
+    "title": "Nearly 1 in 10 young adults could have fatty, narrow arteries | New Scientist",
+    "url": "https://www.newscientist.com/article/2592977-nearly-1-in-10-young-adults-could-have-fatty-narrow-arteries/",
+    "description": "Atherosclerosis, the build-up of fatty plaque in arteries, usually affects people older than 50, but a \"meaningful\" proportion of younger adults also have the condition",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315872431.jpg"
+  },
+  {
+    "title": "Rising water is creating inland ghost forests in the US | New Scientist",
+    "url": "https://www.newscientist.com/article/2593032-rising-water-is-creating-inland-ghost-forests-in-the-us/",
+    "description": "Forests full of dead trees aren’t just found by the US coasts – they are also appearing far from the sea around freshwater lakes",
+    "author": "Chris Simms",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315879901.jpg"
+  },
+  {
     "title": "Number of known species of giant waterlilies almost doubles | New Scientist",
     "url": "https://www.newscientist.com/article/2592896-the-number-of-known-species-of-giant-waterlilies-just-doubled/",
     "description": "A new species of giant waterlily identified with the help of social media and satellite photos is just one of three discovered in the past few years",
@@ -30,21 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315639854.jpg"
-  },
-  {
-    "title": "The world may never go back to how it was after this monster El Niño | New Scientist",
-    "url": "https://www.newscientist.com/article/2592450-the-world-may-never-go-back-to-how-it-was-after-this-monster-el-nino/",
-    "description": "This El Niño is forecast to end around June next year after smashing all records, but its impacts could persist indefinitely in some parts of the world",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315648517.jpg"
-  },
-  {
-    "title": "The most interesting mathematical discoveries in OpenAI's 722 new papers | New Scientist",
-    "url": "https://www.newscientist.com/article/2592703-the-most-interesting-mathematical-discoveries-in-openais-722-new-papers/",
-    "description": "OpenAI has released hundreds of papers claiming to make progress on the biggest open problems in mathematics – here are some with the most potential",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315747551.jpg"
   }
 ]
