@@ -1,5 +1,13 @@
 [
   {
+    "title": "Why the worst El Niño killed millions – and how we can avoid a repeat | New Scientist",
+    "url": "https://www.newscientist.com/article/2592513-why-the-worst-el-nino-killed-millions-and-how-we-can-avoid-a-repeat/",
+    "description": "The world hasn't experienced an El Niño this strong since the 1870s, when it sparked a terrible global famine. Are we better prepared this time?",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315671720.jpg"
+  },
+  {
     "title": "Two large asteroids found spinning as fast as a fairground ride | New Scientist",
     "url": "https://www.newscientist.com/article/2593044-two-large-asteroids-found-spinning-as-fast-as-fairground-ride/",
     "description": "Rocks in the asteroid belt rotating at ultra-fast speeds suggest our understanding of asteroid structure might be wrong",
@@ -38,13 +46,5 @@
     "author": "Chris Simms",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315879901.jpg"
-  },
-  {
-    "title": "Number of known species of giant waterlilies almost doubles | New Scientist",
-    "url": "https://www.newscientist.com/article/2592896-the-number-of-known-species-of-giant-waterlilies-just-doubled/",
-    "description": "A new species of giant waterlily identified with the help of social media and satellite photos is just one of three discovered in the past few years",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315677397.jpg"
   }
 ]
