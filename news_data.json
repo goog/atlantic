@@ -1,5 +1,21 @@
 [
   {
+    "title": "Dogs are susceptible to the bouba-kiki effect | New Scientist",
+    "url": "https://www.newscientist.com/article/2593290-dogs-are-susceptible-to-the-bouba-kiki-effect/",
+    "description": "Just like humans, dogs seem to associate the nonsense word “bouba” with a rounded shape and “kiki” with a spiky shape, suggesting the connection stems from brain mechanisms that are shared between species",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316414456.jpg"
+  },
+  {
+    "title": "Dinosaur named new species 102 years after fossil found on Isle of Wight | New Scientist",
+    "url": "https://www.newscientist.com/article/2593437-dinosaur-named-new-species-102-years-after-fossil-found-on-isle-of-wight/",
+    "description": "Invictibellatrix amberina, a predator in the megaraptoran group of dinosaurs, lived in what is now Britain 120 million years ago and may have had claws 20 centimetres long",
+    "author": "Chris Simms",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316310035.jpg"
+  },
+  {
     "title": "Brain training shows promise for short-term depression relief | New Scientist",
     "url": "https://www.newscientist.com/article/2593366-brain-training-shows-promise-for-short-term-depression-relief/",
     "description": "Training that encourages people to alter their brain's activity seems to reduce negative emotions among people with depression, but not in the way researchers expected",
@@ -30,21 +46,5 @@
     "author": "Madeleine Cuff",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315671720.jpg"
-  },
-  {
-    "title": "Two large asteroids found spinning as fast as a fairground ride | New Scientist",
-    "url": "https://www.newscientist.com/article/2593044-two-large-asteroids-found-spinning-as-fast-as-fairground-ride/",
-    "description": "Rocks in the asteroid belt rotating at ultra-fast speeds suggest our understanding of asteroid structure might be wrong",
-    "author": "Jonathan O’Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315887083.jpg"
-  },
-  {
-    "title": "Does each new covid-19 variant pose a significant threat? | New Scientist",
-    "url": "https://www.newscientist.com/article/2593098-does-each-new-covid-19-variant-pose-a-significant-threat/",
-    "description": "Most covid-19 cases are caused by a particular type of variant, but do we need to worry every time a new one emerges?",
-    "author": "Jo Marchant",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315912545.jpg"
   }
 ]
