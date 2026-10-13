@@ -1,5 +1,29 @@
 [
   {
+    "title": "Brain training shows promise for short-term depression relief | New Scientist",
+    "url": "https://www.newscientist.com/article/2593366-brain-training-shows-promise-for-short-term-depression-relief/",
+    "description": "Training that encourages people to alter their brain's activity seems to reduce negative emotions among people with depression, but not in the way researchers expected",
+    "author": "Sascha Brodsky",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316435163.jpg"
+  },
+  {
+    "title": "Cells from your mother could stay in your brain your whole life | New Scientist",
+    "url": "https://www.newscientist.com/article/2593373-cells-from-your-mother-could-stay-in-your-brain-your-whole-life/",
+    "description": "Most people seem to have cells that crossed the placenta from their mother into their developing brain in utero, even if they're now in their 80s",
+    "author": "Chris Simms",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316444256.jpg"
+  },
+  {
+    "title": "The land's ability to store carbon has bounced back after two bad years | New Scientist",
+    "url": "https://www.newscientist.com/article/2593284-the-land-carbon-sink-has-rebounded-strongly-after-two-terrible-years/",
+    "description": "Carbon absorption by forests and grasslands bounced back in 2025 thanks to favourable growing conditions, but El Niño could lead to another sharp slump next year",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316419659.jpg"
+  },
+  {
     "title": "Why the worst El Niño killed millions – and how we can avoid a repeat | New Scientist",
     "url": "https://www.newscientist.com/article/2592513-why-the-worst-el-nino-killed-millions-and-how-we-can-avoid-a-repeat/",
     "description": "The world hasn't experienced an El Niño this strong since the 1870s, when it sparked a terrible global famine. Are we better prepared this time?",
@@ -22,29 +46,5 @@
     "author": "Jo Marchant",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315912545.jpg"
-  },
-  {
-    "title": "Tattoos could be turned on and off with light | New Scientist",
-    "url": "https://www.newscientist.com/article/2592938-tattoos-could-be-turned-on-and-off-with-light/",
-    "description": "A new type of ink could overcome one of the main downsides of tattoos: the inability to make them invisible",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315879829.jpg"
-  },
-  {
-    "title": "Nearly 1 in 10 young adults could have fatty, narrow arteries | New Scientist",
-    "url": "https://www.newscientist.com/article/2592977-nearly-1-in-10-young-adults-could-have-fatty-narrow-arteries/",
-    "description": "Atherosclerosis, the build-up of fatty plaque in arteries, usually affects people older than 50, but a \"meaningful\" proportion of younger adults also have the condition",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315872431.jpg"
-  },
-  {
-    "title": "Rising water is creating inland ghost forests in the US | New Scientist",
-    "url": "https://www.newscientist.com/article/2593032-rising-water-is-creating-inland-ghost-forests-in-the-us/",
-    "description": "Forests full of dead trees aren’t just found by the US coasts – they are also appearing far from the sea around freshwater lakes",
-    "author": "Chris Simms",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315879901.jpg"
   }
 ]
