@@ -1,5 +1,29 @@
 [
   {
+    "title": "Giant bacteria could be living in your gut | New Scientist",
+    "url": "https://www.newscientist.com/article/2593632-giant-bacteria-could-be-living-in-your-gut/",
+    "description": "Bacteria that are visible without a microscope are generally found in mangroves and fish, but an analysis of different species from around the world suggests they also reside in the human gut",
+    "author": "Jo Marchant",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316443414.jpg"
+  },
+  {
+    "title": "Rare cancer spread between twins in utero | New Scientist",
+    "url": "https://www.newscientist.com/article/2593625-rare-cancer-spread-between-twins-in-utero/",
+    "description": "In a very rare case, a fetus developed cancer in the uterus, and these tumour cells spread to her twin sister",
+    "author": "Alice Klein",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316572180.jpg"
+  },
+  {
+    "title": "How El Niño could spark a worldwide food crisis | New Scientist",
+    "url": "https://www.newscientist.com/article/2592935-how-el-nino-could-spark-a-worldwide-food-crisis/",
+    "description": "Droughts and flooding brought by El Niño threaten crops around the world, raising the risk of increased prices and famines",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315864670_78c0e1.jpg"
+  },
+  {
     "title": "Dogs are susceptible to the bouba-kiki effect | New Scientist",
     "url": "https://www.newscientist.com/article/2593290-dogs-are-susceptible-to-the-bouba-kiki-effect/",
     "description": "Just like humans, dogs seem to associate the nonsense word “bouba” with a rounded shape and “kiki” with a spiky shape, suggesting the connection stems from brain mechanisms that are shared between species",
@@ -8,7 +32,7 @@
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316414456.jpg"
   },
   {
-    "title": "Dinosaur named new species 102 years after fossil found on Isle of Wight | New Scientist",
+    "title": "Dinosaur named new species a century after fossil found on Isle of Wight | New Scientist",
     "url": "https://www.newscientist.com/article/2593437-dinosaur-named-new-species-102-years-after-fossil-found-on-isle-of-wight/",
     "description": "Invictibellatrix amberina, a predator in the megaraptoran group of dinosaurs, lived in what is now Britain 120 million years ago and may have had claws 20 centimetres long",
     "author": "Chris Simms",
@@ -22,29 +46,5 @@
     "author": "Sascha Brodsky",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316435163.jpg"
-  },
-  {
-    "title": "Cells from your mother could stay in your brain your whole life | New Scientist",
-    "url": "https://www.newscientist.com/article/2593373-cells-from-your-mother-could-stay-in-your-brain-your-whole-life/",
-    "description": "Most people seem to have cells that crossed the placenta from their mother into their developing brain in utero, even if they're now in their 80s",
-    "author": "Chris Simms",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316444256.jpg"
-  },
-  {
-    "title": "The land's ability to store carbon has bounced back after two bad years | New Scientist",
-    "url": "https://www.newscientist.com/article/2593284-the-land-carbon-sink-has-rebounded-strongly-after-two-terrible-years/",
-    "description": "Carbon absorption by forests and grasslands bounced back in 2025 thanks to favourable growing conditions, but El Niño could lead to another sharp slump next year",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316419659.jpg"
-  },
-  {
-    "title": "Why the worst El Niño killed millions – and how we can avoid a repeat | New Scientist",
-    "url": "https://www.newscientist.com/article/2592513-why-the-worst-el-nino-killed-millions-and-how-we-can-avoid-a-repeat/",
-    "description": "The world hasn't experienced an El Niño this strong since the 1870s, when it sparked a terrible global famine. Are we better prepared this time?",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315671720.jpg"
   }
 ]
