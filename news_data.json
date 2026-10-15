@@ -1,5 +1,37 @@
 [
   {
+    "title": "Antarctica’s ‘doomsday’ glacier will keep melting even if oceans cool | New Scientist",
+    "url": "https://www.newscientist.com/article/2594246-antarcticas-doomsday-glacier-will-keep-melting-even-if-oceans-cool/",
+    "description": "Computer models suggest that unrealistically cold oceans would be insufficient to stop Thwaites glacier retreating, although a neighbouring glacier might begin to grow",
+    "author": "Alison George",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_313977141.jpg"
+  },
+  {
+    "title": "Why a high school in Virginia is getting a quantum computer | New Scientist",
+    "url": "https://www.newscientist.com/article/2593536-why-a-high-school-in-virginia-is-getting-a-quantum-computer/",
+    "description": "Starting in January, students attending Skyview High School in Virginia will learn about the building blocks and principles underlying quantum computers by working with one directly",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316604296.jpg"
+  },
+  {
+    "title": "Towering glacial ice cliffs may collapse in fits and starts | New Scientist",
+    "url": "https://www.newscientist.com/article/2593672-towering-ice-cliffs-may-collapse-in-fits-and-starts/",
+    "description": "We still don't know for sure how the ice cliffs looming over the sea at the leading edge of some glaciers will behave as the climate warms, but satellite data offers some clues",
+    "author": "Marissa Grunes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316725230.jpg"
+  },
+  {
+    "title": "Google showcases way to fix quantum computer errors more efficiently | New Scientist",
+    "url": "https://www.newscientist.com/article/2593999-google-showcases-way-to-fix-quantum-computer-errors-more-efficiently/",
+    "description": "Error-proofing the most important operations performed on a quantum computer has so far required lots of resources, but a new experiment shows a more efficient way to make the devices reliable",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316716668.jpg"
+  },
+  {
     "title": "Probiotic cuts risk of respiratory infections in formula-fed babies | New Scientist",
     "url": "https://www.newscientist.com/article/2594148-probiotic-cuts-risk-of-respiratory-infections-in-formula-fed-babies/",
     "description": "Babies who are formula fed are more prone to infections, but the addition of a probiotic supplement containing sugars from breast milk slashed the risk of such infants catching respiratory viruses",
@@ -14,37 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316573562.jpg"
-  },
-  {
-    "title": "A quarter of male soldiers in the US could have low testosterone | New Scientist",
-    "url": "https://www.newscientist.com/article/2594009-a-quarter-of-male-soldiers-in-the-us-could-have-low-testosterone/",
-    "description": "Newly introduced testosterone screening in the US Army could find more than 100,000 male soldiers with low testosterone",
-    "author": "Alice Klein",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316713496.jpg"
-  },
-  {
-    "title": "Russia and China are using AI to stage relentless cyberattacks against the UK | New Scientist",
-    "url": "https://www.newscientist.com/article/2593414-russia-and-china-are-using-ai-to-stage-relentless-cyber-attacks-against-the-uk/",
-    "description": "AI is increasing the speed of attacks against infrastructure in the UK but also being used to help defend against it",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316450311_0dd792.jpg"
-  },
-  {
-    "title": "Ancient shipwreck discovered off Turkey claimed to be world's oldest | New Scientist",
-    "url": "https://www.newscientist.com/article/2593986-ancient-shipwreck-discovered-off-turkey-claimed-to-be-worlds-oldest/",
-    "description": "A ship that sank in the Early Bronze Age was probably carrying jars of olive oil and may have been on its way to the ancient city of Troy when it sank",
-    "author": "Jo Marchant",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316584878.jpg"
-  },
-  {
-    "title": "We can rescue the AMOC after its collapse – but it won’t be easy | New Scientist",
-    "url": "https://www.newscientist.com/article/2593766-we-can-rescue-the-amoc-after-its-collapse-but-it-wont-be-easy/",
-    "description": "An AMOC weakened by climate change can be revived by cooling global temperatures, but we don't have the technology to remove huge quantities of CO2 and drive that cooling",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316600964.jpg"
   }
 ]
