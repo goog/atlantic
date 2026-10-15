@@ -1,5 +1,29 @@
 [
   {
+    "title": "Probiotic cuts risk of respiratory infections in formula-fed babies | New Scientist",
+    "url": "https://www.newscientist.com/article/2594148-probiotic-cuts-risk-of-respiratory-infections-in-formula-fed-babies/",
+    "description": "Babies who are formula fed are more prone to infections, but the addition of a probiotic supplement containing sugars from breast milk slashed the risk of such infants catching respiratory viruses",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316597746.jpg"
+  },
+  {
+    "title": "Neanderthal skeleton found with horrific injuries | New Scientist",
+    "url": "https://www.newscientist.com/article/2593548-neanderthal-skeleton-found-with-horrific-injuries/",
+    "description": "A 75,000-year-old skeleton offers a glimpse into the violent world in which Neanderthals lived, but also offers hints that they cared for one another",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316573562.jpg"
+  },
+  {
+    "title": "A quarter of male soldiers in the US could have low testosterone | New Scientist",
+    "url": "https://www.newscientist.com/article/2594009-a-quarter-of-male-soldiers-in-the-us-could-have-low-testosterone/",
+    "description": "Newly introduced testosterone screening in the US Army could find more than 100,000 male soldiers with low testosterone",
+    "author": "Alice Klein",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316713496.jpg"
+  },
+  {
     "title": "Russia and China are using AI to stage relentless cyberattacks against the UK | New Scientist",
     "url": "https://www.newscientist.com/article/2593414-russia-and-china-are-using-ai-to-stage-relentless-cyber-attacks-against-the-uk/",
     "description": "AI is increasing the speed of attacks against infrastructure in the UK but also being used to help defend against it",
@@ -22,29 +46,5 @@
     "author": "Madeleine Cuff",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316600964.jpg"
-  },
-  {
-    "title": "This El Niño will bring predictable disasters, so why aren't we ready? | New Scientist",
-    "url": "https://www.newscientist.com/article/2593320-__trashed-111/",
-    "description": "We know that this monster El Niño will bring floods, droughts, cyclones and wildfires, but some governments aren’t putting in the necessary resources to prepare for disaster",
-    "author": "New Scientist",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316316106.jpg"
-  },
-  {
-    "title": "Microplastics may produce harmful molecules if they enter our blood | New Scientist",
-    "url": "https://www.newscientist.com/article/2593857-microplastics-may-produce-harmful-molecules-if-they-enter-our-blood/",
-    "description": "In a lab experiment, microplastics generated harmful molecules when exposed to the serum in blood, which may damage cells",
-    "author": "Jo Marchant",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316585668.jpg"
-  },
-  {
-    "title": "Flightless ancient bird complicates our picture of wing evolution | New Scientist",
-    "url": "https://www.newscientist.com/article/2593552-flightless-ancient-bird-complicates-our-picture-of-wing-evolution/",
-    "description": "Fossils of a ground-dwelling, carnivorous bird with wing anatomy similar to that of a pheasant may force a rewrite of the role of flight in the early evolution of birds",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316566122.jpg"
   }
 ]
