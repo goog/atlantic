@@ -1,5 +1,13 @@
 [
   {
+    "title": "Russia and China are using AI to stage relentless cyberattacks against the UK | New Scientist",
+    "url": "https://www.newscientist.com/article/2593414-russia-and-china-are-using-ai-to-stage-relentless-cyber-attacks-against-the-uk/",
+    "description": "AI is increasing the speed of attacks against infrastructure in the UK but also being used to help defend against it",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316450311_0dd792.jpg"
+  },
+  {
     "title": "Ancient shipwreck discovered off Turkey claimed to be world's oldest | New Scientist",
     "url": "https://www.newscientist.com/article/2593986-ancient-shipwreck-discovered-off-turkey-claimed-to-be-worlds-oldest/",
     "description": "A ship that sank in the Early Bronze Age was probably carrying jars of olive oil and may have been on its way to the ancient city of Troy when it sank",
@@ -38,13 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316566122.jpg"
-  },
-  {
-    "title": "Giant bacteria could be living in your gut | New Scientist",
-    "url": "https://www.newscientist.com/article/2593632-giant-bacteria-could-be-living-in-your-gut/",
-    "description": "Bacteria that are visible without a microscope are generally found in mangroves and fish, but an analysis of different species from around the world suggests they also reside in the human gut",
-    "author": "Jo Marchant",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316443414.jpg"
   }
 ]
