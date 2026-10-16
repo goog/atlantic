@@ -1,5 +1,13 @@
 [
   {
+    "title": "Will physics be the next field to be turned upside down by AI? | New Scientist",
+    "url": "https://www.newscientist.com/article/2593273-will-physics-be-the-next-field-to-get-turned-upside-down-by-ai/",
+    "description": "AI has taken huge strides in computer programming and mathematics – physics could be next",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316576979.jpg"
+  },
+  {
     "title": "Antarctica’s ‘doomsday’ glacier will keep melting even if oceans cool | New Scientist",
     "url": "https://www.newscientist.com/article/2594246-antarcticas-doomsday-glacier-will-keep-melting-even-if-oceans-cool/",
     "description": "Computer models suggest that unrealistically cold oceans would be insufficient to stop Thwaites glacier retreating, although a neighbouring glacier might begin to grow",
@@ -38,13 +46,5 @@
     "author": "Carissa Wong",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316597746.jpg"
-  },
-  {
-    "title": "Neanderthal skeleton found with horrific injuries | New Scientist",
-    "url": "https://www.newscientist.com/article/2593548-neanderthal-skeleton-found-with-horrific-injuries/",
-    "description": "A 75,000-year-old skeleton offers a glimpse into the violent world in which Neanderthals lived, but also offers hints that they cared for one another",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316573562.jpg"
   }
 ]
