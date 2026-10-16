@@ -1,5 +1,29 @@
 [
   {
+    "title": "Japan is launching a mission to Mars’s largest moon Phobos | New Scientist",
+    "url": "https://www.newscientist.com/article/2594332-japan-is-launching-a-mission-to-marss-largest-moon-phobos/",
+    "description": "The Martian Moons eXploration spacecraft, set to launch on 20 October, will bring back samples that should solve a moon mystery that has been vexing scientists for more than a century",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316887487.jpg"
+  },
+  {
+    "title": "El Niño has killed hundreds of children in Sudan | New Scientist",
+    "url": "https://www.newscientist.com/article/2594324-el-nino-has-killed-hundreds-of-children-in-sudan/",
+    "description": "Drought driven by El Niño is causing hunger and disease in Sudan that has already killed hundreds of children",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316890923.jpg"
+  },
+  {
+    "title": "Scientists have just voted to abolish leap seconds | New Scientist",
+    "url": "https://www.newscientist.com/article/2594285-scientists-have-just-voted-to-abolish-leap-seconds/",
+    "description": "Since 1972, officials have added 27 leap seconds to the universal clock, but in a meeting this week in France they have decided to abandon the practice",
+    "author": "Jo Marchant",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316883520.jpg"
+  },
+  {
     "title": "Will physics be the next field to be turned upside down by AI? | New Scientist",
     "url": "https://www.newscientist.com/article/2593273-will-physics-be-the-next-field-to-get-turned-upside-down-by-ai/",
     "description": "AI has taken huge strides in computer programming and mathematics – physics could be next",
@@ -22,29 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316604296.jpg"
-  },
-  {
-    "title": "Towering glacial ice cliffs may collapse in fits and starts | New Scientist",
-    "url": "https://www.newscientist.com/article/2593672-towering-ice-cliffs-may-collapse-in-fits-and-starts/",
-    "description": "We still don't know for sure how the ice cliffs looming over the sea at the leading edge of some glaciers will behave as the climate warms, but satellite data offers some clues",
-    "author": "Marissa Grunes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316725230.jpg"
-  },
-  {
-    "title": "Google showcases way to fix quantum computer errors more efficiently | New Scientist",
-    "url": "https://www.newscientist.com/article/2593999-google-showcases-way-to-fix-quantum-computer-errors-more-efficiently/",
-    "description": "Error-proofing the most important operations performed on a quantum computer has so far required lots of resources, but a new experiment shows a more efficient way to make the devices reliable",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316716668.jpg"
-  },
-  {
-    "title": "Probiotic cuts risk of respiratory infections in formula-fed babies | New Scientist",
-    "url": "https://www.newscientist.com/article/2594148-probiotic-cuts-risk-of-respiratory-infections-in-formula-fed-babies/",
-    "description": "Babies who are formula fed are more prone to infections, but the addition of a probiotic supplement containing sugars from breast milk slashed the risk of such infants catching respiratory viruses",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316597746.jpg"
   }
 ]
