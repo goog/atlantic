@@ -1,5 +1,21 @@
 [
   {
+    "title": "El Niño is dramatically increasing sea levels – how bad could it get? | New Scientist",
+    "url": "https://www.newscientist.com/article/2594376-el-nino-is-dramatically-increasing-sea-levels-how-bad-could-it-get/",
+    "description": "El Niño has already raised sea levels in part of the eastern Pacific by 40 centimetres and as it continues to strengthen, there could be coastal flooding from Alaska to Chile",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316726592.jpg"
+  },
+  {
+    "title": "Archaeologists are uncovering the meaning of a unique rock art site | New Scientist",
+    "url": "https://www.newscientist.com/article/2593633-archaeologists-are-uncovering-the-meaning-of-a-unique-rock-art-site/",
+    "description": "Excavations in the Côa valley in Portugal, the world’s largest site of Palaeolithic open-air rock art, are yielding clues about how engravings of animals were seen by prehistoric hunter-gatherers",
+    "author": "Benjamin Taub",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316309806.jpg"
+  },
+  {
     "title": "Noise-cancelling headphones prevent vomiting after surgery | New Scientist",
     "url": "https://www.newscientist.com/article/2594276-noise-cancelling-headphones-prevent-vomiting-after-surgery/",
     "description": "Nausea and vomiting are common after surgery, which may be partly related to the noises patients are exposed to, even under general anaesthetic. Wearing noise-cancelling headphones while on the operating table reduces the risk",
@@ -30,21 +46,5 @@
     "author": "Jo Marchant",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316883520.jpg"
-  },
-  {
-    "title": "Will physics be the next field to be turned upside down by AI? | New Scientist",
-    "url": "https://www.newscientist.com/article/2593273-will-physics-be-the-next-field-to-get-turned-upside-down-by-ai/",
-    "description": "AI has taken huge strides in computer programming and mathematics – physics could be next",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316576979.jpg"
-  },
-  {
-    "title": "Antarctica’s ‘doomsday’ glacier will keep melting even if oceans cool | New Scientist",
-    "url": "https://www.newscientist.com/article/2594246-antarcticas-doomsday-glacier-will-keep-melting-even-if-oceans-cool/",
-    "description": "Computer models suggest that unrealistically cold oceans would be insufficient to stop Thwaites glacier retreating, although a neighbouring glacier might begin to grow",
-    "author": "Alison George",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316870296.jpg"
   }
 ]
