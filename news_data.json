@@ -1,5 +1,21 @@
 [
   {
+    "title": "Parasite-infected mosquitoes released in Europe for first time | New Scientist",
+    "url": "https://www.newscientist.com/article/2594886-parasite-infected-mosquitoes-released-in-europe-for-first-time/",
+    "description": "Male mosquitoes infected with a parasite have been released in Barcelona to reduce the number of mosquitoes that can transmit infections such as dengue",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317461295.jpg"
+  },
+  {
+    "title": "1000 human mathematicians pledge to shun AI in their research | New Scientist",
+    "url": "https://www.newscientist.com/article/2593621-a-thousand-human-mathematicians-pledge-to-shun-ai-in-their-research/",
+    "description": "There is a growing backlash against the way AI companies have gone about tackling mathematical problems – and now some mathematicians are opting to avoid AI altogether",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317353201.jpg"
+  },
+  {
     "title": "It's about to get a lot harder to keep countries honest about climate change | New Scientist",
     "url": "https://www.newscientist.com/article/2594695-its-about-to-be-a-lot-harder-to-keep-countries-honest-about-climate-change/",
     "description": "A row over when to publish crucial climate change assessments risks letting countries off the hook on emissions cuts",
@@ -30,21 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316895337.jpg"
-  },
-  {
-    "title": "El Niño is dramatically increasing sea levels – how bad could it get? | New Scientist",
-    "url": "https://www.newscientist.com/article/2594376-el-nino-is-dramatically-increasing-sea-levels-how-bad-could-it-get/",
-    "description": "El Niño has already raised sea levels in part of the eastern Pacific by 40 centimetres and as it continues to strengthen, there could be coastal flooding from Alaska to Chile",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316726592.jpg"
-  },
-  {
-    "title": "Archaeologists are uncovering the meaning of a unique rock art site | New Scientist",
-    "url": "https://www.newscientist.com/article/2593633-archaeologists-are-uncovering-the-meaning-of-a-unique-rock-art-site/",
-    "description": "Excavations in the Côa valley in Portugal, the world’s largest site of Palaeolithic open-air rock art, are yielding clues about how engravings of animals were seen by prehistoric hunter-gatherers",
-    "author": "Benjamin Taub",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316309806.jpg"
   }
 ]
