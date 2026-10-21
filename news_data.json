@@ -1,5 +1,13 @@
 [
   {
+    "title": "UN says 1.5°C is over and world is on track for 2.8°C of global warming | New Scientist",
+    "url": "https://www.newscientist.com/article/2594831-un-says-1-5c-is-over-and-world-is-on-track-for-2-8c-of-global-warming/",
+    "description": "The best-case scenario now is that the planet will only temporarily breach 1.5°C of warming, but current climate pledges fall way short of that hope",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317441814.jpg"
+  },
+  {
     "title": "1 in 4 cases of depression may be caused by off-kilter body clocks | New Scientist",
     "url": "https://www.newscientist.com/article/2594761-1-in-4-cases-of-depression-may-be-caused-by-off-kilter-body-clocks/",
     "description": "Depression has long been linked to chemical imbalances, but many cases may actually be related to disrupted body clocks that could be treated with melatonin therapies and early morning sun exposure",
@@ -38,13 +46,5 @@
     "author": "Jo Marchant",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317343438.jpg"
-  },
-  {
-    "title": "Discovery of T. rex's cousin upends our understanding of tyrannosaur evolution | New Scientist",
-    "url": "https://www.newscientist.com/article/2594525-discovery-of-t-rexs-cousin-upends-our-understanding-of-tyrannosaur-evolution/",
-    "description": "A dinosaur that is new to science has features of both subfamilies of the tyrannosaur group, complicating our understanding of how they evolved",
-    "author": "Jake Buehler",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317313480.jpg"
   }
 ]
