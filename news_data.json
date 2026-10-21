@@ -1,5 +1,21 @@
 [
   {
+    "title": "Cholesterol may disrupt the brain's cleaning system in Alzheimer's disease | New Scientist",
+    "url": "https://www.newscientist.com/article/2595089-cholesterol-may-disrupt-the-brains-cleaning-system-in-alzheimers-disease/",
+    "description": "The glymphatic system flushes toxins out of the brain, but this seems to be disrupted in Alzheimer's disease, and cholesterol may be involved",
+    "author": "Michael Marshall",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317433383.jpg"
+  },
+  {
+    "title": "Digital scents could add a new dimension to virtual worlds | New Scientist",
+    "url": "https://www.newscientist.com/article/2595189-digital-scents-could-add-a-new-dimension-to-virtual-worlds/",
+    "description": "It's now possible to convert a handful of smells into electronic signals that can be sent through the internet",
+    "author": "Jo Marchant",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317568410.jpg"
+  },
+  {
     "title": "Some climate damage is now unavoidable even if we clean up our act | New Scientist",
     "url": "https://www.newscientist.com/article/2594773-some-climate-damage-is-now-unavoidable-even-if-we-clean-up-our-act/",
     "description": "With the world looking likely to exceed 1.5°C of warming, the plan is now to reduce our carbon emissions after overshooting the target. What lasting damage will this have?",
@@ -30,21 +46,5 @@
     "author": "Helen Thomson",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317465000_6f943c.jpg"
-  },
-  {
-    "title": "UN says 1.5°C is over and world is on track for 2.8°C of global warming | New Scientist",
-    "url": "https://www.newscientist.com/article/2594831-un-says-1-5c-is-over-and-world-is-on-track-for-2-8c-of-global-warming/",
-    "description": "The best-case scenario now is that the planet will only temporarily breach 1.5°C of warming, but current climate pledges fall way short of that hope",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317441814.jpg"
-  },
-  {
-    "title": "1 in 4 cases of depression may be caused by off-kilter body clocks | New Scientist",
-    "url": "https://www.newscientist.com/article/2594761-1-in-4-cases-of-depression-may-be-caused-by-off-kilter-body-clocks/",
-    "description": "Many cases of depression may be related to disrupted body clocks, with this understanding offering new ways to treat it",
-    "author": "Alice Klein",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317441541.jpg"
   }
 ]
