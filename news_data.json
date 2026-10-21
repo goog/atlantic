@@ -1,5 +1,13 @@
 [
   {
+    "title": "The world's first spinal cord transplant has been performed in Russia | New Scientist",
+    "url": "https://www.newscientist.com/article/2594991-the-worlds-first-spinal-cord-transplant-has-been-performed-in-russia/",
+    "description": "A surgeon has told New Scientist they have performed a transplant on someone with a complete spinal cord injury using a piece of spinal cord from a brain-dead donor, but researchers have raised concerns",
+    "author": "Helen Thomson",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317465000_6f943c.jpg"
+  },
+  {
     "title": "UN says 1.5°C is over and world is on track for 2.8°C of global warming | New Scientist",
     "url": "https://www.newscientist.com/article/2594831-un-says-1-5c-is-over-and-world-is-on-track-for-2-8c-of-global-warming/",
     "description": "The best-case scenario now is that the planet will only temporarily breach 1.5°C of warming, but current climate pledges fall way short of that hope",
@@ -10,7 +18,7 @@
   {
     "title": "1 in 4 cases of depression may be caused by off-kilter body clocks | New Scientist",
     "url": "https://www.newscientist.com/article/2594761-1-in-4-cases-of-depression-may-be-caused-by-off-kilter-body-clocks/",
-    "description": "Depression has long been linked to chemical imbalances, but many cases may actually be related to disrupted body clocks that could be treated with melatonin therapies and early morning sun exposure",
+    "description": "Many cases of depression may be related to disrupted body clocks, with this understanding offering new ways to treat it",
     "author": "Alice Klein",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317441541.jpg"
@@ -38,13 +46,5 @@
     "author": "Madeleine Cuff",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317349988.jpg"
-  },
-  {
-    "title": "Bottlenose whales may look after each other when they’re sick | New Scientist",
-    "url": "https://www.newscientist.com/article/2594663-bottlenose-whales-may-look-after-each-other-when-theyre-sick/",
-    "description": "Northern bottlenose whales are more likely to stick together when individuals are poorly or emaciated",
-    "author": "Jo Marchant",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317343438.jpg"
   }
 ]
