@@ -1,5 +1,29 @@
 [
   {
+    "title": "Some climate damage is now unavoidable even if we clean up our act | New Scientist",
+    "url": "https://www.newscientist.com/article/2594773-some-climate-damage-is-now-unavoidable-even-if-we-clean-up-our-act/",
+    "description": "With the world looking likely to exceed 1.5°C of warming, the plan is now to reduce our carbon emissions after overshooting the target. What lasting damage will this have?",
+    "author": "New Scientist",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317321333.jpg"
+  },
+  {
+    "title": "Falling sea levels due to El Niño will hit mangroves and corals | New Scientist",
+    "url": "https://www.newscientist.com/article/2594961-falling-sea-levels-due-to-el-nino-will-hit-mangroves-and-corals/",
+    "description": "As sea levels rise in the eastern Pacific, they are falling around Australia and the Coral Triangle, leaving some mangroves and corals high and dry",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317553044.jpg"
+  },
+  {
+    "title": "A single antimatter particle was held in a trap for months | New Scientist",
+    "url": "https://www.newscientist.com/article/2594955-a-single-antimatter-particle-was-held-in-a-trap-for-months/",
+    "description": "After trapping a positron for the first time, physicists plan to use the resulting data to look for answers to one of particle physics’ biggest questions",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317554840.jpg"
+  },
+  {
     "title": "The world's first spinal cord transplant has been performed in Russia | New Scientist",
     "url": "https://www.newscientist.com/article/2594991-the-worlds-first-spinal-cord-transplant-has-been-performed-in-russia/",
     "description": "A surgeon has told New Scientist they have performed a transplant on someone with a complete spinal cord injury using a piece of spinal cord from a brain-dead donor, but researchers have raised concerns",
@@ -22,29 +46,5 @@
     "author": "Alice Klein",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317441541.jpg"
-  },
-  {
-    "title": "Parasite-infected mosquitoes released in Europe for first time | New Scientist",
-    "url": "https://www.newscientist.com/article/2594886-parasite-infected-mosquitoes-released-in-europe-for-first-time/",
-    "description": "Male mosquitoes infected with a parasite have been released in Barcelona to reduce the number of insects that can transmit infections such as dengue",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317461295.jpg"
-  },
-  {
-    "title": "1000 human mathematicians pledge to shun AI in their research | New Scientist",
-    "url": "https://www.newscientist.com/article/2593621-a-thousand-human-mathematicians-pledge-to-shun-ai-in-their-research/",
-    "description": "There is a growing backlash against the way AI companies have gone about tackling mathematical problems – and now some mathematicians are opting to avoid AI altogether",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317353201.jpg"
-  },
-  {
-    "title": "It's about to get a lot harder to keep countries honest about climate change | New Scientist",
-    "url": "https://www.newscientist.com/article/2594695-its-about-to-be-a-lot-harder-to-keep-countries-honest-about-climate-change/",
-    "description": "A row over when to publish crucial climate change assessments risks letting countries off the hook on emissions cuts",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317349988.jpg"
   }
 ]
