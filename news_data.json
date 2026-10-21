@@ -1,5 +1,13 @@
 [
   {
+    "title": "1 in 4 cases of depression may be caused by off-kilter body clocks | New Scientist",
+    "url": "https://www.newscientist.com/article/2594761-1-in-4-cases-of-depression-may-be-caused-by-off-kilter-body-clocks/",
+    "description": "Depression has long been linked to chemical imbalances, but many cases may actually be related to disrupted body clocks that could be treated with melatonin therapies and early morning sun exposure",
+    "author": "Alice Klein",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317441541.jpg"
+  },
+  {
     "title": "Parasite-infected mosquitoes released in Europe for first time | New Scientist",
     "url": "https://www.newscientist.com/article/2594886-parasite-infected-mosquitoes-released-in-europe-for-first-time/",
     "description": "Male mosquitoes infected with a parasite have been released in Barcelona to reduce the number of insects that can transmit infections such as dengue",
@@ -38,13 +46,5 @@
     "author": "Jake Buehler",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317313480.jpg"
-  },
-  {
-    "title": "Error-correction record pushes quantum computers closer to usefulness | New Scientist",
-    "url": "https://www.newscientist.com/article/2594366-error-correction-record-pushes-quantum-computers-closer-to-usefulness/",
-    "description": "Useful quantum computers will have to use many “logical qubits” as their computational building blocks, and researchers just broke the record for how reliable they can be",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316895337.jpg"
   }
 ]
