@@ -1,5 +1,13 @@
 [
   {
+    "title": "Tiny 'solar flares' recreated in the lab may explain corona mystery | New Scientist",
+    "url": "https://www.newscientist.com/article/2595244-tiny-solar-flares-recreated-in-the-lab-may-explain-corona-mystery/",
+    "description": "An experiment has produced nanoflares similar to those seen on the sun, and shown that they can help explain why the outer layers of the solar atmosphere are so hot",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317692891.jpg"
+  },
+  {
     "title": "Earth entered its 'bad decades' after dinosaur-ending asteroid strike | New Scientist",
     "url": "https://www.newscientist.com/article/2594979-earths-bad-decades-after-dinosaur-ending-asteroid-strike/",
     "description": "We now have a clearer picture of what happened in the decades following the asteroid impact that led to the extinction of almost all dinosaurs",
@@ -38,13 +46,5 @@
     "author": "Michael Marshall",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317433383.jpg"
-  },
-  {
-    "title": "Digital scents could add a new dimension to virtual worlds | New Scientist",
-    "url": "https://www.newscientist.com/article/2595189-digital-scents-could-add-a-new-dimension-to-virtual-worlds/",
-    "description": "It's now possible to convert a handful of smells into electronic signals that can be sent through the internet",
-    "author": "Jo Marchant",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317568410.jpg"
   }
 ]
