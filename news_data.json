@@ -1,5 +1,29 @@
 [
   {
+    "title": "All tropical coral reefs could collapse within 50 years | New Scientist",
+    "url": "https://www.newscientist.com/article/2595378-all-tropical-coral-reefs-could-collapse-within-50-years/",
+    "description": "Shallow-water coral reefs are at high risk of disappearing by 2075, the IUCN has warned at a UN biodiversity conference. The loss would decimate fisheries and speed up coastal erosion",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317717898.jpg"
+  },
+  {
+    "title": "Adults may be more creative than children – but less confident about it | New Scientist",
+    "url": "https://www.newscientist.com/article/2595359-adults-may-be-more-creative-than-children-but-less-confident-about-it/",
+    "description": "We often associate children with creativity, but adults actually performed better on inventive tasks, despite being less sure of themselves",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317698810.jpg"
+  },
+  {
+    "title": "Global race to update computers as AI discovers most disruptive hack yet | New Scientist",
+    "url": "https://www.newscientist.com/article/2595282-global-race-to-update-computers-as-ai-discovers-most-disruptive-hack-yet/",
+    "description": "More than two thirds of the world's websites are vulnerable to a hack that was first theorised in 2024, which AI has now made very real",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317697751.jpg"
+  },
+  {
     "title": "Cholesterol may disrupt the brain's cleaning system in Alzheimer's disease | New Scientist",
     "url": "https://www.newscientist.com/article/2595089-cholesterol-may-disrupt-the-brains-cleaning-system-in-alzheimers-disease/",
     "description": "The glymphatic system flushes toxins out of the brain, but this seems to be disrupted in Alzheimer's disease, and cholesterol may be involved",
@@ -22,29 +46,5 @@
     "author": "New Scientist",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317321333.jpg"
-  },
-  {
-    "title": "Falling sea levels due to El Niño will hit mangroves and corals | New Scientist",
-    "url": "https://www.newscientist.com/article/2594961-falling-sea-levels-due-to-el-nino-will-hit-mangroves-and-corals/",
-    "description": "As sea levels rise in the eastern Pacific, they are falling around Australia and the Coral Triangle, leaving some mangroves and corals high and dry",
-    "author": "Michael Le Page",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317553044.jpg"
-  },
-  {
-    "title": "A single antimatter particle was held in a trap for months | New Scientist",
-    "url": "https://www.newscientist.com/article/2594955-a-single-antimatter-particle-was-held-in-a-trap-for-months/",
-    "description": "After trapping a positron for the first time, physicists plan to use the resulting data to look for answers to one of particle physics’ biggest questions",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317554840.jpg"
-  },
-  {
-    "title": "The world's first spinal cord transplant has been performed in Russia | New Scientist",
-    "url": "https://www.newscientist.com/article/2594991-the-worlds-first-spinal-cord-transplant-has-been-performed-in-russia/",
-    "description": "A surgeon has told New Scientist they have performed a transplant on someone with a complete spinal cord injury using a piece of spinal cord from a brain-dead donor, but researchers have raised concerns",
-    "author": "Helen Thomson",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317465000_6f943c.jpg"
   }
 ]
