@@ -1,5 +1,13 @@
 [
   {
+    "title": "Earth entered its 'bad decades' after dinosaur-ending asteroid strike | New Scientist",
+    "url": "https://www.newscientist.com/article/2594979-earths-bad-decades-after-dinosaur-ending-asteroid-strike/",
+    "description": "We now have a clearer picture of what happened in the decades following the asteroid impact that led to the extinction of almost all dinosaurs",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317718094.jpg"
+  },
+  {
     "title": "All tropical coral reefs could collapse within 50 years | New Scientist",
     "url": "https://www.newscientist.com/article/2595378-all-tropical-coral-reefs-could-collapse-within-50-years/",
     "description": "Shallow-water coral reefs are at high risk of disappearing by 2075, the IUCN has warned at a UN biodiversity conference. The loss would decimate fisheries and speed up coastal erosion",
@@ -38,13 +46,5 @@
     "author": "Jo Marchant",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317568410.jpg"
-  },
-  {
-    "title": "Some climate damage is now unavoidable even if we clean up our act | New Scientist",
-    "url": "https://www.newscientist.com/article/2594773-some-climate-damage-is-now-unavoidable-even-if-we-clean-up-our-act/",
-    "description": "With the world looking likely to exceed 1.5°C of warming, the plan is now to reduce our carbon emissions after overshooting the target. What lasting damage will this have?",
-    "author": "New Scientist",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317321333.jpg"
   }
 ]
