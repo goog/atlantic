@@ -1,5 +1,29 @@
 [
   {
+    "title": "Personalised cancer vaccine expected to be approved next year | New Scientist",
+    "url": "https://www.newscientist.com/article/2595599-personalised-cancer-vaccine-expected-to-be-approved-next-year/",
+    "description": "A bespoke vaccine that is tailored to target an individual's unique skin cancer reduced rates of recurrence or death in a late-stage trial, making an approval expected",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317849720.jpg"
+  },
+  {
+    "title": "Brazil presidential election dogged by alleged bias by Meta AI tools | New Scientist",
+    "url": "https://www.newscientist.com/article/2595540-brazil-presidential-election-dogged-by-alleged-bias-by-meta-ai-tools/",
+    "description": "Supporters of Luiz Inácio Lula da Silva have accused Meta of interfering in Brazil’s election by making it easier to generate campaign content promoting his rival, Flávio Bolsonaro",
+    "author": "Luke Taylor",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317830225.jpg"
+  },
+  {
+    "title": "Body temperature may drive the higher risk of autoimmune conditions in women | New Scientist",
+    "url": "https://www.newscientist.com/article/2595579-body-temperature-may-drive-the-higher-risk-of-autoimmune-conditions-in-women/",
+    "description": "Autoimmune conditions are much more common in women than men, which could partly be due to the fluctuating body temperatures that occur during the menstrual cycle and menopause",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317558076.jpg"
+  },
+  {
     "title": "Tiny 'solar flares' recreated in the lab may explain corona mystery | New Scientist",
     "url": "https://www.newscientist.com/article/2595244-tiny-solar-flares-recreated-in-the-lab-may-explain-corona-mystery/",
     "description": "An experiment has produced nanoflares similar to those seen on the sun, and shown that they can help explain why the outer layers of the solar atmosphere are so hot",
@@ -22,29 +46,5 @@
     "author": "Alec Luhn",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317717898.jpg"
-  },
-  {
-    "title": "Adults may be more creative than children – but less confident about it | New Scientist",
-    "url": "https://www.newscientist.com/article/2595359-adults-may-be-more-creative-than-children-but-less-confident-about-it/",
-    "description": "We often associate children with creativity, but adults actually performed better on inventive tasks, despite being less sure of themselves",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317698810.jpg"
-  },
-  {
-    "title": "Global race to update computers as AI discovers most disruptive hack yet | New Scientist",
-    "url": "https://www.newscientist.com/article/2595282-global-race-to-update-computers-as-ai-discovers-most-disruptive-hack-yet/",
-    "description": "More than two thirds of the world's websites are vulnerable to a hack that was first theorised in 2024, which AI has now made very real",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317697751.jpg"
-  },
-  {
-    "title": "Cholesterol may disrupt the brain's cleaning system in Alzheimer's disease | New Scientist",
-    "url": "https://www.newscientist.com/article/2595089-cholesterol-may-disrupt-the-brains-cleaning-system-in-alzheimers-disease/",
-    "description": "The glymphatic system flushes toxins out of the brain, but this seems to be disrupted in Alzheimer's disease, and cholesterol may be involved",
-    "author": "Michael Marshall",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317433383.jpg"
   }
 ]
