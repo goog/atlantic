@@ -1,5 +1,13 @@
 [
   {
+    "title": "Wind turbines have killed 19 million bats in 40 years in the US | New Scientist",
+    "url": "https://www.newscientist.com/article/2595845-wind-turbines-have-killed-19-million-bats-in-40-years-in-the-us/",
+    "description": "Nearly 19 million bats are estimated to have been killed by wind turbines in the US between 1981 and 2024, but measures can be taken to make them less deadly",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318292163.jpg"
+  },
+  {
     "title": "'Oddball' test lets us glimpse how monkeys see the world | New Scientist",
     "url": "https://www.newscientist.com/article/2595841-oddball-test-lets-us-glimpse-how-monkeys-see-the-world/",
     "description": "Compared with humans, macaques are more likely to miss the bigger picture, but are also less confused by flipped images",
@@ -38,13 +46,5 @@
     "author": "Carissa Wong",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317849720.jpg"
-  },
-  {
-    "title": "Brazil presidential election dogged by alleged bias by Meta AI tools | New Scientist",
-    "url": "https://www.newscientist.com/article/2595540-brazil-presidential-election-dogged-by-alleged-bias-by-meta-ai-tools/",
-    "description": "Supporters of Luiz Inácio Lula da Silva have accused Meta of interfering in Brazil’s election by making it easier to generate campaign content promoting his rival, Flávio Bolsonaro",
-    "author": "Luke Taylor",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317830225.jpg"
   }
 ]
