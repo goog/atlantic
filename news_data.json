@@ -1,5 +1,37 @@
 [
   {
+    "title": "'Oddball' test lets us glimpse how monkeys see the world | New Scientist",
+    "url": "https://www.newscientist.com/article/2595841-oddball-test-lets-us-glimpse-how-monkeys-see-the-world/",
+    "description": "Compared with humans, macaques are more likely to miss the bigger picture, but are also less confused by flipped images",
+    "author": "Jo Marchant",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318293932.jpg"
+  },
+  {
+    "title": "Predatory amphibians swam the seas 237 million years ago | New Scientist",
+    "url": "https://www.newscientist.com/article/2595507-predatory-amphibians-swam-the-seas-237-million-years-ago/",
+    "description": "Until now, it was thought that the squishy, permeable skin of amphibians was unsuited for marine life because it would absorb too much salt from sea water – but a fossil found in China upends that view",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317827162.jpg"
+  },
+  {
+    "title": "Robotic dog controlled with a computer powered by human blood cells | New Scientist",
+    "url": "https://www.newscientist.com/article/2594537-robotic-dog-controlled-with-a-computer-powered-by-human-blood-cells/",
+    "description": "A start-up has already used a biological computer to play Pong, and now the firm says the technology can be used to control robots",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318277800.jpg"
+  },
+  {
+    "title": "Satellites show some of the strongest evidence the AMOC is weakening | New Scientist",
+    "url": "https://www.newscientist.com/article/2595629-satellites-show-some-of-the-strongest-evidence-the-amoc-is-weakening/",
+    "description": "The crucial Atlantic current system that brings warmth to Europe has slowed 14 per cent in 30 years, according to an analysis of how much heat the ocean is releasing to the atmosphere",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318275905.jpg"
+  },
+  {
     "title": "Personalised cancer vaccine expected to be approved next year | New Scientist",
     "url": "https://www.newscientist.com/article/2595599-personalised-cancer-vaccine-expected-to-be-approved-next-year/",
     "description": "A bespoke vaccine that is tailored to target an individual's unique skin cancer reduced rates of recurrence or death in a late-stage trial, making an approval expected",
@@ -14,37 +46,5 @@
     "author": "Luke Taylor",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317830225.jpg"
-  },
-  {
-    "title": "Body temperature may drive the higher risk of autoimmune conditions in women | New Scientist",
-    "url": "https://www.newscientist.com/article/2595579-body-temperature-may-drive-the-higher-risk-of-autoimmune-conditions-in-women/",
-    "description": "Autoimmune conditions are much more common in women than men, which could partly be due to the fluctuating body temperatures that occur during the menstrual cycle and menopause",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317558076.jpg"
-  },
-  {
-    "title": "Tiny 'solar flares' recreated in the lab may explain corona mystery | New Scientist",
-    "url": "https://www.newscientist.com/article/2595244-tiny-solar-flares-recreated-in-the-lab-may-explain-corona-mystery/",
-    "description": "An experiment has produced nanoflares similar to those seen on the sun, and shown that they can help explain why the outer layers of the solar atmosphere are so hot",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317692891.jpg"
-  },
-  {
-    "title": "Earth entered its 'bad decades' after dinosaur-ending asteroid strike | New Scientist",
-    "url": "https://www.newscientist.com/article/2594979-earths-bad-decades-after-dinosaur-ending-asteroid-strike/",
-    "description": "We now have a clearer picture of what happened in the decades following the asteroid impact that led to the extinction of almost all dinosaurs",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317718094.jpg"
-  },
-  {
-    "title": "All tropical coral reefs could collapse within 50 years | New Scientist",
-    "url": "https://www.newscientist.com/article/2595378-all-tropical-coral-reefs-could-collapse-within-50-years/",
-    "description": "Shallow-water coral reefs are at high risk of disappearing by 2075, the IUCN has warned at a UN biodiversity conference. The loss would decimate fisheries and speed up coastal erosion",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317717898.jpg"
   }
 ]
