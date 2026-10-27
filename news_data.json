@@ -1,5 +1,13 @@
 [
   {
+    "title": "Major greenhouse gases rise again to record levels | New Scientist",
+    "url": "https://www.newscientist.com/article/2595885-major-greenhouse-gases-rise-again-to-record-levels/",
+    "description": "Levels of carbon dioxide, methane and nitrous oxide in the atmosphere continued to rise in 2025, along with a lesser-known gas with a more powerful warming effect",
+    "author": "Shosha Adie",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318304647.jpg"
+  },
+  {
     "title": "Wind turbines have killed 19 million bats in 40 years in the US | New Scientist",
     "url": "https://www.newscientist.com/article/2595845-wind-turbines-have-killed-19-million-bats-in-40-years-in-the-us/",
     "description": "Nearly 19 million bats are estimated to have been killed by wind turbines in the US between 1981 and 2024, but measures can be taken to make them less deadly",
@@ -38,13 +46,5 @@
     "author": "Alec Luhn",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318275905.jpg"
-  },
-  {
-    "title": "Personalised cancer vaccine expected to be approved next year | New Scientist",
-    "url": "https://www.newscientist.com/article/2595599-personalised-cancer-vaccine-expected-to-be-approved-next-year/",
-    "description": "A bespoke vaccine that is tailored to target an individual's unique skin cancer reduced rates of recurrence or death in a late-stage trial, making an approval expected",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317849720.jpg"
   }
 ]
