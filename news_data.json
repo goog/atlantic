@@ -1,5 +1,21 @@
 [
   {
+    "title": "AI refutes 30-year-old mathematical assumption in computer science | New Scientist",
+    "url": "https://www.newscientist.com/article/2596045-ai-refutes-30-year-old-mathematical-assumption-in-computer-science/",
+    "description": "A central tenet in computer science has apparently been disproven by OpenAI, a result that will force textbooks to be rewritten if it is confirmed",
+    "author": "Chris Stokel-Walker",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318369568.jpg"
+  },
+  {
+    "title": "Clues from the Dead Sea could explain ancient drying of the Mediterranean | New Scientist",
+    "url": "https://www.newscientist.com/article/2596000-clues-from-the-dead-sea-could-explain-ancient-drying-of-the-mediterranean/",
+    "description": "The high salt concentration in the Dead Sea drives the warming and shrinking of the lake, and something similar may have happened in the Mediterranean 5.5 million years ago",
+    "author": "Bas den Hond",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318294861.jpg"
+  },
+  {
     "title": "Major greenhouse gases rise again to record levels | New Scientist",
     "url": "https://www.newscientist.com/article/2595885-major-greenhouse-gases-rise-again-to-record-levels/",
     "description": "Levels of carbon dioxide, methane and nitrous oxide in the atmosphere continued to rise in 2025, along with a lesser-known gas with a more powerful warming effect",
@@ -30,21 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317827162.jpg"
-  },
-  {
-    "title": "Robotic dog controlled with a computer powered by human blood cells | New Scientist",
-    "url": "https://www.newscientist.com/article/2594537-robotic-dog-controlled-with-a-computer-powered-by-human-blood-cells/",
-    "description": "A start-up has already used a biological computer to play Pong, and now the firm says the technology can be used to control robots",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318277800.jpg"
-  },
-  {
-    "title": "Satellites show some of the strongest evidence the AMOC is weakening | New Scientist",
-    "url": "https://www.newscientist.com/article/2595629-satellites-show-some-of-the-strongest-evidence-the-amoc-is-weakening/",
-    "description": "The crucial Atlantic current system that brings warmth to Europe has slowed 14 per cent in 30 years, according to an analysis of how much heat the ocean is releasing to the atmosphere",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318275905.jpg"
   }
 ]
