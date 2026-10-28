@@ -1,6 +1,22 @@
 [
   {
-    "title": "Access to stone rather than water governed where early humans lived | New Scientist",
+    "title": "Why the world's first spinal cord transplant is so controversial | New Scientist",
+    "url": "https://www.newscientist.com/article/2595939-why-the-worlds-first-spinal-cord-transplant-is-so-controversial/",
+    "description": "A spinal cord transplant happened in people for the first time during a surgery in Russia, but the evidence underpinning it is lacking",
+    "author": "New Scientist",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318280448.jpg"
+  },
+  {
+    "title": "There may be a new dwarf planet just beyond Pluto | New Scientist",
+    "url": "https://www.newscientist.com/article/2596282-there-may-be-a-new-dwarf-planet-just-beyond-pluto/",
+    "description": "Astronomers spotted what appears to be a dwarf planet in the outer solar system using the Vera C. Rubin Observatory – if confirmed, it joins a small and exclusive club",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318508510.jpg"
+  },
+  {
+    "title": "Access to stone as well as water governed where early humans lived | New Scientist",
     "url": "https://www.newscientist.com/article/2596225-access-to-stone-rather-than-water-governed-where-early-humans-lived/",
     "description": "The sands of the Arabian peninsula were once dotted with lakes that teemed with life, but early humans avoided them unless they came with easy access to stone for tool-making",
     "author": "Christa Lesté-Lasserre",
@@ -30,21 +46,5 @@
     "author": "Chris Stokel-Walker",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318369568.jpg"
-  },
-  {
-    "title": "Clues from the Dead Sea could explain ancient drying of the Mediterranean | New Scientist",
-    "url": "https://www.newscientist.com/article/2596000-clues-from-the-dead-sea-could-explain-ancient-drying-of-the-mediterranean/",
-    "description": "The high salt concentration in the Dead Sea drives the warming and shrinking of the lake, and something similar may have happened in the Mediterranean 5.5 million years ago",
-    "author": "Bas den Hond",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318294861.jpg"
-  },
-  {
-    "title": "Major greenhouse gases rise again to record levels | New Scientist",
-    "url": "https://www.newscientist.com/article/2595885-major-greenhouse-gases-rise-again-to-record-levels/",
-    "description": "Levels of carbon dioxide, methane and nitrous oxide in the atmosphere continued to rise in 2025, along with a lesser-known gas with a more powerful warming effect",
-    "author": "Shosha Adie",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318304647.jpg"
   }
 ]
