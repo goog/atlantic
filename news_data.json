@@ -1,5 +1,29 @@
 [
   {
+    "title": "Access to stone rather than water governed where early humans lived | New Scientist",
+    "url": "https://www.newscientist.com/article/2596225-access-to-stone-rather-than-water-governed-where-early-humans-lived/",
+    "description": "The sands of the Arabian peninsula were once dotted with lakes that teemed with life, but early humans avoided them unless they came with easy access to stone for tool-making",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318502404.jpg"
+  },
+  {
+    "title": "Transplanted ovaries adjust to the recipient's biological age | New Scientist",
+    "url": "https://www.newscientist.com/article/2596181-transplanted-ovaries-adjust-to-the-recipients-biological-age/",
+    "description": "Ovaries from older mice, which were no longer able to reproduce, seemed to become active again when transplanted into younger animals, suggesting the new host's body lowered the organs' molecular age",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318370866.jpg"
+  },
+  {
+    "title": "Super-insulating solid may soon help old homes reach net-zero goals | New Scientist",
+    "url": "https://www.newscientist.com/article/2596016-super-insulating-solid-may-soon-offer-a-net-zero-solution-for-tricky-homes/",
+    "description": "Millions of old homes across the UK and Europe need insulating under net-zero strategies, and promising start-ups believe materials called aerogels could be the answer",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318381089.jpg"
+  },
+  {
     "title": "AI refutes 30-year-old mathematical assumption in computer science | New Scientist",
     "url": "https://www.newscientist.com/article/2596045-ai-refutes-30-year-old-mathematical-assumption-in-computer-science/",
     "description": "A central tenet in computer science has apparently been disproven by OpenAI, a result that will force textbooks to be rewritten if it is confirmed",
@@ -22,29 +46,5 @@
     "author": "Shosha Adie",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318304647.jpg"
-  },
-  {
-    "title": "Wind turbines have killed 19 million bats in 40 years in the US | New Scientist",
-    "url": "https://www.newscientist.com/article/2595845-wind-turbines-have-killed-19-million-bats-in-40-years-in-the-us/",
-    "description": "Nearly 19 million bats are estimated to have been killed by wind turbines in the US between 1981 and 2024, but measures can be taken to make them less deadly",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318292163.jpg"
-  },
-  {
-    "title": "'Oddball' test lets us glimpse how monkeys see the world | New Scientist",
-    "url": "https://www.newscientist.com/article/2595841-oddball-test-lets-us-glimpse-how-monkeys-see-the-world/",
-    "description": "Compared with humans, macaques are more likely to miss the bigger picture, but are also less confused by flipped images",
-    "author": "Jo Marchant",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318293932.jpg"
-  },
-  {
-    "title": "Predatory amphibians swam the seas 237 million years ago | New Scientist",
-    "url": "https://www.newscientist.com/article/2595507-predatory-amphibians-swam-the-seas-237-million-years-ago/",
-    "description": "Until now, it was thought that the squishy, permeable skin of amphibians was unsuited for marine life because it would absorb too much salt from sea water – but a fossil found in China upends that view",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317827162.jpg"
   }
 ]
