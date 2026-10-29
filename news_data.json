@@ -1,5 +1,13 @@
 [
   {
+    "title": "Plant biology provides inspiration for PFAS replacement | New Scientist",
+    "url": "https://www.newscientist.com/article/2596564-plant-biology-provides-inspiration-for-pfas-replacement/",
+    "description": "Forever chemicals are renowned for their durability and their non-stick properties, but they persist for years in the environment. An alternative inspired by plants doesn't have the same problem",
+    "author": "Victoria Atkinson",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318512008.jpg"
+  },
+  {
     "title": "Birds can get jet lag on long, fast flights and then fly off course | New Scientist",
     "url": "https://www.newscientist.com/article/2596253-birds-can-get-jet-lag-on-long-fast-flights-and-then-fly-off-course/",
     "description": "On fast flights across the Atlantic, the body clocks of Manx shearwaters get out of sync with local time, leading them to veer away from the most direct flight path",
@@ -38,13 +46,5 @@
     "author": "Leah Crane",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318508510.jpg"
-  },
-  {
-    "title": "Access to stone as well as water governed where early humans lived | New Scientist",
-    "url": "https://www.newscientist.com/article/2596225-access-to-stone-rather-than-water-governed-where-early-humans-lived/",
-    "description": "The sands of the Arabian peninsula were once dotted with lakes that teemed with life, but early humans avoided them unless they came with easy access to stone for tool-making",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318502404.jpg"
   }
 ]
