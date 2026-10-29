@@ -1,5 +1,13 @@
 [
   {
+    "title": "Birds can get jet lag on long, fast flights and then fly off course | New Scientist",
+    "url": "https://www.newscientist.com/article/2596253-birds-can-get-jet-lag-on-long-fast-flights-and-then-fly-off-course/",
+    "description": "On fast flights across the Atlantic, the body clocks of Manx shearwaters get out of sync with local time, leading them to veer away from the most direct flight path",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318506601.jpg"
+  },
+  {
     "title": "Inhaling CO2 may rescue nerves’ ability to regrow | New Scientist",
     "url": "https://www.newscientist.com/article/2596332-inhaling-co2-rescues-nerves-ability-to-regrow/",
     "description": "Breathing out after birth switches off the ability of tissues to regenerate, a study in mice suggests. But the pathway seems to be reversible",
@@ -38,13 +46,5 @@
     "author": "Christa Lesté-Lasserre",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318502404.jpg"
-  },
-  {
-    "title": "Transplanted ovaries adjust to the recipient's biological age | New Scientist",
-    "url": "https://www.newscientist.com/article/2596181-transplanted-ovaries-adjust-to-the-recipients-biological-age/",
-    "description": "Ovaries from older mice, which were no longer able to reproduce, seemed to become active again when transplanted into younger animals, suggesting the new host's body lowered the organs' molecular age",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318370866.jpg"
   }
 ]
