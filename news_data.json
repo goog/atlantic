@@ -1,19 +1,27 @@
 [
   {
+    "title": "Rusty crust made Mars warm and wet | New Scientist",
+    "url": "https://www.newscientist.com/article/2596726-rusty-crust-made-mars-warm-and-wet/",
+    "description": "It's unclear how and why Mars once became warm enough to allow water to flow on its surface, but a new idea suggests it comes down to rust below the surface",
+    "author": "Bas den Hond",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318644547.jpg"
+  },
+  {
+    "title": "Binance: How did the biggest crypto heist in history just happen? | New Scientist",
+    "url": "https://www.newscientist.com/article/2596706-how-did-the-biggest-crypto-heist-in-history-just-happen/",
+    "description": "Billions of dollars' worth of cryptocurrency have been stolen in just a matter of minutes. Researchers are already unpicking what went wrong",
+    "author": "Chris Stokel-Walker",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318747935.jpg"
+  },
+  {
     "title": "Scientists confirm fruit and vegetable skin really is good for you | New Scientist",
     "url": "https://www.newscientist.com/article/2596529-scientists-have-discovered-a-completely-free-way-to-eat-more-fibre/",
     "description": "Parts of plants that are usually wasted, from kiwi skin to squash seeds, contain more fibre than the parts of the plant we do eat",
     "author": "Madeleine Cuff",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318639547.jpg"
-  },
-  {
-    "title": "The 12 strangest science stories we can’t stop thinking about | New Scientist",
-    "url": "https://www.newscientist.com/article/2591690-the-12-strangest-science-stories-we-cant-stop-thinking-about/",
-    "description": "From subconscious finger sniffing to rats driving cars, New Scientist staff have reported on many weird, wild or utterly bonkers discoveries and inventions in the 70 years since we began",
-    "author": "Sam Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314834910.jpg"
   },
   {
     "title": "Plant biology provides inspiration for PFAS replacement | New Scientist",
@@ -38,13 +46,5 @@
     "author": "Jo Marchant",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318499765.jpg"
-  },
-  {
-    "title": "Key oddity of quantum physics may run even deeper than anticipated | New Scientist",
-    "url": "https://www.newscientist.com/article/2596105-key-oddity-of-quantum-physics-may-run-even-deeper-than-anticipated/",
-    "description": "Quantum mechanics stands out by being probabilistic and a new analysis suggests that this property can be traced unexpectedly deep into the theory’s mathematical foundations",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318475614.jpg"
   }
 ]
