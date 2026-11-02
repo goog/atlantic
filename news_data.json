@@ -1,5 +1,13 @@
 [
   {
+    "title": "Curiosity may be what drives our brains to become so complex | New Scientist",
+    "url": "https://www.newscientist.com/article/2596932-curiosity-may-be-what-drives-our-brains-to-become-so-complex/",
+    "description": "We often think that our ability to be curious stems from our complex, human brain – but what if curiosity shapes that complexity?",
+    "author": "Jo Marchant",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_318773145.jpg"
+  },
+  {
     "title": "Fish pay attention to one influential neighbour in virtual reality | New Scientist",
     "url": "https://www.newscientist.com/article/2596645-fish-only-pay-attention-to-one-most-influential-neighbor-in-virtual-reality/",
     "description": "Observing interactions between real and virtual rummy-nose tetra fish shows that, within a group, each individual takes cues from only one influential neighbour",
@@ -38,13 +46,5 @@
     "author": "Madeleine Cuff",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318639547.jpg"
-  },
-  {
-    "title": "Plant biology provides inspiration for PFAS replacement | New Scientist",
-    "url": "https://www.newscientist.com/article/2596564-plant-biology-provides-inspiration-for-pfas-replacement/",
-    "description": "Forever chemicals are renowned for their durability and their non-stick properties, but they persist for years in the environment. An alternative inspired by plants doesn't have the same problem",
-    "author": "Victoria Atkinson",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318512008.jpg"
   }
 ]
