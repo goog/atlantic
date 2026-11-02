@@ -1,5 +1,29 @@
 [
   {
+    "title": "Zapping part of the brain makes you think harder – at a cost | New Scientist",
+    "url": "https://www.newscientist.com/article/2596810-zapping-part-of-the-brain-makes-you-think-harder-at-a-cost/",
+    "description": "Stimulating a part of the brain linked to mental effort boosts performance in demanding tasks, but also leads to greater mental fatigue afterwards",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319164556.jpg"
+  },
+  {
+    "title": "Dinosaur red blood cells recovered from 115-million-year-old fossil | New Scientist",
+    "url": "https://www.newscientist.com/article/2596881-dinosaur-red-blood-cells-recovered-from-115-million-year-old-fossil/",
+    "description": "A bit of leg bone from an Aratasaurus dinosaur fossil collected in Brazil has preserved abundant 3D red blood cells in stunning detail",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319160393.jpg"
+  },
+  {
+    "title": "COP31: Will this year's climate summit be the most underwhelming ever? | New Scientist",
+    "url": "https://www.newscientist.com/article/2595518-cop31-will-this-years-climate-summit-be-the-most-underwhelming-ever/",
+    "description": "Despite coming after a year of dangerous weather and signs that global warming is accelerating, COP31 is unlikely to deliver dramatic progress on climate action",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317829226.jpg"
+  },
+  {
     "title": "Curiosity may be what drives our brains to become so complex | New Scientist",
     "url": "https://www.newscientist.com/article/2596932-curiosity-may-be-what-drives-our-brains-to-become-so-complex/",
     "description": "We often think that our ability to be curious stems from our complex, human brain – but what if curiosity shapes that complexity?",
@@ -22,29 +46,5 @@
     "author": "Carissa Wong",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318636843.jpg"
-  },
-  {
-    "title": "Rusty crust made Mars warm and wet | New Scientist",
-    "url": "https://www.newscientist.com/article/2596726-rusty-crust-made-mars-warm-and-wet/",
-    "description": "It's unclear how and why Mars once became warm enough to allow water to flow on its surface, but a new idea suggests it comes down to rust below the surface",
-    "author": "Bas den Hond",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318644547.jpg"
-  },
-  {
-    "title": "Binance: How did the biggest crypto heist in history just happen? | New Scientist",
-    "url": "https://www.newscientist.com/article/2596706-how-did-the-biggest-crypto-heist-in-history-just-happen/",
-    "description": "Billions of dollars' worth of cryptocurrency have been stolen in just a matter of minutes. Researchers are already unpicking what went wrong",
-    "author": "Chris Stokel-Walker",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318747935.jpg"
-  },
-  {
-    "title": "Scientists confirm fruit and vegetable skin really is good for you | New Scientist",
-    "url": "https://www.newscientist.com/article/2596529-scientists-have-discovered-a-completely-free-way-to-eat-more-fibre/",
-    "description": "Parts of plants that are usually wasted, from kiwi skin to squash seeds, contain more fibre than the parts of the plant we do eat",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318639547.jpg"
   }
 ]
