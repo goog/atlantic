@@ -1,5 +1,13 @@
 [
   {
+    "title": "Vibrating mattress helps clear Alzheimer’s protein from the brain | New Scientist",
+    "url": "https://www.newscientist.com/article/2597081-vibrating-mattress-helps-clear-alzheimers-protein-from-the-brain/",
+    "description": "Lying on a vibrating mattress for 40 minutes, combined with taking two pills that release nitric oxide into the body, enhanced the clearance of an Alzheimer's-related protein via the brain's waste-disposal system",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319185008.jpg"
+  },
+  {
     "title": "Inca children were drugged before being sacrificed | New Scientist",
     "url": "https://www.newscientist.com/article/2596878-inca-child-mummies-were-drugged-before-being-sacrificed/",
     "description": "Analysis of the hair and fingernails of eight mummified Inca children reveals that they were given cocaine and alcohol prior to being sacrificed high on Andean mountain peaks",
@@ -38,13 +46,5 @@
     "author": "Jo Marchant",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_318773145.jpg"
-  },
-  {
-    "title": "Fish pay attention to one influential neighbour in virtual reality | New Scientist",
-    "url": "https://www.newscientist.com/article/2596645-fish-only-pay-attention-to-one-most-influential-neighbor-in-virtual-reality/",
-    "description": "Observing interactions between real and virtual rummy-nose tetra fish shows that, within a group, each individual takes cues from only one influential neighbour",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318737523.jpg"
   }
 ]
