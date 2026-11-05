@@ -1,5 +1,37 @@
 [
   {
+    "title": "Tomb in Siberia reveals humans were using cannabis 2800 years ago | New Scientist",
+    "url": "https://www.newscientist.com/article/2597653-tomb-in-siberia-reveals-humans-were-using-cannabis-2800-years-ago/",
+    "description": "Psychoactive compounds have been found in a hair from a Scythian tomb in Siberia, providing the earliest direct evidence of cannabis being used as a drug",
+    "author": "Chris Simms",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319523390.jpg"
+  },
+  {
+    "title": "The economic benefits of the covid vaccines may be double what we thought | New Scientist",
+    "url": "https://www.newscientist.com/article/2597704-the-economic-benefits-of-the-covid-vaccines-may-be-twice-as-high-as-we-thought/",
+    "description": "The global health and economic benefits of the covid-19 vaccines were thought to have reached up to $38 trillion in their first year, but a new analysis suggests $64.3 trillion is a more accurate figure",
+    "author": "Shosha Adie",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319521022.jpg"
+  },
+  {
+    "title": "Evidence of active volcanoes on Mars may boost chances of finding life | New Scientist",
+    "url": "https://www.newscientist.com/article/2597667-evidence-of-active-volcanoes-on-mars-may-boost-chances-of-finding-life/",
+    "description": "Recent fractures on the surface of Mars and gases detected by an orbiter probe provide some of the strongest evidence yet that the planet is volcanically active",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319532373.jpg"
+  },
+  {
+    "title": "Microplastics may be changing the colour of the Pacific Ocean | New Scientist",
+    "url": "https://www.newscientist.com/article/2597579-microplastics-may-be-changing-the-colour-of-the-pacific-ocean/",
+    "description": "Satellites show that the ocean around a gyre of plastic detritus in the Pacific is brightening and changing colour, with the most likely explanation being microplastics suspended in the water column",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319512668.jpg"
+  },
+  {
     "title": "Marginal oil and gas wells have outsized pollution impact | New Scientist",
     "url": "https://www.newscientist.com/article/2597258-marginal-oil-and-gas-wells-are-responsible-for-outsized-pollution-impact/",
     "description": "Low-producing oil and gas wells in the US account for 5 per cent of national oil and gas production but produce 40 per cent of the industry's methane emissions",
@@ -14,37 +46,5 @@
     "author": "James Woodford",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_318619350.jpg"
-  },
-  {
-    "title": "British Iron Age 'king' who prompted Roman invasion was probably a woman | New Scientist",
-    "url": "https://www.newscientist.com/article/2597465-british-iron-age-king-who-prompted-roman-invasion-was-probably-a-woman/",
-    "description": "Verica, a British ruler who encouraged the Roman emperor Claudius to launch an invasion, may not have been the man historians thought he was",
-    "author": "Michael Marshall",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319410378.jpg"
-  },
-  {
-    "title": "Toothbrush that emits electricity may more effectively prevent gum disease | New Scientist",
-    "url": "https://www.newscientist.com/article/2597523-toothbrush-that-emits-electricity-may-more-effectively-prevent-gum-disease/",
-    "description": "A toothbrush with bristles that produce electricity as they bend has shown promise for reducing plaque and gum inflammation",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319426157.jpg"
-  },
-  {
-    "title": "A dyslexia diagnosis can help struggling children, but what about the rest? | New Scientist",
-    "url": "https://www.newscientist.com/article/2597138-a-dyslexia-diagnosis-can-help-struggling-children-but-what-about-the-rest/",
-    "description": "Children who struggle to read and are diagnosed with dyslexia can get additional help, but those who can't afford a test or don't meet the criteria get left behind. Surely there is a better way?",
-    "author": "New Scientist",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319174017.jpg"
-  },
-  {
-    "title": "Nap schedules at childcare may not fit children's sleep needs | New Scientist",
-    "url": "https://www.newscientist.com/article/2597121-nap-schedules-at-childcare-may-not-fit-childrens-sleep-needs/",
-    "description": "Most young children in countries like the UK, the US and Australia attend childcare, where their napping patterns often differ to when they are at home. But we don't know if this affects their development",
-    "author": "Alice Klein",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319274826.jpg"
   }
 ]
