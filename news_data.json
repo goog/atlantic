@@ -1,5 +1,13 @@
 [
   {
+    "title": "Marginal oil and gas wells have outsized pollution impact | New Scientist",
+    "url": "https://www.newscientist.com/article/2597258-marginal-oil-and-gas-wells-are-responsible-for-outsized-pollution-impact/",
+    "description": "Low-producing oil and gas wells in the US account for 5 per cent of national oil and gas production but produce 40 per cent of the industry's methane emissions",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319311133.jpg"
+  },
+  {
     "title": "Stunning collection of prehistoric engravings found in Spanish cave | New Scientist",
     "url": "https://www.newscientist.com/article/2597300-stunning-collection-of-prehistoric-engravings-found-in-spanish-cave/",
     "description": "A close examination of a frequently visited cave wall in Spain has revealed a spectacular assembly of rock art engravings thought to be at least 19,000 years old",
@@ -38,13 +46,5 @@
     "author": "Alice Klein",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319274826.jpg"
-  },
-  {
-    "title": "Physicists get first glimpse of the zeptoverse from LHC experiment | New Scientist",
-    "url": "https://www.newscientist.com/article/2597289-beauty-particle-decay-opens-the-door-to-the-zeptoverse/",
-    "description": "Data from the Large Hadron Collider has revealed evidence of a long-sought particle process that serves as a guide into the realm of the smallest scales ever probed",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319406937.jpg"
   }
 ]
