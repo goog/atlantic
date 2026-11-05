@@ -1,5 +1,21 @@
 [
   {
+    "title": "Stunning collection of prehistoric engravings found in Spanish cave | New Scientist",
+    "url": "https://www.newscientist.com/article/2597300-stunning-collection-of-prehistoric-engravings-found-in-spanish-cave/",
+    "description": "A close examination of a frequently visited cave wall in Spain has revealed a spectacular assembly of rock art engravings thought to be at least 19,000 years old",
+    "author": "James Woodford",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_318619350.jpg"
+  },
+  {
+    "title": "British Iron Age 'king' who prompted Roman invasion was probably a woman | New Scientist",
+    "url": "https://www.newscientist.com/article/2597465-british-iron-age-king-who-prompted-roman-invasion-was-probably-a-woman/",
+    "description": "Verica, a British ruler who encouraged the Roman emperor Claudius to launch an invasion, may not have been the man historians thought he was",
+    "author": "Michael Marshall",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319410378.jpg"
+  },
+  {
     "title": "Toothbrush that emits electricity may more effectively prevent gum disease | New Scientist",
     "url": "https://www.newscientist.com/article/2597523-toothbrush-that-emits-electricity-may-more-effectively-prevent-gum-disease/",
     "description": "A toothbrush with bristles that produce electricity as they bend has shown promise for reducing plaque and gum inflammation",
@@ -30,21 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319406937.jpg"
-  },
-  {
-    "title": "Antarctica’s permafrost is emitting worrying amounts of CO2 | New Scientist",
-    "url": "https://www.newscientist.com/article/2597245-antarcticas-permafrost-is-emitting-worrying-amounts-of-co2/",
-    "description": "Carbon dioxide emissions from ice-free ground in one area of Antarctica have grown fivefold in just five years, suggesting there may be a significant source of emissions we haven’t accounted for",
-    "author": "Syris Valentine",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319301138.jpg"
-  },
-  {
-    "title": "Australia’s social media ban faces high court challenge | New Scientist",
-    "url": "https://www.newscientist.com/article/2597306-australias-social-media-ban-faces-high-court-challenge/",
-    "description": "Australia was the first country to ban under-16s from social media platforms a year ago, but most observers believe the policy isn't working - now a legal challenge is arguing that it is unconstitutional",
-    "author": "James Woodford",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319399545.jpg"
   }
 ]
