@@ -1,5 +1,29 @@
 [
   {
+    "title": "X chromosome gene may reduce autism rates in women and girls | New Scientist",
+    "url": "https://www.newscientist.com/article/2598114-x-chromosome-gene-may-reduce-autism-rates-in-women-and-girls/",
+    "description": "A gene called ZFX exerts powerful effects on an entire network of genes linked to autism, which may help explain why the condition is less common in females",
+    "author": "Michael Marshall",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320061067.jpg"
+  },
+  {
+    "title": "Prehistoric Britons may have made giant stone axes to show off | New Scientist",
+    "url": "https://www.newscientist.com/article/2597990-prehistoric-britons-may-have-made-giant-stone-axes-to-show-off/",
+    "description": "Unusually large handaxes weighing up to 3 kilograms have puzzled archaeologists because they are so unwieldy, but their function may have been purely symbolic",
+    "author": "Christa Lesté-Lasserre",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320057637.jpg"
+  },
+  {
+    "title": "Weird 'ultraquantum' turbulence seen for the first time | New Scientist",
+    "url": "https://www.newscientist.com/article/2597812-weird-ultraquantum-turbulence-seen-for-the-first-time/",
+    "description": "An experiment with ultracold potassium atoms has revealed details of a type of turbulence that only exists in the quantum realm and relies on odd tangles of stringy whirlpools",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319678866.jpg"
+  },
+  {
     "title": "Antipersonnel mines have returned in Ukraine and now threaten the world | New Scientist",
     "url": "https://www.newscientist.com/article/2597901-antipersonnel-mines-have-returned-in-ukraine-and-now-threaten-the-world/",
     "description": "3D printing, microcontrollers and drones have enabled the resurgence of antipersonnel mines in the Russia-Ukraine war, making mines deadlier and more accessible",
@@ -22,29 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319645963.jpg"
-  },
-  {
-    "title": "Less than 4 minutes of vigorous exercise a day could halve your dementia risk | New Scientist",
-    "url": "https://www.newscientist.com/article/2597936-less-than-4-minutes-of-vigorous-exercise-a-day-could-half-your-dementia-risk/",
-    "description": "Bursts of vigorous physical activity, such as carrying heavy shopping or rushing for the bus, seem to have a significant effect on our brain health and dementia risk",
-    "author": "Chris Simms",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319661875.jpg"
-  },
-  {
-    "title": "Parkinson’s may be driven by 'vicious cycle' that disrupts brain waste drainage | New Scientist",
-    "url": "https://www.newscientist.com/article/2597911-parkinsons-may-be-driven-by-vicious-cycle-that-disrupts-brain-waste-drainage/",
-    "description": "Parkinson's disease is linked to toxic protein clumps and disrupted brain waste removal, which may feed off each other, causing the condition to progress",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319524460.jpg"
-  },
-  {
-    "title": "Hubble Space Telescope is falling to Earth – should NASA save it? | New Scientist",
-    "url": "https://www.newscientist.com/article/2597221-hubble-space-telescope-is-falling-to-earth-should-nasa-save-it/",
-    "description": "The Hubble Space Telescope faces a fiery and fatal re-entry to Earth's atmosphere sometime around 2032, but NASA is asking the private sector for ideas to keep it working",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319526014.jpg"
   }
 ]
