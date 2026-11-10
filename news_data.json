@@ -1,5 +1,21 @@
 [
   {
+    "title": "What is the electrification target at COP31 and can countries meet it? | New Scientist",
+    "url": "https://www.newscientist.com/article/2598177-what-is-the-electrification-target-at-cop31-and-can-countries-meet-it/",
+    "description": "The world will need to quadruple its pace on electrification to meet the target being pushed by the COP31 presidency this week, but increasingly affordable renewable energy could put the goal within reach",
+    "author": "Shosha Adie",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320070399_3b88b5.jpg"
+  },
+  {
+    "title": "Newly described insect may live its whole life on a spider's web | New Scientist",
+    "url": "https://www.newscientist.com/article/2598153-newly-described-bug-lives-its-whole-life-on-a-spider-web/",
+    "description": "A species of “web-loving bug” from China lives on a spider's web and seems to follow its arachnid host around. The insect may be too small for the spider to bother attacking",
+    "author": "Jake Buehler",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320058625.jpg"
+  },
+  {
     "title": "Global carbon emissions set to fall in 2026 due to Iran energy shock | New Scientist",
     "url": "https://www.newscientist.com/article/2598130-global-carbon-emissions-fall-in-2026-due-to-iran-energy-shock/",
     "description": "Carbon dioxide emissions are projected to fall 0.4 per cent this year, driven in part by higher oil prices resulting from disruption to shipping in the Strait of Hormuz",
@@ -30,21 +46,5 @@
     "author": "Christa Lesté-Lasserre",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320057637.jpg"
-  },
-  {
-    "title": "Weird 'ultraquantum' turbulence seen for the first time | New Scientist",
-    "url": "https://www.newscientist.com/article/2597812-weird-ultraquantum-turbulence-seen-for-the-first-time/",
-    "description": "An experiment with ultracold potassium atoms has revealed details of a type of turbulence that only exists in the quantum realm and relies on odd tangles of stringy whirlpools",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319678866.jpg"
-  },
-  {
-    "title": "Antipersonnel mines have returned in Ukraine and now threaten the world | New Scientist",
-    "url": "https://www.newscientist.com/article/2597901-antipersonnel-mines-have-returned-in-ukraine-and-now-threaten-the-world/",
-    "description": "3D printing, microcontrollers and drones have enabled the resurgence of antipersonnel mines in the Russia-Ukraine war, making mines deadlier and more accessible",
-    "author": "David Hambling",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319659570.jpg"
   }
 ]
