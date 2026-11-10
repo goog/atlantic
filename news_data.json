@@ -1,5 +1,13 @@
 [
   {
+    "title": "Correcting quantum computer errors may be more complicated than expected | New Scientist",
+    "url": "https://www.newscientist.com/article/2598161-correcting-quantum-computer-errors-may-be-more-complicated-than-expected/",
+    "description": "Correcting quantum computer errors is key for making the devices practical, but some types of errors, and the complications they could introduce, may be more likely to occur than we had thought",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320159468.jpg"
+  },
+  {
     "title": "What is the electrification target at COP31 and can countries meet it? | New Scientist",
     "url": "https://www.newscientist.com/article/2598177-what-is-the-electrification-target-at-cop31-and-can-countries-meet-it/",
     "description": "The world will need to quadruple its pace on electrification to meet the target being pushed by the COP31 presidency this week, but increasingly affordable renewable energy could put the goal within reach",
@@ -38,13 +46,5 @@
     "author": "Michael Marshall",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320061067.jpg"
-  },
-  {
-    "title": "Prehistoric Britons may have made giant stone axes to show off | New Scientist",
-    "url": "https://www.newscientist.com/article/2597990-prehistoric-britons-may-have-made-giant-stone-axes-to-show-off/",
-    "description": "Unusually large handaxes weighing up to 3 kilograms have puzzled archaeologists because they are so unwieldy, but their function may have been purely symbolic",
-    "author": "Christa Lesté-Lasserre",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320057637.jpg"
   }
 ]
