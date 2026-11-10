@@ -1,5 +1,21 @@
 [
   {
+    "title": "Global carbon emissions set to fall in 2026 due to Iran energy shock | New Scientist",
+    "url": "https://www.newscientist.com/article/2598130-global-carbon-emissions-fall-in-2026-due-to-iran-energy-shock/",
+    "description": "Carbon dioxide emissions are projected to fall 0.4 per cent this year, driven in part by higher oil prices resulting from disruption to shipping in the Strait of Hormuz",
+    "author": "Shosha Adie",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320083089.jpg"
+  },
+  {
+    "title": "Cold therapy may be worse than doing nothing for post-exercise recovery | New Scientist",
+    "url": "https://www.newscientist.com/article/2598085-cold-therapy-may-be-worse-than-doing-nothing-for-post-exercise-recovery/",
+    "description": "Many are convinced that ice baths or cold showers are an effective way to speed recovery after exercise, but a study finds that cold therapy may actually have the opposite effect",
+    "author": "Tosin Thompson",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319643477.jpg"
+  },
+  {
     "title": "X chromosome gene may reduce autism rates in women and girls | New Scientist",
     "url": "https://www.newscientist.com/article/2598114-x-chromosome-gene-may-reduce-autism-rates-in-women-and-girls/",
     "description": "A gene called ZFX exerts powerful effects on an entire network of genes linked to autism, which may help explain why the condition is less common in females",
@@ -30,21 +46,5 @@
     "author": "David Hambling",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319659570.jpg"
-  },
-  {
-    "title": "An unexpected feedback loop may be driving mega heatwaves | New Scientist",
-    "url": "https://www.newscientist.com/article/2597676-an-unexpected-feedback-loop-may-be-driving-mega-heatwaves/",
-    "description": "Dry soil and high pressure can amplify extreme heat, helping to explain why regions like Europe are suffering record-shattering heatwaves much earlier than climate models predicted",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319534708.jpg"
-  },
-  {
-    "title": "Record-breaking, fast-spinning magnet could help uncover new physics | New Scientist",
-    "url": "https://www.newscientist.com/article/2597816-record-breaking-fast-spinning-magnet-could-help-uncover-new-physics/",
-    "description": "A magnet barely wider than a human hair is one of the fastest spinning objects ever and could be useful for both fundamental physics experiments and in quantum technology",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319645963.jpg"
   }
 ]
