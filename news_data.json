@@ -1,5 +1,29 @@
 [
   {
+    "title": "Blood-thinning drug limits cartilage damage and relieves osteoarthritis pain | New Scientist",
+    "url": "https://www.newscientist.com/article/2598488-blood-thinning-drug-limits-cartilage-damage-and-relieves-osteoarthritis-pain/",
+    "description": "A study in animals suggests a drug used to thin blood might eventually be able to slow down the development of osteoarthritis. Currently, there are no approved drugs capable of doing this",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320300237.jpg"
+  },
+  {
+    "title": "Who will step up to preserve space age artefacts for future generations? | New Scientist",
+    "url": "https://www.newscientist.com/article/2598181-who-will-step-up-to-preserve-space-age-artefacts-for-future-generations/",
+    "description": "We remember 19th-century captains of industry like Andrew Carnegie because they funded vast cultural institutions. Will the Elon Musks and Jeff Bezoses of our time do the same to preserve humanity’s spacefaring legacy?",
+    "author": "New Scientist",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319656426.jpg"
+  },
+  {
+    "title": "Arguments over finance dominate COP climate talks once again | New Scientist",
+    "url": "https://www.newscientist.com/article/2598536-arguments-over-finance-dominate-cop-climate-talks-once-again/",
+    "description": "The COP31 climate summit in Turkey has got off to a chaotic start and a familiar dispute over who should pay for tackling climate change is already emerging as the biggest obstacle to progress",
+    "author": "Manuela Callari",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320297788.jpg"
+  },
+  {
     "title": "X aims to safely land Starship and booster stage after orbital flight | New Scientist",
     "url": "https://www.newscientist.com/article/2598233-spacex-aims-to-safely-land-starship-and-booster-stage-after-orbital-flight/",
     "description": "The upcoming Starship test flight is the most ambitious to date and, if successful, will mark an important milestone in the company's mission to create a truly reusable launch vehicle that dramatically lowers the cost of space launches",
@@ -22,29 +46,5 @@
     "author": "Starre Vartan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320275831.jpg"
-  },
-  {
-    "title": "Correcting quantum computer errors may be more complicated than expected | New Scientist",
-    "url": "https://www.newscientist.com/article/2598161-correcting-quantum-computer-errors-may-be-more-complicated-than-expected/",
-    "description": "Correcting quantum computer errors is key for making the devices practical, but some types of errors, and the complications they could introduce, may be more likely to occur than we had thought",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320159468.jpg"
-  },
-  {
-    "title": "What is the electrification target at COP31 and can countries meet it? | New Scientist",
-    "url": "https://www.newscientist.com/article/2598177-what-is-the-electrification-target-at-cop31-and-can-countries-meet-it/",
-    "description": "The world will need to quadruple its pace on electrification to meet the target being pushed by the COP31 presidency this week, but increasingly affordable renewable energy could put the goal within reach",
-    "author": "Shosha Adie",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320070399_3b88b5.jpg"
-  },
-  {
-    "title": "Newly described insect may live its whole life on a spider's web | New Scientist",
-    "url": "https://www.newscientist.com/article/2598153-newly-described-bug-lives-its-whole-life-on-a-spider-web/",
-    "description": "A species of “web-loving bug” from China lives on a spider's web and seems to follow its arachnid host around. The insect may be too small for the spider to bother attacking",
-    "author": "Jake Buehler",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320058625.jpg"
   }
 ]
