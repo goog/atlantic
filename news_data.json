@@ -1,5 +1,29 @@
 [
   {
+    "title": "X aims to safely land Starship and booster stage after orbital flight | New Scientist",
+    "url": "https://www.newscientist.com/article/2598233-spacex-aims-to-safely-land-starship-and-booster-stage-after-orbital-flight/",
+    "description": "The upcoming Starship test flight is the most ambitious to date and, if successful, will mark an important milestone in the company's mission to create a truly reusable launch vehicle that dramatically lowers the cost of space launches",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320289737.jpg"
+  },
+  {
+    "title": "Re-analysis of black hole data proves iconic ring shape really is there | New Scientist",
+    "url": "https://www.newscientist.com/article/2598415-re-analysis-of-black-hole-data-proves-iconic-ring-shape-really-is-there/",
+    "description": "The doughnut shape of the Event Horizon Telescope’s first image of a black hole has come under fire, but an independent check showed that it – and general relativity – still stands",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320279401.jpg"
+  },
+  {
+    "title": "Revised approach for assessing obesity improves on BMI | New Scientist",
+    "url": "https://www.newscientist.com/article/2598510-revised-approach-for-assessing-obesity-improves-on-bmi/",
+    "description": "Using data from more than 800,000 people, researchers have tested a system that can identify those with obesity who would benefit from treatment, and those who don't require intervention",
+    "author": "Starre Vartan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320275831.jpg"
+  },
+  {
     "title": "Correcting quantum computer errors may be more complicated than expected | New Scientist",
     "url": "https://www.newscientist.com/article/2598161-correcting-quantum-computer-errors-may-be-more-complicated-than-expected/",
     "description": "Correcting quantum computer errors is key for making the devices practical, but some types of errors, and the complications they could introduce, may be more likely to occur than we had thought",
@@ -22,29 +46,5 @@
     "author": "Jake Buehler",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320058625.jpg"
-  },
-  {
-    "title": "Global carbon emissions set to fall in 2026 due to Iran energy shock | New Scientist",
-    "url": "https://www.newscientist.com/article/2598130-global-carbon-emissions-fall-in-2026-due-to-iran-energy-shock/",
-    "description": "Carbon dioxide emissions are projected to fall 0.4 per cent this year, driven in part by higher oil prices resulting from disruption to shipping in the Strait of Hormuz",
-    "author": "Shosha Adie",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320083089.jpg"
-  },
-  {
-    "title": "Cold therapy may be worse than doing nothing for post-exercise recovery | New Scientist",
-    "url": "https://www.newscientist.com/article/2598085-cold-therapy-may-be-worse-than-doing-nothing-for-post-exercise-recovery/",
-    "description": "Many are convinced that ice baths or cold showers are an effective way to speed recovery after exercise, but a study finds that cold therapy may actually have the opposite effect",
-    "author": "Tosin Thompson",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319643477.jpg"
-  },
-  {
-    "title": "X chromosome gene may reduce autism rates in women and girls | New Scientist",
-    "url": "https://www.newscientist.com/article/2598114-x-chromosome-gene-may-reduce-autism-rates-in-women-and-girls/",
-    "description": "A gene called ZFX exerts powerful effects on an entire network of genes linked to autism, which may help explain why the condition is less common in females",
-    "author": "Michael Marshall",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320061067.jpg"
   }
 ]
