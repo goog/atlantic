@@ -1,5 +1,13 @@
 [
   {
+    "title": "Some PFAS chemicals are declining in English rivers but others are appearing | New Scientist",
+    "url": "https://www.newscientist.com/article/2598571-some-pfas-chemicals-are-declining-in-english-rivers-but-others-are-appearing/",
+    "description": "The levels of two globally restricted \"forever chemicals\" linked to health issues are showing a strong downwards trend in English rivers, but their understudied replacements are starting to fill the gap",
+    "author": "Shosha Adie",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320306700.jpg"
+  },
+  {
     "title": "Blood-thinning drug limits cartilage damage and relieves osteoarthritis pain | New Scientist",
     "url": "https://www.newscientist.com/article/2598488-blood-thinning-drug-limits-cartilage-damage-and-relieves-osteoarthritis-pain/",
     "description": "A study in animals suggests a drug used to thin blood might eventually be able to slow down the development of osteoarthritis. Currently, there are no approved drugs capable of doing this",
@@ -38,13 +46,5 @@
     "author": "Leah Crane",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320279401.jpg"
-  },
-  {
-    "title": "Revised approach for assessing obesity improves on BMI | New Scientist",
-    "url": "https://www.newscientist.com/article/2598510-revised-approach-for-assessing-obesity-improves-on-bmi/",
-    "description": "Using data from more than 800,000 people, researchers have tested a system that can identify those with obesity who would benefit from treatment, and those who don't require intervention",
-    "author": "Starre Vartan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320275831.jpg"
   }
 ]
