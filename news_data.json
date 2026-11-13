@@ -1,8 +1,32 @@
 [
   {
+    "title": "Noise pollution is reshaping the health and behaviour of animals everywhere | New Scientist",
+    "url": "https://www.newscientist.com/article/2598675-noise-pollution-is-reshaping-the-health-and-behaviour-of-animals-everywhere/",
+    "description": "There is almost nowhere on Earth free from disruptive human noise – but it's one of the easiest environmental problems to solve",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320410870.jpg"
+  },
+  {
+    "title": "Did El Niño cause an early breakdown in the polar vortex? | New Scientist",
+    "url": "https://www.newscientist.com/article/2599008-did-el-nino-cause-an-early-breakdown-in-the-polar-vortex/",
+    "description": "The polar vortex winds have undergone an unprecedented weakening, which could bring cold weather to Europe. Some scientists suspect the record El Niño is to blame",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320559766.jpg"
+  },
+  {
+    "title": "Researchers build the first ever quantum clock that uses sunlight | New Scientist",
+    "url": "https://www.newscientist.com/article/2598583-researchers-built-the-first-ever-quantum-clock-that-uses-sunlight/",
+    "description": "Quantum clocks usually rely on advanced lasers and isolated atoms in the lab, but a new experiment showed that the same clock design can work with sunlight instead",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320386804.jpg"
+  },
+  {
     "title": "AI confirms a long-suspected limit on quantum computers’ advantages | New Scientist",
     "url": "https://www.newscientist.com/article/2598418-ai-confirms-a-long-suspected-limit-on-quantum-computers-advantages/",
-    "description": "AI-powered proof has rigorously proved that using quantum computers would not have huge advantages for a whole class of mathematical problems, confirming a vastly influential conjecture.",
+    "description": "An AI-powered proof has rigorously shown that using quantum computers wouldn't have huge advantages for a whole class of mathematical problems, confirming a vastly influential conjecture",
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320282515.jpg"
@@ -22,29 +46,5 @@
     "author": "Alec Luhn",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320413701.jpg"
-  },
-  {
-    "title": "Pink noise played during sleep shows promise for Alzheimer’s memory loss | New Scientist",
-    "url": "https://www.newscientist.com/article/2598656-pink-noise-played-during-sleep-shows-promise-for-alzheimers-memory-loss/",
-    "description": "There is some evidence that pink noise signals can boost the brain's ability to clear out waste products. Now there are some indications that this might improve memory performance in people with Alzheimer's",
-    "author": "Sascha Brodsky",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320287222.jpg"
-  },
-  {
-    "title": "A little-known immune condition is being mistaken for food allergies | New Scientist",
-    "url": "https://www.newscientist.com/article/2598708-a-little-known-immune-disease-is-being-mistaken-for-food-allergies/",
-    "description": "Doctors are calling for greater awareness of eosinophilic oesophagitis, a chronic condition that can cause symptoms similar to anaphylaxis",
-    "author": "Zesha Saleem",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320389244.jpg"
-  },
-  {
-    "title": "Vast data dump from Euclid space telescope reveals stunning galaxies | New Scientist",
-    "url": "https://www.newscientist.com/article/2598614-vast-data-dump-from-euclid-space-telescope-reveals-stunning-galaxies/",
-    "description": "In the latest release of images collected by the Euclid space telescope, there are close-ups of distant galaxies where stars are in the process of forming",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320389760.jpg"
   }
 ]
