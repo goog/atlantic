@@ -1,5 +1,13 @@
 [
   {
+    "title": "Skeleton found in Denmark came from man who witnessed the arrival of farming | New Scientist",
+    "url": "https://www.newscientist.com/article/2598961-skeleton-found-in-denmark-was-from-man-who-witnessed-the-arrival-of-farming/",
+    "description": "Clues about the diet of “Rødhals Man”, who lived some 6000 years ago, hint that he lived through one of the most revolutionary changes in human history",
+    "author": "Chris Simms",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320519457.jpg"
+  },
+  {
     "title": "Noise pollution is reshaping the health and behaviour of animals everywhere | New Scientist",
     "url": "https://www.newscientist.com/article/2598675-noise-pollution-is-reshaping-the-health-and-behaviour-of-animals-everywhere/",
     "description": "There is almost nowhere on Earth free from disruptive human noise – but it's one of the easiest environmental problems to solve",
@@ -38,13 +46,5 @@
     "author": "Leah Crane",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320392890.jpg"
-  },
-  {
-    "title": "Economics, not climate summits, will dictate the net-zero transition | New Scientist",
-    "url": "https://www.newscientist.com/article/2598706-economics-not-climate-summits-will-dictate-the-net-zero-transition/",
-    "description": "World leaders at COP31 show little enthusiasm for phasing out fossil fuels, but the plummeting costs of renewable energy will be the key factor in how quickly we can rein in global warming",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320413701.jpg"
   }
 ]
