@@ -1,5 +1,21 @@
 [
   {
+    "title": "Nuclear bomb in space would disable 98 per cent of satellites within a week | New Scientist",
+    "url": "https://www.newscientist.com/article/2598378-nuclear-bomb-in-space-would-disable-98-per-cent-of-satellites-within-a-week/",
+    "description": "Just one nuclear explosion in space would have global and long-lasting repercussions, disabling almost every satellite and creating technological chaos from which it would take years to recover, warn experts",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320887907.jpg"
+  },
+  {
+    "title": "Massive data centres collectively use as much electricity as an entire US state | New Scientist",
+    "url": "https://www.newscientist.com/article/2599078-massive-datacentres-use-as-much-electricity-as-an-entire-us-state/",
+    "description": "The largest data centres in the US are responsible for about 2 per cent of the country's entire annual electricity use",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320863922.jpg"
+  },
+  {
     "title": "Skeleton found in Denmark came from man who witnessed the arrival of farming | New Scientist",
     "url": "https://www.newscientist.com/article/2598961-skeleton-found-in-denmark-was-from-man-who-witnessed-the-arrival-of-farming/",
     "description": "Clues about the diet of “Rødhals Man”, who lived some 6000 years ago, hint that he lived through one of the most revolutionary changes in human history",
@@ -30,21 +46,5 @@
     "author": "Karmela Padavic-Callaghan",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320386804.jpg"
-  },
-  {
-    "title": "AI confirms a long-suspected limit on quantum computers’ advantages | New Scientist",
-    "url": "https://www.newscientist.com/article/2598418-ai-confirms-a-long-suspected-limit-on-quantum-computers-advantages/",
-    "description": "An AI-powered proof has rigorously shown that using quantum computers wouldn't have huge advantages for a whole class of mathematical problems, confirming a vastly influential conjecture",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320282515.jpg"
-  },
-  {
-    "title": "A robot has assembled a structure in space for the first time | New Scientist",
-    "url": "https://www.newscientist.com/article/2598576-a-robot-has-assembled-a-structure-in-space-for-the-first-time/",
-    "description": "Autonomous in-orbit manufacturing will be key to any future space economy, and researchers have taken the first step with a robot building a radio antenna without astronaut assistance",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320392890.jpg"
   }
 ]
