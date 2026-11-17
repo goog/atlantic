@@ -1,5 +1,21 @@
 [
   {
+    "title": "Just nine countries back pledge to tackle AI's environmental footprint | New Scientist",
+    "url": "https://www.newscientist.com/article/2599357-just-nine-countries-back-pledge-to-tackle-ais-environmental-footprint/",
+    "description": "Turkey, which is co-hosting the COP31 climate summit, hoped countries would back efforts to rein in the carbon emissions of the AI build-out, but few were prepared to endorse the pledge",
+    "author": "Manuela Callari",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320976782.jpg"
+  },
+  {
+    "title": "Plans to rely on carbon removal tech spark debate at COP31 | New Scientist",
+    "url": "https://www.newscientist.com/article/2599223-plans-to-rely-on-carbon-removal-tech-spark-debate-at-cop31/",
+    "description": "Some countries at the COP31 summit are calling to accelerate the deployment of carbon dioxide removal and carbon capture, but critics argue these approaches are unproven at scale and distract from efforts to phase out fossil fuels",
+    "author": "Manuela Callari",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320895754.jpg"
+  },
+  {
     "title": "Nuclear bomb in space would disable 98 per cent of satellites within a week | New Scientist",
     "url": "https://www.newscientist.com/article/2598378-nuclear-bomb-in-space-would-disable-98-per-cent-of-satellites-within-a-week/",
     "description": "Just one nuclear explosion in space would have global and long-lasting repercussions, disabling almost every satellite and creating technological chaos from which it would take years to recover, warn experts",
@@ -30,21 +46,5 @@
     "author": "Madeleine Cuff",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320410870.jpg"
-  },
-  {
-    "title": "Did El Niño cause an early breakdown in the polar vortex? | New Scientist",
-    "url": "https://www.newscientist.com/article/2599008-did-el-nino-cause-an-early-breakdown-in-the-polar-vortex/",
-    "description": "The polar vortex winds have undergone an unprecedented weakening, which could bring cold weather to Europe. Some scientists suspect the record El Niño is to blame",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320559766.jpg"
-  },
-  {
-    "title": "Researchers build the first ever quantum clock that uses sunlight | New Scientist",
-    "url": "https://www.newscientist.com/article/2598583-researchers-built-the-first-ever-quantum-clock-that-uses-sunlight/",
-    "description": "Quantum clocks usually rely on advanced lasers and isolated atoms in the lab, but a new experiment showed that the same clock design can work with sunlight instead",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320386804.jpg"
   }
 ]
