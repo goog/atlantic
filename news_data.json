@@ -1,5 +1,13 @@
 [
   {
+    "title": "We now know how radiation destroys electronics devices | New Scientist",
+    "url": "https://www.newscientist.com/article/2599254-we-now-know-how-radiation-destroys-electronics-devices/",
+    "description": "A detailed picture of how a single particle of radiation can destroy a semiconductor device could offer pointers for how to make electronics more resilient to the harsh conditions of space",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320972069.jpg"
+  },
+  {
     "title": "Just nine countries back pledge to tackle AI's environmental footprint | New Scientist",
     "url": "https://www.newscientist.com/article/2599357-just-nine-countries-back-pledge-to-tackle-ais-environmental-footprint/",
     "description": "Turkey, which is co-hosting the COP31 climate summit, hoped countries would back efforts to rein in the carbon emissions of the AI build-out, but few were prepared to endorse the pledge",
@@ -38,13 +46,5 @@
     "author": "Chris Simms",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320519457.jpg"
-  },
-  {
-    "title": "Noise pollution is reshaping the health and behaviour of animals everywhere | New Scientist",
-    "url": "https://www.newscientist.com/article/2598675-noise-pollution-is-reshaping-the-health-and-behaviour-of-animals-everywhere/",
-    "description": "There is almost nowhere on Earth free from disruptive human noise – but it's one of the easiest environmental problems to solve",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320410870.jpg"
   }
 ]
