@@ -1,5 +1,29 @@
 [
   {
+    "title": "Huge extinct orca may have eaten other whales | New Scientist",
+    "url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/",
+    "description": "A nearly 8-metre-long species of orca lived in the North Sea over 2 million years ago. Its discovery suggests orcas evolved a diet of marine mammals earlier than scientists thought",
+    "author": "Jake Buehler",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321244420.jpg"
+  },
+  {
+    "title": "Woman entered hibernation-like state during winter for more than 30 years | New Scientist",
+    "url": "https://www.newscientist.com/article/2599918-woman-entered-hibernation-like-state-during-winter-for-more-than-30-years/",
+    "description": "Researchers studying brains donated for scientific research stumbled upon the remarkable case of a woman who went through prolonged periods of reduced activity in which her body temperature dropped to as low as 31°C",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321276788.jpg"
+  },
+  {
+    "title": "Cooking pollution dominates air quality at mealtimes in London | New Scientist",
+    "url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/",
+    "description": "Particulate matter from kitchens is the largest source of air pollution during lunch and dinner in the city of London, an analysis shows",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321251640.jpg"
+  },
+  {
     "title": "Turmeric supplements offer little benefit for knee osteoarthritis | New Scientist",
     "url": "https://www.newscientist.com/article/2599636-turmeric-supplements-offer-little-benefit-for-knee-osteoarthritis/",
     "description": "A comprehensive review of clinical trials indicates that turmeric supplements had no meaningful effect on quality of life for people with knee osteoarthritis",
@@ -22,29 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321137972.jpg"
-  },
-  {
-    "title": "Cannibal giant star caught devouring its companion in super-rare event | New Scientist",
-    "url": "https://www.newscientist.com/article/2599408-cannibal-giant-star-caught-devouring-its-companion-in-super-rare-event/",
-    "description": "Astronomers have caught a giant star in the act of expanding and engulfing another star, and the process is more complex than anyone realised",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321009697.jpg"
-  },
-  {
-    "title": "Quantum trick lets you share your location super securely | New Scientist",
-    "url": "https://www.newscientist.com/article/2599509-quantum-trick-lets-you-share-your-location-super-securely/",
-    "description": "A new experiment demonstrates how quantum devices could verify a person’s position extremely securely, making it much harder to hack sensitive messages.",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321132085.jpg"
-  },
-  {
-    "title": "Homo erectus survived on mainland Asia 215,000 years longer than we thought | New Scientist",
-    "url": "https://www.newscientist.com/article/2599635-homo-erectus-survived-on-mainland-asia-215000-years-longer-than-we-thought/",
-    "description": "Fossil evidence had suggested Homo erectus, the first hominin species to leave Africa, had vanished from mainland Asia by about 400,000 years ago, but now we know it was still present in the area far more recently",
-    "author": "Michael Marshall",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321108655.jpg"
   }
 ]
