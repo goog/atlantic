@@ -1,5 +1,13 @@
 [
   {
+    "title": "Turmeric supplements offer little benefit for knee osteoarthritis | New Scientist",
+    "url": "https://www.newscientist.com/article/2599636-turmeric-supplements-offer-little-benefit-for-knee-osteoarthritis/",
+    "description": "A comprehensive review of clinical trials indicates that turmeric supplements had no meaningful effect on quality of life for people with knee osteoarthritis",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321115228.jpg"
+  },
+  {
     "title": "New Scientist is 70 years old – join us in celebrating | New Scientist",
     "url": "https://www.newscientist.com/article/2599308-new-scientist-is-70-years-old-join-us-in-celebrating/",
     "description": "From a look back at the past 70 years of scientific discovery to a flash forward to the end of the century, we have a host of celebrations for our 70th anniversary",
@@ -38,13 +46,5 @@
     "author": "Michael Marshall",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321108655.jpg"
-  },
-  {
-    "title": "Laser weapons have come of age and are making their way to the battlefield | New Scientist",
-    "url": "https://www.newscientist.com/article/2599298-laser-weapons-have-come-of-age-and-are-making-their-way-to-the-battlefield/",
-    "description": "Improved technology has allowed for the creation of more effective laser weapons, and the soaring use of cheap but effective drones in modern conflicts provides a powerful case for why militaries will want such weapons",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321001462.jpg"
   }
 ]
