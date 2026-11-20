@@ -1,5 +1,37 @@
 [
   {
+    "title": "US bill aiming to boost clean energy could backfire | New Scientist",
+    "url": "https://www.newscientist.com/article/2600126-us-bill-aiming-to-boost-clean-energy-could-backfire/",
+    "description": "The Bipartisan American Affordability and Jobs Act is a gamble that speeding up permits for energy projects would help renewables more than fossil fuels – but many environmentalists have doubts",
+    "author": "Alec Luhn",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321276518.jpg"
+  },
+  {
+    "title": "Anthropic mathematician claims AI-assisted proof of the Riemann hypothesis | New Scientist",
+    "url": "https://www.newscientist.com/article/2600134-anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/",
+    "description": "The Riemann hypothesis is one of the most difficult problems in mathematics, having stood for 167 years. It may have just been settled with the help of AI",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321419544.jpg"
+  },
+  {
+    "title": "US, Russia and China look set to block ban on autonomous weapons | New Scientist",
+    "url": "https://www.newscientist.com/article/2599904-us-russia-and-china-look-set-to-block-ban-on-autonomous-weapons/",
+    "description": "More than 70 countries are ready to begin negotiations on prohibiting lethal autonomous weapons, but large militarised nations are expected to obstruct efforts to agree a ban",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321401609_00564b.jpg"
+  },
+  {
+    "title": "Unexpected stone tools from Israel raise questions about cultural evolution | New Scientist",
+    "url": "https://www.newscientist.com/article/2599953-unexpected-stone-tools-from-israel-raise-questions-about-cultural-evolution/",
+    "description": "Ancient humans in the eastern Mediterranean first began producing advanced stone blades 100,000 years before the tools became widely used, indicating that new technologies weren't automatically adopted by communities",
+    "author": "Benjamin Taub",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321291718.jpg"
+  },
+  {
     "title": "The BepiColombo spacecraft is finally entering orbit around Mercury | New Scientist",
     "url": "https://www.newscientist.com/article/2599799-the-bepicolombo-spacecraft-is-finally-entering-orbit-around-mercury/",
     "description": "After an eight-year voyage towards the sun, the BepiColombo spacecraft can finally begin its mission to unpick the many mysteries of our solar system's smallest planet",
@@ -14,37 +46,5 @@
     "author": "Jake Buehler",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321244420.jpg"
-  },
-  {
-    "title": "Woman entered hibernation-like state during winter for more than 30 years | New Scientist",
-    "url": "https://www.newscientist.com/article/2599918-woman-entered-hibernation-like-state-during-winter-for-more-than-30-years/",
-    "description": "Researchers studying brains donated for scientific research stumbled upon the remarkable case of a woman who went through prolonged periods of reduced activity in which her body temperature dropped to as low as 31°C",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321276788.jpg"
-  },
-  {
-    "title": "Cooking pollution dominates air quality at mealtimes in London | New Scientist",
-    "url": "https://www.newscientist.com/article/2599772-cooking-pollution-dominates-air-quality-at-mealtimes-in-london/",
-    "description": "Particulate matter from kitchens is the largest source of air pollution during lunch and dinner in the city of London, an analysis shows",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321251640.jpg"
-  },
-  {
-    "title": "Turmeric supplements offer little benefit for knee osteoarthritis | New Scientist",
-    "url": "https://www.newscientist.com/article/2599636-turmeric-supplements-offer-little-benefit-for-knee-osteoarthritis/",
-    "description": "A comprehensive review of clinical trials indicates that turmeric supplements had no meaningful effect on quality of life for people with knee osteoarthritis",
-    "author": "Carissa Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321115228.jpg"
-  },
-  {
-    "title": "New Scientist is 70 years old – join us in celebrating | New Scientist",
-    "url": "https://www.newscientist.com/article/2599308-new-scientist-is-70-years-old-join-us-in-celebrating/",
-    "description": "From a look back at the past 70 years of scientific discovery to a flash forward to the end of the century, we have a host of celebrations for our 70th anniversary",
-    "author": "Sam Wong",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320405062.jpg"
   }
 ]
