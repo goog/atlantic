@@ -1,5 +1,29 @@
 [
   {
+    "title": "Mathematicians are amazed by ‘holy grail’ proof of Riemann hypothesis | New Scientist",
+    "url": "https://www.newscientist.com/article/2600235-mathematicians-are-amazed-by-holy-grail-proof-of-riemann-hypothesis/",
+    "description": "As news spread that an Anthropic researcher used AI to find an answer to one of the longest standing questions in their field, mathematicians expressed awe, uncertainty and at least one claim of having a competing proof in the works",
+    "author": "Karmela Padavic-CallaghanandMatthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321424594.jpg"
+  },
+  {
+    "title": "Quantum effect could reverse gravity and violate Einstein’s theory of relativity | New Scientist",
+    "url": "https://www.newscientist.com/article/2599897-quantum-effect-could-reverse-gravity-and-violate-einsteins-theory-of-relativity/",
+    "description": "Two mathematical investigations devised a way to possibly make gravity produce repulsion between objects, breaking away from a long-standing understanding of this force",
+    "author": "Karmela Padavic-Callaghan",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321280192.jpg"
+  },
+  {
+    "title": "What is the Riemann hypothesis and why is its solution so monumental? | New Scientist",
+    "url": "https://www.newscientist.com/article/2600226-what-is-the-riemann-hypothesis-and-why-is-its-solution-so-monumental/",
+    "description": "It has been called the hardest problem in mathematics, and now through a combination of human ingenuity and relentlessness, and the computational power of AI, the Riemann hypothesis may have finally been solved",
+    "author": "Karmela Padavic-CallaghanandMatthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321431557.jpg"
+  },
+  {
     "title": "US bill aiming to boost clean energy could backfire | New Scientist",
     "url": "https://www.newscientist.com/article/2600126-us-bill-aiming-to-boost-clean-energy-could-backfire/",
     "description": "The Bipartisan American Affordability and Jobs Act is a gamble that speeding up permits for energy projects would help renewables more than fossil fuels – but many environmentalists have doubts",
@@ -22,29 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321401609_00564b.jpg"
-  },
-  {
-    "title": "Unexpected stone tools from Israel raise questions about cultural evolution | New Scientist",
-    "url": "https://www.newscientist.com/article/2599953-unexpected-stone-tools-from-israel-raise-questions-about-cultural-evolution/",
-    "description": "Ancient humans in the eastern Mediterranean first began producing advanced stone blades 100,000 years before the tools became widely used, indicating that new technologies weren't automatically adopted by communities",
-    "author": "Benjamin Taub",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321291718.jpg"
-  },
-  {
-    "title": "The BepiColombo spacecraft is finally entering orbit around Mercury | New Scientist",
-    "url": "https://www.newscientist.com/article/2599799-the-bepicolombo-spacecraft-is-finally-entering-orbit-around-mercury/",
-    "description": "After an eight-year voyage towards the sun, the BepiColombo spacecraft can finally begin its mission to unpick the many mysteries of our solar system's smallest planet",
-    "author": "Leah Crane",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321265627.jpg"
-  },
-  {
-    "title": "Huge extinct orca may have eaten other whales | New Scientist",
-    "url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/",
-    "description": "A nearly 8-metre-long species of orca lived in the North Sea over 2 million years ago. Its discovery suggests orcas evolved a diet of marine mammals earlier than scientists thought",
-    "author": "Jake Buehler",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321244420.jpg"
   }
 ]
