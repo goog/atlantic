@@ -1,5 +1,13 @@
 [
   {
+    "title": "Ancient human settlements boosted biomass of today’s Amazon rainforest | New Scientist",
+    "url": "https://www.newscientist.com/article/2600302-ancient-human-settlements-boosted-biomass-of-todays-amazon-rainforest/",
+    "description": "Rainforest with a history of human occupation has 2.8 per cent greater biomass, on average, than untouched regions, and this means we might have slightly overestimated Amazonian biomass by mainly assessing formerly occupied areas",
+    "author": "Chris Simms",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321428257.jpg"
+  },
+  {
     "title": "Mathematicians are amazed by ‘holy grail’ proof of Riemann hypothesis | New Scientist",
     "url": "https://www.newscientist.com/article/2600235-mathematicians-are-amazed-by-holy-grail-proof-of-riemann-hypothesis/",
     "description": "As news spread that an Anthropic researcher used AI to find an answer to one of the longest-standing questions in their field, mathematicians expressed awe, uncertainty and at least one claim of having a competing proof in the works",
@@ -38,13 +46,5 @@
     "author": "Matthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321419544.jpg"
-  },
-  {
-    "title": "US, Russia and China look set to block ban on autonomous weapons | New Scientist",
-    "url": "https://www.newscientist.com/article/2599904-us-russia-and-china-look-set-to-block-ban-on-autonomous-weapons/",
-    "description": "More than 70 countries are ready to begin negotiations on prohibiting lethal autonomous weapons, but large militarised nations are expected to obstruct efforts to agree a ban",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321401609_00564b.jpg"
   }
 ]
