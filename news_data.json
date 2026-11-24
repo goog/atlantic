@@ -1,5 +1,21 @@
 [
   {
+    "title": "Submarine finds world's deepest explosive volcanic activity in Mariana trench | New Scientist",
+    "url": "https://www.newscientist.com/article/2599436-submarine-finds-worlds-deepest-explosive-volcanic-activity-in-mariana-trench/",
+    "description": "A deep-sea robotic submarine has found evidence of explosive volcanic eruptions 6100 metres below sea level, surprising scientists who were only seeking geological samples",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321796106.jpg"
+  },
+  {
+    "title": "COP31 collapse has shattered the pretence of a global climate consensus | New Scientist",
+    "url": "https://www.newscientist.com/article/2600331-cop31-collapse-has-shattered-the-pretense-of-a-global-climate-consensus/",
+    "description": "Climate progressive countries took the radical step of torpedoing a deal at the UN summit in Turkey amid outrage over obstructionist tactics from petrostates. What happens now?",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321789201.jpg"
+  },
+  {
     "title": "Ancient human settlements boosted biomass of today’s Amazon rainforest | New Scientist",
     "url": "https://www.newscientist.com/article/2600302-ancient-human-settlements-boosted-biomass-of-todays-amazon-rainforest/",
     "description": "Rainforest with a history of human occupation has 2.8 per cent greater biomass, on average, than untouched regions, and this means we might have slightly overestimated Amazonian biomass by mainly assessing formerly occupied areas",
@@ -30,21 +46,5 @@
     "author": "Karmela Padavic-CallaghanandMatthew Sparkes",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321431557.jpg"
-  },
-  {
-    "title": "US bill aiming to boost clean energy could backfire | New Scientist",
-    "url": "https://www.newscientist.com/article/2600126-us-bill-aiming-to-boost-clean-energy-could-backfire/",
-    "description": "The Bipartisan American Affordability and Jobs Act is a gamble that speeding up permits for energy projects would help renewables more than fossil fuels – but many environmentalists have doubts",
-    "author": "Alec Luhn",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321276518.jpg"
-  },
-  {
-    "title": "Anthropic mathematician claims AI-assisted proof of the Riemann hypothesis | New Scientist",
-    "url": "https://www.newscientist.com/article/2600134-anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/",
-    "description": "The Riemann hypothesis is one of the most difficult problems in mathematics, having stood for 167 years. It may have just been settled with the help of AI",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321419544.jpg"
   }
 ]
