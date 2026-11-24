@@ -1,5 +1,29 @@
 [
   {
+    "title": "Severe eczema healed by novel immune-calming pill in clinical trial | New Scientist",
+    "url": "https://www.newscientist.com/article/2600479-severe-eczema-healed-by-novel-immune-calming-pill-in-clinical-trial/",
+    "description": "An experimental drug has been found to be highly effective and safe for treating moderate to severe eczema in a clinical trial and has the advantage of being taken in pill form rather than injected",
+    "author": "Alice Klein",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321871054_66a826.jpg"
+  },
+  {
+    "title": "Toddlers form complex memories but may then lose access to them | New Scientist",
+    "url": "https://www.newscientist.com/article/2600418-toddlers-form-complex-memories-but-may-then-lose-access-to-them/",
+    "description": "Few of us can remember events from our earliest years, but that might be because we lose the ability to recall memories - not because we didn't make them in the first place",
+    "author": "Sascha Brodsky",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321418341_575eda.jpg"
+  },
+  {
+    "title": "The technology that could make government internet blackouts impossible | New Scientist",
+    "url": "https://www.newscientist.com/article/2600040-the-technology-that-could-make-government-internet-blackouts-impossible/",
+    "description": "Direct-to-cell technology could one day provide a lifeline for getting around authoritarian regimes’ internet shutdowns, but international law and technical limitations are holding the technology back for now",
+    "author": "Will McCurdy",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320892901.jpg"
+  },
+  {
     "title": "Submarine finds world's deepest explosive volcanic activity in Mariana trench | New Scientist",
     "url": "https://www.newscientist.com/article/2599436-submarine-finds-worlds-deepest-explosive-volcanic-activity-in-mariana-trench/",
     "description": "A deep-sea robotic submarine has found evidence of explosive volcanic eruptions 6100 metres below sea level, surprising scientists who were only seeking geological samples",
@@ -22,29 +46,5 @@
     "author": "Chris Simms",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321428257.jpg"
-  },
-  {
-    "title": "Mathematicians are amazed by ‘holy grail’ proof of Riemann hypothesis | New Scientist",
-    "url": "https://www.newscientist.com/article/2600235-mathematicians-are-amazed-by-holy-grail-proof-of-riemann-hypothesis/",
-    "description": "As news spread that an Anthropic researcher used AI to find an answer to one of the longest-standing questions in their field, mathematicians expressed awe, uncertainty and at least one claim of having a competing proof in the works",
-    "author": "Karmela Padavic-CallaghanandMatthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321424594.jpg"
-  },
-  {
-    "title": "Quantum effect could reverse gravity and violate Einstein’s theory of relativity | New Scientist",
-    "url": "https://www.newscientist.com/article/2599897-quantum-effect-could-reverse-gravity-and-violate-einsteins-theory-of-relativity/",
-    "description": "Two mathematical investigations devised a way to possibly make gravity produce repulsion between objects, breaking away from a long-standing understanding of this force",
-    "author": "Karmela Padavic-Callaghan",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321280192.jpg"
-  },
-  {
-    "title": "What is the Riemann hypothesis and why is its solution so monumental? | New Scientist",
-    "url": "https://www.newscientist.com/article/2600226-what-is-the-riemann-hypothesis-and-why-is-its-solution-so-monumental/",
-    "description": "It has been called the hardest problem in mathematics, and now through a combination of human ingenuity and relentlessness, and the computational power of AI, the Riemann hypothesis may have finally been solved",
-    "author": "Karmela Padavic-CallaghanandMatthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321431557.jpg"
   }
 ]
