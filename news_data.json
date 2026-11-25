@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI discovers efficiency limit for multiplying large sets of numbers | New Scientist",
+    "url": "https://www.newscientist.com/article/2600728-openai-discovers-efficiency-limit-for-multiplying-large-sets-of-numbers/",
+    "description": "Matrix multiplication is a problem intrinsic in almost all software, and now AI has revealed how efficiently algorithms can theoretically do it - but achieving this ideal is another matter",
+    "author": "Matthew Sparkes",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321985514.jpg"
+  },
+  {
+    "title": "An atom-sized black hole could force an entire star to explode | New Scientist",
+    "url": "https://www.newscientist.com/article/2600427-an-atom-sized-black-hole-could-force-an-entire-star-to-explode/",
+    "description": "The early universe may have produced minuscule black holes, and if they are still around today they could devour stars from the inside or blow them up entirely",
+    "author": "Leah Crane",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321804417.jpg"
+  },
+  {
+    "title": "AI is forcing researchers to confront the possibility of artificial minds | New Scientist",
+    "url": "https://www.newscientist.com/article/2600589-ai-is-forcing-researchers-to-confront-the-possibility-of-artificial-minds/",
+    "description": "Neuroscientists and philosophers met at a conference to discuss ‘exotic, mind-like entities’ – and how chatbots might be moulding our own minds",
+    "author": "Jo Marchant",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321805397.jpg"
+  },
+  {
     "title": "Two AI companies reveal 'Earth-shattering' solutions to major maths problem | New Scientist",
     "url": "https://www.newscientist.com/article/2600542-two-ai-companies-reveal-earth-shattering-solutions-to-major-maths-problem/",
     "description": "Anthropic and OpenAI reported proofs of the same maths problem on the same day – a step that could help solve the monumental conundrum known as P versus NP",
@@ -22,29 +46,5 @@
     "author": "Sascha Brodsky",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321418341_575eda.jpg"
-  },
-  {
-    "title": "The technology that could make government internet blackouts impossible | New Scientist",
-    "url": "https://www.newscientist.com/article/2600040-the-technology-that-could-make-government-internet-blackouts-impossible/",
-    "description": "Direct-to-cell technology could one day provide a lifeline for getting around authoritarian regimes’ internet shutdowns, but international law and technical limitations are holding the technology back for now",
-    "author": "Will McCurdy",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320892901.jpg"
-  },
-  {
-    "title": "Submarine finds world's deepest explosive volcanic activity in Mariana trench | New Scientist",
-    "url": "https://www.newscientist.com/article/2599436-submarine-finds-worlds-deepest-explosive-volcanic-activity-in-mariana-trench/",
-    "description": "A deep-sea robotic submarine has found evidence of explosive volcanic eruptions 6100 metres below sea level, surprising scientists who were only seeking geological samples",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321796106.jpg"
-  },
-  {
-    "title": "COP31 collapse has shattered the pretence of a global climate consensus | New Scientist",
-    "url": "https://www.newscientist.com/article/2600331-cop31-collapse-has-shattered-the-pretense-of-a-global-climate-consensus/",
-    "description": "Climate progressive countries took the radical step of torpedoing a deal at the UN summit in Turkey amid outrage over obstructionist tactics from petrostates. What happens now?",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321789201.jpg"
   }
 ]
