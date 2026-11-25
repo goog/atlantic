@@ -1,5 +1,29 @@
 [
   {
+    "title": "Seabird ‘spies’ could help spot ships that aren't broadcasting their location | New Scientist",
+    "url": "https://www.newscientist.com/article/2600830-seabird-spies-could-help-spot-ships-that-arent-broadcasting-their-location/",
+    "description": "Researchers have found that seabirds equipped with audio recorders and GPS trackers can detect ships, offering a way to monitor fishing vessels that are operating illegally",
+    "author": "Shosha Adie",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321993671.jpg"
+  },
+  {
+    "title": "AI's stunning progress in maths shows how little we understand it | New Scientist",
+    "url": "https://www.newscientist.com/article/2600491-ais-stunning-progress-in-maths-shows-how-little-we-understand-it/",
+    "description": "The biggest problem in maths has been cracked by AI, but it remains impossible to predict how its capabilities will advance in other fields",
+    "author": "New Scientist",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321427795.jpg"
+  },
+  {
+    "title": "Basic income trial in Peru aims to prove rainforest protection merits | New Scientist",
+    "url": "https://www.newscientist.com/article/2600784-new-basic-income-trial-in-peru-aims-to-prove-rainforest-protection-merits/",
+    "description": "A trial starting in 2027 will see Indigenous people in the Amazon given no-strings cash payments in the hopes of reducing deforestation",
+    "author": "Madeleine Cuff",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_322009445.jpg"
+  },
+  {
     "title": "OpenAI discovers efficiency limit for multiplying large sets of numbers | New Scientist",
     "url": "https://www.newscientist.com/article/2600728-openai-discovers-efficiency-limit-for-multiplying-large-sets-of-numbers/",
     "description": "Matrix multiplication is a problem intrinsic in almost all software, and now AI has revealed how efficiently algorithms can theoretically do it - but achieving this ideal is another matter",
@@ -22,29 +46,5 @@
     "author": "Jo Marchant",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321805397.jpg"
-  },
-  {
-    "title": "Two AI companies reveal 'Earth-shattering' solutions to major maths problem | New Scientist",
-    "url": "https://www.newscientist.com/article/2600542-two-ai-companies-reveal-earth-shattering-solutions-to-major-maths-problem/",
-    "description": "Anthropic and OpenAI reported proofs of the same maths problem on the same day – a step that could help solve the monumental conundrum known as P versus NP",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321896867.jpg"
-  },
-  {
-    "title": "Severe eczema healed by novel immune-calming pill in clinical trial | New Scientist",
-    "url": "https://www.newscientist.com/article/2600479-severe-eczema-healed-by-novel-immune-calming-pill-in-clinical-trial/",
-    "description": "An experimental drug has been found to be highly effective and safe for treating moderate to severe eczema in a clinical trial and has the advantage of being taken in pill form rather than injected",
-    "author": "Alice Klein",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321871054_66a826.jpg"
-  },
-  {
-    "title": "Toddlers form complex memories but may then lose access to them | New Scientist",
-    "url": "https://www.newscientist.com/article/2600418-toddlers-form-complex-memories-but-may-then-lose-access-to-them/",
-    "description": "Few of us can remember events from our earliest years, but that might be because we lose the ability to recall memories - not because we didn't make them in the first place",
-    "author": "Sascha Brodsky",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321418341_575eda.jpg"
   }
 ]
