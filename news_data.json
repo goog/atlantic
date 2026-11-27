@@ -1,5 +1,13 @@
 [
   {
+    "title": "Vagus nerve stimulation slows growth and spread of pancreatic cancer | New Scientist",
+    "url": "https://www.newscientist.com/article/2601187-vagus-nerve-stimulation-slows-growth-and-spread-of-pancreatic-cancer/",
+    "description": "An electrical implant around the oesophagus that stimulates the vagus nerve improved outcomes in mice with pancreatic cancer by making their tumours more susceptible to immunotherapy",
+    "author": "Carissa Wong",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_322096127.jpg"
+  },
+  {
     "title": "Particles not seen before have been observed in a quantum simulator | New Scientist",
     "url": "https://www.newscientist.com/article/2600979-particles-not-seen-before-have-been-observed-in-a-quantum-simulator/",
     "description": "Physicists long held that all particles fall under categories of bosons or fermions, but a new experiment offers evidence that a third and long-debated class is possible after all",
@@ -38,13 +46,5 @@
     "author": "Madeleine Cuff",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_322009445.jpg"
-  },
-  {
-    "title": "OpenAI discovers efficiency limit for multiplying large sets of numbers | New Scientist",
-    "url": "https://www.newscientist.com/article/2600728-openai-discovers-efficiency-limit-for-multiplying-large-sets-of-numbers/",
-    "description": "Matrix multiplication is a problem intrinsic in almost all software, and now AI has revealed how efficiently algorithms can theoretically do it - but achieving this ideal is another matter",
-    "author": "Matthew Sparkes",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321985514.jpg"
   }
 ]
