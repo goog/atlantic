@@ -1,5 +1,13 @@
 [
   {
+    "title": "CRISPR is now being used to control genes, not just edit them | New Scientist",
+    "url": "https://www.newscientist.com/article/2601111-crispr-is-now-being-used-to-control-genes-instead-of-editing-them/",
+    "description": "CRISPR-based treatments that work by turning genes on or off are being tested in trials, and could be even more powerful than conventional gene editing",
+    "author": "Michael Le Page",
+    "category": "News",
+    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_322188779.jpg"
+  },
+  {
     "title": "Vagus nerve stimulation slows growth and spread of pancreatic cancer | New Scientist",
     "url": "https://www.newscientist.com/article/2601187-vagus-nerve-stimulation-slows-growth-and-spread-of-pancreatic-cancer/",
     "description": "An electrical implant around the oesophagus that stimulates the vagus nerve improved outcomes in mice with pancreatic cancer by making their tumours more susceptible to immunotherapy",
@@ -38,13 +46,5 @@
     "author": "New Scientist",
     "category": "News",
     "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321427795.jpg"
-  },
-  {
-    "title": "Basic income trial in Peru aims to prove rainforest protection merits | New Scientist",
-    "url": "https://www.newscientist.com/article/2600784-new-basic-income-trial-in-peru-aims-to-prove-rainforest-protection-merits/",
-    "description": "A trial starting in 2027 will see Indigenous people in the Amazon given no-strings cash payments in the hopes of reducing deforestation",
-    "author": "Madeleine Cuff",
-    "category": "News",
-    "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_322009445.jpg"
   }
 ]
